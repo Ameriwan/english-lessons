@@ -41,6 +41,14 @@
    "released": false
   },
   {
+   "unit_no": 6,
+   "phase": 1,
+   "unit_en": "Directions & Transportation",
+   "unit_zh": "問路與交通",
+   "count": 20,
+   "released": false
+  },
+  {
    "unit_no": 7,
    "phase": 2,
    "unit_en": "Daily Routines",
@@ -444,7 +452,7 @@
    "sl": "THURZ-day",
    "ex": "My English class is on Thursday.",
    "exzh": "我的英文課在星期四。",
-   "tip": "別和 Tuesday 搞混：THURZ-day／TOOZ-day"
+   "tip": "別和 Tuesday 搞混：THURZ-day"
   },
   {
    "id": "u02-09",

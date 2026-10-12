@@ -314,7 +314,7 @@ function updateTab(body) {
       h("li", {}, "Wait ~1 minute, then tell her: “有新卡片！” She downloads ", h("b", {}, "全部卡片 Everything"), " on the Decks page and opens it with Anki."))),
     h("section", { class: "card" },
       h("h2", {}, "Adding your own words"),
-      h("p", {}, "Open ", h("b", {}, "content/vocab/phase-1.csv"), " (or 2, 3) in Excel or Google Sheets and add rows. Columns:"),
+      h("p", {}, "Open ", h("b", {}, "content/vocab/unit-NN.csv"), " (one file per unit) in Excel or Google Sheets and add rows. Columns:"),
       h("pre", { class: "copybox" }, "id,unit_no,unit_en,unit_zh,english,chinese,ipa,sounds_like,example,example_zh,tip_zh\nu01-21,1,Greetings & Introductions,打招呼與自我介紹,See you later!,待會見！,/si ju ˈleɪtɚ/,see-yoo-LAY-ter,See you later at the station!,待會在車站見！,"),
       h("p", { class: "small muted", style: "margin:0" }, "Audio is made automatically. Keep the id unique — changing an id makes a new card; keeping it updates the old one without losing her progress.")),
     h("section", { class: "card" },

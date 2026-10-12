@@ -1,0 +1,21 @@
+﻿id,unit_no,unit_en,unit_zh,english,chinese,ipa,sounds_like,example,example_zh,tip_zh
+u06-01,6,Directions & Transportation,問路與交通,left,左邊；左轉,/lɛft/,LEFT,Turn left at the corner.,在轉角左轉。,l 的舌尖要頂住上排牙齒後面
+u06-02,6,Directions & Transportation,問路與交通,right,右邊；右轉,/raɪt/,RITE,The bank is on the right.,銀行在右邊。,r 嘴唇微嘟，舌頭不碰上顎
+u06-03,6,Directions & Transportation,問路與交通,go straight,直走,/ˌɡoʊ ˈstreɪt/,goh-STRAYT,Go straight for two blocks.,直走過兩個路口。,str 連著唸，中間不要加母音
+u06-04,6,Directions & Transportation,問路與交通,corner,轉角,/ˈkɔrnɚ/,KOR-ner,There's a 7-Eleven on the corner.,轉角有一家 7-11。,
+u06-05,6,Directions & Transportation,問路與交通,block,街區；（一個）路口,/blɑk/,BLAHK,It's two blocks from here.,從這裡過兩個路口就到了。,美國人常用 block 來說距離
+u06-06,6,Directions & Transportation,問路與交通,traffic light,紅綠燈,/ˈtræfɪk ˌlaɪt/,TRAF-ik-lite,Turn right at the traffic light.,在紅綠燈右轉。,light 是 l、right 是 r，別唸成一樣
+u06-07,6,Directions & Transportation,問路與交通,next to,在……旁邊,/ˈnɛkst tə/,NEKS-tuh,The bakery is next to the bank.,麵包店在銀行旁邊。,
+u06-08,6,Directions & Transportation,問路與交通,across from,在……對面,/əˈkrɔs frəm/,uh-KRAWS-frum,The hospital is across from the park.,醫院在公園對面。,
+u06-09,6,Directions & Transportation,問路與交通,MRT station,捷運站,/ˌɛm ɑr ˈti ˌsteɪʃən/,em-ar-TEE-stay-shun,Let's meet at the MRT station.,我們在捷運站碰面吧。,美國多叫 subway，台灣說 MRT
+u06-10,6,Directions & Transportation,問路與交通,bus stop,公車站,/ˈbʌs ˌstɑp/,BUS-stahp,The bus stop is across the street.,公車站在對街。,stop 的 p 輕輕閉嘴，不要加「ㄜ」
+u06-11,6,Directions & Transportation,問路與交通,taxi,計程車,/ˈtæksi/,TAK-see,Let's take a taxi. It's raining.,我們搭計程車吧，在下雨。,
+u06-12,6,Directions & Transportation,問路與交通,scooter,機車,/ˈskuɾɚ/,SKOO-der,I ride my scooter to work.,我騎機車上班。,台灣的機車通常叫 scooter
+u06-13,6,Directions & Transportation,問路與交通,"Excuse me, where's the restroom?",不好意思，請問洗手間在哪裡？,/ɪkˈskjuz mi ˌwɛrz ðə ˈrɛstˌrum/,ik-SKYOOZ-mee-wairz-thuh-REST-room,"Excuse me, where's the restroom? — Over there.",不好意思，洗手間在哪？——在那邊。,問廁所說 restroom；toilet 是馬桶
+u06-14,6,Directions & Transportation,問路與交通,How do I get to the train station?,請問火車站怎麼去？,/ˌhaʊ də aɪ ˈɡɛt tə ðə ˈtreɪn ˌsteɪʃən/,how-duh-eye-GET-tuh-thuh-TRAYN-stay-shun,"Excuse me, how do I get to the train station?",不好意思，請問火車站怎麼去？,問路萬用句：How do I get to ___?
+u06-15,6,Directions & Transportation,問路與交通,Is there a convenience store near here?,這附近有便利商店嗎？,/ɪz ðɛr ə kənˈvinjəns ˌstɔr nɪr ˈhɪr/,iz-thair-uh-kun-VEEN-yuns-stor-neer-HEER,I need water. Is there a convenience store near here?,我需要買水，這附近有便利商店嗎？,Is there a…? 就是「有……嗎？」
+u06-16,6,Directions & Transportation,問路與交通,Is it far from here?,離這裡遠嗎？,/ɪz ɪt ˈfɑr frəm ˌhɪr/,iz-it-FAR-frum-heer,The museum? Is it far from here?,博物館？離這裡遠嗎？,
+u06-17,6,Directions & Transportation,問路與交通,It's a ten-minute walk.,走路十分鐘。,/ɪts ə ˈtɛn ˌmɪnɪt ˈwɔk/,its-uh-TEN-min-it-WAWK,The station? It's a ten-minute walk.,車站嗎？走路十分鐘。,這裡 minute 不加 s：ten-minute walk
+u06-18,6,Directions & Transportation,問路與交通,Get off at the next stop.,在下一站下車。,/ˌɡɛt ˈɔf ət ðə ˌnɛkst ˈstɑp/,get-AWF-ut-thuh-nekst-STAHP,"For the night market, get off at the next stop.",要去夜市的話，下一站下車。,get off 連起來唸：geh-DAWF
+u06-19,6,Directions & Transportation,問路與交通,"To the airport, please.",麻煩到機場。,/tə ði ˈɛrˌpɔrt pliz/,tuh-thee-AIR-port-pleez,"Hi! To the airport, please.",你好！麻煩到機場。,"上計程車直接說 To ___, please."
+u06-20,6,Directions & Transportation,問路與交通,You can't miss it.,你一定找得到。,/ju ˈkænt ˈmɪs ɪt/,yoo-KANT-MISS-it,It's a big red building. You can't miss it.,那是一棟紅色的大樓，你一定找得到。,can't 要唸得重又長，和 can 區分

@@ -120,7 +120,8 @@ function distractors(item, pool, field, n = 3) {
 
 function blankFor(item) {
   const target = item.en.replace(/[.?!,]+$/, "");
-  if (!item.ex || target.length < 2) return null;
+  // skip when the item is most of the sentence -- the blank would give it away
+  if (!item.ex || target.length < 2 || target.length > item.ex.length * 0.6) return null;
   const idx = item.ex.toLowerCase().indexOf(target.toLowerCase());
   if (idx < 0) return null;
   return { before: item.ex.slice(0, idx), after: item.ex.slice(idx + target.length), answer: item.ex.slice(idx, idx + target.length) };

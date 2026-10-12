@@ -28,8 +28,8 @@ Focus: **pronunciation** and **everyday conversation**. Works on phone and lapto
 ```
 content/
   week.json                  what's released + this week's homework
-  vocab/phase-1..3.csv       18 units × 20 items (open in Excel/Sheets)
-  lessons/phase-1..3.json    lesson plans for the teacher page
+  vocab/unit-01..18.csv      18 units × 20 items (open in Excel/Sheets)
+  lessons/unit-01..18.json   lesson plans for the teacher page
   pronunciation/sounds.json  the 9 sounds
   pronunciation/minimal-pairs.csv
   shadowing/sentences.csv

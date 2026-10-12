@@ -1235,6 +1235,254 @@
   "released": false
  },
  {
+  "unit_no": 6,
+  "phase": 1,
+  "title_en": "Directions & Transportation",
+  "title_zh": "問路與交通",
+  "goals": [
+   "Ask for directions politely: Excuse me, how do I get to…? / Is there a … near here?",
+   "Understand and give simple directions with imperatives: go straight, turn left/right, it's on the corner / next to / across from.",
+   "Use there is / there are (not 'have') to say what is in a place.",
+   "Say L and R clearly and differently in left, right, light, block, corner, straight."
+  ],
+  "warmup": {
+   "easy": [
+    "How do you get to work or to the market?",
+    "Do you ride a scooter?",
+    "Is there a convenience store near your home?"
+   ],
+   "medium": [
+    "How do you get from your home to the train station?",
+    "Do you like taking the bus or the train? Why?",
+    "What's next to your home?"
+   ],
+   "hard": [
+    "A tourist wants to visit your favorite place in your city. How do they get there?",
+    "What's the traffic like in your city? Is it easy to get around?",
+    "Have you ever gotten lost? What happened?"
+   ]
+  },
+  "key_phrases": [
+   {
+    "en": "Excuse me, how do I get to ___?",
+    "zh": "不好意思，請問___怎麼去？"
+   },
+   {
+    "en": "Is there a ___ near here?",
+    "zh": "這附近有___嗎？"
+   },
+   {
+    "en": "Go straight for two blocks.",
+    "zh": "直走過兩個路口。"
+   },
+   {
+    "en": "Turn left / Turn right at the traffic light.",
+    "zh": "在紅綠燈左轉／右轉。"
+   },
+   {
+    "en": "It's on the corner.",
+    "zh": "在轉角。"
+   },
+   {
+    "en": "It's next to the bank. / It's across from the park.",
+    "zh": "在銀行旁邊。／在公園對面。"
+   },
+   {
+    "en": "Is it far from here? — No, it's a five-minute walk.",
+    "zh": "離這裡遠嗎？——不遠，走路五分鐘。"
+   },
+   {
+    "en": "Which bus goes to ___?",
+    "zh": "哪一班公車到___？"
+   },
+   {
+    "en": "Get off at the next stop.",
+    "zh": "在下一站下車。"
+   },
+   {
+    "en": "To the airport, please.",
+    "zh": "麻煩到機場。"
+   }
+  ],
+  "grammar": {
+   "point_en": "Imperatives for directions + there is / there are",
+   "point_zh": "指路用的命令句，以及 there is / there are",
+   "explain_zh": "指路時，英文直接用動詞開頭，不用加 you：Go straight. Turn left. 這不是不禮貌，而是很正常的說法。說「某個地方有……」時用 there is（一個）或 there are（很多個），不用 have。中文說「轉角有一家銀行」，英文要說 There's a bank on the corner。",
+   "examples": [
+    {
+     "en": "Go straight and turn left at the corner.",
+     "zh": "直走，然後在轉角左轉。"
+    },
+    {
+     "en": "There's a bus stop next to the hospital.",
+     "zh": "醫院旁邊有一個公車站。"
+    },
+    {
+     "en": "There are two MRT stations near here.",
+     "zh": "這附近有兩個捷運站。"
+    },
+    {
+     "en": "Is there a restroom on this floor?",
+     "zh": "這層樓有洗手間嗎？"
+    }
+   ],
+   "common_mistake": {
+    "wrong": "Near here have a convenience store.",
+    "right": "There's a convenience store near here.",
+    "why_zh": "中文說「這附近有……」，英文要用 there is／there are，不用 have。"
+   }
+  },
+  "sound_focus": {
+   "sound_id": "l-r",
+   "words": [
+    "left",
+    "right",
+    "light",
+    "block",
+    "corner",
+    "straight"
+   ],
+   "sentence": "Turn right at the light, then turn left at the corner."
+  },
+  "mini_lesson": [
+   "Step 1 (5 min): Warm-up. Ask how she gets to work, the market and the train station. Write down the transport words she needs (scooter, bus, train, MRT, taxi, walk).",
+   "Step 2 (8 min): Map work. Draw a simple street map with 4 blocks (bank, park, 7-Eleven, hospital, bus stop, MRT station). Teach go straight / turn left / turn right / on the corner / next to / across from while moving a coin along the map.",
+   "Step 3 (6 min): Grammar — imperatives and there is/are. She describes the map in 5 sentences ('There's a ___ next to the ___'), then gives you directions from the coin to a place you choose. Fix any 'have' that should be 'there is'.",
+   "Step 4 (6 min): Sound focus — L/R. L: tongue tip touches behind the top teeth (left, light, block). R: tongue pulls back and touches nothing, lips a little round (right, corner, straight). Pairs: light/right, lead/read, glass/grass. Then the practice sentence, slow then fast.",
+   "Step 5 (5 min): Listening. Give 3 sets of directions on the map at natural speed; she follows with her finger and tells you where she ends up."
+  ],
+  "roleplays": [
+   {
+    "level": "easy",
+    "title": "Asking the way to the MRT station",
+    "setup_zh": "你在街上迷路了，想找捷運站。一位路人來幫你，仔細聽他的指路，並重複確認。",
+    "teacher_role": "A helpful stranger on the street",
+    "student_role": "Herself, looking for the MRT station",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Hi! Are you OK? You look lost."
+     },
+     {
+      "who": "S",
+      "en": "Yes. Excuse me, is there an MRT station near here?",
+      "zh": "是的，不好意思，這附近有捷運站嗎？"
+     },
+     {
+      "who": "T",
+      "en": "Yes, there is. Go straight for two blocks."
+     },
+     {
+      "who": "S",
+      "en": "Go straight for two blocks. OK.",
+      "zh": "直走兩個路口，好。"
+     },
+     {
+      "who": "T",
+      "en": "Then turn left at the traffic light."
+     },
+     {
+      "who": "S",
+      "en": "Turn left at the light. Is it far from here?",
+      "zh": "在紅綠燈左轉。離這裡遠嗎？"
+     },
+     {
+      "who": "T",
+      "en": "No, it's a five-minute walk. It's next to a big bank."
+     },
+     {
+      "who": "S",
+      "en": "Next to the bank. Thank you so much!",
+      "zh": "在銀行旁邊。非常謝謝你！"
+     },
+     {
+      "who": "T",
+      "en": "You're welcome. Have a nice day!"
+     },
+     {
+      "who": "S",
+      "en": "You too!",
+      "zh": "你也是！"
+     }
+    ]
+   },
+   {
+    "level": "challenge",
+    "title": "Helping a tourist get to the night market",
+    "setup_zh": "換你幫忙！一位外國遊客問你怎麼去夜市。告訴他搭哪班公車、在哪裡下車、下車後怎麼走。",
+    "teacher_role": "A tourist who doesn't speak Chinese",
+    "student_role": "Herself, a local giving directions",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Excuse me, do you speak English?"
+     },
+     {
+      "who": "S",
+      "en": "Yes, a little. Can I help you?",
+      "zh": "會一點點。需要幫忙嗎？"
+     },
+     {
+      "who": "T",
+      "en": "Great! How do I get to the night market?"
+     },
+     {
+      "who": "S",
+      "en": "You can take a bus. The bus stop is across the street.",
+      "zh": "你可以搭公車。公車站在對面。"
+     },
+     {
+      "who": "T",
+      "en": "Across the street. Which bus goes to the night market?"
+     },
+     {
+      "who": "S",
+      "en": "Take bus number ___.",
+      "zh": "搭___號公車。"
+     },
+     {
+      "who": "T",
+      "en": "How many stops is it?"
+     },
+     {
+      "who": "S",
+      "en": "About ___ stops. Get off at ___.",
+      "zh": "大約___站。在___下車。"
+     },
+     {
+      "who": "T",
+      "en": "OK. And is it far from the bus stop?"
+     },
+     {
+      "who": "S",
+      "en": "No. Go straight and turn right at the corner. You can't miss it.",
+      "zh": "不遠。直走，然後在轉角右轉。你一定找得到。"
+     },
+     {
+      "who": "T",
+      "en": "Thank you so much! Oh, is there a restroom near here, too?"
+     },
+     {
+      "who": "S",
+      "en": "Yes, there's one in the convenience store over there.",
+      "zh": "有，那邊的便利商店裡有一間。"
+     }
+    ],
+    "teacher_twists": [
+     "Repeat her directions back with one mistake ('So I turn left at the corner?') so she must correct you: 'No, turn right.'",
+     "Ask 'Can I pay cash on the bus? I don't have a card.' — she has to answer simply and maybe tell you where to buy a card.",
+     "Ask 'Can I just take a taxi? How much is it?' — she gives a rough price and tells you what to say to the driver: 'To the night market, please.'"
+    ]
+   }
+  ],
+  "homework_zh": [
+   "畫一張你家附近的簡單地圖，用英文寫 5 句 There is／There are，例如 There's a 7-Eleven next to my house.",
+   "用英文寫出從你家到火車站或市場的路線（3–4 句，用 Go straight、Turn left 等），下次上課唸給老師聽。",
+   "練習 L／R：light／right、lead／read、glass／grass 每組唸 5 次，再唸 Turn right at the light, then turn left at the corner. 錄音傳給老師。"
+  ],
+  "released": false
+ },
+ {
   "unit_no": 7,
   "phase": 2,
   "title_en": "Daily Routines",
