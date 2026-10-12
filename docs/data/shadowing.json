@@ -1,0 +1,362 @@
+[
+ {
+  "id": "sh1-01",
+  "level": 1,
+  "topic": "greetings",
+  "en": "Hi, how are you?",
+  "zh": "嗨，你好嗎？",
+  "focus": "how are you 連成一串，句尾往下"
+ },
+ {
+  "id": "sh1-02",
+  "level": 1,
+  "topic": "greetings",
+  "en": "Nice to meet you.",
+  "zh": "很高興認識你。",
+  "focus": "nice、meet 加重，to 輕輕帶過"
+ },
+ {
+  "id": "sh1-03",
+  "level": 1,
+  "topic": "greetings",
+  "en": "I'm fine, thank you.",
+  "zh": "我很好，謝謝。",
+  "focus": "thank 的 th 要把舌尖伸出來"
+ },
+ {
+  "id": "sh1-04",
+  "level": 1,
+  "topic": "food",
+  "en": "Can I have a coffee?",
+  "zh": "我可以點一杯咖啡嗎？",
+  "focus": "Can I 連成 ca-nai，coffee 重音在前"
+ },
+ {
+  "id": "sh1-05",
+  "level": 1,
+  "topic": "food",
+  "en": "I'd like a sandwich, please.",
+  "zh": "我想要一個三明治，謝謝。",
+  "focus": "like a 連音，please 結尾 z 要震動"
+ },
+ {
+  "id": "sh1-06",
+  "level": 1,
+  "topic": "food",
+  "en": "For here or to go?",
+  "zh": "內用還是外帶？",
+  "focus": "選擇問句：here 上揚，go 下降"
+ },
+ {
+  "id": "sh1-07",
+  "level": 1,
+  "topic": "shopping",
+  "en": "How much is this?",
+  "zh": "這個多少錢？",
+  "focus": "much is 連成 mu-chis，this 的 th"
+ },
+ {
+  "id": "sh1-08",
+  "level": 1,
+  "topic": "shopping",
+  "en": "It's twenty dollars.",
+  "zh": "二十塊美金。",
+  "focus": "twenty 重音在前，dollars 結尾 z"
+ },
+ {
+  "id": "sh1-09",
+  "level": 1,
+  "topic": "shopping",
+  "en": "Can I pay by card?",
+  "zh": "我可以刷卡嗎？",
+  "focus": "card 結尾的 d 要發出來"
+ },
+ {
+  "id": "sh1-10",
+  "level": 1,
+  "topic": "directions",
+  "en": "Where is the restroom?",
+  "zh": "請問洗手間在哪裡？",
+  "focus": "Where is 連音，restroom 重音在前"
+ },
+ {
+  "id": "sh1-11",
+  "level": 1,
+  "topic": "directions",
+  "en": "Turn left at the light.",
+  "zh": "在紅綠燈那裡左轉。",
+  "focus": "left 的 ft、light 的 L 要清楚"
+ },
+ {
+  "id": "sh1-12",
+  "level": 1,
+  "topic": "directions",
+  "en": "Is it far from here?",
+  "zh": "離這裡遠嗎？",
+  "focus": "Is it 連成 i-zit，句尾上揚"
+ },
+ {
+  "id": "sh1-13",
+  "level": 1,
+  "topic": "small talk",
+  "en": "Sorry, I don't understand.",
+  "zh": "不好意思，我聽不懂。",
+  "focus": "understand 重音在最後的 stand"
+ },
+ {
+  "id": "sh1-14",
+  "level": 1,
+  "topic": "small talk",
+  "en": "Could you say that again?",
+  "zh": "可以請你再說一次嗎？",
+  "focus": "that 的 th，again 重音在後"
+ },
+ {
+  "id": "sh1-15",
+  "level": 1,
+  "topic": "greetings",
+  "en": "See you tomorrow!",
+  "zh": "明天見！",
+  "focus": "tomorrow 重音在中間的 mor"
+ },
+ {
+  "id": "sh2-01",
+  "level": 2,
+  "topic": "routine",
+  "en": "I usually get up at seven.",
+  "zh": "我通常七點起床。",
+  "focus": "get up at 連成 ge-tu-pat"
+ },
+ {
+  "id": "sh2-02",
+  "level": 2,
+  "topic": "routine",
+  "en": "I take the bus to work every day.",
+  "zh": "我每天搭公車上班。",
+  "focus": "bus、work 加重，the、to 輕讀"
+ },
+ {
+  "id": "sh2-03",
+  "level": 2,
+  "topic": "routine",
+  "en": "After dinner, I like to take a walk.",
+  "zh": "吃完晚餐後，我喜歡去散步。",
+  "focus": "take a walk 連成 ta-ka-walk"
+ },
+ {
+  "id": "sh2-04",
+  "level": 2,
+  "topic": "weather",
+  "en": "It's really hot and humid today.",
+  "zh": "今天真的又熱又悶。",
+  "focus": "really 的 r 和 l，hot and 連音"
+ },
+ {
+  "id": "sh2-05",
+  "level": 2,
+  "topic": "weather",
+  "en": "I think it's going to rain later.",
+  "zh": "我覺得等一下會下雨。",
+  "focus": "think 的 th，rain 的 r 嘴唇微圓"
+ },
+ {
+  "id": "sh2-06",
+  "level": 2,
+  "topic": "weather",
+  "en": "Don't forget to bring an umbrella.",
+  "zh": "別忘了帶雨傘。",
+  "focus": "bring an umbrella 連在一起說"
+ },
+ {
+  "id": "sh2-07",
+  "level": 2,
+  "topic": "health",
+  "en": "I have a headache and a sore throat.",
+  "zh": "我頭痛，喉嚨也痛。",
+  "focus": "headache 重音在前，throat 的 thr"
+ },
+ {
+  "id": "sh2-08",
+  "level": 2,
+  "topic": "health",
+  "en": "You should drink more water and get some rest.",
+  "zh": "你應該多喝水，好好休息。",
+  "focus": "drink、water、rest 加重"
+ },
+ {
+  "id": "sh2-09",
+  "level": 2,
+  "topic": "health",
+  "en": "I need to make an appointment with the doctor.",
+  "zh": "我需要預約看醫生。",
+  "focus": "appointment 重音在 point"
+ },
+ {
+  "id": "sh2-10",
+  "level": 2,
+  "topic": "plans",
+  "en": "What are you doing this weekend?",
+  "zh": "你這個週末要做什麼？",
+  "focus": "What are you 連起來，句尾往下"
+ },
+ {
+  "id": "sh2-11",
+  "level": 2,
+  "topic": "plans",
+  "en": "Let's have lunch together on Friday.",
+  "zh": "我們星期五一起吃午餐吧。",
+  "focus": "together 重音在 ge，lunch 的 ch"
+ },
+ {
+  "id": "sh2-12",
+  "level": 2,
+  "topic": "plans",
+  "en": "I'm going to visit my parents tomorrow.",
+  "zh": "我明天要去看我爸媽。",
+  "focus": "visit 的 v：上牙輕碰下唇"
+ },
+ {
+  "id": "sh2-13",
+  "level": 2,
+  "topic": "routine",
+  "en": "I'm cooking dinner for my family tonight.",
+  "zh": "我今晚要煮晚餐給家人吃。",
+  "focus": "family 重音在前，tonight 在後"
+ },
+ {
+  "id": "sh2-14",
+  "level": 2,
+  "topic": "phone",
+  "en": "Sorry, can you call me back later?",
+  "zh": "不好意思，可以晚點再打給我嗎？",
+  "focus": "call 的字尾 L，back 的 k 要收好"
+ },
+ {
+  "id": "sh2-15",
+  "level": 2,
+  "topic": "health",
+  "en": "I go to the gym three times a week.",
+  "zh": "我一個禮拜去健身房三次。",
+  "focus": "three 的 th，times a 連音"
+ },
+ {
+  "id": "sh3-01",
+  "level": 3,
+  "topic": "stories",
+  "en": "So, last weekend I went hiking with some friends, and it was amazing.",
+  "zh": "所以，上個週末我跟幾個朋友去爬山，超棒的！",
+  "focus": "So 後稍停，amazing 重音在 ma"
+ },
+ {
+  "id": "sh3-02",
+  "level": 3,
+  "topic": "food",
+  "en": "The food here is pretty good, but it's a little too salty for me.",
+  "zh": "這裡的菜還不錯，可是對我來說有點太鹹了。",
+  "focus": "but it's 連音，salty 結尾不要拖"
+ },
+ {
+  "id": "sh3-03",
+  "level": 3,
+  "topic": "phone",
+  "en": "Well, I was going to call you, but my phone died.",
+  "zh": "嗯，我本來要打給你，可是我手機沒電了。",
+  "focus": "Well 的字尾 L，died 結尾 d"
+ },
+ {
+  "id": "sh3-04",
+  "level": 3,
+  "topic": "work",
+  "en": "You know, it's been really busy at work for the past few weeks.",
+  "zh": "你知道嗎，這幾個禮拜工作真的很忙。",
+  "focus": "You know 輕快帶過，busy 加重"
+ },
+ {
+  "id": "sh3-05",
+  "level": 3,
+  "topic": "plans",
+  "en": "I'm not sure, but I think we should leave a little earlier.",
+  "zh": "我不太確定，但我覺得我們應該早一點出發。",
+  "focus": "leave 是長音，little 的字尾 L"
+ },
+ {
+  "id": "sh3-06",
+  "level": 3,
+  "topic": "travel",
+  "en": "When I was in Japan, I ate sushi almost every single day.",
+  "zh": "我在日本的時候，幾乎每天都吃壽司。",
+  "focus": "was in 連音，Japan 重音在後"
+ },
+ {
+  "id": "sh3-07",
+  "level": 3,
+  "topic": "work",
+  "en": "Actually, I've been thinking about changing jobs sometime next year.",
+  "zh": "其實，我一直在考慮明年找個時間換工作。",
+  "focus": "Actually 重音在前，jobs 結尾 bz"
+ },
+ {
+  "id": "sh3-08",
+  "level": 3,
+  "topic": "opinions",
+  "en": "To be honest, I don't really like shopping when it's crowded.",
+  "zh": "老實說，我不太喜歡在人多的時候逛街。",
+  "focus": "honest 的 h 不發音，語調要有起伏"
+ },
+ {
+  "id": "sh3-09",
+  "level": 3,
+  "topic": "stories",
+  "en": "Yesterday I lost my keys, and I looked everywhere for almost an hour.",
+  "zh": "我昨天鑰匙不見了，找了快一個小時。",
+  "focus": "lost、looked 結尾子音，an hour 連音"
+ },
+ {
+  "id": "sh3-10",
+  "level": 3,
+  "topic": "phone",
+  "en": "Hi, um, I'm calling to ask if you have any tables for tonight.",
+  "zh": "你好，嗯，我打來是想問今晚還有沒有位子。",
+  "focus": "um 是自然停頓，ask if 連成 as-kif"
+ },
+ {
+  "id": "sh3-11",
+  "level": 3,
+  "topic": "travel",
+  "en": "How was your trip? I heard the weather was terrible there.",
+  "zh": "你的旅行怎麼樣？我聽說那邊天氣很糟。",
+  "focus": "weather、there 的 th，trip 結尾 p"
+ },
+ {
+  "id": "sh3-12",
+  "level": 3,
+  "topic": "opinions",
+  "en": "I kind of like living in the city, but it's pretty expensive.",
+  "zh": "我還滿喜歡住在城市的，只是生活費有點貴。",
+  "focus": "kind of 唸成 kinda，pen 加重"
+ },
+ {
+  "id": "sh3-13",
+  "level": 3,
+  "topic": "stories",
+  "en": "When I was a kid, my mom used to make dumplings every Sunday.",
+  "zh": "我小時候，我媽每個星期天都會包水餃。",
+  "focus": "used to 唸成 yoos-tu，kid 結尾 d"
+ },
+ {
+  "id": "sh3-14",
+  "level": 3,
+  "topic": "small talk",
+  "en": "Sorry I'm late, there was a lot of traffic on the way here.",
+  "zh": "抱歉我遲到了，來的路上塞車很嚴重。",
+  "focus": "a lot of 連成 a-lo-tof"
+ },
+ {
+  "id": "sh3-15",
+  "level": 3,
+  "topic": "travel",
+  "en": "If I had more time, I'd love to travel around Europe for a month.",
+  "zh": "如果我有更多時間，我很想去歐洲旅行一個月。",
+  "focus": "I'd love 的 d 輕帶，month 結尾 nth"
+ }
+]

@@ -1,0 +1,46 @@
+﻿id,level,topic,english,chinese,focus_zh
+sh1-01,1,greetings,"Hi, how are you?",嗨，你好嗎？,how are you 連成一串，句尾往下
+sh1-02,1,greetings,Nice to meet you.,很高興認識你。,nice、meet 加重，to 輕輕帶過
+sh1-03,1,greetings,"I'm fine, thank you.",我很好，謝謝。,thank 的 th 要把舌尖伸出來
+sh1-04,1,food,Can I have a coffee?,我可以點一杯咖啡嗎？,Can I 連成 ca-nai，coffee 重音在前
+sh1-05,1,food,"I'd like a sandwich, please.",我想要一個三明治，謝謝。,like a 連音，please 結尾 z 要震動
+sh1-06,1,food,For here or to go?,內用還是外帶？,選擇問句：here 上揚，go 下降
+sh1-07,1,shopping,How much is this?,這個多少錢？,much is 連成 mu-chis，this 的 th
+sh1-08,1,shopping,It's twenty dollars.,二十塊美金。,twenty 重音在前，dollars 結尾 z
+sh1-09,1,shopping,Can I pay by card?,我可以刷卡嗎？,card 結尾的 d 要發出來
+sh1-10,1,directions,Where is the restroom?,請問洗手間在哪裡？,Where is 連音，restroom 重音在前
+sh1-11,1,directions,Turn left at the light.,在紅綠燈那裡左轉。,left 的 ft、light 的 L 要清楚
+sh1-12,1,directions,Is it far from here?,離這裡遠嗎？,Is it 連成 i-zit，句尾上揚
+sh1-13,1,small talk,"Sorry, I don't understand.",不好意思，我聽不懂。,understand 重音在最後的 stand
+sh1-14,1,small talk,Could you say that again?,可以請你再說一次嗎？,that 的 th，again 重音在後
+sh1-15,1,greetings,See you tomorrow!,明天見！,tomorrow 重音在中間的 mor
+sh2-01,2,routine,I usually get up at seven.,我通常七點起床。,get up at 連成 ge-tu-pat
+sh2-02,2,routine,I take the bus to work every day.,我每天搭公車上班。,bus、work 加重，the、to 輕讀
+sh2-03,2,routine,"After dinner, I like to take a walk.",吃完晚餐後，我喜歡去散步。,take a walk 連成 ta-ka-walk
+sh2-04,2,weather,It's really hot and humid today.,今天真的又熱又悶。,really 的 r 和 l，hot and 連音
+sh2-05,2,weather,I think it's going to rain later.,我覺得等一下會下雨。,think 的 th，rain 的 r 嘴唇微圓
+sh2-06,2,weather,Don't forget to bring an umbrella.,別忘了帶雨傘。,bring an umbrella 連在一起說
+sh2-07,2,health,I have a headache and a sore throat.,我頭痛，喉嚨也痛。,headache 重音在前，throat 的 thr
+sh2-08,2,health,You should drink more water and get some rest.,你應該多喝水，好好休息。,drink、water、rest 加重
+sh2-09,2,health,I need to make an appointment with the doctor.,我需要預約看醫生。,appointment 重音在 point
+sh2-10,2,plans,What are you doing this weekend?,你這個週末要做什麼？,What are you 連起來，句尾往下
+sh2-11,2,plans,Let's have lunch together on Friday.,我們星期五一起吃午餐吧。,together 重音在 ge，lunch 的 ch
+sh2-12,2,plans,I'm going to visit my parents tomorrow.,我明天要去看我爸媽。,visit 的 v：上牙輕碰下唇
+sh2-13,2,routine,I'm cooking dinner for my family tonight.,我今晚要煮晚餐給家人吃。,family 重音在前，tonight 在後
+sh2-14,2,phone,"Sorry, can you call me back later?",不好意思，可以晚點再打給我嗎？,call 的字尾 L，back 的 k 要收好
+sh2-15,2,health,I go to the gym three times a week.,我一個禮拜去健身房三次。,three 的 th，times a 連音
+sh3-01,3,stories,"So, last weekend I went hiking with some friends, and it was amazing.",所以，上個週末我跟幾個朋友去爬山，超棒的！,So 後稍停，amazing 重音在 ma
+sh3-02,3,food,"The food here is pretty good, but it's a little too salty for me.",這裡的菜還不錯，可是對我來說有點太鹹了。,but it's 連音，salty 結尾不要拖
+sh3-03,3,phone,"Well, I was going to call you, but my phone died.",嗯，我本來要打給你，可是我手機沒電了。,Well 的字尾 L，died 結尾 d
+sh3-04,3,work,"You know, it's been really busy at work for the past few weeks.",你知道嗎，這幾個禮拜工作真的很忙。,You know 輕快帶過，busy 加重
+sh3-05,3,plans,"I'm not sure, but I think we should leave a little earlier.",我不太確定，但我覺得我們應該早一點出發。,leave 是長音，little 的字尾 L
+sh3-06,3,travel,"When I was in Japan, I ate sushi almost every single day.",我在日本的時候，幾乎每天都吃壽司。,was in 連音，Japan 重音在後
+sh3-07,3,work,"Actually, I've been thinking about changing jobs sometime next year.",其實，我一直在考慮明年找個時間換工作。,Actually 重音在前，jobs 結尾 bz
+sh3-08,3,opinions,"To be honest, I don't really like shopping when it's crowded.",老實說，我不太喜歡在人多的時候逛街。,honest 的 h 不發音，語調要有起伏
+sh3-09,3,stories,"Yesterday I lost my keys, and I looked everywhere for almost an hour.",我昨天鑰匙不見了，找了快一個小時。,lost、looked 結尾子音，an hour 連音
+sh3-10,3,phone,"Hi, um, I'm calling to ask if you have any tables for tonight.",你好，嗯，我打來是想問今晚還有沒有位子。,um 是自然停頓，ask if 連成 as-kif
+sh3-11,3,travel,How was your trip? I heard the weather was terrible there.,你的旅行怎麼樣？我聽說那邊天氣很糟。,weather、there 的 th，trip 結尾 p
+sh3-12,3,opinions,"I kind of like living in the city, but it's pretty expensive.",我還滿喜歡住在城市的，只是生活費有點貴。,kind of 唸成 kinda，pen 加重
+sh3-13,3,stories,"When I was a kid, my mom used to make dumplings every Sunday.",我小時候，我媽每個星期天都會包水餃。,used to 唸成 yoos-tu，kid 結尾 d
+sh3-14,3,small talk,"Sorry I'm late, there was a lot of traffic on the way here.",抱歉我遲到了，來的路上塞車很嚴重。,a lot of 連成 a-lo-tof
+sh3-15,3,travel,"If I had more time, I'd love to travel around Europe for a month.",如果我有更多時間，我很想去歐洲旅行一個月。,I'd love 的 d 輕帶，month 結尾 nth

@@ -1,0 +1,57 @@
+{
+ "built": "2026-10-12",
+ "decks": [
+  {
+   "id": "everything",
+   "file": "decks/everything.apkg",
+   "title_en": "Everything so far",
+   "title_zh": "全部卡片（推薦）",
+   "kind": "bundle",
+   "unit_no": null,
+   "desc_zh": "包含目前所有的課、發音和錯誤句子。重複匯入也不會重複，只會更新。",
+   "cards": 232,
+   "notes": 96,
+   "updated": "2026-10-12",
+   "fingerprint": "ae420230c0c2c4a5"
+  },
+  {
+   "id": "unit-01",
+   "file": "decks/unit-01.apkg",
+   "title_en": "Unit 01 · Greetings & Introductions",
+   "title_zh": "打招呼與自我介紹",
+   "desc_zh": "第 1 課單字與句子（20 個）",
+   "kind": "unit",
+   "unit_no": 1,
+   "cards": 60,
+   "notes": 20,
+   "updated": "2026-10-12",
+   "fingerprint": "0fba335b023ff19d"
+  },
+  {
+   "id": "unit-02",
+   "file": "decks/unit-02.apkg",
+   "title_en": "Unit 02 · Numbers, Time & Dates",
+   "title_zh": "數字、時間與日期",
+   "desc_zh": "第 2 課單字與句子（20 個）",
+   "kind": "unit",
+   "unit_no": 2,
+   "cards": 60,
+   "notes": 20,
+   "updated": "2026-10-12",
+   "fingerprint": "f0dcda67ad8d6e7b"
+  },
+  {
+   "id": "sounds",
+   "file": "decks/sounds.apkg",
+   "title_en": "Sound pairs",
+   "title_zh": "發音聽力：分辨相似的音",
+   "desc_zh": "聽一個字，分辨像 ship / sheep 這樣的音（56 組）",
+   "kind": "sounds",
+   "unit_no": null,
+   "cards": 112,
+   "notes": 56,
+   "updated": "2026-10-12",
+   "fingerprint": "fcb73f08dad346f8"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+﻿id,unit_no,unit_en,unit_zh,english,chinese,ipa,sounds_like,example,example_zh,tip_zh
+u18-01,18,Work & Life Goals,工作與人生目標,goal,目標,/ɡoʊl/,GOHL,My goal is to speak English with confidence.,我的目標是有自信地說英文。,結尾 l 舌尖頂上牙齦，不要加「喔」
+u18-02,18,Work & Life Goals,工作與人生目標,dream,夢想,/drim/,DREEM,My dream is to open a small café.,我的夢想是開一間小咖啡店。,dr 要連著唸，不是 de-ream
+u18-03,18,Work & Life Goals,工作與人生目標,career,職業；職涯,/kəˈrɪr/,kuh-REER,She wants to change her career.,她想要轉換跑道。,重音在後面 REER，前面輕輕帶過
+u18-04,18,Work & Life Goals,工作與人生目標,skill,技能,/skɪl/,SKILL,Cooking is a really useful skill.,做菜是很實用的技能。,sk 中間不加母音，結尾不要加「喔」
+u18-05,18,Work & Life Goals,工作與人生目標,experience,經驗,/ɪkˈspɪriəns/,ik-SPEER-ee-unss,I have ten years of experience in sales.,我有十年的業務經驗。,
+u18-06,18,Work & Life Goals,工作與人生目標,coworker,同事,/ˈkoʊˌwɝkɚ/,KOH-wur-ker,My coworkers are really friendly.,我的同事都很友善。,
+u18-07,18,Work & Life Goals,工作與人生目標,boss,老闆；主管,/bɔs/,BAWSS,My boss is strict but fair.,我的主管很嚴格但很公平。,
+u18-08,18,Work & Life Goals,工作與人生目標,retire,退休,/rɪˈtaɪɚ/,rih-TY-er,My dad wants to retire next year.,我爸爸想明年退休。,重音在第二音節 TIRE
+u18-09,18,Work & Life Goals,工作與人生目標,part-time,兼職的,/ˌpɑrt ˈtaɪm/,part-TIME,I work part-time at a bakery.,我在一間麵包店兼職。,part 的 t 很輕，直接接 time
+u18-10,18,Work & Life Goals,工作與人生目標,save money,存錢,/ˌseɪv ˈmʌni/,sayv-MUN-ee,I'm trying to save money for a trip.,我正在存錢去旅行。,save 的 v 要咬下唇，後面別加「ㄜ」
+u18-11,18,Work & Life Goals,工作與人生目標,What do you do for a living?,你從事什麼工作？,/ˌwʌt də jə ˈdu fɚ ə ˈlɪvɪŋ/,wut-duh-yuh-DOO-fer-uh-LIV-ing,"So, what do you do for a living?",那你是做什麼工作的？,
+u18-12,18,Work & Life Goals,工作與人生目標,I work in ...,我在……工作；我做……,/aɪ ˈwɝk ɪn/,eye-WUR-kin,I work in sales at a small company.,我在一間小公司做業務。,work in 連起來唸 wur-kin
+u18-13,18,Work & Life Goals,工作與人生目標,I'm in charge of ...,我負責……,/aɪm ɪn ˈtʃɑrdʒ əv/,ime-in-CHAR-juv,I'm in charge of the company's social media.,我負責公司的社群媒體。,charge of 連起來唸 char-juv
+u18-14,18,Work & Life Goals,工作與人生目標,I want to ...,我想要……,/aɪ ˈwɑnt tə/,eye-WAHN-tuh,I want to learn how to swim.,我想學游泳。,口語常唸成 wanna，但要寫 want to
+u18-15,18,Work & Life Goals,工作與人生目標,I hope to ...,我希望能……,/aɪ ˈhoʊp tə/,eye-HOPE-tuh,I hope to find a better job this year.,我希望今年能找到更好的工作。,hope 結尾的 p 不要加「ㄜ」
+u18-16,18,Work & Life Goals,工作與人生目標,I'm planning to ...,我打算……,/aɪm ˈplænɪŋ tə/,ime-PLAN-ing-tuh,I'm planning to take a cooking class.,我打算去上烹飪課。,已經有計畫了才用，比 want to 更確定
+u18-17,18,Work & Life Goals,工作與人生目標,I'd like to ...,我想要……（比較客氣）,/aɪd ˈlaɪk tə/,eyed-LIKE-tuh,Someday I'd like to start my own business.,有一天我想自己創業。,意思跟 I want to 一樣，但更有禮貌
+u18-18,18,Work & Life Goals,工作與人生目標,I'm thinking about changing jobs.,我在考慮換工作。,/aɪm ˈθɪŋkɪŋ əˌbaʊt ˈtʃeɪndʒɪŋ ˈdʒɑbz/,ime-THINK-ing-uh-bowt-CHAYN-jing-JAHBZ,I'm bored at work. I'm thinking about changing jobs.,我工作很無聊，在考慮換工作。,jobs 結尾 /bz/ 要發出來，別加「ㄜ」
+u18-19,18,Work & Life Goals,工作與人生目標,It's never too late to learn.,學習永遠不嫌晚。,/ɪts ˈnɛvɚ tu ˈleɪt tə ˈlɝn/,its-NEV-er-too-LATE-tuh-LURN,"I'm forty, but it's never too late to learn.",我四十歲了，但學習永遠不嫌晚。,
+u18-20,18,Work & Life Goals,工作與人生目標,I'm sure you'll do great.,你一定會做得很好的。,/aɪm ˈʃʊr jul du ˈɡreɪt/,ime-SHOOR-yool-doo-GRAYT,Don't worry about the interview. I'm sure you'll do great.,別擔心面試，你一定會表現得很好。,

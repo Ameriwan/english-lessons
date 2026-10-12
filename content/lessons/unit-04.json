@@ -1,0 +1,247 @@
+{
+  "unit_no": 4,
+  "phase": 1,
+  "title_en": "Food & Ordering",
+  "title_zh": "食物與點餐",
+  "goals": [
+    "Order food and drinks politely with 'I'd like…' and 'Can I have…?' instead of 'I want…'.",
+    "Understand and answer common server questions: For here or to go? Anything else? Hot or iced? What size?",
+    "Order a drink the Taiwanese way in English (less sugar, no ice) and ask about food (Is it spicy? What do you recommend?).",
+    "Link words smoothly in ordering phrases (Can I have a → kuh-nye-HAV-uh)."
+  ],
+  "warmup": {
+    "easy": [
+      "What did you have for breakfast today?",
+      "Do you like coffee or tea?",
+      "What's your favorite food?"
+    ],
+    "medium": [
+      "What Taiwanese dish should a foreigner try first?",
+      "How do you order your bubble tea?",
+      "Do you like spicy food?"
+    ],
+    "hard": [
+      "Describe your favorite restaurant. Why do you like it?",
+      "How is eating out in Taiwan different from eating out in America?",
+      "How do you make your favorite home-cooked dish?"
+    ]
+  },
+  "key_phrases": [
+    {
+      "en": "A table for two, please.",
+      "zh": "兩位，謝謝。"
+    },
+    {
+      "en": "Can I see the menu, please?",
+      "zh": "可以給我看菜單嗎？"
+    },
+    {
+      "en": "What do you recommend?",
+      "zh": "你推薦什麼？"
+    },
+    {
+      "en": "I'd like the ___, please.",
+      "zh": "我要___，謝謝。"
+    },
+    {
+      "en": "Can I have a ___, please?",
+      "zh": "可以給我一個___嗎？"
+    },
+    {
+      "en": "Is it spicy?",
+      "zh": "會辣嗎？"
+    },
+    {
+      "en": "Green tea, less sugar, less ice, please.",
+      "zh": "綠茶，少糖少冰，謝謝。"
+    },
+    {
+      "en": "For here or to go? — To go, please.",
+      "zh": "內用還是外帶？——外帶，謝謝。"
+    },
+    {
+      "en": "Anything else? — That's all, thanks.",
+      "zh": "還需要別的嗎？——這樣就好，謝謝。"
+    },
+    {
+      "en": "Check, please.",
+      "zh": "麻煩買單。"
+    }
+  ],
+  "grammar": {
+    "point_en": "Polite requests: I'd like… / Can I have…?",
+    "point_zh": "禮貌點餐：I'd like… / Can I have…?",
+    "explain_zh": "中文點餐常說「我要一杯咖啡」，但直接翻成 I want a coffee 聽起來有點不客氣，像小孩子在討東西。點餐時用 I'd like…（= I would like）或 Can I have…? 比較有禮貌，最後再加 please。I'd 的 d 很輕，但不要省略。",
+    "examples": [
+      {
+        "en": "I'd like a hot coffee, please.",
+        "zh": "我要一杯熱咖啡，謝謝。"
+      },
+      {
+        "en": "Can I have the chicken rice?",
+        "zh": "可以給我雞肉飯嗎？"
+      },
+      {
+        "en": "I'd like two milk teas to go.",
+        "zh": "我要兩杯奶茶外帶。"
+      },
+      {
+        "en": "Can I have some water, please?",
+        "zh": "可以給我一些水嗎？"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I want coffee.",
+      "right": "I'd like a coffee, please.",
+      "why_zh": "I want 聽起來太直接，像在命令；點餐用 I'd like 加 please 才有禮貌。"
+    }
+  },
+  "sound_focus": {
+    "sound_id": "linking",
+    "words": [
+      "can I",
+      "have a",
+      "is it",
+      "here or",
+      "anything else",
+      "cup of"
+    ],
+    "sentence": "Can I have a cup of coffee and an egg tart?"
+  },
+  "mini_lesson": [
+    "Step 1 (5 min): Warm-up. Ask about her favorite foods and drinks. Write down the English names she needs for real life (beef noodles, fried rice, bubble tea, egg pancake).",
+    "Step 2 (7 min): Grammar — I'd like / Can I have. Say 'I want coffee' in a bossy voice, then 'I'd like a coffee, please' politely, so she hears the difference. She turns 5 'I want…' sentences into polite requests.",
+    "Step 3 (6 min): Server questions. You play the server and ask the common questions fast (For here or to go? Anything else? Hot or iced? What size?). She answers each in 2–3 words. Then switch roles.",
+    "Step 4 (7 min): Sound focus — linking. Show how a final consonant jumps to the next vowel: Can I have a → kuh-nye-HAV-uh. Write 'Can‿I have‿a cup‿of coffee‿and‿an egg tart?' with link marks. She says it slowly, then faster, with no pauses between words.",
+    "Step 5 (5 min): Drink-shop drill. Make a mini menu (black tea, green tea, milk tea; medium/large; sugar and ice levels). She orders 3 different drinks, e.g. 'A large green tea, less sugar, no ice, please.'"
+  ],
+  "roleplays": [
+    {
+      "level": "easy",
+      "title": "Ordering at a bubble tea shop",
+      "setup_zh": "你在飲料店點一杯奶茶。店員會問你大小、甜度、冰塊和內用外帶。",
+      "teacher_role": "A clerk at a bubble tea shop",
+      "student_role": "Herself, a customer",
+      "lines": [
+        {
+          "who": "T",
+          "en": "Hi! What can I get for you?"
+        },
+        {
+          "who": "S",
+          "en": "Hi. I'd like a milk tea, please.",
+          "zh": "嗨，我要一杯奶茶，謝謝。"
+        },
+        {
+          "who": "T",
+          "en": "Sure. What size? Medium or large?"
+        },
+        {
+          "who": "S",
+          "en": "Large, please.",
+          "zh": "大杯，謝謝。"
+        },
+        {
+          "who": "T",
+          "en": "How about sugar and ice?"
+        },
+        {
+          "who": "S",
+          "en": "Less sugar and less ice, please.",
+          "zh": "少糖少冰，謝謝。"
+        },
+        {
+          "who": "T",
+          "en": "OK. Anything else?"
+        },
+        {
+          "who": "S",
+          "en": "That's all, thanks.",
+          "zh": "這樣就好，謝謝。"
+        },
+        {
+          "who": "T",
+          "en": "For here or to go?"
+        },
+        {
+          "who": "S",
+          "en": "To go, please.",
+          "zh": "外帶，謝謝。"
+        }
+      ]
+    },
+    {
+      "level": "challenge",
+      "title": "Dinner at a restaurant",
+      "setup_zh": "你在一家西式餐廳吃晚餐。服務生說話比較快，你要點飲料、問推薦菜色、確認辣不辣，最後點主餐。",
+      "teacher_role": "A friendly but fast-talking waiter",
+      "student_role": "Herself, a customer",
+      "lines": [
+        {
+          "who": "T",
+          "en": "Good evening! How many?"
+        },
+        {
+          "who": "S",
+          "en": "A table for two, please.",
+          "zh": "兩位，謝謝。"
+        },
+        {
+          "who": "T",
+          "en": "Right this way. Here's the menu. Can I get you something to drink?"
+        },
+        {
+          "who": "S",
+          "en": "Can I have a glass of water and a hot tea, please?",
+          "zh": "可以給我一杯水和一杯熱茶嗎？"
+        },
+        {
+          "who": "T",
+          "en": "Of course. Are you ready to order, or do you need a minute?"
+        },
+        {
+          "who": "S",
+          "en": "It's my first time here. What do you recommend?",
+          "zh": "我第一次來，你推薦什麼？"
+        },
+        {
+          "who": "T",
+          "en": "The chicken curry is really popular. It's a little spicy."
+        },
+        {
+          "who": "S",
+          "en": "Is it very spicy?",
+          "zh": "會很辣嗎？"
+        },
+        {
+          "who": "T",
+          "en": "Not too spicy. It comes with rice or bread."
+        },
+        {
+          "who": "S",
+          "en": "OK. I'd like the chicken curry with rice, please.",
+          "zh": "好，我要咖哩雞配飯，謝謝。"
+        },
+        {
+          "who": "T",
+          "en": "Great choice. Anything else?"
+        },
+        {
+          "who": "S",
+          "en": "That's all for now, thanks.",
+          "zh": "先這樣就好，謝謝。"
+        }
+      ],
+      "teacher_twists": [
+        "Read today's specials quickly ('grilled salmon, mushroom soup, and a beef burger') so she must ask 'Sorry, can you say that again?' or 'What's the first one?'",
+        "Bring the wrong order — 'Here's your chicken curry with bread!' — so she has to fix it politely: 'Excuse me, I ordered rice.'",
+        "At the end, she must call you over to ask for the check and a box for leftovers: 'Can I have a box, please?'"
+      ]
+    }
+  ],
+  "homework_zh": [
+    "下次去飲料店或早餐店時，在心裡用英文點一次餐，例如 I'd like a large black tea, less sugar, no ice, please.",
+    "寫下你最喜歡的 5 道台灣菜的英文名字，各用一句話介紹，例如 Beef noodles are delicious and a little spicy.",
+    "每天練習連音句子 Can I have a cup of coffee and an egg tart? 慢唸 3 次、正常速度 3 次，錄音傳給老師。"
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "unit_no": 8,
+  "phase": 2,
+  "title_en": "Hobbies & Free Time",
+  "title_zh": "興趣與休閒",
+  "goals": [
+    "Talk about her hobbies and free-time activities with like / love / enjoy + -ing.",
+    "Ask and answer 'How often...?' with once a week, twice a month, every day.",
+    "React naturally to someone else's hobbies (That sounds fun! / Me too!).",
+    "Say clear L and R sounds in hobby words (relax, reading, really, play)."
+  ],
+  "warmup": {
+    "easy": [
+      "Do you like music?",
+      "Do you like cooking?",
+      "What do you do on Sundays?"
+    ],
+    "medium": [
+      "What do you do in your free time?",
+      "How often do you exercise?",
+      "Do you like staying home or going out on weekends?"
+    ],
+    "hard": [
+      "Tell me about a hobby you really love. How did you start it?",
+      "How do you relax after a stressful day?",
+      "What new hobby would you like to try, and why?"
+    ]
+  },
+  "key_phrases": [
+    {
+      "en": "What do you do in your free time?",
+      "zh": "你空閒時都做什麼？"
+    },
+    {
+      "en": "I like ___ing.",
+      "zh": "我喜歡 ___。"
+    },
+    {
+      "en": "I love ___ing.",
+      "zh": "我很愛 ___。"
+    },
+    {
+      "en": "I enjoy ___ing.",
+      "zh": "我很享受 ___。"
+    },
+    {
+      "en": "I'm really into ___.",
+      "zh": "我最近很迷 ___。"
+    },
+    {
+      "en": "How often do you ___?",
+      "zh": "你多久 ___ 一次？"
+    },
+    {
+      "en": "Once / Twice / Three times a week.",
+      "zh": "一週一次／兩次／三次。"
+    },
+    {
+      "en": "That sounds fun!",
+      "zh": "聽起來很好玩！"
+    },
+    {
+      "en": "Me too!",
+      "zh": "我也是！"
+    },
+    {
+      "en": "Do you want to join me?",
+      "zh": "你要不要一起來？"
+    }
+  ],
+  "grammar": {
+    "point_en": "like / love / enjoy + verb-ing",
+    "point_zh": "like、love、enjoy 後面接動詞 -ing",
+    "explain_zh": "中文說「我喜歡看書」，動詞直接放後面。英文 like、love 後面通常用 -ing：I like reading。enjoy 後面一定要用 -ing，不能說 enjoy to read。說活動時，球類用 play（play badminton），其他常用 go + -ing（go hiking、go swimming）。",
+    "examples": [
+      {
+        "en": "I like reading in bed.",
+        "zh": "我喜歡在床上看書。"
+      },
+      {
+        "en": "My husband loves playing badminton.",
+        "zh": "我先生很愛打羽毛球。"
+      },
+      {
+        "en": "We enjoy going hiking on weekends.",
+        "zh": "我們週末喜歡去爬山。"
+      },
+      {
+        "en": "She doesn't like cooking.",
+        "zh": "她不喜歡做菜。"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I enjoy to watch dramas.",
+      "right": "I enjoy watching dramas.",
+      "why_zh": "enjoy 後面只能接 -ing，不能接 to + 動詞。"
+    }
+  },
+  "sound_focus": {
+    "sound_id": "l-r",
+    "words": [
+      "relax",
+      "reading",
+      "really",
+      "play badminton",
+      "listen to music",
+      "karaoke"
+    ],
+    "sentence": "I really like reading and listening to relaxing music."
+  },
+  "mini_lesson": [
+    "Step 1 (5 min): Warm-up. Show 6-8 hobby pictures on your phone (hiking, yoga, karaoke, gardening...). She says which ones she likes and doesn't like.",
+    "Step 2 (7 min): Vocabulary. Teach the hobby words and sort them into 'play ___' (badminton), 'go ___' (hiking), 'do ___' (yoga) and others (watch dramas, take photos). She makes one sentence for each group.",
+    "Step 3 (7 min): Grammar. Write 'I like / love / enjoy + ___ing' on the board. Quick drill: you say a verb (read, cook, sing), she answers 'I love reading' or 'I don't like cooking'. Show the common mistake 'enjoy to watch' and fix it together.",
+    "Step 4 (6 min): Sound focus (L vs R). Model L (tongue tip touches behind the top teeth) and R (lips a little round, tongue touches nothing). Practice relax, reading, really, play, listen with a phone camera as a mirror, then the sentence 'I really like reading and listening to relaxing music.'",
+    "Step 5 (5 min): Speaking. 'How often' interview: she asks you 3 'How often do you...?' questions, then answers 3 herself with once / twice a week. She reacts with 'That sounds fun!' or 'Me too!'"
+  ],
+  "roleplays": [
+    {
+      "level": "easy",
+      "title": "Getting to know a classmate",
+      "setup_zh": "在社區課程的休息時間，跟同學聊彼此的興趣。",
+      "teacher_role": "A classmate at a community class",
+      "student_role": "Herself",
+      "lines": [
+        {
+          "who": "T",
+          "en": "So, what do you do in your free time?"
+        },
+        {
+          "who": "S",
+          "en": "I like ___ and ___.",
+          "zh": "我喜歡 ___ 和 ___。"
+        },
+        {
+          "who": "T",
+          "en": "Oh, nice! How often do you do that?"
+        },
+        {
+          "who": "S",
+          "en": "About once a week.",
+          "zh": "大概一週一次。"
+        },
+        {
+          "who": "T",
+          "en": "I love hiking. Do you like hiking?"
+        },
+        {
+          "who": "S",
+          "en": "Yes, I do! I go hiking on weekends.",
+          "zh": "喜歡！我週末會去爬山。"
+        },
+        {
+          "who": "T",
+          "en": "Really? Where do you usually go?"
+        },
+        {
+          "who": "S",
+          "en": "I usually go to ___. It's beautiful.",
+          "zh": "我通常去 ___，很漂亮。"
+        },
+        {
+          "who": "T",
+          "en": "That sounds fun! Maybe we can go together."
+        },
+        {
+          "who": "S",
+          "en": "Sure! Do you want to join me on Saturday?",
+          "zh": "好啊！你星期六要不要跟我一起去？"
+        }
+      ]
+    },
+    {
+      "level": "challenge",
+      "title": "Signing up for a class",
+      "setup_zh": "在社區活動中心，老師扮演櫃台人員介紹課程，她要說出自己的興趣、程度和方便的時間。",
+      "teacher_role": "Front-desk staff at a community center",
+      "student_role": "Herself, looking for a new class",
+      "lines": [
+        {
+          "who": "T",
+          "en": "Hi! Are you interested in one of our classes?"
+        },
+        {
+          "who": "S",
+          "en": "Yes. I'm really into ___ these days.",
+          "zh": "對，我最近很迷 ___。"
+        },
+        {
+          "who": "T",
+          "en": "Great! Are you a beginner?"
+        },
+        {
+          "who": "S",
+          "en": "Yes, I'm a beginner. I'm not very good at it.",
+          "zh": "對，我是初學者，還不太擅長。"
+        },
+        {
+          "who": "T",
+          "en": "No problem. We also have yoga and cooking classes. Do you like cooking?"
+        },
+        {
+          "who": "S",
+          "en": "Not really. I enjoy eating, but I don't enjoy cooking!",
+          "zh": "不太喜歡。我喜歡吃，但不喜歡煮！"
+        },
+        {
+          "who": "T",
+          "en": "Ha! How about yoga?"
+        },
+        {
+          "who": "S",
+          "en": "I do yoga at home sometimes. It helps me relax.",
+          "zh": "我有時候在家做瑜伽，可以讓我放鬆。"
+        },
+        {
+          "who": "T",
+          "en": "The yoga class is on Tuesday and Thursday evenings. Is that OK?"
+        },
+        {
+          "who": "S",
+          "en": "Hmm, I'm busy on Tuesdays. Is there a weekend class?",
+          "zh": "嗯，我星期二很忙。有週末的課嗎？"
+        },
+        {
+          "who": "T",
+          "en": "Yes, there's one on Saturday morning at nine."
+        },
+        {
+          "who": "S",
+          "en": "Perfect! I can go once a week.",
+          "zh": "太好了！我可以一週去一次。"
+        }
+      ],
+      "teacher_twists": [
+        "Say the class is full and offer a strange alternative (a fishing class) so she has to refuse politely: 'Thanks, but I'm not really into fishing.'",
+        "Ask 'Why do you like it?' and push for two reasons with 'because'.",
+        "Ask 'How often do you practice at home?' and wait for a specific answer (twice a week, every day)."
+      ]
+    }
+  ],
+  "homework_zh": [
+    "寫 5 句介紹自己的興趣，用 I like / love / enjoy + -ing，並加上 once / twice a week。",
+    "用手機錄一段 30 秒的語音介紹最喜歡的嗜好，特別注意 relax、really、reading 的 r 和 l。",
+    "問一位家人空閒時做什麼，用英文寫成三句（例如 My sister loves...）。"
+  ]
+}

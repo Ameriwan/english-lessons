@@ -1,0 +1,247 @@
+{
+  "unit_no": 5,
+  "phase": 1,
+  "title_en": "Shopping & Money",
+  "title_zh": "購物與付錢",
+  "goals": [
+    "Ask prices and understand the answer: How much is this? / How much are these? — It's 350 dollars.",
+    "Use this / that / these / those correctly with is / are (including plural clothes: jeans, pants, shoes).",
+    "Get through a clothing store: just looking → size or color → try on → I'll take it → pay by card → receipt.",
+    "Hear and say the long/short vowel difference in cheap/chip, these/this, feet/fit."
+  ],
+  "warmup": {
+    "easy": [
+      "Do you like shopping?",
+      "Where do you usually buy clothes?",
+      "Do you pay with cash or card?"
+    ],
+    "medium": [
+      "What's something you want to buy this year?",
+      "Is shopping in Taiwan cheap or expensive?",
+      "Do you shop online? What do you buy?"
+    ],
+    "hard": [
+      "Do people bargain at night markets? How do you do it?",
+      "What's the best thing you ever bought? Why?",
+      "Online shopping or shopping in a store — which is better, and why?"
+    ]
+  },
+  "key_phrases": [
+    {
+      "en": "How much is this? / How much are these?",
+      "zh": "這個多少錢？／這些多少錢？"
+    },
+    {
+      "en": "It's ___ dollars.",
+      "zh": "是___元。"
+    },
+    {
+      "en": "I'm just looking, thanks.",
+      "zh": "我只是看看，謝謝。"
+    },
+    {
+      "en": "Do you have this in a smaller size?",
+      "zh": "這個有小一點的尺寸嗎？"
+    },
+    {
+      "en": "Do you have this in black?",
+      "zh": "這個有黑色的嗎？"
+    },
+    {
+      "en": "Can I try it on?",
+      "zh": "我可以試穿嗎？"
+    },
+    {
+      "en": "It's too big. / It's too expensive.",
+      "zh": "太大了。／太貴了。"
+    },
+    {
+      "en": "I'll take it.",
+      "zh": "我要買這個。"
+    },
+    {
+      "en": "Can I pay by card?",
+      "zh": "可以刷卡嗎？"
+    },
+    {
+      "en": "Can I have the receipt, please?",
+      "zh": "可以給我收據嗎？"
+    }
+  ],
+  "grammar": {
+    "point_en": "How much + this / that / these / those",
+    "point_zh": "How much 加 this／that／these／those",
+    "explain_zh": "英文和中文一樣，會分近和遠、一個和很多個：this（這個）、that（那個）、these（這些）、those（那些）。一個用 is，很多個用 are：How much is this? How much are these? 要注意：鞋子、褲子、牛仔褲、眼鏡在英文是複數，所以要說 these shoes、How much are these jeans?",
+    "examples": [
+      {
+        "en": "How much is this T-shirt?",
+        "zh": "這件 T 恤多少錢？"
+      },
+      {
+        "en": "How much are these shoes?",
+        "zh": "這雙鞋多少錢？"
+      },
+      {
+        "en": "That bag is too expensive.",
+        "zh": "那個包包太貴了。"
+      },
+      {
+        "en": "Those apples look really fresh.",
+        "zh": "那些蘋果看起來很新鮮。"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "How much is these pants?",
+      "right": "How much are these pants?",
+      "why_zh": "pants 是複數，要用 these 和 are；中文的「這件褲子」英文要當複數。"
+    }
+  },
+  "sound_focus": {
+    "sound_id": "short-long-vowels",
+    "words": [
+      "cheap",
+      "these",
+      "receipt",
+      "this",
+      "big",
+      "fifteen"
+    ],
+    "sentence": "These jeans are cheap, but this shirt is too big."
+  },
+  "mini_lesson": [
+    "Step 1 (5 min): Price warm-up. Show prices on paper or your phone (NT$350, $1,280, $99, $15.50). She reads them aloud: 'three hundred fifty dollars'. Quickly review hundred/thousand from Unit 2.",
+    "Step 2 (7 min): Grammar — this / that / these / those. Put things near her and far away (one pen near, a cup far, two pens near, some coins far). She asks 'How much is this/that?' or 'How much are these/those?' and you answer with a price. Point out plural clothes: jeans, pants, shoes, glasses.",
+    "Step 3 (6 min): Store phrases. Draw the shopping 'path' on paper: just looking → size/color → try on → too big/small → I'll take it → pay by card → receipt. She says one phrase for each step, then the whole path without looking.",
+    "Step 4 (7 min): Sound focus — long vs short vowels. Long ee: smile wide, tense, longer (cheap, these, receipt). Short i: relaxed and quick (chip, this, big). Pairs: cheap/chip, these/this, feet/fit, leave/live. You say one, she holds up 1 finger (long) or 2 (short); then she says them for you.",
+    "Step 5 (5 min): Price listening game. Say prices fast — thirteen/thirty dollars, two fifteen/two fifty, one thousand two hundred — and she writes the numbers. Check together and replay the ones she missed."
+  ],
+  "roleplays": [
+    {
+      "level": "easy",
+      "title": "Buying fruit at the market",
+      "setup_zh": "你在市場的水果攤買水果。用 this／that／these／those 問價錢，決定要買什麼。",
+      "teacher_role": "A fruit seller at a market stall",
+      "student_role": "Herself, a customer",
+      "lines": [
+        {
+          "who": "T",
+          "en": "Hi there! Can I help you?"
+        },
+        {
+          "who": "S",
+          "en": "Yes. How much are these apples?",
+          "zh": "是的，這些蘋果多少錢？"
+        },
+        {
+          "who": "T",
+          "en": "They're thirty dollars each, or one hundred for four."
+        },
+        {
+          "who": "S",
+          "en": "OK. I'd like four, please.",
+          "zh": "好，我要四顆，謝謝。"
+        },
+        {
+          "who": "T",
+          "en": "Sure. Anything else?"
+        },
+        {
+          "who": "S",
+          "en": "How much is that watermelon?",
+          "zh": "那顆西瓜多少錢？"
+        },
+        {
+          "who": "T",
+          "en": "That one is one hundred fifty dollars."
+        },
+        {
+          "who": "S",
+          "en": "Hmm, that's a little expensive. Just the apples, please.",
+          "zh": "嗯，有點貴。只要蘋果就好，謝謝。"
+        },
+        {
+          "who": "T",
+          "en": "No problem. That's one hundred dollars. Do you need a bag?"
+        },
+        {
+          "who": "S",
+          "en": "No, thanks. Here you go.",
+          "zh": "不用，謝謝。給你。"
+        }
+      ]
+    },
+    {
+      "level": "challenge",
+      "title": "Buying a jacket at a clothing store",
+      "setup_zh": "你在服飾店逛街，看到一件喜歡的外套。問價錢、試穿、換尺寸和顏色，最後刷卡結帳。",
+      "teacher_role": "A sales clerk at a clothing store",
+      "student_role": "Herself, a shopper",
+      "lines": [
+        {
+          "who": "T",
+          "en": "Hi! Are you looking for anything special today?"
+        },
+        {
+          "who": "S",
+          "en": "I'm just looking, thanks.",
+          "zh": "我只是看看，謝謝。"
+        },
+        {
+          "who": "T",
+          "en": "OK, just let me know if you need any help."
+        },
+        {
+          "who": "S",
+          "en": "Excuse me. How much is this jacket?",
+          "zh": "不好意思，這件外套多少錢？"
+        },
+        {
+          "who": "T",
+          "en": "It's on sale today: two thousand four hundred dollars."
+        },
+        {
+          "who": "S",
+          "en": "Can I try it on?",
+          "zh": "我可以試穿嗎？"
+        },
+        {
+          "who": "T",
+          "en": "Sure! The fitting room is over there. ... So, how is it?"
+        },
+        {
+          "who": "S",
+          "en": "It's a little too big. Do you have a smaller size?",
+          "zh": "有點太大了，有小一點的尺寸嗎？"
+        },
+        {
+          "who": "T",
+          "en": "Let me check... Yes, here's a medium. We also have it in black."
+        },
+        {
+          "who": "S",
+          "en": "This is perfect. I'll take the black one.",
+          "zh": "這件剛好。我要黑色的。"
+        },
+        {
+          "who": "T",
+          "en": "Great. How would you like to pay?"
+        },
+        {
+          "who": "S",
+          "en": "Can I pay by card? And can I have the receipt, please?",
+          "zh": "可以刷卡嗎？然後可以給我收據嗎？"
+        }
+      ],
+      "teacher_twists": [
+        "Say a confusing price fast ('two thousand four hundred fifteen') so she has to check: 'Sorry, fifteen or fifty?'",
+        "Say the card machine is broken — 'Sorry, cash only today' — and she must react: ask where the ATM is, or pay cash and check her change.",
+        "Upsell: 'These pants go great with the jacket, and they're on sale too!' — she must ask the price with 'these' and accept or refuse politely."
+      ]
+    }
+  ],
+  "homework_zh": [
+    "在家找 5 樣東西，用英文問價錢並回答自己，例如 How much are these shoes? They're 1,200 dollars. 注意單數用 is、複數用 are。",
+    "逛街或網購時，用英文唸出 5 個看到的價錢，例如 three hundred ninety-nine dollars。",
+    "練習長短母音 cheap／chip、these／this、feet／fit，每組唸 5 次並錄音傳給老師。"
+  ]
+}

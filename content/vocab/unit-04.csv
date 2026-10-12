@@ -1,0 +1,21 @@
+﻿id,unit_no,unit_en,unit_zh,english,chinese,ipa,sounds_like,example,example_zh,tip_zh
+u04-01,4,Food & Ordering,食物與點餐,menu,菜單,/ˈmɛnju/,MEN-yoo,Do you have an English menu?,你們有英文菜單嗎？,
+u04-02,4,Food & Ordering,食物與點餐,water,水,/ˈwɔɾɚ/,WAH-der,"A glass of water, please.",請給我一杯水。,美式的 t 像輕輕的 d：WAH-der
+u04-03,4,Food & Ordering,食物與點餐,coffee,咖啡,/ˈkɔfi/,KAW-fee,I need a coffee every morning.,我每天早上都需要一杯咖啡。,重音在前：KAW-fee，不是 ka-FEI
+u04-04,4,Food & Ordering,食物與點餐,milk tea,奶茶,/ˈmɪlk ˌti/,MILK-tee,Bubble milk tea is from Taiwan.,珍珠奶茶來自台灣。,milk 結尾不要加「ㄜ」，不是 milk-u
+u04-05,4,Food & Ordering,食物與點餐,chicken,雞肉,/ˈtʃɪkən/,CHIK-un,The chicken here is really good.,這裡的雞肉很好吃。,
+u04-06,4,Food & Ordering,食物與點餐,rice,飯；米,/raɪs/,RICE,Can I get more rice?,可以再多給我一點飯嗎？,r 要捲舌，不然聽起來像 lice（蝨子）
+u04-07,4,Food & Ordering,食物與點餐,vegetables,蔬菜,/ˈvɛdʒtəbəlz/,VEJ-tuh-bulz,I try to eat more vegetables.,我盡量多吃蔬菜。,只唸三個音節：VEJ-tuh-bulz
+u04-08,4,Food & Ordering,食物與點餐,delicious,好吃的,/dɪˈlɪʃəs/,dih-LISH-us,"Wow, this soup is delicious!",哇，這個湯好好喝！,重音在中間：dih-LISH-us
+u04-09,4,Food & Ordering,食物與點餐,hungry,餓的,/ˈhʌŋɡri/,HUNG-gree,I'm so hungry. Let's eat!,我好餓，我們去吃飯吧！,別和 angry（生氣）搞混：HUNG-gree
+u04-10,4,Food & Ordering,食物與點餐,breakfast,早餐,/ˈbrɛkfəst/,BREK-fust,I usually have breakfast at home.,我通常在家吃早餐。,
+u04-11,4,Food & Ordering,食物與點餐,less sugar,少糖,/ˌlɛs ˈʃʊɡɚ/,less-SHUG-er,"Green tea, less sugar, please.",綠茶少糖，謝謝。,半糖可以說 half sugar
+u04-12,4,Food & Ordering,食物與點餐,no ice,去冰,/ˌnoʊ ˈaɪs/,noh-ICE,"Black tea, no ice, please.",紅茶去冰，謝謝。,少冰說 less ice，去冰說 no ice
+u04-13,4,Food & Ordering,食物與點餐,"A table for two, please.",兩位，謝謝。,/ə ˈteɪbəl fər ˈtu pliz/,uh-TAY-bul-fer-TOO-pleez,"Hi! A table for two, please.",你好！兩位，謝謝。,進餐廳先說人數：for two、for four
+u04-14,4,Food & Ordering,食物與點餐,What do you recommend?,你推薦什麼？,/ˌwʌt də jə ˌrɛkəˈmɛnd/,wut-duh-yuh-rek-uh-MEND,It's my first time here. What do you recommend?,我第一次來，你推薦什麼？,重音在最後：rek-uh-MEND
+u04-15,4,Food & Ordering,食物與點餐,"I'd like the beef noodles, please.",我要牛肉麵，謝謝。,/aɪd ˈlaɪk ðə ˈbif ˌnudəlz pliz/,ide-LIKE-thuh-BEEF-noo-dulz-pleez,"I'd like the beef noodles, please. Not too spicy.",我要牛肉麵，不要太辣，謝謝。,I'd like 比 I want 有禮貌多了
+u04-16,4,Food & Ordering,食物與點餐,"Can I have a fork, please?",可以給我一支叉子嗎？,/kən aɪ ˌhæv ə ˈfɔrk pliz/,kuh-nye-HAV-uh-FORK-pleez,"Excuse me, can I have a fork, please?",不好意思，可以給我一支叉子嗎？,Can I 連起來唸：kuh-nye
+u04-17,4,Food & Ordering,食物與點餐,Is it spicy?,會辣嗎？,/ɪz ɪt ˈspaɪsi/,iz-it-SPY-see,This curry looks good. Is it spicy?,這個咖哩看起來不錯，會辣嗎？,
+u04-18,4,Food & Ordering,食物與點餐,For here or to go?,內用還是外帶？,/fər ˈhɪr ɔr tə ˈɡoʊ/,fer-HEER-or-tuh-GOH,"For here or to go? — To go, please.",內用還是外帶？——外帶，謝謝。,外帶說 to go，內用說 for here
+u04-19,4,Food & Ordering,食物與點餐,Anything else?,還需要別的嗎？,/ˌɛniθɪŋ ˈɛls/,en-ee-thing-ELSE,One coffee. Anything else?,一杯咖啡。還需要別的嗎？,"不用了就說 That's all, thanks."
+u04-20,4,Food & Ordering,食物與點餐,"Check, please.",麻煩買單。,/ˈtʃɛk ˌpliz/,CHEK-pleez,"Excuse me! Check, please.",不好意思！麻煩買單。,

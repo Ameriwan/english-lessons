@@ -1,0 +1,238 @@
+{
+  "unit_no": 13,
+  "phase": 3,
+  "title_en": "Telling Stories (Past)",
+  "title_zh": "說說過去的事",
+  "goals": [
+    "Talk about past events using the past simple (regular -ed and common irregular verbs).",
+    "Tell a short story in order with at first, after that, suddenly, finally.",
+    "Pronounce -ed endings correctly as /t/, /d/, or /ɪd/.",
+    "Keep a story going with listener reactions like 'And then what happened?'"
+  ],
+  "warmup": {
+    "easy": [
+      "What did you eat for breakfast today?",
+      "Did you go out yesterday?",
+      "What time did you go to bed last night?"
+    ],
+    "medium": [
+      "What did you do last weekend?",
+      "Where did you go on your last holiday?",
+      "What did you do for Chinese New Year this year?"
+    ],
+    "hard": [
+      "Tell me about a funny thing that happened to you recently.",
+      "What was your life like when you were a kid?",
+      "Tell me about a day when everything went wrong."
+    ]
+  },
+  "key_phrases": [
+    {
+      "en": "What did you do last weekend?",
+      "zh": "你上週末做了什麼？"
+    },
+    {
+      "en": "Guess what?",
+      "zh": "你猜怎麼了？"
+    },
+    {
+      "en": "You won't believe what happened.",
+      "zh": "你一定不敢相信發生了什麼事。"
+    },
+    {
+      "en": "At first, ...",
+      "zh": "一開始……"
+    },
+    {
+      "en": "After that, ...",
+      "zh": "在那之後……"
+    },
+    {
+      "en": "Suddenly, ...",
+      "zh": "突然……"
+    },
+    {
+      "en": "Finally, ...",
+      "zh": "最後……"
+    },
+    {
+      "en": "That's when I realized ...",
+      "zh": "就在那時我才發現……"
+    },
+    {
+      "en": "And then what happened?",
+      "zh": "然後呢？發生了什麼事？"
+    },
+    {
+      "en": "Long story short, ...",
+      "zh": "長話短說……"
+    }
+  ],
+  "grammar": {
+    "point_en": "Past simple: regular -ed verbs and common irregular verbs",
+    "point_zh": "過去式：規則動詞加 -ed 和常見不規則動詞",
+    "explain_zh": "中文的動詞不會變化，靠「昨天」、「了」來表示過去。英文的動詞本身要改成過去式，就算句子裡已經有 yesterday 也一樣。大部分動詞加 -ed（walk → walked），但很多常用動詞是不規則的（go → went、see → saw、eat → ate）。問句和否定句用 did，後面的動詞要回到原形。",
+    "examples": [
+      {
+        "en": "I watched a movie last night.",
+        "zh": "我昨晚看了一部電影。"
+      },
+      {
+        "en": "We went to the night market on Saturday.",
+        "zh": "我們星期六去了夜市。"
+      },
+      {
+        "en": "Did you see the news?",
+        "zh": "你有看到新聞嗎？"
+      },
+      {
+        "en": "I didn't go to work yesterday.",
+        "zh": "我昨天沒去上班。"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Yesterday I go to the market.",
+      "right": "Yesterday I went to the market.",
+      "why_zh": "就算有 yesterday，動詞還是要改成過去式。英文的時間要靠動詞本身表現。"
+    }
+  },
+  "sound_focus": {
+    "sound_id": "final-consonants",
+    "words": [
+      "watched",
+      "stayed",
+      "visited",
+      "happened",
+      "walked",
+      "realized"
+    ],
+    "sentence": "I stayed home, watched a movie, and waited for my friend."
+  },
+  "mini_lesson": [
+    "Step 1 (5 min): Warm-up. Ask 2-3 warm-up questions. Don't correct yet; just note which past-tense verbs she uses or misses.",
+    "Step 2 (8 min): -ed sounds. Draw three columns: /t/ (watched, walked), /d/ (stayed, happened), /ɪd/ (visited, waited). Say each word, she repeats. Then she sorts cooked, played, needed, cleaned, wanted, shopped into the columns and reads them aloud.",
+    "Step 3 (7 min): Irregular verbs. Quick drill: you say go, see, eat, have, take, meet, buy; she answers went, saw, ate, had, took, met, bought and makes one short sentence with each.",
+    "Step 4 (5 min): Story order. Model a 4-sentence story about your weekend using At first / After that / Suddenly / Finally. She builds her own 4-sentence story with the same words.",
+    "Step 5 (5 min): Listener reactions. Tell a short story in small pieces; after each piece she reacts with 'Really?' or 'And then what happened?' Then switch roles."
+  ],
+  "roleplays": [
+    {
+      "level": "easy",
+      "title": "Monday Morning Chat",
+      "setup_zh": "星期一早上在公司茶水間遇到同事，聊聊週末做了什麼。",
+      "teacher_role": "Coworker",
+      "student_role": "Herself",
+      "lines": [
+        {
+          "who": "T",
+          "en": "Morning! How was your weekend?"
+        },
+        {
+          "who": "S",
+          "en": "It was good, thanks. I stayed home on Saturday.",
+          "zh": "很好，謝謝。我星期六待在家。"
+        },
+        {
+          "who": "T",
+          "en": "Nice and relaxing. What did you do on Sunday?"
+        },
+        {
+          "who": "S",
+          "en": "I went to ___ with my ___.",
+          "zh": "我和我的___去了___。"
+        },
+        {
+          "who": "T",
+          "en": "Oh, that sounds fun! Did you eat anything good?"
+        },
+        {
+          "who": "S",
+          "en": "Yes! We ate ___. It was delicious.",
+          "zh": "有！我們吃了___，很好吃。"
+        },
+        {
+          "who": "T",
+          "en": "I'm jealous. I just cleaned my apartment all weekend."
+        },
+        {
+          "who": "S",
+          "en": "Oh no! Maybe next weekend will be better.",
+          "zh": "喔不！也許下個週末會比較好。"
+        }
+      ]
+    },
+    {
+      "level": "challenge",
+      "title": "You Won't Believe What Happened",
+      "setup_zh": "跟朋友講一件最近發生的倒楣事：手機忘在計程車上。朋友會一直追問細節，用過去式把故事說完。",
+      "teacher_role": "Friend",
+      "student_role": "Herself, telling the story",
+      "lines": [
+        {
+          "who": "T",
+          "en": "Hey, you look tired. Is everything OK?"
+        },
+        {
+          "who": "S",
+          "en": "You won't believe what happened yesterday.",
+          "zh": "你一定不敢相信我昨天發生了什麼事。"
+        },
+        {
+          "who": "T",
+          "en": "Oh no. What happened?"
+        },
+        {
+          "who": "S",
+          "en": "At first, everything was fine. I took a taxi to ___.",
+          "zh": "一開始一切都很好。我搭計程車去___。"
+        },
+        {
+          "who": "T",
+          "en": "OK. And then?"
+        },
+        {
+          "who": "S",
+          "en": "After that, I paid and got out. Suddenly, I realized my phone was gone!",
+          "zh": "之後我付錢下車。突然，我發現手機不見了！"
+        },
+        {
+          "who": "T",
+          "en": "No way! What did you do?"
+        },
+        {
+          "who": "S",
+          "en": "I borrowed a phone at a convenience store and called my number.",
+          "zh": "我在便利商店借電話，打我自己的號碼。"
+        },
+        {
+          "who": "T",
+          "en": "Smart. Did anyone answer?"
+        },
+        {
+          "who": "S",
+          "en": "Finally, the driver answered. Long story short, he brought it back!",
+          "zh": "最後司機接了。長話短說，他把手機送回來了！"
+        },
+        {
+          "who": "T",
+          "en": "Wow, you were lucky. So what did you learn?"
+        },
+        {
+          "who": "S",
+          "en": "Next time, I'll check my bag before I get out!",
+          "zh": "下次下車前，我一定會先檢查包包！"
+        }
+      ],
+      "teacher_twists": [
+        "Ask for extra detail at any point ('What time was it?', 'Where were you going?'); she must answer in the past tense.",
+        "Change the ending: say 'Wait, so the driver never answered?' so she has to invent a new ending with 'Finally, ...'.",
+        "Pretend you didn't hear ('Sorry, you lost your what?') so she repeats the key sentence clearly, with the -ed ending."
+      ]
+    }
+  ],
+  "homework_zh": [
+    "用 At first / After that / Suddenly / Finally 寫一個 5 句的小故事，主題是你上週末做的事，下次上課唸給老師聽。",
+    "練習 -ed 的三種發音：每天把 stayed、watched、visited 各唸 5 次，用手機錄音，聽聽看結尾有沒有發出來。",
+    "看一段 2 分鐘的英文影片或 vlog，記下 5 個過去式動詞。"
+  ]
+}

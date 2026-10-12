@@ -1,0 +1,238 @@
+{
+  "unit_no": 14,
+  "phase": 3,
+  "title_en": "Opinions & Feelings",
+  "title_zh": "表達意見與感受",
+  "goals": [
+    "Give and ask for opinions with I think / In my opinion / What do you think?",
+    "Support an opinion with because, and connect ideas with so and but.",
+    "Describe feelings with -ed adjectives (worried, excited, disappointed) and stress them correctly.",
+    "Agree and disagree politely without sounding rude."
+  ],
+  "warmup": {
+    "easy": [
+      "How do you feel today?",
+      "Do you like rainy days?",
+      "What's your favorite food? Why?"
+    ],
+    "medium": [
+      "What do you think of online shopping?",
+      "Which is better, a scooter or a car? Why?",
+      "What makes you stressed out?"
+    ],
+    "hard": [
+      "Should children have smartphones? Why or why not?",
+      "Tell me about something that disappointed you recently.",
+      "Is it better to live in a big city or a small town? Why?"
+    ]
+  },
+  "key_phrases": [
+    {
+      "en": "I think ... because ...",
+      "zh": "我覺得……因為……"
+    },
+    {
+      "en": "In my opinion, ...",
+      "zh": "我認為……"
+    },
+    {
+      "en": "What do you think?",
+      "zh": "你覺得呢？"
+    },
+    {
+      "en": "How do you feel about ...?",
+      "zh": "你對……有什麼看法？"
+    },
+    {
+      "en": "I agree.",
+      "zh": "我同意。"
+    },
+    {
+      "en": "I see what you mean, but ...",
+      "zh": "我懂你的意思，但是……"
+    },
+    {
+      "en": "I'm not sure about that.",
+      "zh": "這我不太確定耶。"
+    },
+    {
+      "en": "It depends.",
+      "zh": "看情況。"
+    },
+    {
+      "en": "To be honest, ...",
+      "zh": "老實說……"
+    },
+    {
+      "en": "That makes sense.",
+      "zh": "有道理。"
+    }
+  ],
+  "grammar": {
+    "point_en": "Giving reasons and linking ideas with because, so, and but",
+    "point_zh": "用 because、so、but 說理由、連接想法",
+    "explain_zh": "中文常說「因為……所以……」，兩個一起用。英文只能選一個：用了 because 就不要再加 so。because 後面接理由，so 後面接結果，but 用來說相反的想法。學會這三個字，你的意見會聽起來更完整、更自然。",
+    "examples": [
+      {
+        "en": "I like Tainan because the food is amazing.",
+        "zh": "我喜歡台南，因為那裡的東西很好吃。"
+      },
+      {
+        "en": "It was raining, so I took a taxi.",
+        "zh": "那時在下雨，所以我搭了計程車。"
+      },
+      {
+        "en": "The phone is nice, but it's too expensive.",
+        "zh": "那支手機很好，但是太貴了。"
+      },
+      {
+        "en": "I think online shopping is convenient because it saves time.",
+        "zh": "我覺得網路購物很方便，因為很省時間。"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Because it was raining, so I stayed home.",
+      "right": "It was raining, so I stayed home.",
+      "why_zh": "中文「因為……所以……」可以一起用，但英文 because 和 so 只能選一個。"
+    }
+  },
+  "sound_focus": {
+    "sound_id": "stress",
+    "words": [
+      "opinion",
+      "comfortable",
+      "interesting",
+      "disappointed",
+      "embarrassed",
+      "excited"
+    ],
+    "sentence": "In my opinion, it was interesting, but I was a little disappointed."
+  },
+  "mini_lesson": [
+    "Step 1 (5 min): Warm-up. Ask 2-3 warm-up questions. After every answer, ask 'Why?' so she gets used to adding a reason.",
+    "Step 2 (7 min): Feeling words + stress. Show worried, excited, disappointed, embarrassed, stressed out, comfortable. Clap on the stressed syllable together (dis-a-POINT-ed, em-BAR-rassed, COM-for-ta-ble). She makes one sentence: 'I felt ___ when ___.'",
+    "Step 3 (8 min): because / so / but. Write a half-sentence ('I like summer ...') and she finishes it three ways: with because, with so, and with but. Point out the Chinese trap: never 'because ... so ...' together.",
+    "Step 4 (5 min): Agree/disagree ladder. Read 4 simple opinions ('Coffee is better than tea.', 'Scooters are dangerous.'). She answers with I agree / It depends / I see what you mean, but ... / I'm not sure about that, plus one reason.",
+    "Step 5 (5 min): Opinion ping-pong. Give a topic; she gives her opinion with a reason, then asks you 'What do you think?' or 'How do you feel about it?' Swap three times."
+  ],
+  "roleplays": [
+    {
+      "level": "easy",
+      "title": "What Should We Eat?",
+      "setup_zh": "和朋友決定晚餐要吃什麼，兩個人各自說出想法和理由。",
+      "teacher_role": "Friend",
+      "student_role": "Herself",
+      "lines": [
+        {
+          "who": "T",
+          "en": "I'm so hungry. What do you want for dinner?"
+        },
+        {
+          "who": "S",
+          "en": "I think hot pot is a good idea.",
+          "zh": "我覺得吃火鍋不錯。"
+        },
+        {
+          "who": "T",
+          "en": "Hot pot? Why?"
+        },
+        {
+          "who": "S",
+          "en": "Because it's cold today, and I love ___.",
+          "zh": "因為今天很冷，而且我很愛___。"
+        },
+        {
+          "who": "T",
+          "en": "Hmm, but hot pot is expensive. What about noodles?"
+        },
+        {
+          "who": "S",
+          "en": "I see what you mean, but I really want hot pot.",
+          "zh": "我懂你的意思，但我真的很想吃火鍋。"
+        },
+        {
+          "who": "T",
+          "en": "OK, OK. What do you think of the place near the MRT station?"
+        },
+        {
+          "who": "S",
+          "en": "It's great. The food is fresh, so it's worth it.",
+          "zh": "很棒。食材很新鮮，所以很值得。"
+        }
+      ]
+    },
+    {
+      "level": "challenge",
+      "title": "Should Kids Have Smartphones?",
+      "setup_zh": "和朋友聊到小孩該不該有自己的手機。你要說出意見、給理由，也要禮貌地表達不同意。",
+      "teacher_role": "Friend with strong opinions",
+      "student_role": "Herself",
+      "lines": [
+        {
+          "who": "T",
+          "en": "My niece is only eight, and she already has a smartphone!"
+        },
+        {
+          "who": "S",
+          "en": "Really? How do you feel about that?",
+          "zh": "真的嗎？你對這件事有什麼看法？"
+        },
+        {
+          "who": "T",
+          "en": "I think it's fine. Every kid has one now."
+        },
+        {
+          "who": "S",
+          "en": "I see what you mean, but I'm a little worried.",
+          "zh": "我懂你的意思，但我有點擔心。"
+        },
+        {
+          "who": "T",
+          "en": "Worried? Why?"
+        },
+        {
+          "who": "S",
+          "en": "Because kids watch videos all day, so they don't play outside.",
+          "zh": "因為小孩整天看影片，所以都不出去玩。"
+        },
+        {
+          "who": "T",
+          "en": "But a phone is useful. Parents can call them anytime."
+        },
+        {
+          "who": "S",
+          "en": "That makes sense. To be honest, it depends on the age.",
+          "zh": "有道理。老實說，要看年紀。"
+        },
+        {
+          "who": "T",
+          "en": "OK. So in your opinion, what age is good?"
+        },
+        {
+          "who": "S",
+          "en": "In my opinion, about twelve, but only with rules.",
+          "zh": "我認為大概十二歲，但一定要有規定。"
+        },
+        {
+          "who": "T",
+          "en": "Hmm, I'm not sure about that, but it's a fair point."
+        },
+        {
+          "who": "S",
+          "en": "What do you think? Should parents check their kids' phones?",
+          "zh": "你覺得呢？父母應該檢查小孩的手機嗎？"
+        }
+      ],
+      "teacher_twists": [
+        "Disagree strongly with everything ('No, I totally disagree!') so she has to stay calm and give a second reason.",
+        "Ask 'Why?' twice in a row to push her to add more detail with because and so.",
+        "Ask how she would feel if her own child wanted a phone; she must answer with a feeling word (worried, excited, stressed out)."
+      ]
+    }
+  ],
+  "homework_zh": [
+    "選三個話題（例如：網路購物、騎機車、早餐店），每個話題用「I think ... because ...」寫一句自己的意見。",
+    "練習重音：disappointed、embarrassed、comfortable、interesting 每天各唸 5 次，唸到重音的地方拍一下手。",
+    "這週遇到開心或生氣的事，用一句英文記下來：I felt ___ because ___."
+  ]
+}

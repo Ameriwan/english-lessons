@@ -1,0 +1,21 @@
+﻿id,unit_no,unit_en,unit_zh,english,chinese,ipa,sounds_like,example,example_zh,tip_zh
+u14-01,14,Opinions & Feelings,表達意見與感受,I think ...,我覺得……,/aɪ ˈθɪŋk/,eye-THINK,I think this restaurant is too expensive.,我覺得這家餐廳太貴了。,
+u14-02,14,Opinions & Feelings,表達意見與感受,"In my opinion, ...",我認為……,/ɪn ˈmaɪ əˈpɪnjən/,in-my-uh-PIN-yun,"In my opinion, the MRT is faster than driving.",我認為搭捷運比開車快。,opinion 重音在第二音節 PIN
+u14-03,14,Opinions & Feelings,表達意見與感受,interesting,有趣的；有意思的,/ˈɪntrəstɪŋ/,IN-truh-sting,That movie was really interesting.,那部電影真的很有意思。,美國人常只唸三個音節：IN-truh-sting
+u14-04,14,Opinions & Feelings,表達意見與感受,boring,無聊的,/ˈbɔrɪŋ/,BOR-ing,The meeting was so boring.,那個會議好無聊。,
+u14-05,14,Opinions & Feelings,表達意見與感受,excited,興奮的；很期待,/ɪkˈsaɪtɪd/,ik-SY-tid,I'm excited about my trip to Japan.,我很期待去日本玩。,人覺得興奮用 excited，事情好玩用 exciting
+u14-06,14,Opinions & Feelings,表達意見與感受,worried,擔心的,/ˈwɝid/,WUR-eed,I'm worried about my son's exam.,我很擔心我兒子的考試。,
+u14-07,14,Opinions & Feelings,表達意見與感受,disappointed,失望的,/ˌdɪsəˈpɔɪntɪd/,dis-uh-POYN-tid,I was disappointed with the food.,我對那裡的食物很失望。,重音在 POINT，不在第一音節
+u14-08,14,Opinions & Feelings,表達意見與感受,embarrassed,尷尬的；不好意思,/ɪmˈbærəst/,im-BAIR-ust,I was so embarrassed when I fell down.,我跌倒的時候超尷尬的。,-ed 唸 /t/，重音在第二音節 BAR
+u14-09,14,Opinions & Feelings,表達意見與感受,stressed out,壓力很大,/ˌstrɛst ˈaʊt/,strest-OUT,I'm really stressed out at work.,我工作壓力很大。,t 和 out 連起來唸：stres-TOUT
+u14-10,14,Opinions & Feelings,表達意見與感受,comfortable,舒服的；自在的,/ˈkʌmftɚbəl/,KUMF-ter-bul,This sofa is really comfortable.,這張沙發很舒服。,只唸三個音節 KUMF-ter-bul，重音在前
+u14-11,14,Opinions & Feelings,表達意見與感受,because,因為,/bɪˈkʌz/,bih-KUZ,I like Tainan because the food is great.,我喜歡台南，因為那裡東西很好吃。,because 和 so 不能一起用
+u14-12,14,Opinions & Feelings,表達意見與感受,What do you think?,你覺得呢？,/ˌwʌt də jə ˈθɪŋk/,wut-duh-yuh-THINK,I like this color. What do you think?,我喜歡這個顏色，你覺得呢？,
+u14-13,14,Opinions & Feelings,表達意見與感受,How do you feel about ...?,你對……有什麼看法？,/ˌhaʊ də jə ˈfil əˌbaʊt/,how-duh-yuh-FEEL-uh-bowt,How do you feel about working from home?,你覺得在家工作怎麼樣？,
+u14-14,14,Opinions & Feelings,表達意見與感受,I agree.,我同意。,/aɪ əˈɡri/,eye-uh-GREE,I agree. It's too hot to go out.,我同意，太熱了不想出門。,不要說 I am agree，agree 是動詞
+u14-15,14,Opinions & Feelings,表達意見與感受,I'm not sure about that.,這我不太確定耶。,/aɪm ˌnɑt ˈʃʊr əˌbaʊt ˌðæt/,ime-not-SHOOR-uh-bowt-that,"Hmm, I'm not sure about that idea.",嗯，這個主意我不太確定耶。,比 I disagree 委婉，比較有禮貌
+u14-16,14,Opinions & Feelings,表達意見與感受,That makes sense.,有道理。,/ˌðæt meɪks ˈsɛns/,that-mayks-SENSE,That makes sense. Let's do it your way.,有道理，就照你的方式做吧。,
+u14-17,14,Opinions & Feelings,表達意見與感受,It depends.,看情況。,/ɪt dɪˈpɛndz/,it-dih-PENDZ,It depends on the weather.,要看天氣。,depends 結尾的 /dz/ 不要漏掉
+u14-18,14,Opinions & Feelings,表達意見與感受,"To be honest, ...",老實說……,/tə bi ˈɑnɪst/,tuh-bee-AH-nist,"To be honest, I don't like durian.",老實說，我不喜歡榴槤。,honest 的 h 不發音
+u14-19,14,Opinions & Feelings,表達意見與感受,I can't stand ...,我受不了……,/aɪ ˌkænt ˈstænd/,eye-kant-STAND,"I can't stand hot, humid weather.",我受不了又熱又濕的天氣。,can't 的 a 要拉長，才不會聽成 can
+u14-20,14,Opinions & Feelings,表達意見與感受,"I see what you mean, but ...",我懂你的意思，但是……,/aɪ ˈsi wʌtʃə ˈmin bət/,eye-SEE-wuh-chuh-MEEN-but,"I see what you mean, but it's too expensive.",我懂你的意思，但是太貴了。,先認同再說 but，聽起來比較客氣

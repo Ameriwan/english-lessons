@@ -1,0 +1,21 @@
+﻿id,unit_no,unit_en,unit_zh,english,chinese,ipa,sounds_like,example,example_zh,tip_zh
+u09-01,9,Weather & Seasons,天氣與季節,weather,天氣,/ˈwɛðɚ/,WEH-ther,The weather is nice today.,今天天氣很好。,w 嘴唇要圓，th 要輕輕咬舌
+u09-02,9,Weather & Seasons,天氣與季節,sunny,晴朗的,/ˈsʌni/,SUN-ee,It's sunny and hot today.,今天出大太陽，很熱。,
+u09-03,9,Weather & Seasons,天氣與季節,cloudy,多雲的、陰天,/ˈklaʊdi/,KLOW-dee,"It's cloudy, but it's not raining.",陰陰的，但沒有下雨。,cl 中間不要加「ㄜ」音
+u09-04,9,Weather & Seasons,天氣與季節,rainy,下雨的,/ˈreɪni/,RAY-nee,Keelung is rainy in winter.,基隆冬天常下雨。,
+u09-05,9,Weather & Seasons,天氣與季節,windy,風很大的,/ˈwɪndi/,WIN-dee,It's very windy by the sea.,海邊風很大。,w 嘴唇嘟起來，牙齒不碰嘴唇
+u09-06,9,Weather & Seasons,天氣與季節,humid,潮濕、悶熱,/ˈhjumɪd/,HYOO-mid,Summer in Taiwan is very humid.,台灣夏天很潮濕悶熱。,開頭唸 hyoo，結尾 d 輕輕收
+u09-07,9,Weather & Seasons,天氣與季節,typhoon,颱風,/taɪˈfun/,ty-FOON,There's a typhoon coming this weekend.,這個週末有颱風要來。,重音在後面：ty-FOON
+u09-08,9,Weather & Seasons,天氣與季節,umbrella,雨傘,/ʌmˈbrɛlə/,um-BREL-uh,Don't forget your umbrella!,別忘了帶傘！,br 連在一起唸，重音在 BREL
+u09-09,9,Weather & Seasons,天氣與季節,temperature,氣溫,/ˈtɛmprətʃɚ/,TEM-pruh-cher,The temperature is 35 degrees today.,今天氣溫三十五度。,美國用華氏：35°C 約 95°F
+u09-10,9,Weather & Seasons,天氣與季節,winter,冬天,/ˈwɪntɚ/,WIN-ter,Winter in Taiwan is short.,台灣的冬天很短。,
+u09-11,9,Weather & Seasons,天氣與季節,summer,夏天,/ˈsʌmɚ/,SUM-er,I love summer fruit like mangoes.,我很愛夏天的水果，像芒果。,
+u09-12,9,Weather & Seasons,天氣與季節,fall,秋天,/fɔl/,FAWL,Fall is the best season in Taiwan.,秋天是台灣最棒的季節。,美式英文秋天多說 fall，也可說 autumn
+u09-13,9,Weather & Seasons,天氣與季節,What's the weather like today?,今天天氣怎麼樣？,/wʌts ðə ˈwɛðɚ laɪk təˈdeɪ/,wuts-thuh-WEH-ther-like-tuh-DAY,What's the weather like in Kaohsiung today?,今天高雄天氣怎麼樣？,這裡的 like 是「像」，不是「喜歡」
+u09-14,9,Weather & Seasons,天氣與季節,It's so hot today!,今天好熱！,/ɪts ˈsoʊ ˈhɑt təˈdeɪ/,its-so-HOT-tuh-day,It's so hot today! Let's get shaved ice.,今天好熱！我們去吃剉冰吧。,hot 尾音 t 要停住，不要唸成 ho
+u09-15,9,Weather & Seasons,天氣與季節,It's freezing!,冷死了！,/ɪts ˈfrizɪŋ/,its-FREE-zing,Close the window. It's freezing!,把窗戶關起來，冷死了！,誇張說法，覺得很冷就能用
+u09-16,9,Weather & Seasons,天氣與季節,It looks like rain.,看起來要下雨了。,/ɪt ˈlʊks laɪk ˈreɪn/,it-LOOKS-like-RAIN,Take an umbrella. It looks like rain.,帶把傘，看起來要下雨了。,
+u09-17,9,Weather & Seasons,天氣與季節,It's getting warmer.,天氣越來越暖了。,/ɪts ˈɡɛtɪŋ ˈwɔrmɚ/,its-GEH-ding-WOR-mer,Spring is here. It's getting warmer.,春天來了，天氣越來越暖。,warmer 的 w 要圓唇，不要唸成 v
+u09-18,9,Weather & Seasons,天氣與季節,What's your favorite season?,你最喜歡哪個季節？,/wʌts jɚ ˈfeɪvrɪt ˈsizən/,wuts-yer-FAY-vrit-SEE-zun,"What's your favorite season, and why?",你最喜歡哪個季節？為什麼？,favorite 的 v 上齒要碰下唇
+u09-19,9,Weather & Seasons,天氣與季節,It's hotter than yesterday.,比昨天還熱。,/ɪts ˈhɑtɚ ðən ˈjɛstɚˌdeɪ/,its-HAH-der-thun-YES-ter-day,"Wow, it's hotter than yesterday.",哇，比昨天還熱。,than 弱讀成 thun，也要咬舌
+u09-20,9,Weather & Seasons,天氣與季節,Bring a jacket just in case.,帶件外套以防萬一。,/ˈbrɪŋ ə ˈdʒækɪt ˈdʒʌst ɪn ˈkeɪs/,bring-uh-JACK-it-just-in-KAYS,It might get cold. Bring a jacket just in case.,可能會變冷，帶件外套以防萬一。,just in case = 以防萬一

@@ -1,0 +1,21 @@
+﻿id,unit_no,unit_en,unit_zh,english,chinese,ipa,sounds_like,example,example_zh,tip_zh
+u07-01,7,Daily Routines,日常作息,wake up,醒來,/weɪk ˈʌp/,way-KUP,I wake up at six thirty.,我六點半醒來。,wake up 要連起來唸：way-kup
+u07-02,7,Daily Routines,日常作息,take a shower,洗澡（淋浴）,/teɪk ə ˈʃaʊɚ/,tay-kuh-SHOW-er,I take a shower every night.,我每天晚上洗澡。,「洗澡」日常多說 take a shower
+u07-03,7,Daily Routines,日常作息,brush my teeth,刷牙,/ˈbrʌʃ maɪ ˈtiθ/,brush-my-TEETH,I brush my teeth after breakfast.,我吃完早餐後刷牙。,teeth 結尾是咬舌 th，不是 s
+u07-04,7,Daily Routines,日常作息,get dressed,穿衣服,/ɡɛt ˈdrɛst/,get-DREST,She gets dressed very quickly.,她穿衣服很快。,dressed 的 -ed 唸 /t/，不要加「的」音
+u07-05,7,Daily Routines,日常作息,have breakfast,吃早餐,/hæv ˈbrɛkfəst/,hav-BREK-fust,We have breakfast at a breakfast shop.,我們在早餐店吃早餐。,break 在這裡唸 brek，不唸 brake
+u07-06,7,Daily Routines,日常作息,commute,通勤,/kəˈmjut/,kuh-MYOOT,My commute is about an hour.,我通勤大約一個小時。,
+u07-07,7,Daily Routines,日常作息,take a nap,睡午覺,/teɪk ə ˈnæp/,tay-kuh-NAP,My mom takes a nap after lunch.,我媽媽午餐後會睡午覺。,nap 尾音 p 嘴唇閉上就好，不加「ㄜ」
+u07-08,7,Daily Routines,日常作息,do the dishes,洗碗,/du ðə ˈdɪʃɪz/,doo-thuh-DISH-iz,My son does the dishes after dinner.,我兒子晚餐後洗碗。,
+u07-09,7,Daily Routines,日常作息,do the laundry,洗衣服,/du ðə ˈlɔndri/,doo-thuh-LAWN-dree,I do the laundry on Sundays.,我星期天洗衣服。,l 和 r 都要唸清楚：LAWN-dree
+u07-10,7,Daily Routines,日常作息,always,總是,/ˈɔlweɪz/,AWL-wayz,I always drink coffee in the morning.,我早上總是喝咖啡。,頻率副詞放在一般動詞前：I always…
+u07-11,7,Daily Routines,日常作息,usually,通常,/ˈjuʒuəli/,YOO-zhoo-uh-lee,I usually take the MRT to work.,我通常搭捷運上班。,中間是 /ʒ/ 音，像輕輕的「日」
+u07-12,7,Daily Routines,日常作息,sometimes,有時候,/ˈsʌmtaɪmz/,SUM-tymz,Sometimes I cook dinner at home.,我有時候在家煮晚餐。,
+u07-13,7,Daily Routines,日常作息,What time do you get up?,你幾點起床？,/wʌt ˈtaɪm də jə ɡɛt ˈʌp/,wut-TIME-duh-yuh-geh-DUP,What time do you get up on weekdays?,你平日幾點起床？,do you 常弱化成 duh-yuh
+u07-14,7,Daily Routines,日常作息,I'm a morning person.,我是早起型的人。,/aɪm ə ˈmɔrnɪŋ ˌpɝsən/,aim-uh-MOR-ning-pur-sun,"I'm a morning person, so I get up early.",我是早起型的人，所以很早起床。,
+u07-15,7,Daily Routines,日常作息,I'm a night owl.,我是夜貓子。,/aɪm ə ˈnaɪt ˌaʊl/,aim-uh-NITE-owl,"I'm a night owl, so mornings are hard.",我是夜貓子，所以早上很難熬。,英文的「夜貓子」是貓頭鷹 owl
+u07-16,7,Daily Routines,日常作息,How do you get to work?,你怎麼去上班？,/haʊ də jə ɡɛt tə ˈwɝk/,how-duh-yuh-get-tuh-WURK,How do you get to work every day?,你每天怎麼去上班？,
+u07-17,7,Daily Routines,日常作息,It takes about thirty minutes.,大概要三十分鐘。,/ɪt ˈteɪks əˌbaʊt ˈθɝdi ˈmɪnɪts/,it-tayks-uh-bout-THUR-dee-MIN-its,"By scooter, it takes about thirty minutes.",騎機車大概要三十分鐘。,thirty 的 th 要咬舌，不是 s
+u07-18,7,Daily Routines,日常作息,I get home around six.,我大概六點到家。,/aɪ ɡɛt ˈhoʊm əˌraʊnd ˈsɪks/,eye-get-HOME-uh-round-SIKS,"On weekdays, I get home around six.",平日我大概六點到家。,回家不加 to：get home
+u07-19,7,Daily Routines,日常作息,I go to bed around eleven.,我大概十一點睡覺。,/aɪ ɡoʊ tə ˈbɛd əˌraʊnd ɪˈlɛvən/,eye-go-tuh-BED-uh-round-ih-LEV-un,I go to bed around eleven every night.,我每天晚上大概十一點睡覺。,
+u07-20,7,Daily Routines,日常作息,What's your daily routine?,你每天的作息是怎樣？,/wʌts jɚ ˈdeɪli ruˈtin/,wuts-yer-DAY-lee-roo-TEEN,What's your daily routine on weekends?,你週末的作息是怎樣？,routine 重音在後面：roo-TEEN

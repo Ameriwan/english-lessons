@@ -1,0 +1,21 @@
+﻿id,unit_no,unit_en,unit_zh,english,chinese,ipa,sounds_like,example,example_zh,tip_zh
+u15-01,15,Small Talk,閒聊,by the way,對了；順便一提,/baɪ ðə ˈweɪ/,by-thuh-WAY,"By the way, I love your bag.",對了，我好喜歡你的包包。,the 要輕輕伸出舌尖，不是 de
+u15-02,15,Small Talk,閒聊,anyway,總之；不管怎樣,/ˈɛniˌweɪ/,EN-ee-way,"Anyway, I should go. See you!",總之我該走了，再見！,
+u15-03,15,Small Talk,閒聊,actually,其實,/ˈæktʃuəli/,AK-choo-uh-lee,"Actually, I'm from Kaohsiung.",其實我是高雄人。,ct 連起來唸成 AK-choo
+u15-04,15,Small Talk,閒聊,Really?,真的嗎？,/ˈrili/,REE-lee,Really? That's amazing!,真的嗎？太厲害了！,語調要往上揚，表示驚訝或有興趣
+u15-05,15,Small Talk,閒聊,lately,最近,/ˈleɪtli/,LAYT-lee,Have you been busy lately?,你最近忙嗎？,
+u15-06,15,Small Talk,閒聊,you know,你知道的（口頭禪）,/jə ˈnoʊ/,yuh-NO,"It was, you know, a little strange.",那個……你知道的，有點怪。,想下一個字時可以用，但別每句都說
+u15-07,15,Small Talk,閒聊,kind of,有點,/ˈkaɪndə/,KYN-duh,I'm kind of tired today.,我今天有點累。,口語常連成 kinda
+u15-08,15,Small Talk,閒聊,pretty good,還不錯,/ˌprɪti ˈɡʊd/,prid-ee-GOOD,"My week was pretty good, thanks.",我這週還不錯，謝謝。,pretty 在這裡是「蠻」，不是「漂亮」
+u15-09,15,Small Talk,閒聊,Same here.,我也是。,/ˌseɪm ˈhɪr/,saym-HEER,Same here. I need a vacation too.,我也是，我也需要放個假。,
+u15-10,15,Small Talk,閒聊,Let me see ...,我想想看……,/ˌlɛt mi ˈsi/,let-mee-SEE,Let me see... I think it was Tuesday.,我想想……應該是星期二。,想答案時說這句，比沉默自然
+u15-11,15,Small Talk,閒聊,"Well, ...",嗯……（開頭語）,/wɛl/,WELL,"Well, it's a long story.",嗯，說來話長。,
+u15-12,15,Small Talk,閒聊,What have you been up to?,你最近在忙什麼？,/ˌwʌt əv jə bɪn ˈʌp tu/,wut-uv-yuh-bin-UP-too,Long time no see! What have you been up to?,好久不見！你最近在忙什麼？,have 輕輕唸成 /əv/，been 唸 /bɪn/
+u15-13,15,Small Talk,閒聊,How was your weekend?,你週末過得怎麼樣？,/ˌhaʊ wəz jɚ ˈwikɛnd/,how-wuz-yer-WEEK-end,Good morning! How was your weekend?,早安！你週末過得怎麼樣？,
+u15-14,15,Small Talk,閒聊,How about you?,那你呢？,/ˌhaʊ əˈbaʊtʃu/,how-uh-BOW-choo,I'm a teacher. How about you?,我是老師，那你呢？,about you 連起來唸 a-bow-choo
+u15-15,15,Small Talk,閒聊,Is it always this busy here?,這裡一直都這麼多人嗎？,/ɪz ɪt ˈɔlweɪz ðɪs ˈbɪzi ˌhɪr/,i-zit-AWL-wayz-this-BIZ-ee-heer,"Wow, so many people. Is it always this busy here?",哇，好多人。這裡一直都這麼多人嗎？,is it 連起來唸成 i-zit
+u15-16,15,Small Talk,閒聊,That sounds fun!,聽起來很好玩！,/ˌðæt saʊndz ˈfʌn/,that-sowndz-FUN,You went camping? That sounds fun!,你去露營？聽起來很好玩！,sounds 結尾的 /ndz/ 要發清楚
+u15-17,15,Small Talk,閒聊,"Oh, I didn't know that.",喔，我都不知道耶。,/oʊ aɪ ˈdɪdənt ˈnoʊ ˌðæt/,oh-eye-DID-unt-NO-that,"You speak Japanese? Oh, I didn't know that.",你會說日文？喔，我都不知道耶。,
+u15-18,15,Small Talk,閒聊,Do you live around here?,你住這附近嗎？,/də jə ˈlɪv əˌraʊnd ˈhɪr/,duh-yuh-LIV-uh-rownd-HEER,Do you live around here? I'm on Zhongshan Road.,你住這附近嗎？我住中山路。,live 是短音 /ɪ/，不要唸成 leave
+u15-19,15,Small Talk,閒聊,It was nice talking to you.,很高興跟你聊天。,/ɪt wəz ˈnaɪs ˈtɔkɪŋ tə ju/,it-wuz-NICE-TAW-king-tuh-yoo,I have to go. It was nice talking to you!,我得走了，很高興跟你聊天！,talking 的 l 不發音
+u15-20,15,Small Talk,閒聊,I'd better get going.,我差不多該走了。,/aɪd ˈbɛtɚ ɡɛt ˈɡoʊɪŋ/,eyed-BED-er-get-GO-ing,"Oh, it's late. I'd better get going.",喔，好晚了，我差不多該走了。,better 的 tt 唸成輕快的 d 音

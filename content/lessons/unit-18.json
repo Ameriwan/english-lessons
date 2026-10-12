@@ -1,0 +1,238 @@
+{
+  "unit_no": 18,
+  "phase": 3,
+  "title_en": "Work & Life Goals",
+  "title_zh": "工作與人生目標",
+  "goals": [
+    "Talk about her job (or a past job / daily responsibilities) with I work in ... and I'm in charge of ...",
+    "Describe future goals with want to, hope to, would like to, and be planning to, and know how sure each one sounds.",
+    "Ask other people about their work and goals, and encourage them.",
+    "Stop adding extra vowels at the ends of words (goal, job, skill, hope)."
+  ],
+  "warmup": {
+    "easy": [
+      "What do you do on a normal weekday?",
+      "What job did you want when you were a child?",
+      "Do you like learning new things?"
+    ],
+    "medium": [
+      "What do you do for a living?",
+      "What's one thing you want to learn this year?",
+      "What's the best job you've ever had?"
+    ],
+    "hard": [
+      "Where do you see yourself in five years?",
+      "If money were not a problem, what would you do every day?",
+      "What advice would you give your 20-year-old self?"
+    ]
+  },
+  "key_phrases": [
+    {
+      "en": "What do you do for a living?",
+      "zh": "你從事什麼工作？"
+    },
+    {
+      "en": "I work in ...",
+      "zh": "我在……工作；我做……"
+    },
+    {
+      "en": "I'm in charge of ...",
+      "zh": "我負責……"
+    },
+    {
+      "en": "I want to ...",
+      "zh": "我想要……"
+    },
+    {
+      "en": "I hope to ...",
+      "zh": "我希望能……"
+    },
+    {
+      "en": "I'm planning to ...",
+      "zh": "我打算……"
+    },
+    {
+      "en": "I'd like to ...",
+      "zh": "我想要……（比較客氣）"
+    },
+    {
+      "en": "I'm thinking about changing jobs.",
+      "zh": "我在考慮換工作。"
+    },
+    {
+      "en": "It's never too late to learn.",
+      "zh": "學習永遠不嫌晚。"
+    },
+    {
+      "en": "I'm sure you'll do great.",
+      "zh": "你一定會做得很好的。"
+    }
+  ],
+  "grammar": {
+    "point_en": "Talking about goals: want to / hope to / would like to / be planning to + base verb",
+    "point_zh": "談目標：want to / hope to / would like to / be planning to + 動詞原形",
+    "explain_zh": "中文的「想」、「希望」、「打算」後面直接加動作就好。英文這些字後面要先加 to，再接動詞原形：I want to travel。確定的程度不一樣：hope to 是希望（不一定做得到），want to 是想要，I'm planning to 表示已經有計畫了。I'd like to 意思跟 want to 差不多，但聽起來比較客氣。",
+    "examples": [
+      {
+        "en": "I want to learn how to drive.",
+        "zh": "我想學開車。"
+      },
+      {
+        "en": "I hope to travel to Europe someday.",
+        "zh": "我希望有一天能去歐洲旅行。"
+      },
+      {
+        "en": "I'm planning to take an English test in June.",
+        "zh": "我打算六月去考英文檢定。"
+      },
+      {
+        "en": "I'd like to work from home.",
+        "zh": "我想在家工作。"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I want learn English.",
+      "right": "I want to learn English.",
+      "why_zh": "中文「我想學」中間沒有別的字，但英文 want 後面要先加 to，再接動詞。"
+    }
+  },
+  "sound_focus": {
+    "sound_id": "extra-vowel",
+    "words": [
+      "goal",
+      "job",
+      "skill",
+      "hope",
+      "work",
+      "plan"
+    ],
+    "sentence": "My goal is to find a good job and learn a new skill."
+  },
+  "mini_lesson": [
+    "Step 1 (5 min): Warm-up. Ask 2-3 warm-up questions. If she doesn't work now, let her talk about a past job or her daily responsibilities at home.",
+    "Step 2 (7 min): Talking about work. Teach What do you do for a living? / I work in ... / I'm in charge of ... Interview each other: job, workplace, one responsibility, and one thing you like or dislike about it.",
+    "Step 3 (8 min): How sure are you? Draw a line from 'just an idea' to 'already decided': hope to → want to / would like to → am planning to. She writes one goal for each time frame (this year, in five years, someday) and reads them aloud. Check that 'to' is always there.",
+    "Step 4 (5 min): Extra vowels. Say goal, job, skill, hope, work, plan; she repeats. Listen for jobu / skillu / hopu. Tip: close the mouth on the last sound and stop. Then practice the sound-focus sentence.",
+    "Step 5 (5 min): Encourage someone. Share a goal ('I want to run a marathon.'); she reacts ('That's great! When are you planning to do it?') and finishes with 'I'm sure you'll do great.' Then swap roles."
+  ],
+  "roleplays": [
+    {
+      "level": "easy",
+      "title": "Lunch with a New Coworker",
+      "setup_zh": "公司來了一位新同事，午休時兩個人聊聊彼此的工作。",
+      "teacher_role": "Jenny, a new coworker",
+      "student_role": "Herself",
+      "lines": [
+        {
+          "who": "T",
+          "en": "Hi, I'm Jenny. I just started here. What do you do?"
+        },
+        {
+          "who": "S",
+          "en": "Nice to meet you. I work in ___.",
+          "zh": "很高興認識你。我在___部門工作。"
+        },
+        {
+          "who": "T",
+          "en": "Oh, cool. What are you in charge of?"
+        },
+        {
+          "who": "S",
+          "en": "I'm in charge of ___. It's busy, but I like it.",
+          "zh": "我負責___。很忙，但我很喜歡。"
+        },
+        {
+          "who": "T",
+          "en": "That's great. How long have you worked here?"
+        },
+        {
+          "who": "S",
+          "en": "About ___ years. How about you? What did you do before?",
+          "zh": "大約___年。那你呢？你之前做什麼？"
+        },
+        {
+          "who": "T",
+          "en": "I was a teacher. I wanted to try something new."
+        },
+        {
+          "who": "S",
+          "en": "That's brave! I'm sure you'll do great here.",
+          "zh": "好勇敢！你在這裡一定會做得很好。"
+        }
+      ]
+    },
+    {
+      "level": "challenge",
+      "title": "Five Years from Now",
+      "setup_zh": "和老朋友在咖啡店聊天，聊到彼此未來的目標和計畫。說出你的夢想和打算，也要鼓勵對方。",
+      "teacher_role": "Old friend",
+      "student_role": "Herself",
+      "lines": [
+        {
+          "who": "T",
+          "en": "So, are you still learning English?"
+        },
+        {
+          "who": "S",
+          "en": "Yes! It's never too late to learn, right?",
+          "zh": "對啊！學習永遠不嫌晚，對吧？"
+        },
+        {
+          "who": "T",
+          "en": "Totally. Why are you learning it?"
+        },
+        {
+          "who": "S",
+          "en": "Because I want to travel by myself and talk to people.",
+          "zh": "因為我想自己去旅行，跟別人聊天。"
+        },
+        {
+          "who": "T",
+          "en": "That's great. Do you have any other goals?"
+        },
+        {
+          "who": "S",
+          "en": "Well, I'd like to ___ someday. It's my dream.",
+          "zh": "嗯，我有一天想___，那是我的夢想。"
+        },
+        {
+          "who": "T",
+          "en": "Wow! Are you planning to do it soon?"
+        },
+        {
+          "who": "S",
+          "en": "I hope to start next year. First, I need to save money.",
+          "zh": "我希望明年開始。首先我得先存錢。"
+        },
+        {
+          "who": "T",
+          "en": "Smart. Actually, I'm thinking about changing jobs."
+        },
+        {
+          "who": "S",
+          "en": "Really? What do you want to do?",
+          "zh": "真的嗎？你想做什麼？"
+        },
+        {
+          "who": "T",
+          "en": "I want to work part-time and spend more time with my kids. But I'm a little worried."
+        },
+        {
+          "who": "S",
+          "en": "Don't worry. I'm sure you'll do great. Good luck!",
+          "zh": "別擔心，你一定會做得很好。祝你順利！"
+        }
+      ],
+      "teacher_twists": [
+        "Ask 'Why?' and 'How?' about her goal ('How are you going to save money?') so she has to explain her plan in more detail.",
+        "Be negative about your own plan ('Maybe I'm too old to change jobs.') so she must encourage you with It's never too late ... / I'm sure you'll do great.",
+        "Ask about a time frame ('Where do you want to be in five years?') to push her to use I hope to / I'm planning to with a time phrase."
+      ]
+    }
+  ],
+  "homework_zh": [
+    "寫下你的 3 個目標：今年（I'm planning to ...）、五年內（I want to ...）、有一天（I hope to ...）。",
+    "練習不加多餘的母音：goal、job、skill、hope 每天各唸 5 次，用手機錄音，聽聽看結尾有沒有多出「ㄜ」或「喔」。",
+    "用英文寫一段 4～5 句的自我介紹，包含你的工作（或每天做的事）和一個夢想，下次上課說給老師聽。"
+  ]
+}

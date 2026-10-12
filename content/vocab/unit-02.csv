@@ -1,0 +1,21 @@
+﻿id,unit_no,unit_en,unit_zh,english,chinese,ipa,sounds_like,example,example_zh,tip_zh
+u02-01,2,"Numbers, Time & Dates",數字、時間與日期,three,三,/θri/,THREE,The bus comes at three.,公車三點來。,舌尖伸到牙齒間，不是 tree 或 sree
+u02-02,2,"Numbers, Time & Dates",數字、時間與日期,thirteen,十三,/ˌθɝˈtin/,thur-TEEN,My son is thirteen.,我兒子十三歲。,重音在後：thur-TEEN；thirty 重音在前
+u02-03,2,"Numbers, Time & Dates",數字、時間與日期,thirty,三十,/ˈθɝɾi/,THUR-dee,June has thirty days.,六月有三十天。,重音在前；中間的 t 像輕輕的 d
+u02-04,2,"Numbers, Time & Dates",數字、時間與日期,hundred,一百,/ˈhʌndrəd/,HUN-dred,About a hundred people came.,大約有一百個人來。,ndr 連著唸，不要說成 hun-de-red
+u02-05,2,"Numbers, Time & Dates",數字、時間與日期,thousand,一千,/ˈθaʊzənd/,THOW-zund,It's about ten thousand dollars.,大約一萬元。,英文沒有「萬」：一萬是 ten thousand
+u02-06,2,"Numbers, Time & Dates",數字、時間與日期,third,第三；三號,/θɝd/,THURD,My birthday is May third.,我的生日是五月三日。,日期用序數：May third，不說 May three
+u02-07,2,"Numbers, Time & Dates",數字、時間與日期,month,月；一個月,/mʌnθ/,MUNTH,I visit my mom once a month.,我每個月去看我媽媽一次。,結尾的 th 也要伸舌頭
+u02-08,2,"Numbers, Time & Dates",數字、時間與日期,Thursday,星期四,/ˈθɝzdeɪ/,THURZ-day,My English class is on Thursday.,我的英文課在星期四。,別和 Tuesday 搞混：THURZ-day／TOOZ-day
+u02-09,2,"Numbers, Time & Dates",數字、時間與日期,o'clock,……點（整點）,/əˈklɑk/,uh-KLAHK,I get up at six o'clock.,我六點起床。,只用在整點，six thirty 後面不加
+u02-10,2,"Numbers, Time & Dates",數字、時間與日期,a.m.,上午（放在時間後）,/ˌeɪˈɛm/,ay-EM,I work from 9 a.m. to 5 p.m.,我從早上九點工作到下午五點。,放在時間後面：9 a.m.，下午用 p.m.
+u02-11,2,"Numbers, Time & Dates",數字、時間與日期,tomorrow,明天,/təˈmɑroʊ/,tuh-MAH-roh,See you tomorrow!,明天見！,
+u02-12,2,"Numbers, Time & Dates",數字、時間與日期,weekend,週末,/ˈwikˌɛnd/,WEEK-end,I'm free this weekend.,我這個週末有空。,
+u02-13,2,"Numbers, Time & Dates",數字、時間與日期,What time is it?,現在幾點？,/ˌwʌt ˈtaɪm ɪz ɪt/,wut-TIME-iz-it,"Excuse me, what time is it?",不好意思，現在幾點？,is it 連起來唸：iz-it
+u02-14,2,"Numbers, Time & Dates",數字、時間與日期,It's ten thirty.,現在十點半。,/ɪts ˌtɛn ˈθɝɾi/,its-ten-THUR-dee,Hurry up! It's ten thirty.,快點！已經十點半了。,
+u02-15,2,"Numbers, Time & Dates",數字、時間與日期,What day is it today?,今天星期幾？,/ˌwʌt ˈdeɪ ɪz ɪt təˈdeɪ/,wut-DAY-iz-it-tuh-DAY,What day is it today? Friday?,今天星期幾？星期五嗎？,問星期幾；問幾月幾號要用 date
+u02-16,2,"Numbers, Time & Dates",數字、時間與日期,What's the date today?,今天幾月幾號？,/ˌwʌts ðə ˈdeɪt təˈdeɪ/,wuts-thuh-DAYT-tuh-day,What's the date today? The fifth?,今天幾號？五號嗎？,
+u02-17,2,"Numbers, Time & Dates",數字、時間與日期,When's your birthday?,你的生日是什麼時候？,/ˌwɛnz jɚ ˈbɝθˌdeɪ/,wenz-yer-BURTH-day,When's your birthday? Mine is in May.,你的生日是什麼時候？我的在五月。,
+u02-18,2,"Numbers, Time & Dates",數字、時間與日期,What's your phone number?,你的電話號碼是多少？,/ˌwʌts jɚ ˈfoʊn ˌnʌmbɚ/,wuts-yer-FOHN-num-ber,What's your phone number? I'll text you.,你的電話號碼幾號？我傳訊息給你。,0 常唸 oh，號碼分成幾組來唸
+u02-19,2,"Numbers, Time & Dates",數字、時間與日期,How many?,多少（個）？,/ˌhaʊ ˈmɛni/,how-MEN-ee,How many people are coming?,有多少人要來？,問數量用 many；問價錢用 how much
+u02-20,2,"Numbers, Time & Dates",數字、時間與日期,"Sorry, I'm late.",抱歉，我遲到了。,/ˈsɑri aɪm ˈleɪt/,SAH-ree-im-LAYT,"Sorry, I'm late. The bus was slow.",抱歉我遲到了，公車很慢。,

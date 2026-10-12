@@ -1,0 +1,247 @@
+{
+  "unit_no": 10,
+  "phase": 2,
+  "title_en": "Health & the Doctor",
+  "title_zh": "健康與看醫生",
+  "goals": [
+    "Describe common symptoms (I have a headache / My back hurts / I don't feel well).",
+    "Understand and give advice with should, and rules with have to.",
+    "Get through a clinic visit in English: check-in, describing the problem, medicine instructions.",
+    "Pronounce TH clearly (throat, health, three, think) instead of S or F."
+  ],
+  "warmup": {
+    "easy": [
+      "Do you feel well today?",
+      "Do you often catch a cold?",
+      "Is there a clinic near your home?"
+    ],
+    "medium": [
+      "What do you do when you have a headache?",
+      "What do you do to stay healthy?",
+      "Are you allergic to anything?"
+    ],
+    "hard": [
+      "Tell me about the last time you were sick. What happened?",
+      "What advice would you give a friend who can't sleep?",
+      "Do you think people in Taiwan see the doctor too often? Why or why not?"
+    ]
+  },
+  "key_phrases": [
+    {
+      "en": "What's the matter?",
+      "zh": "怎麼了？哪裡不舒服？"
+    },
+    {
+      "en": "I don't feel well.",
+      "zh": "我不太舒服。"
+    },
+    {
+      "en": "I have a headache / a fever / a sore throat.",
+      "zh": "我頭痛／發燒／喉嚨痛。"
+    },
+    {
+      "en": "My ___ hurts.",
+      "zh": "我的 ___ 痛。"
+    },
+    {
+      "en": "It started ___ days ago.",
+      "zh": "___ 天前開始的。"
+    },
+    {
+      "en": "I'm allergic to ___.",
+      "zh": "我對 ___ 過敏。"
+    },
+    {
+      "en": "You should get some rest.",
+      "zh": "你應該多休息。"
+    },
+    {
+      "en": "You have to take it three times a day.",
+      "zh": "一天一定要吃三次。"
+    },
+    {
+      "en": "Is it serious?",
+      "zh": "嚴重嗎？"
+    },
+    {
+      "en": "I hope you feel better soon!",
+      "zh": "希望你早日康復！"
+    }
+  ],
+  "grammar": {
+    "point_en": "should (advice) vs. have to (necessary / a rule)",
+    "point_zh": "should 表示建議；have to 表示一定要",
+    "explain_zh": "should 是「應該、最好」，是給建議：You should drink more water。have to 是「一定要、必須」，通常是規定或沒有選擇：You have to take this after meals。兩個後面都接原形動詞。主詞是 he/she 時 have to 要變成 has to，但 should 不變。",
+    "examples": [
+      {
+        "en": "You should drink more water.",
+        "zh": "你應該多喝水。"
+      },
+      {
+        "en": "You shouldn't stay up late.",
+        "zh": "你不應該熬夜。"
+      },
+      {
+        "en": "You have to take this medicine after meals.",
+        "zh": "這個藥一定要飯後吃。"
+      },
+      {
+        "en": "She has to see a doctor today.",
+        "zh": "她今天一定得去看醫生。"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "You should to rest.",
+      "right": "You should rest.",
+      "why_zh": "should 後面直接接原形動詞，不加 to。"
+    }
+  },
+  "sound_focus": {
+    "sound_id": "th",
+    "words": [
+      "sore throat",
+      "health insurance card",
+      "three",
+      "mouth",
+      "breathe",
+      "thirty-eight"
+    ],
+    "sentence": "I think I have a sore throat and a fever of thirty-eight."
+  },
+  "mini_lesson": [
+    "Step 1 (5 min): Warm-up. Mime symptoms (hold your head, cough, touch your throat) and she guesses: 'You have a headache!' Then swap: she mimes, you guess.",
+    "Step 2 (7 min): Vocabulary. Teach the two patterns 'I have a + headache / fever / sore throat / runny nose' and 'My ___ hurts.' Point to body parts (head, back, stomach, throat) and she makes a sentence for each.",
+    "Step 3 (7 min): Grammar. Write 'should = advice' and 'have to = must' on the board. You give a problem ('I can't sleep'), she gives advice with should. Then read a real Taiwan medicine bag (藥袋) together and turn it into 'You have to take it ___.'",
+    "Step 4 (6 min): Sound focus (TH). Tongue tip lightly between the teeth, then blow air. Contrast sink/think, mouse/mouth, free/three. Practice throat, health, three, mouth, then 'I think I have a sore throat and a fever of thirty-eight.'",
+    "Step 5 (5 min): Speaking. Quick clinic run-through: she checks in at the counter, describes her problem, and asks 'Is it serious?' This prepares her for the role-play block."
+  ],
+  "roleplays": [
+    {
+      "level": "easy",
+      "title": "At the clinic counter",
+      "setup_zh": "她感冒了，到診所掛號，跟櫃台人員說明狀況。",
+      "teacher_role": "Clinic receptionist",
+      "student_role": "Herself, a patient",
+      "lines": [
+        {
+          "who": "T",
+          "en": "Good morning. How can I help you?"
+        },
+        {
+          "who": "S",
+          "en": "Hi. I don't feel well. I'd like to see a doctor.",
+          "zh": "你好，我不太舒服，想看醫生。"
+        },
+        {
+          "who": "T",
+          "en": "Sure. Do you have your health insurance card?"
+        },
+        {
+          "who": "S",
+          "en": "Yes, here you are.",
+          "zh": "有，給你。"
+        },
+        {
+          "who": "T",
+          "en": "Thank you. What's the matter today?"
+        },
+        {
+          "who": "S",
+          "en": "I have a sore throat and a runny nose.",
+          "zh": "我喉嚨痛，還一直流鼻水。"
+        },
+        {
+          "who": "T",
+          "en": "Do you have a fever?"
+        },
+        {
+          "who": "S",
+          "en": "I think so. Maybe thirty-eight degrees.",
+          "zh": "應該有，大概三十八度。"
+        },
+        {
+          "who": "T",
+          "en": "OK. Please have a seat. The doctor will call your name."
+        },
+        {
+          "who": "S",
+          "en": "Thank you. How long is the wait?",
+          "zh": "謝謝。大概要等多久？"
+        }
+      ]
+    },
+    {
+      "level": "challenge",
+      "title": "Seeing the doctor",
+      "setup_zh": "她在診間跟醫生說明症狀，醫生給建議和開藥。她要聽懂醫囑並主動提問。",
+      "teacher_role": "Doctor",
+      "student_role": "Herself, the patient",
+      "lines": [
+        {
+          "who": "T",
+          "en": "Hello. What seems to be the problem?"
+        },
+        {
+          "who": "S",
+          "en": "I have a bad cough and a headache.",
+          "zh": "我咳得很厲害，還頭痛。"
+        },
+        {
+          "who": "T",
+          "en": "I see. When did it start?"
+        },
+        {
+          "who": "S",
+          "en": "It started ___ days ago.",
+          "zh": "___ 天前開始的。"
+        },
+        {
+          "who": "T",
+          "en": "OK. Open your mouth and say 'ah'. Now breathe in, please."
+        },
+        {
+          "who": "S",
+          "en": "Ahh... Is it serious, doctor?",
+          "zh": "啊……醫生，嚴重嗎？"
+        },
+        {
+          "who": "T",
+          "en": "No, it's just a bad cold. Are you allergic to any medicine?"
+        },
+        {
+          "who": "S",
+          "en": "Yes, I'm allergic to ___. / No, I'm not.",
+          "zh": "有，我對 ___ 過敏。／沒有。"
+        },
+        {
+          "who": "T",
+          "en": "OK. You have to take this medicine three times a day, after meals."
+        },
+        {
+          "who": "S",
+          "en": "Three times a day, after meals. Should I stay home from work?",
+          "zh": "一天三次，飯後吃。我需要請假在家嗎？"
+        },
+        {
+          "who": "T",
+          "en": "Yes. You should get some rest for two days and drink lots of water."
+        },
+        {
+          "who": "S",
+          "en": "OK. Thank you, doctor.",
+          "zh": "好，謝謝醫生。"
+        }
+      ],
+      "teacher_twists": [
+        "Give the medicine instructions quickly ('Take two before bed and one in the morning') so she has to ask 'Sorry, can you say that again?'",
+        "Ask lifestyle questions ('Do you exercise? Do you sleep well?') so she answers with frequency adverbs.",
+        "Tell her she has to come back in three days; she must agree on a day and time."
+      ]
+    }
+  ],
+  "homework_zh": [
+    "拿家裡的藥袋，用英文寫下怎麼吃（例如 I have to take it twice a day, after meals.）。",
+    "寫 4 句給生病朋友的建議，用 You should / You shouldn't。",
+    "練習 th：每天唸 5 次 I think I have a sore throat and a fever of thirty-eight. 舌尖放在上下牙齒中間。"
+  ]
+}

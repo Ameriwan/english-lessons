@@ -1,0 +1,582 @@
+{
+ "units": [
+  {
+   "unit_no": 1,
+   "phase": 1,
+   "unit_en": "Greetings & Introductions",
+   "unit_zh": "打招呼與自我介紹",
+   "count": 20,
+   "released": true
+  },
+  {
+   "unit_no": 2,
+   "phase": 1,
+   "unit_en": "Numbers, Time & Dates",
+   "unit_zh": "數字、時間與日期",
+   "count": 20,
+   "released": true
+  },
+  {
+   "unit_no": 3,
+   "phase": 1,
+   "unit_en": "Family & People",
+   "unit_zh": "家人與朋友",
+   "count": 20,
+   "released": false
+  },
+  {
+   "unit_no": 4,
+   "phase": 1,
+   "unit_en": "Food & Ordering",
+   "unit_zh": "食物與點餐",
+   "count": 20,
+   "released": false
+  },
+  {
+   "unit_no": 5,
+   "phase": 1,
+   "unit_en": "Shopping & Money",
+   "unit_zh": "購物與付錢",
+   "count": 20,
+   "released": false
+  },
+  {
+   "unit_no": 7,
+   "phase": 2,
+   "unit_en": "Daily Routines",
+   "unit_zh": "日常作息",
+   "count": 20,
+   "released": false
+  },
+  {
+   "unit_no": 8,
+   "phase": 2,
+   "unit_en": "Hobbies & Free Time",
+   "unit_zh": "興趣與休閒",
+   "count": 20,
+   "released": false
+  },
+  {
+   "unit_no": 9,
+   "phase": 2,
+   "unit_en": "Weather & Seasons",
+   "unit_zh": "天氣與季節",
+   "count": 20,
+   "released": false
+  },
+  {
+   "unit_no": 10,
+   "phase": 2,
+   "unit_en": "Health & the Doctor",
+   "unit_zh": "健康與看醫生",
+   "count": 20,
+   "released": false
+  },
+  {
+   "unit_no": 11,
+   "phase": 2,
+   "unit_en": "Phone Calls & Messages",
+   "unit_zh": "電話與訊息",
+   "count": 20,
+   "released": false
+  },
+  {
+   "unit_no": 12,
+   "phase": 2,
+   "unit_en": "Making Plans",
+   "unit_zh": "約時間與計畫",
+   "count": 20,
+   "released": false
+  },
+  {
+   "unit_no": 13,
+   "phase": 3,
+   "unit_en": "Telling Stories (Past)",
+   "unit_zh": "說說過去的事",
+   "count": 20,
+   "released": false
+  },
+  {
+   "unit_no": 14,
+   "phase": 3,
+   "unit_en": "Opinions & Feelings",
+   "unit_zh": "表達意見與感受",
+   "count": 20,
+   "released": false
+  },
+  {
+   "unit_no": 15,
+   "phase": 3,
+   "unit_en": "Small Talk",
+   "unit_zh": "閒聊",
+   "count": 20,
+   "released": false
+  },
+  {
+   "unit_no": 16,
+   "phase": 3,
+   "unit_en": "Travel",
+   "unit_zh": "旅行",
+   "count": 20,
+   "released": false
+  },
+  {
+   "unit_no": 17,
+   "phase": 3,
+   "unit_en": "Home & Neighborhood",
+   "unit_zh": "家與社區",
+   "count": 20,
+   "released": false
+  },
+  {
+   "unit_no": 18,
+   "phase": 3,
+   "unit_en": "Work & Life Goals",
+   "unit_zh": "工作與人生目標",
+   "count": 20,
+   "released": false
+  }
+ ],
+ "items": [
+  {
+   "id": "u01-01",
+   "unit": 1,
+   "en": "hello",
+   "zh": "你好；哈囉",
+   "ipa": "/həˈloʊ/",
+   "sl": "heh-LOH",
+   "ex": "Hello, my name is Amy.",
+   "exzh": "哈囉，我的名字是 Amy。",
+   "tip": "重音在後面：heh-LOH，不是 HEL-lo"
+  },
+  {
+   "id": "u01-02",
+   "unit": 1,
+   "en": "good morning",
+   "zh": "早安",
+   "ipa": "/ɡʊd ˈmɔrnɪŋ/",
+   "sl": "good-MOR-ning",
+   "ex": "Good morning! Did you sleep well?",
+   "exzh": "早安！你睡得好嗎？",
+   "tip": ""
+  },
+  {
+   "id": "u01-03",
+   "unit": 1,
+   "en": "name",
+   "zh": "名字",
+   "ipa": "/neɪm/",
+   "sl": "NAYM",
+   "ex": "What's your name?",
+   "exzh": "你叫什麼名字？",
+   "tip": "結尾 m 要閉上嘴唇，不要唸成 nay"
+  },
+  {
+   "id": "u01-04",
+   "unit": 1,
+   "en": "first name",
+   "zh": "名字（不含姓）",
+   "ipa": "/ˈfɝst ˌneɪm/",
+   "sl": "FURST-naym",
+   "ex": "My first name is Mei-ling.",
+   "exzh": "我的名字是美玲。",
+   "tip": ""
+  },
+  {
+   "id": "u01-05",
+   "unit": 1,
+   "en": "last name",
+   "zh": "姓",
+   "ipa": "/ˈlæst ˌneɪm/",
+   "sl": "LAST-naym",
+   "ex": "My last name is Chen.",
+   "exzh": "我姓陳。",
+   "tip": "英文名字在前、姓在後，跟中文相反"
+  },
+  {
+   "id": "u01-06",
+   "unit": 1,
+   "en": "Mr.",
+   "zh": "先生（加姓氏）",
+   "ipa": "/ˈmɪstɚ/",
+   "sl": "MIS-ter",
+   "ex": "Good morning, Mr. Wang.",
+   "exzh": "王先生，早安。",
+   "tip": "後面接姓：Mr. Wang，不說 Mr. David"
+  },
+  {
+   "id": "u01-07",
+   "unit": 1,
+   "en": "Ms.",
+   "zh": "女士（加姓氏）",
+   "ipa": "/mɪz/",
+   "sl": "MIZ",
+   "ex": "Ms. Lin is my boss.",
+   "exzh": "林女士是我的老闆。",
+   "tip": "唸 MIZ，結尾是 z 音，不是 M-S"
+  },
+  {
+   "id": "u01-08",
+   "unit": 1,
+   "en": "live",
+   "zh": "住",
+   "ipa": "/lɪv/",
+   "sl": "LIV",
+   "ex": "I live in Pingtung.",
+   "exzh": "我住在屏東。",
+   "tip": "短音 i，結尾咬下唇發 v；不是 leave"
+  },
+  {
+   "id": "u01-09",
+   "unit": 1,
+   "en": "work",
+   "zh": "工作；上班",
+   "ipa": "/wɝk/",
+   "sl": "WURK",
+   "ex": "I work at a hospital.",
+   "exzh": "我在醫院工作。",
+   "tip": "work 要捲舌發 er，不要唸成 walk"
+  },
+  {
+   "id": "u01-10",
+   "unit": 1,
+   "en": "thank you",
+   "zh": "謝謝你",
+   "ipa": "/ˈθæŋk ju/",
+   "sl": "THANK-yoo",
+   "ex": "Thank you for your help.",
+   "exzh": "謝謝你的幫忙。",
+   "tip": "舌尖輕放上下牙齒間，不是 sank you"
+  },
+  {
+   "id": "u01-11",
+   "unit": 1,
+   "en": "goodbye",
+   "zh": "再見",
+   "ipa": "/ɡʊdˈbaɪ/",
+   "sl": "good-BYE",
+   "ex": "Goodbye! See you next week.",
+   "exzh": "再見！下週見。",
+   "tip": ""
+  },
+  {
+   "id": "u01-12",
+   "unit": 1,
+   "en": "See you later.",
+   "zh": "待會見；再見",
+   "ipa": "/ˌsi ju ˈleɪɾɚ/",
+   "sl": "see-yoo-LAY-der",
+   "ex": "I have to go. See you later!",
+   "exzh": "我得走了，待會見！",
+   "tip": "later 的 t 唸得像輕輕的 d"
+  },
+  {
+   "id": "u01-13",
+   "unit": 1,
+   "en": "How are you?",
+   "zh": "你好嗎？",
+   "ipa": "/ˌhaʊ ər ˈju/",
+   "sl": "how-er-YOO",
+   "ex": "Hi, Tom! How are you today?",
+   "exzh": "嗨，Tom！你今天好嗎？",
+   "tip": "這是打招呼，簡單回答就好"
+  },
+  {
+   "id": "u01-14",
+   "unit": 1,
+   "en": "Good, thanks. And you?",
+   "zh": "很好，謝謝。你呢？",
+   "ipa": "/ˈɡʊd ˈθæŋks ən ˈju/",
+   "sl": "GOOD-thanks-un-YOO",
+   "ex": "Good, thanks. And you? How's work?",
+   "exzh": "很好，謝謝。你呢？工作還好嗎？",
+   "tip": ""
+  },
+  {
+   "id": "u01-15",
+   "unit": 1,
+   "en": "Nice to meet you.",
+   "zh": "很高興認識你。",
+   "ipa": "/ˈnaɪs tə ˈmit ju/",
+   "sl": "nice-tuh-MEET-yoo",
+   "ex": "Hi, I'm Jenny. Nice to meet you.",
+   "exzh": "嗨，我是 Jenny。很高興認識你。",
+   "tip": "第一次見面用；再見面說 Nice to see you"
+  },
+  {
+   "id": "u01-16",
+   "unit": 1,
+   "en": "Where are you from?",
+   "zh": "你是哪裡人？",
+   "ipa": "/ˌwɛr ər ju ˈfrʌm/",
+   "sl": "wair-er-yoo-FRUM",
+   "ex": "Where are you from, Mark?",
+   "exzh": "Mark，你是哪裡人？",
+   "tip": ""
+  },
+  {
+   "id": "u01-17",
+   "unit": 1,
+   "en": "I'm from Taiwan.",
+   "zh": "我來自台灣。",
+   "ipa": "/aɪm frəm ˌtaɪˈwɑn/",
+   "sl": "im-frum-tie-WAHN",
+   "ex": "I'm from Taiwan, near Kaohsiung.",
+   "exzh": "我來自台灣，在高雄附近。",
+   "tip": "Taiwan 重音在後面：tie-WAHN"
+  },
+  {
+   "id": "u01-18",
+   "unit": 1,
+   "en": "What do you do?",
+   "zh": "你從事什麼工作？",
+   "ipa": "/ˌwʌt də jə ˈdu/",
+   "sl": "wut-duh-yuh-DOO",
+   "ex": "So, what do you do, Mike?",
+   "exzh": "那 Mike，你從事什麼工作？",
+   "tip": "這是問職業，不是問「你在做什麼」"
+  },
+  {
+   "id": "u01-19",
+   "unit": 1,
+   "en": "How do you spell that?",
+   "zh": "那個怎麼拼？",
+   "ipa": "/ˌhaʊ də jə ˈspɛl ðæt/",
+   "sl": "how-duh-yuh-SPEL-that",
+   "ex": "Kaohsiung? How do you spell that?",
+   "exzh": "高雄？那個怎麼拼？",
+   "tip": ""
+  },
+  {
+   "id": "u01-20",
+   "unit": 1,
+   "en": "Can you say that again?",
+   "zh": "可以再說一次嗎？",
+   "ipa": "/kən jə ˌseɪ ðæt əˈɡɛn/",
+   "sl": "kun-yuh-say-that-uh-GEN",
+   "ex": "Sorry, can you say that again?",
+   "exzh": "不好意思，可以再說一次嗎？",
+   "tip": "聽不懂就大方問；again 唸 uh-GEN"
+  },
+  {
+   "id": "u02-01",
+   "unit": 2,
+   "en": "three",
+   "zh": "三",
+   "ipa": "/θri/",
+   "sl": "THREE",
+   "ex": "The bus comes at three.",
+   "exzh": "公車三點來。",
+   "tip": "舌尖伸到牙齒間，不是 tree 或 sree"
+  },
+  {
+   "id": "u02-02",
+   "unit": 2,
+   "en": "thirteen",
+   "zh": "十三",
+   "ipa": "/ˌθɝˈtin/",
+   "sl": "thur-TEEN",
+   "ex": "My son is thirteen.",
+   "exzh": "我兒子十三歲。",
+   "tip": "重音在後：thur-TEEN；thirty 重音在前"
+  },
+  {
+   "id": "u02-03",
+   "unit": 2,
+   "en": "thirty",
+   "zh": "三十",
+   "ipa": "/ˈθɝɾi/",
+   "sl": "THUR-dee",
+   "ex": "June has thirty days.",
+   "exzh": "六月有三十天。",
+   "tip": "重音在前；中間的 t 像輕輕的 d"
+  },
+  {
+   "id": "u02-04",
+   "unit": 2,
+   "en": "hundred",
+   "zh": "一百",
+   "ipa": "/ˈhʌndrəd/",
+   "sl": "HUN-dred",
+   "ex": "About a hundred people came.",
+   "exzh": "大約有一百個人來。",
+   "tip": "ndr 連著唸，不要說成 hun-de-red"
+  },
+  {
+   "id": "u02-05",
+   "unit": 2,
+   "en": "thousand",
+   "zh": "一千",
+   "ipa": "/ˈθaʊzənd/",
+   "sl": "THOW-zund",
+   "ex": "It's about ten thousand dollars.",
+   "exzh": "大約一萬元。",
+   "tip": "英文沒有「萬」：一萬是 ten thousand"
+  },
+  {
+   "id": "u02-06",
+   "unit": 2,
+   "en": "third",
+   "zh": "第三；三號",
+   "ipa": "/θɝd/",
+   "sl": "THURD",
+   "ex": "My birthday is May third.",
+   "exzh": "我的生日是五月三日。",
+   "tip": "日期用序數：May third，不說 May three"
+  },
+  {
+   "id": "u02-07",
+   "unit": 2,
+   "en": "month",
+   "zh": "月；一個月",
+   "ipa": "/mʌnθ/",
+   "sl": "MUNTH",
+   "ex": "I visit my mom once a month.",
+   "exzh": "我每個月去看我媽媽一次。",
+   "tip": "結尾的 th 也要伸舌頭"
+  },
+  {
+   "id": "u02-08",
+   "unit": 2,
+   "en": "Thursday",
+   "zh": "星期四",
+   "ipa": "/ˈθɝzdeɪ/",
+   "sl": "THURZ-day",
+   "ex": "My English class is on Thursday.",
+   "exzh": "我的英文課在星期四。",
+   "tip": "別和 Tuesday 搞混：THURZ-day／TOOZ-day"
+  },
+  {
+   "id": "u02-09",
+   "unit": 2,
+   "en": "o'clock",
+   "zh": "……點（整點）",
+   "ipa": "/əˈklɑk/",
+   "sl": "uh-KLAHK",
+   "ex": "I get up at six o'clock.",
+   "exzh": "我六點起床。",
+   "tip": "只用在整點，six thirty 後面不加"
+  },
+  {
+   "id": "u02-10",
+   "unit": 2,
+   "en": "a.m.",
+   "zh": "上午（放在時間後）",
+   "ipa": "/ˌeɪˈɛm/",
+   "sl": "ay-EM",
+   "ex": "I work from 9 a.m. to 5 p.m.",
+   "exzh": "我從早上九點工作到下午五點。",
+   "tip": "放在時間後面：9 a.m.，下午用 p.m."
+  },
+  {
+   "id": "u02-11",
+   "unit": 2,
+   "en": "tomorrow",
+   "zh": "明天",
+   "ipa": "/təˈmɑroʊ/",
+   "sl": "tuh-MAH-roh",
+   "ex": "See you tomorrow!",
+   "exzh": "明天見！",
+   "tip": ""
+  },
+  {
+   "id": "u02-12",
+   "unit": 2,
+   "en": "weekend",
+   "zh": "週末",
+   "ipa": "/ˈwikˌɛnd/",
+   "sl": "WEEK-end",
+   "ex": "I'm free this weekend.",
+   "exzh": "我這個週末有空。",
+   "tip": ""
+  },
+  {
+   "id": "u02-13",
+   "unit": 2,
+   "en": "What time is it?",
+   "zh": "現在幾點？",
+   "ipa": "/ˌwʌt ˈtaɪm ɪz ɪt/",
+   "sl": "wut-TIME-iz-it",
+   "ex": "Excuse me, what time is it?",
+   "exzh": "不好意思，現在幾點？",
+   "tip": "is it 連起來唸：iz-it"
+  },
+  {
+   "id": "u02-14",
+   "unit": 2,
+   "en": "It's ten thirty.",
+   "zh": "現在十點半。",
+   "ipa": "/ɪts ˌtɛn ˈθɝɾi/",
+   "sl": "its-ten-THUR-dee",
+   "ex": "Hurry up! It's ten thirty.",
+   "exzh": "快點！已經十點半了。",
+   "tip": ""
+  },
+  {
+   "id": "u02-15",
+   "unit": 2,
+   "en": "What day is it today?",
+   "zh": "今天星期幾？",
+   "ipa": "/ˌwʌt ˈdeɪ ɪz ɪt təˈdeɪ/",
+   "sl": "wut-DAY-iz-it-tuh-DAY",
+   "ex": "What day is it today? Friday?",
+   "exzh": "今天星期幾？星期五嗎？",
+   "tip": "問星期幾；問幾月幾號要用 date"
+  },
+  {
+   "id": "u02-16",
+   "unit": 2,
+   "en": "What's the date today?",
+   "zh": "今天幾月幾號？",
+   "ipa": "/ˌwʌts ðə ˈdeɪt təˈdeɪ/",
+   "sl": "wuts-thuh-DAYT-tuh-day",
+   "ex": "What's the date today? The fifth?",
+   "exzh": "今天幾號？五號嗎？",
+   "tip": ""
+  },
+  {
+   "id": "u02-17",
+   "unit": 2,
+   "en": "When's your birthday?",
+   "zh": "你的生日是什麼時候？",
+   "ipa": "/ˌwɛnz jɚ ˈbɝθˌdeɪ/",
+   "sl": "wenz-yer-BURTH-day",
+   "ex": "When's your birthday? Mine is in May.",
+   "exzh": "你的生日是什麼時候？我的在五月。",
+   "tip": ""
+  },
+  {
+   "id": "u02-18",
+   "unit": 2,
+   "en": "What's your phone number?",
+   "zh": "你的電話號碼是多少？",
+   "ipa": "/ˌwʌts jɚ ˈfoʊn ˌnʌmbɚ/",
+   "sl": "wuts-yer-FOHN-num-ber",
+   "ex": "What's your phone number? I'll text you.",
+   "exzh": "你的電話號碼幾號？我傳訊息給你。",
+   "tip": "0 常唸 oh，號碼分成幾組來唸"
+  },
+  {
+   "id": "u02-19",
+   "unit": 2,
+   "en": "How many?",
+   "zh": "多少（個）？",
+   "ipa": "/ˌhaʊ ˈmɛni/",
+   "sl": "how-MEN-ee",
+   "ex": "How many people are coming?",
+   "exzh": "有多少人要來？",
+   "tip": "問數量用 many；問價錢用 how much"
+  },
+  {
+   "id": "u02-20",
+   "unit": 2,
+   "en": "Sorry, I'm late.",
+   "zh": "抱歉，我遲到了。",
+   "ipa": "/ˈsɑri aɪm ˈleɪt/",
+   "sl": "SAH-ree-im-LAYT",
+   "ex": "Sorry, I'm late. The bus was slow.",
+   "exzh": "抱歉我遲到了，公車很慢。",
+   "tip": ""
+  }
+ ]
+}

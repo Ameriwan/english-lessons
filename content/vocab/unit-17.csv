@@ -1,0 +1,21 @@
+﻿id,unit_no,unit_en,unit_zh,english,chinese,ipa,sounds_like,example,example_zh,tip_zh
+u17-01,17,Home & Neighborhood,家與社區,apartment,公寓,/əˈpɑrtmənt/,uh-PART-ment,I live in a small apartment.,我住在一間小公寓。,重音在 PART，結尾的 t 很輕
+u17-02,17,Home & Neighborhood,家與社區,living room,客廳,/ˈlɪvɪŋ ˌrum/,LIV-ing-room,We watch TV in the living room.,我們在客廳看電視。,l 舌尖頂上牙齦；r 舌頭不碰任何地方
+u17-03,17,Home & Neighborhood,家與社區,balcony,陽台,/ˈbælkəni/,BAL-kuh-nee,I dry my clothes on the balcony.,我在陽台曬衣服。,重音在第一音節 BAL
+u17-04,17,Home & Neighborhood,家與社區,neighbor,鄰居,/ˈneɪbɚ/,NAY-ber,My neighbor has a cute dog.,我的鄰居養了一隻可愛的狗。,neighbor 的 gh 不發音
+u17-05,17,Home & Neighborhood,家與社區,neighborhood,社區；住家附近一帶,/ˈneɪbɚˌhʊd/,NAY-ber-hood,My neighborhood is quiet and safe.,我住的那一帶很安靜、很安全。,
+u17-06,17,Home & Neighborhood,家與社區,rent,房租；租,/rɛnt/,RENT,The rent here is expensive.,這裡的房租很貴。,r 開頭嘴巴先嘟起來，不要唸成 lent
+u17-07,17,Home & Neighborhood,家與社區,quiet,安靜的,/ˈkwaɪət/,KWY-ut,The street is quiet at night.,這條街晚上很安靜。,quiet 有兩個音節，別跟 quite 搞混
+u17-08,17,Home & Neighborhood,家與社區,convenient,方便的,/kənˈvinjənt/,kun-VEEN-yunt,Living near the MRT is very convenient.,住在捷運附近很方便。,重音在 VEEN，v 要咬下唇
+u17-09,17,Home & Neighborhood,家與社區,next to,在……旁邊,/ˈnɛks tə/,NEKS-tuh,There's a convenience store next to my building.,我家大樓旁邊有一間便利商店。,
+u17-10,17,Home & Neighborhood,家與社區,across from,在……對面,/əˈkrɔs frəm/,uh-KRAWS-frum,The park is across from the school.,公園在學校對面。,
+u17-11,17,Home & Neighborhood,家與社區,There's a ... near my house.,我家附近有一個……,/ðɛrz ə ... ˈnɪr maɪ ˈhaʊs/,thairz-uh ... NEER-my-HOWSS,There's a big park near my house.,我家附近有一個大公園。,there's 要伸舌頭，結尾的 z 別漏掉
+u17-12,17,Home & Neighborhood,家與社區,I live on the fifth floor.,我住在五樓。,/aɪ ˈlɪv ɑn ðə ˈfɪfθ ˈflɔr/,eye-LIV-on-thuh-FIFTH-flor,"I live on the fifth floor, and there's no elevator.",我住五樓，而且沒有電梯。,fifth 結尾 /fθ/ 很難，慢慢唸
+u17-13,17,Home & Neighborhood,家與社區,How long have you lived here?,你住在這裡多久了？,/ˌhaʊ ˈlɔŋ əv jə ˈlɪvd ˌhɪr/,how-LONG-uv-yuh-LIVD-heer,Nice place! How long have you lived here?,好棒的地方！你住在這裡多久了？,lived 的 -ed 唸 /d/，不是 liv-ED
+u17-14,17,Home & Neighborhood,家與社區,I've lived here for ten years.,我在這裡住了十年。,/aɪv ˈlɪvd hɪr fɚ ˈtɛn ˌjɪrz/,ive-LIVD-heer-fer-TEN-yeerz,I've lived here for ten years. I love it.,我在這裡住了十年，我很喜歡。,
+u17-15,17,Home & Neighborhood,家與社區,The best thing about my neighborhood is ...,我住的地方最棒的是……,/ðə ˈbɛst ˌθɪŋ əˌbaʊt maɪ ˈneɪbɚˌhʊd ɪz/,thuh-BEST-thing-uh-bowt-my-NAY-ber-hood-iz,The best thing about my neighborhood is the night market.,我住的地方最棒的就是夜市。,best 唸完馬上伸舌頭唸 thing
+u17-16,17,Home & Neighborhood,家與社區,It's a little noisy.,有點吵。,/ɪts ə ˈlɪtəl ˈnɔɪzi/,its-uh-LID-ul-NOY-zee,"I like my apartment, but it's a little noisy.",我喜歡我的公寓，但是有點吵。,
+u17-17,17,Home & Neighborhood,家與社區,It's close to everything.,生活機能很好；什麼都很近。,/ɪts ˈkloʊs tə ˈɛvriˌθɪŋ/,its-KLOHS-tuh-EV-ree-thing,"My area isn't fancy, but it's close to everything.",我住的地方不豪華，但生活機能很好。,close（近的）結尾唸 /s/，不唸 /z/
+u17-18,17,Home & Neighborhood,家與社區,There are lots of ...,有很多……,/ðɛr ər ˈlɑts əv/,thair-er-LOTS-uv,There are lots of scooters on my street.,我家那條街上有很多機車。,there are 連起來唸 thair-er
+u17-19,17,Home & Neighborhood,家與社區,Come on in!,請進！,/ˌkʌm ɑn ˈɪn/,kum-uh-NIN,Hi! Come on in. Sorry about the mess.,嗨！請進，家裡有點亂不好意思。,on in 連起來唸：kum-uh-nin
+u17-20,17,Home & Neighborhood,家與社區,Make yourself at home.,當自己家就好。,/ˌmeɪk jɚˈsɛlf ət ˈhoʊm/,mayk-yer-SELF-ut-HOME,Make yourself at home. Do you want some tea?,當自己家就好，要喝點茶嗎？,

@@ -1,0 +1,247 @@
+{
+  "unit_no": 12,
+  "phase": 2,
+  "title_en": "Making Plans",
+  "title_zh": "約時間與計畫",
+  "goals": [
+    "Invite someone and suggest a time and place (Are you free on...? / How about...?).",
+    "Talk about future plans with be going to and the present continuous (I'm meeting...).",
+    "Accept, decline politely, and reschedule (That works for me. / Sorry, I already have plans.).",
+    "Put word stress on the right syllable in longer words (a-VAI-la-ble, in-VITE, CAN-cel)."
+  ],
+  "warmup": {
+    "easy": [
+      "Are you free this weekend?",
+      "Do you like going to the movies?",
+      "Who do you usually hang out with?"
+    ],
+    "medium": [
+      "What are you doing this weekend?",
+      "What are you going to do after class today?",
+      "Where do you like to meet your friends?"
+    ],
+    "hard": [
+      "Tell me about your plans for the next long holiday.",
+      "How do you say no politely when a friend invites you?",
+      "Do you like to plan everything, or decide at the last minute? Why?"
+    ]
+  },
+  "key_phrases": [
+    {
+      "en": "Are you free on ___?",
+      "zh": "你 ___ 有空嗎？"
+    },
+    {
+      "en": "What are you doing this weekend?",
+      "zh": "你這個週末要做什麼？"
+    },
+    {
+      "en": "Do you want to get together?",
+      "zh": "要不要聚一聚？"
+    },
+    {
+      "en": "How about ___?",
+      "zh": "___ 如何？"
+    },
+    {
+      "en": "That works for me.",
+      "zh": "我可以。"
+    },
+    {
+      "en": "Sorry, I already have plans.",
+      "zh": "抱歉，我已經有約了。"
+    },
+    {
+      "en": "Maybe next time!",
+      "zh": "下次吧！"
+    },
+    {
+      "en": "Can we reschedule?",
+      "zh": "我們可以改時間嗎？"
+    },
+    {
+      "en": "Let's meet at ___.",
+      "zh": "我們在 ___ 碰面吧。"
+    },
+    {
+      "en": "See you then!",
+      "zh": "到時候見！"
+    }
+  ],
+  "grammar": {
+    "point_en": "Future plans: be going to + verb / present continuous (I'm meeting...)",
+    "point_zh": "說未來的計畫：be going to + 原形動詞／現在進行式",
+    "explain_zh": "中文只要加「要、打算」和時間就能說未來。英文說已經決定的計畫，常用 be going to + 原形動詞：I'm going to visit my parents。已經約好時間地點的安排，也常用現在進行式：I'm meeting Amy on Friday。記得 am / is / are 不能省略。",
+    "examples": [
+      {
+        "en": "I'm going to visit my parents this weekend.",
+        "zh": "這個週末我要去看我爸媽。"
+      },
+      {
+        "en": "We're going to see a movie on Friday.",
+        "zh": "我們星期五要去看電影。"
+      },
+      {
+        "en": "I'm meeting my friend at six tonight.",
+        "zh": "我今晚六點要跟朋友見面。"
+      },
+      {
+        "en": "What are you doing on Sunday?",
+        "zh": "你星期天要做什麼？"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Tomorrow I going to the night market.",
+      "right": "Tomorrow I'm going to the night market.",
+      "why_zh": "be 動詞不能省略，要說 I'm going；中文沒有這個字，所以很容易漏掉。"
+    }
+  },
+  "sound_focus": {
+    "sound_id": "stress",
+    "words": [
+      "available",
+      "invite",
+      "cancel",
+      "reschedule",
+      "get together",
+      "Saturday"
+    ],
+    "sentence": "Are you available on Saturday afternoon to get together?"
+  },
+  "mini_lesson": [
+    "Step 1 (5 min): Warm-up. Ask 'What are you doing this weekend?' plus 2 more warm-up questions. Write her answers on the board exactly as she says them; you will fix them in Step 3.",
+    "Step 2 (6 min): Vocabulary. Write the invitation chain on the board: Invite (Are you free on...?) → Suggest (How about...?) → Accept (That works for me.) or Decline (Sorry, I already have plans. Maybe next time!). Practice each step with your phone calendars side by side.",
+    "Step 3 (8 min): Grammar. Show 'I'm going to + verb' and 'I'm meeting...' using a mini calendar of your week. She makes 4 sentences about her own week. Go back to her Step 1 answers and fix any missing am / is / are.",
+    "Step 4 (6 min): Sound focus (word stress). Clap the syllables and make the strong one loud and long: a-VAI-la-ble, in-VITE, CAN-cel, to-GE-ther, SAT-ur-day. Then she says 'Are you available on Saturday afternoon to get together?' with the right beats.",
+    "Step 5 (5 min): Speaking. Calendar game: each of you secretly marks 3 busy times on a week grid. Find one time you are both free by asking 'Are you free on ___?' until you agree."
+  ],
+  "roleplays": [
+    {
+      "level": "easy",
+      "title": "Weekend plans with a friend",
+      "setup_zh": "朋友打 LINE 來約她週末見面，她要說自己的計畫，並約好時間和地點。",
+      "teacher_role": "A friend",
+      "student_role": "Herself",
+      "lines": [
+        {
+          "who": "T",
+          "en": "Hi! What are you doing this weekend?"
+        },
+        {
+          "who": "S",
+          "en": "On Saturday, I'm going to ___.",
+          "zh": "星期六我要 ___。"
+        },
+        {
+          "who": "T",
+          "en": "Oh, nice. Are you free on Sunday?"
+        },
+        {
+          "who": "S",
+          "en": "Yes, I'm free in the afternoon.",
+          "zh": "有，我下午有空。"
+        },
+        {
+          "who": "T",
+          "en": "Do you want to see a movie?"
+        },
+        {
+          "who": "S",
+          "en": "Sure! That sounds great. What time?",
+          "zh": "好啊！聽起來很棒。幾點？"
+        },
+        {
+          "who": "T",
+          "en": "How about two o'clock?"
+        },
+        {
+          "who": "S",
+          "en": "That works for me. Where should we meet?",
+          "zh": "我可以。我們要在哪裡碰面？"
+        },
+        {
+          "who": "T",
+          "en": "Let's meet at the MRT station."
+        },
+        {
+          "who": "S",
+          "en": "OK. See you then!",
+          "zh": "好，到時候見！"
+        }
+      ]
+    },
+    {
+      "level": "challenge",
+      "title": "Finding a time that works",
+      "setup_zh": "老師扮演很忙的朋友，想約她吃晚餐，但兩人的時間一直對不上。她要婉拒、提出其他時間，最後確定時間和地點。",
+      "teacher_role": "A busy friend",
+      "student_role": "Herself",
+      "lines": [
+        {
+          "who": "T",
+          "en": "Hey! Let's get together for dinner. Are you free on Friday?"
+        },
+        {
+          "who": "S",
+          "en": "Sorry, I already have plans on Friday. I'm meeting ___.",
+          "zh": "抱歉，我星期五已經有約了，我要跟 ___ 見面。"
+        },
+        {
+          "who": "T",
+          "en": "Oh, OK. How about Saturday night?"
+        },
+        {
+          "who": "S",
+          "en": "Hmm, I'm going to ___ on Saturday. Are you available on Sunday?",
+          "zh": "嗯，我星期六要 ___。你星期天有空嗎？"
+        },
+        {
+          "who": "T",
+          "en": "Sunday is hard. I'm visiting my grandma. What about next Tuesday?"
+        },
+        {
+          "who": "S",
+          "en": "Let me check my schedule... Yes, Tuesday works for me.",
+          "zh": "我看一下行程……可以，星期二我可以。"
+        },
+        {
+          "who": "T",
+          "en": "Great! What time is good for you?"
+        },
+        {
+          "who": "S",
+          "en": "How about seven o'clock?",
+          "zh": "七點如何？"
+        },
+        {
+          "who": "T",
+          "en": "Perfect. Where do you want to eat?"
+        },
+        {
+          "who": "S",
+          "en": "Let's try the new ___ restaurant near ___.",
+          "zh": "我們去試試 ___ 附近新開的 ___ 餐廳吧。"
+        },
+        {
+          "who": "T",
+          "en": "Sounds good! I'll make a reservation."
+        },
+        {
+          "who": "S",
+          "en": "Thanks! See you on Tuesday at seven.",
+          "zh": "謝謝！星期二七點見。"
+        }
+      ],
+      "teacher_twists": [
+        "Send a 'message' the next day: 'Sorry, something came up. Can we reschedule?' and she has to find a new time.",
+        "Suggest a place she doesn't like, so she has to say 'Hmm, how about ___ instead?'",
+        "Ask 'Who else is coming?' or 'What are you going to order?' so she keeps using future forms."
+      ]
+    }
+  ],
+  "homework_zh": [
+    "寫下你下週的 5 個計畫，用 I'm going to… 或 I'm meeting…（例如 I'm meeting my sister on Thursday.）。",
+    "用 LINE 傳英文訊息約一位朋友或老師見面，要寫出日期、時間和地點。",
+    "錄音唸這些字並大聲唸出重音：a-VAI-la-ble、in-VITE、CAN-cel、to-GE-ther、SAT-ur-day。"
+  ]
+}

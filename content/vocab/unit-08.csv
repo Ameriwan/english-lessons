@@ -1,0 +1,21 @@
+﻿id,unit_no,unit_en,unit_zh,english,chinese,ipa,sounds_like,example,example_zh,tip_zh
+u08-01,8,Hobbies & Free Time,興趣與休閒,hobby,嗜好,/ˈhɑbi/,HAH-bee,My hobby is gardening.,我的嗜好是種花草。,
+u08-02,8,Hobbies & Free Time,興趣與休閒,reading,閱讀,/ˈridɪŋ/,REE-ding,I love reading before bed.,我喜歡睡前看書。,r 開頭嘴唇微圓，舌頭不碰上顎
+u08-03,8,Hobbies & Free Time,興趣與休閒,listen to music,聽音樂,/ˈlɪsən tə ˈmjuzɪk/,LIS-un-tuh-MYOO-zik,I listen to music on the MRT.,我在捷運上聽音樂。,listen 的 t 不發音，後面要加 to
+u08-04,8,Hobbies & Free Time,興趣與休閒,go hiking,去爬山（健行）,/ɡoʊ ˈhaɪkɪŋ/,go-HY-king,We go hiking on Yangmingshan.,我們去陽明山爬山。,「爬山」通常說 go hiking
+u08-05,8,Hobbies & Free Time,興趣與休閒,watch dramas,追劇,/wɑtʃ ˈdrɑməz/,watch-DRAH-muhz,I watch Korean dramas at night.,我晚上看韓劇。,
+u08-06,8,Hobbies & Free Time,興趣與休閒,cooking,做菜,/ˈkʊkɪŋ/,KOOK-ing,Cooking helps me relax.,做菜讓我放鬆。,
+u08-07,8,Hobbies & Free Time,興趣與休閒,gardening,園藝、種花草,/ˈɡɑrdənɪŋ/,GAR-den-ing,My mom loves gardening on the balcony.,我媽媽很喜歡在陽台種花草。,
+u08-08,8,Hobbies & Free Time,興趣與休閒,play badminton,打羽毛球,/pleɪ ˈbædmɪntən/,play-BAD-min-tun,I play badminton with friends on Saturdays.,我星期六和朋友打羽毛球。,play 的 l 舌尖要碰上齒後面
+u08-09,8,Hobbies & Free Time,興趣與休閒,yoga,瑜伽,/ˈjoʊɡə/,YOH-guh,I do yoga twice a week.,我一週做兩次瑜伽。,瑜伽用 do yoga，不用 play
+u08-10,8,Hobbies & Free Time,興趣與休閒,relax,放鬆,/rɪˈlæks/,rih-LAKS,I like to relax at home on Sundays.,我星期天喜歡在家放鬆。,r 和 l 都在這個字裡：rih-LAKS
+u08-11,8,Hobbies & Free Time,興趣與休閒,karaoke,唱歌（KTV）,/ˌkæriˈoʊki/,kair-ee-OH-kee,My friends and I love singing karaoke.,我和朋友很愛唱 KTV。,外國人不說 KTV，重音在 OH
+u08-12,8,Hobbies & Free Time,興趣與休閒,take photos,拍照,/teɪk ˈfoʊtoʊz/,tayk-FOH-tohz,I take photos of flowers with my phone.,我用手機拍花的照片。,
+u08-13,8,Hobbies & Free Time,興趣與休閒,What do you do in your free time?,你空閒時都做什麼？,/wʌt də jə ˈdu ɪn jɚ ˈfri ˌtaɪm/,wut-duh-yuh-DOO-in-yer-FREE-time,What do you do in your free time on weekends?,你週末空閒時都做什麼？,兩個 do：第一個弱讀，第二個重讀
+u08-14,8,Hobbies & Free Time,興趣與休閒,I'm really into baking.,我最近很迷烘焙。,/aɪm ˈrɪli ˈɪntu ˈbeɪkɪŋ/,aim-RIH-lee-in-too-BAY-king,I'm really into baking bread these days.,我最近很迷烤麵包。,be into ___ = 很迷、很喜歡
+u08-15,8,Hobbies & Free Time,興趣與休閒,I enjoy spending time with my family.,我喜歡和家人在一起。,/aɪ ɪnˈdʒɔɪ ˈspɛndɪŋ ˈtaɪm wɪð maɪ ˈfæmli/,eye-in-JOY-spen-ding-TIME-with-my-FAM-lee,"On Sundays, I enjoy spending time with my family.",星期天我喜歡和家人在一起。,enjoy 後面一定接 -ing
+u08-16,8,Hobbies & Free Time,興趣與休閒,How often do you exercise?,你多久運動一次？,/haʊ ˈɔfən də jə ˈɛksɚˌsaɪz/,how-AW-fun-duh-yuh-EK-ser-size,How often do you exercise each week?,你每週運動幾次？,often 的 t 通常不發音
+u08-17,8,Hobbies & Free Time,興趣與休閒,Once or twice a week.,一週一兩次。,/ˈwʌns ɔr ˈtwaɪs ə ˈwik/,wuns-er-TWICE-uh-WEEK,I go swimming once or twice a week.,我一週去游泳一兩次。,once 唸 wuns，開頭是 w 音
+u08-18,8,Hobbies & Free Time,興趣與休閒,That sounds fun!,聽起來很好玩！,/ðæt ˈsaʊndz ˈfʌn/,that-sowndz-FUN,You go camping? That sounds fun!,你去露營？聽起來很好玩！,
+u08-19,8,Hobbies & Free Time,興趣與休閒,I'm not very good at it.,我不太擅長。,/aɪm ˈnɑt ˈvɛri ˈɡʊd ət ɪt/,aim-not-VER-ee-GOOD-uh-dit,"I love singing, but I'm not very good at it.",我很愛唱歌，但我唱得不太好。,good at it 連音：GOOD-uh-dit
+u08-20,8,Hobbies & Free Time,興趣與休閒,Do you want to join me?,你要不要一起來？,/də jə ˈwɑnə ˈdʒɔɪn mi/,duh-yuh-WAH-nuh-JOIN-mee,I'm going hiking Saturday. Do you want to join me?,我星期六要去爬山，你要一起來嗎？,want to 口語常唸成 wanna

@@ -1,0 +1,21 @@
+﻿id,unit_no,unit_en,unit_zh,english,chinese,ipa,sounds_like,example,example_zh,tip_zh
+u10-01,10,Health & the Doctor,健康與看醫生,headache,頭痛,/ˈhɛdˌeɪk/,HED-ayk,I have a terrible headache.,我頭好痛。,「我頭痛」說 I have a headache
+u10-02,10,Health & the Doctor,健康與看醫生,sore throat,喉嚨痛,/ˌsɔr ˈθroʊt/,sor-THROHT,I have a sore throat and a cough.,我喉嚨痛又咳嗽。,throat 是咬舌 th，不是 s 或 f
+u10-03,10,Health & the Doctor,健康與看醫生,fever,發燒,/ˈfivɚ/,FEE-ver,My son has a high fever.,我兒子發高燒。,f 只吹氣，v 喉嚨要震動
+u10-04,10,Health & the Doctor,健康與看醫生,cough,咳嗽,/kɔf/,KAWF,My cough is worse at night.,我晚上咳得比較厲害。,gh 在這裡唸 f：KAWF
+u10-05,10,Health & the Doctor,健康與看醫生,runny nose,流鼻水,/ˌrʌni ˈnoʊz/,ruh-nee-NOHZ,I have a runny nose today.,我今天一直流鼻水。,
+u10-06,10,Health & the Doctor,健康與看醫生,stomachache,肚子痛,/ˈstʌməkˌeɪk/,STUM-uk-ayk,I have a stomachache after lunch.,我吃完午餐後肚子痛。,ch 唸 k：STUM-uk
+u10-07,10,Health & the Doctor,健康與看醫生,medicine,藥,/ˈmɛdəsən/,MED-ih-sun,Take this medicine three times a day.,這個藥一天吃三次。,「吃藥」英文說 take medicine
+u10-08,10,Health & the Doctor,健康與看醫生,pharmacy,藥局,/ˈfɑrməsi/,FAR-muh-see,There's a pharmacy next to the clinic.,診所旁邊有藥局。,
+u10-09,10,Health & the Doctor,健康與看醫生,clinic,診所,/ˈklɪnɪk/,KLIN-ik,I go to the clinic near my home.,我去家附近的診所看病。,
+u10-10,10,Health & the Doctor,健康與看醫生,health insurance card,健保卡,/ˈhɛlθ ɪnˈʃʊrəns ˌkɑrd/,HELTH-in-SHUR-unce-kard,Please bring your health insurance card.,請帶您的健保卡。,health 結尾要咬舌 th
+u10-11,10,Health & the Doctor,健康與看醫生,allergic,過敏的,/əˈlɝdʒɪk/,uh-LUR-jik,I'm allergic to seafood.,我對海鮮過敏。,重音在第二音節：uh-LUR-jik
+u10-12,10,Health & the Doctor,健康與看醫生,catch a cold,感冒,/ˈkætʃ ə ˈkoʊld/,katch-uh-KOHLD,"Wear a jacket, or you'll catch a cold.",穿件外套，不然會感冒。,
+u10-13,10,Health & the Doctor,健康與看醫生,What's the matter?,怎麼了？哪裡不舒服？,/wʌts ðə ˈmætɚ/,wuts-thuh-MAD-er,You look pale. What's the matter?,你臉色好差，怎麼了？,matter 的 tt 美式唸成輕輕的 d
+u10-14,10,Health & the Doctor,健康與看醫生,I don't feel well.,我不太舒服。,/aɪ ˈdoʊnt ˈfil ˈwɛl/,eye-dohnt-feel-WEL,"I don't feel well, so I'm staying home.",我不太舒服，所以待在家。,
+u10-15,10,Health & the Doctor,健康與看醫生,It started two days ago.,兩天前開始的。,/ɪt ˈstɑrtɪd ˈtu ˈdeɪz əˈɡoʊ/,it-STAR-did-too-dayz-uh-GO,My cough? It started two days ago.,我的咳嗽嗎？兩天前開始的。,started 的 -ed 唸 /ɪd/
+u10-16,10,Health & the Doctor,健康與看醫生,My back hurts.,我背痛。,/maɪ ˈbæk ˈhɝts/,my-BACK-hurts,My back hurts after a long day.,忙了一整天後我背很痛。,hurts 結尾 ts 要唸清楚
+u10-17,10,Health & the Doctor,健康與看醫生,You should get some rest.,你應該多休息。,/ju ʃəd ˈɡɛt səm ˈrɛst/,yoo-shud-get-sum-REST,You look tired. You should get some rest.,你看起來很累，應該多休息。,should 的 l 不發音
+u10-18,10,Health & the Doctor,健康與看醫生,You have to take it after meals.,這個一定要飯後吃。,/ju ˈhæf tə ˈteɪk ɪt ˈæftɚ ˈmilz/,yoo-HAF-tuh-TAY-kit-af-ter-MEELZ,This medicine? You have to take it after meals.,這個藥嗎？一定要飯後吃。,have to 唸 HAF-tuh
+u10-19,10,Health & the Doctor,健康與看醫生,I'd like to make an appointment.,我想預約看診。,/aɪd ˈlaɪk tə ˈmeɪk ən əˈpɔɪntmənt/,ide-like-tuh-MAY-kun-uh-POINT-ment,"Hello, I'd like to make an appointment for Monday.",你好，我想預約星期一看診。,make an 連音：MAY-kun
+u10-20,10,Health & the Doctor,健康與看醫生,Is it serious?,嚴重嗎？,/ɪz ɪt ˈsɪriəs/,iz-it-SEER-ee-us,"Doctor, is it serious, or just a cold?",醫生，嚴重嗎？還是只是感冒？,

@@ -1,0 +1,21 @@
+﻿id,unit_no,unit_en,unit_zh,english,chinese,ipa,sounds_like,example,example_zh,tip_zh
+u03-01,3,Family & People,家人與朋友,husband,老公；丈夫,/ˈhʌzbənd/,HUZ-bund,My husband works in Kaohsiung.,我老公在高雄上班。,s 要唸成 z：HUZ-bund
+u03-02,3,Family & People,家人與朋友,wife,老婆；太太,/waɪf/,WIFE,His wife is a teacher.,他太太是老師。,w 嘴唇嘟圓往前，不要咬下唇
+u03-03,3,Family & People,家人與朋友,parents,父母；爸媽,/ˈpɛrənts/,PAIR-unts,My parents live in Tainan.,我爸媽住在台南。,
+u03-04,3,Family & People,家人與朋友,brother,兄弟（哥哥／弟弟）,/ˈbrʌðɚ/,BRUH-ther,I have two older brothers.,我有兩個哥哥。,英文不分哥哥弟弟：older／younger brother
+u03-05,3,Family & People,家人與朋友,sister,姊妹（姊姊／妹妹）,/ˈsɪstɚ/,SIS-ter,My younger sister lives in Taipei.,我妹妹住在台北。,
+u03-06,3,Family & People,家人與朋友,son,兒子,/sʌn/,SUN,My son is in high school.,我兒子在讀高中。,和 sun（太陽）發音一樣
+u03-07,3,Family & People,家人與朋友,daughter,女兒,/ˈdɔɾɚ/,DAW-der,My daughter loves drawing.,我女兒很喜歡畫畫。,gh 不發音；t 像輕輕的 d
+u03-08,3,Family & People,家人與朋友,children,孩子們,/ˈtʃɪldrən/,CHIL-drun,They have three children.,他們有三個孩子。,child 的複數，不說 childs
+u03-09,3,Family & People,家人與朋友,grandma,奶奶；外婆,/ˈɡrænmɑ/,GRAN-mah,My grandma is ninety years old.,我奶奶九十歲了。,不分奶奶、外婆，都叫 grandma
+u03-10,3,Family & People,家人與朋友,married,已婚的,/ˈmɛrid/,MAIR-eed,My brother is married.,我哥哥已經結婚了。,說 I'm married，不說 I married
+u03-11,3,Family & People,家人與朋友,very,非常,/ˈvɛri/,VAIR-ee,My mom is very kind.,我媽媽人非常好。,上排牙齒輕碰下唇發 v，不是 wery
+u03-12,3,Family & People,家人與朋友,funny,好笑的；幽默的,/ˈfʌni/,FUN-ee,My dad is really funny.,我爸爸很搞笑。,
+u03-13,3,Family & People,家人與朋友,Are you married?,你結婚了嗎？,/ɑr ju ˈmɛrid/,ar-yoo-MAIR-eed,"Are you married, or single?",你結婚了還是單身？,
+u03-14,3,Family & People,家人與朋友,Do you have any kids?,你有小孩嗎？,/də jə ˌhæv ˌɛni ˈkɪdz/,duh-yuh-hav-en-ee-KIDZ,"Do you have any kids, Tom?",Tom，你有小孩嗎？,
+u03-15,3,Family & People,家人與朋友,How old is she?,她幾歲？,/ˌhaʊ ˈoʊld ɪz ʃi/,how-OHLD-iz-shee,Your daughter is cute! How old is she?,你女兒好可愛！她幾歲？,
+u03-16,3,Family & People,家人與朋友,She's ten years old.,她十歲。,/ʃiz ˈtɛn ˌjɪrz ˈoʊld/,sheez-TEN-yeerz-OHLD,This is Amy. She's ten years old.,這是 Amy，她十歲。,女生用 she，男生用 he，不要混用
+u03-17,3,Family & People,家人與朋友,What's he like?,他是個怎樣的人？,/ˌwʌts hi ˈlaɪk/,wuts-hee-LIKE,Your new boss? What's he like?,你的新老闆？他人怎麼樣？,問個性，不是問「他喜歡什麼」
+u03-18,3,Family & People,家人與朋友,He looks like his dad.,他長得像他爸爸。,/hi ˈlʊks laɪk hɪz ˈdæd/,hee-LOOKS-like-hiz-DAD,Look at the baby! He looks like his dad.,你看那個寶寶！他長得像他爸爸。,男生的「他的」用 his，女生用 her
+u03-19,3,Family & People,家人與朋友,"This is my friend, Lisa.",這是我的朋友 Lisa。,/ˌðɪs ɪz maɪ ˈfrɛnd ˈlisə/,this-iz-my-FREND-LEE-suh,"Hi, Mom! This is my friend, Lisa.",嗨，媽！這是我的朋友 Lisa。,介紹別人用 This is，不說 He is
+u03-20,3,Family & People,家人與朋友,We're very close.,我們感情很好。,/wɪr ˌvɛri ˈkloʊs/,weer-vair-ee-KLOHS,My sister and I? We're very close.,我和我姊姊？我們感情很好。,這裡的 close 結尾唸 s，不是 z

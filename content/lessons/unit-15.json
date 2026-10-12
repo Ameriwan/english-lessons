@@ -1,0 +1,238 @@
+{
+  "unit_no": 15,
+  "phase": 3,
+  "title_en": "Small Talk",
+  "title_zh": "閒聊",
+  "goals": [
+    "Start and end a friendly chat with a neighbor, coworker, or stranger at a party.",
+    "Keep small talk going with the 3-step answer: answer + one detail + a follow-up question.",
+    "Use natural fillers (Well, Actually, Let me see) and reactions (Really? That sounds fun!) instead of silence.",
+    "Link words smoothly in common chunks (How about you? Is it ...? kind of)."
+  ],
+  "warmup": {
+    "easy": [
+      "How are you today?",
+      "How was your weekend?",
+      "Do you live near here?"
+    ],
+    "medium": [
+      "What have you been up to lately?",
+      "What's new at work or at home?",
+      "Who do you usually chat with during the day?"
+    ],
+    "hard": [
+      "What topics are good for small talk in Taiwan? What topics are not?",
+      "How do you start a conversation with someone you don't know?",
+      "Tell me about an interesting stranger you talked to once."
+    ]
+  },
+  "key_phrases": [
+    {
+      "en": "What have you been up to?",
+      "zh": "你最近在忙什麼？"
+    },
+    {
+      "en": "How about you?",
+      "zh": "那你呢？"
+    },
+    {
+      "en": "That sounds fun!",
+      "zh": "聽起來很好玩！"
+    },
+    {
+      "en": "Really?",
+      "zh": "真的嗎？"
+    },
+    {
+      "en": "Actually, ...",
+      "zh": "其實……"
+    },
+    {
+      "en": "By the way, ...",
+      "zh": "對了……"
+    },
+    {
+      "en": "Same here.",
+      "zh": "我也是。"
+    },
+    {
+      "en": "Oh, I didn't know that.",
+      "zh": "喔，我都不知道耶。"
+    },
+    {
+      "en": "It was nice talking to you.",
+      "zh": "很高興跟你聊天。"
+    },
+    {
+      "en": "I'd better get going.",
+      "zh": "我差不多該走了。"
+    }
+  ],
+  "grammar": {
+    "point_en": "Keeping a conversation going: answer + one detail + a follow-up question",
+    "point_zh": "讓對話繼續：回答＋多說一點＋反問",
+    "explain_zh": "用中文聊天時，回答「還好」就可以了，但英文閒聊只說 Fine，對話很快就會停掉。英文的習慣是：先回答，再加一個小細節，最後反問對方，例如 How about you? 反問時要用 do / does / did 開頭，或用 what、where、how 開頭。中文問句沒有 do 這個字，所以特別容易漏掉。",
+    "examples": [
+      {
+        "en": "Pretty good! I went hiking. How about you?",
+        "zh": "還不錯！我去爬山。那你呢？"
+      },
+      {
+        "en": "Yes, I live on Minsheng Road. Do you live around here too?",
+        "zh": "對，我住民生路。你也住這附近嗎？"
+      },
+      {
+        "en": "Not bad, just busy at work. What have you been up to?",
+        "zh": "還好，只是工作很忙。你最近在忙什麼？"
+      },
+      {
+        "en": "You went to Japan? Where did you go?",
+        "zh": "你去日本？你去了哪裡？"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Where you live?",
+      "right": "Where do you live?",
+      "why_zh": "中文「你住哪？」沒有助動詞，但英文問句要加 do / does / did。"
+    }
+  },
+  "sound_focus": {
+    "sound_id": "linking",
+    "words": [
+      "How about you",
+      "Is it",
+      "kind of",
+      "What have you",
+      "get going",
+      "Let me see"
+    ],
+    "sentence": "Well, it was kind of busy. How about you?"
+  },
+  "mini_lesson": [
+    "Step 1 (5 min): Warm-up. Ask 2-3 easy warm-up questions. Notice if she answers with only one word; don't correct yet.",
+    "Step 2 (8 min): The 3-step answer. Write 'Answer + 1 detail + question back' on paper and model it ('Pretty good! I went hiking. How about you?'). Ask 4 small-talk questions; she must use all three steps every time.",
+    "Step 3 (6 min): Linking. Drill How about you → how-uh-BOW-choo, Is it → i-zit, kind of → kinda, What have you → wuh-duh-vyuh. Say each slowly, then at natural speed; she shadows each one 3 times.",
+    "Step 4 (5 min): Fillers and reactions. Teach Well / Actually / Let me see for thinking time, and Really? / That sounds fun! / Same here. for reacting. Tell short news ('I got a puppy!'); she reacts and asks one follow-up question.",
+    "Step 5 (6 min): Open and close. Practice an opener ('Is it always this busy here?') and a closer ('I'd better get going. It was nice talking to you!'). Then run a 2-minute mini chat from start to finish."
+  ],
+  "roleplays": [
+    {
+      "level": "easy",
+      "title": "Waiting for the Elevator",
+      "setup_zh": "在大樓電梯口遇到鄰居，簡單聊幾句天。",
+      "teacher_role": "Neighbor",
+      "student_role": "Herself",
+      "lines": [
+        {
+          "who": "T",
+          "en": "Hi! Hot today, isn't it?"
+        },
+        {
+          "who": "S",
+          "en": "Yes, it's so hot! How are you?",
+          "zh": "對啊，好熱！你好嗎？"
+        },
+        {
+          "who": "T",
+          "en": "Pretty good, thanks. Busy with work. How about you?"
+        },
+        {
+          "who": "S",
+          "en": "Same here. I'm kind of tired today.",
+          "zh": "我也是。我今天有點累。"
+        },
+        {
+          "who": "T",
+          "en": "Oh no. Did you do anything fun last weekend?"
+        },
+        {
+          "who": "S",
+          "en": "Actually, yes. I went to ___ with my family. How about you?",
+          "zh": "其實有。我跟家人去了___。那你呢？"
+        },
+        {
+          "who": "T",
+          "en": "I just stayed home. Oh, here's the elevator!"
+        },
+        {
+          "who": "S",
+          "en": "It was nice talking to you. Have a good day!",
+          "zh": "很高興跟你聊天，祝你有美好的一天！"
+        }
+      ]
+    },
+    {
+      "level": "challenge",
+      "title": "Meeting Someone at a Party",
+      "setup_zh": "在朋友的生日派對上遇到一個不認識的人。你要主動開啟話題、用問題讓對話繼續，最後禮貌地結束。",
+      "teacher_role": "Mark, a guest she doesn't know",
+      "student_role": "Herself",
+      "lines": [
+        {
+          "who": "S",
+          "en": "Hi! I don't think we've met. I'm ___.",
+          "zh": "嗨！我們好像沒見過。我是___。"
+        },
+        {
+          "who": "T",
+          "en": "Hi, I'm Mark. Nice to meet you. How do you know Amy?"
+        },
+        {
+          "who": "S",
+          "en": "Well, we work together. How about you?",
+          "zh": "嗯，我們是同事。那你呢？"
+        },
+        {
+          "who": "T",
+          "en": "We went to college together. Actually, I just moved back from Canada."
+        },
+        {
+          "who": "S",
+          "en": "Really? That sounds exciting! Where in Canada?",
+          "zh": "真的嗎？聽起來好棒！在加拿大哪裡？"
+        },
+        {
+          "who": "T",
+          "en": "Vancouver. I lived there for five years."
+        },
+        {
+          "who": "S",
+          "en": "Oh, I didn't know that. Do you miss it?",
+          "zh": "喔，我都不知道耶。你會想念那裡嗎？"
+        },
+        {
+          "who": "T",
+          "en": "Sometimes. But I really missed Taiwanese food! What have you been up to lately?"
+        },
+        {
+          "who": "S",
+          "en": "Let me see... I'm learning English, so I'm kind of busy.",
+          "zh": "我想想……我在學英文，所以有點忙。"
+        },
+        {
+          "who": "T",
+          "en": "Your English is good! By the way, have you tried the cake?"
+        },
+        {
+          "who": "S",
+          "en": "Not yet. Actually, I'd better get going soon. It was nice talking to you!",
+          "zh": "還沒。其實我差不多該走了。很高興跟你聊天！"
+        },
+        {
+          "who": "T",
+          "en": "You too! Enjoy the rest of the party."
+        }
+      ],
+      "teacher_twists": [
+        "Give only short answers ('Yeah.' 'Fine.') for a while, so she has to work harder with follow-up questions.",
+        "Bring up a surprise topic (your new puppy, a trip, a TV show); she must react with Really? / That sounds fun! and ask one more question.",
+        "Keep talking when she tries to leave, so she has to close the conversation politely a second time."
+      ]
+    }
+  ],
+  "homework_zh": [
+    "每天對著鏡子回答 How was your day?，用「回答＋一個細節＋How about you?」三個步驟說出來。",
+    "練習連音：How about you、Is it、kind of、What have you been up to 每天各唸 5 次，先慢後快。",
+    "看一段英文訪談或 vlog 影片，聽聽看對方用了哪些 Well、Actually、You know，記下 3 個句子。"
+  ]
+}

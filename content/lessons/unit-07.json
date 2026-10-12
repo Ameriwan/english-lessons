@@ -1,0 +1,247 @@
+{
+  "unit_no": 7,
+  "phase": 2,
+  "title_en": "Daily Routines",
+  "title_zh": "日常作息",
+  "goals": [
+    "Describe her day from morning to night using the present simple.",
+    "Use adverbs of frequency (always, usually, sometimes, never) before the main verb.",
+    "Add third-person -s when talking about family members (He gets up / She takes the MRT).",
+    "Pronounce final consonants clearly (-s, -t, -k, -p) without adding an extra vowel."
+  ],
+  "warmup": {
+    "easy": [
+      "What time do you get up?",
+      "Do you drink coffee in the morning?",
+      "What time do you go to bed?"
+    ],
+    "medium": [
+      "What do you usually eat for breakfast?",
+      "What do you usually do in the evening?",
+      "Are you a morning person or a night owl?"
+    ],
+    "hard": [
+      "Tell me about a typical Monday, from morning to night.",
+      "How is your weekday routine different from your weekend routine?",
+      "Describe a family member's routine. What time does he or she get up?"
+    ]
+  },
+  "key_phrases": [
+    {
+      "en": "What time do you get up?",
+      "zh": "你幾點起床？"
+    },
+    {
+      "en": "I usually get up at ___.",
+      "zh": "我通常 ___ 點起床。"
+    },
+    {
+      "en": "I'm a morning person.",
+      "zh": "我是早起型的人。"
+    },
+    {
+      "en": "I'm a night owl.",
+      "zh": "我是夜貓子。"
+    },
+    {
+      "en": "First, I ___. Then, I ___.",
+      "zh": "首先我 ___，然後我 ___。"
+    },
+    {
+      "en": "After that, I ___.",
+      "zh": "之後我 ___。"
+    },
+    {
+      "en": "It takes about ___ minutes.",
+      "zh": "大概要 ___ 分鐘。"
+    },
+    {
+      "en": "I never ___ on weekends.",
+      "zh": "我週末從來不 ___。"
+    },
+    {
+      "en": "What do you do in the evening?",
+      "zh": "你晚上都做什麼？"
+    },
+    {
+      "en": "How about you?",
+      "zh": "那你呢？"
+    }
+  ],
+  "grammar": {
+    "point_en": "Present simple for routines + third-person -s (I get up / She gets up)",
+    "point_zh": "用現在簡單式說每天的習慣；第三人稱單數動詞加 -s",
+    "explain_zh": "中文動詞不會變化：「我起床」「她起床」都一樣。英文說每天的習慣用現在簡單式。主詞是 he、she、it 或一個人（my mom）時，動詞要加 -s 或 -es，例如 work → works、watch → watches。have 要變成 has。",
+    "examples": [
+      {
+        "en": "I get up at six. My husband gets up at seven.",
+        "zh": "我六點起床，我先生七點起床。"
+      },
+      {
+        "en": "She takes the MRT to work.",
+        "zh": "她搭捷運上班。"
+      },
+      {
+        "en": "My son watches videos before bed.",
+        "zh": "我兒子睡前看影片。"
+      },
+      {
+        "en": "My mom has tea every afternoon.",
+        "zh": "我媽媽每天下午喝茶。"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "My daughter go to school at seven.",
+      "right": "My daughter goes to school at seven.",
+      "why_zh": "主詞是一個人（she），動詞要加 -es：goes。"
+    }
+  },
+  "sound_focus": {
+    "sound_id": "final-consonants",
+    "words": [
+      "wake up",
+      "get dressed",
+      "take a nap",
+      "breakfast",
+      "commute",
+      "sometimes"
+    ],
+    "sentence": "She wakes up, gets dressed, and takes the bus at eight."
+  },
+  "mini_lesson": [
+    "Step 1 (5 min): Warm-up. Ask 2-3 easy warm-up questions and note which routine verbs she already knows.",
+    "Step 2 (7 min): Vocabulary. Act out each routine (wake up, take a shower, brush my teeth, get dressed...) and have her say the phrase. Then point to a time on a clock and have her say 'I ___ at ___.'",
+    "Step 3 (8 min): Grammar. Write 'I get up / She gets up' on the board and circle the -s. Ask about her family ('What time does your son get up?') and drill the -s. Then draw a 0-100% line and place never, sometimes, usually, always; practice 'I usually...' sentences.",
+    "Step 4 (5 min): Sound focus (final consonants). Contrast wake/wakes, get/gets, nap/naps slowly; she must close each ending without adding 'uh'. Practice the sentence 'She wakes up, gets dressed, and takes the bus at eight.' three times, slow then natural speed.",
+    "Step 5 (5 min): Speaking. She describes her whole day in 6-8 sentences with 'First... Then... After that...'. Write down 2-3 mistakes and correct them together at the end."
+  ],
+  "roleplays": [
+    {
+      "level": "easy",
+      "title": "Morning routines",
+      "setup_zh": "兩個剛認識的朋友在聊天，互相問每天早上的作息。",
+      "teacher_role": "A new friend from a community class",
+      "student_role": "Herself",
+      "lines": [
+        {
+          "who": "T",
+          "en": "Hi! Are you a morning person?"
+        },
+        {
+          "who": "S",
+          "en": "Yes, I am. I get up early.",
+          "zh": "是的，我很早起床。"
+        },
+        {
+          "who": "T",
+          "en": "What time do you usually get up?"
+        },
+        {
+          "who": "S",
+          "en": "I usually get up at ___.",
+          "zh": "我通常 ___ 點起床。"
+        },
+        {
+          "who": "T",
+          "en": "Wow, that's early! What do you do first?"
+        },
+        {
+          "who": "S",
+          "en": "First, I take a shower. Then, I have breakfast.",
+          "zh": "我先洗澡，然後吃早餐。"
+        },
+        {
+          "who": "T",
+          "en": "What do you usually eat for breakfast?"
+        },
+        {
+          "who": "S",
+          "en": "I usually eat ___ and drink ___.",
+          "zh": "我通常吃 ___，喝 ___。"
+        },
+        {
+          "who": "T",
+          "en": "Sounds nice. What time do you go to bed?"
+        },
+        {
+          "who": "S",
+          "en": "I go to bed around ___. How about you?",
+          "zh": "我大概 ___ 點睡。那你呢？"
+        }
+      ]
+    },
+    {
+      "level": "challenge",
+      "title": "A busy family morning",
+      "setup_zh": "老師扮演好奇的新鄰居，問她家裡每個人早上做什麼。談到家人時動詞要加 -s。",
+      "teacher_role": "A curious new neighbor",
+      "student_role": "Herself, describing her family's routine",
+      "lines": [
+        {
+          "who": "T",
+          "en": "Your mornings must be busy. Who gets up first in your family?"
+        },
+        {
+          "who": "S",
+          "en": "I do. I get up at ___, and then I make breakfast.",
+          "zh": "我最早。我 ___ 點起床，然後做早餐。"
+        },
+        {
+          "who": "T",
+          "en": "What about the rest of your family?"
+        },
+        {
+          "who": "S",
+          "en": "My ___ gets up at ___. He usually takes a shower first.",
+          "zh": "我的 ___ ___ 點起床。他通常先洗澡。"
+        },
+        {
+          "who": "T",
+          "en": "How does everyone get to work or school?"
+        },
+        {
+          "who": "S",
+          "en": "My ___ takes the MRT, and I ride my scooter.",
+          "zh": "我的 ___ 搭捷運，我騎機車。"
+        },
+        {
+          "who": "T",
+          "en": "How long does that take?"
+        },
+        {
+          "who": "S",
+          "en": "It takes about ___ minutes.",
+          "zh": "大概要 ___ 分鐘。"
+        },
+        {
+          "who": "T",
+          "en": "Do you ever have time for a nap?"
+        },
+        {
+          "who": "S",
+          "en": "Sometimes. On weekends, I take a nap after lunch.",
+          "zh": "有時候。週末我午餐後會睡午覺。"
+        },
+        {
+          "who": "T",
+          "en": "And what do you usually do in the evening?"
+        },
+        {
+          "who": "S",
+          "en": "I cook dinner, and then my ___ does the dishes.",
+          "zh": "我煮晚餐，然後我的 ___ 洗碗。"
+        }
+      ],
+      "teacher_twists": [
+        "Ask 'Why?' follow-ups (Why do you get up so early?) so she has to answer with 'because'.",
+        "Pretend to repeat her wrongly: 'Oh, your son get up at seven?' and see if she corrects it to 'gets'.",
+        "Ask about weekends: 'Is it the same on Saturdays?' so she contrasts usually / sometimes / never."
+      ]
+    }
+  ],
+  "homework_zh": [
+    "寫 6 句英文描述你的一天，用 First / Then / After that，並至少用到 always、usually、sometimes 各一次。",
+    "用手機錄音說一位家人的早上作息（例如 My son gets up at...），注意每個動詞都要加 -s。",
+    "每天複習本單元卡片 10 分鐘，大聲唸出結尾子音（gets、takes、dressed）。"
+  ]
+}

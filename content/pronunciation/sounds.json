@@ -1,0 +1,283 @@
+[
+  {
+    "id": "th",
+    "title_en": "TH sound",
+    "title_zh": "TH 音",
+    "ipa": "/θ/ /ð/",
+    "problem_zh": "中文沒有 TH 音，所以常用 s、z、f 或 d 來代替，例如把 think 說成 sink、this 說成 dis。這樣很容易讓對方聽成別的字。",
+    "how_zh": [
+      "把舌尖輕輕放在上下門牙之間，讓舌頭露出一點點。",
+      "上排門牙輕輕碰著舌頭，不要咬太用力。",
+      "無聲的 /θ/（think）：聲帶不震動，只讓氣流從舌頭和牙齒之間慢慢吹出來。",
+      "有聲的 /ð/（this）：位置一樣，但聲帶要震動，手摸喉嚨會感覺到嗡嗡聲。"
+    ],
+    "practice_words": [
+      "think",
+      "three",
+      "thank you",
+      "this",
+      "mother",
+      "bath",
+      "both",
+      "weather"
+    ],
+    "practice_sentences": [
+      "I think there are three.",
+      "This is my mother's brother.",
+      "They think the weather will be better on Thursday."
+    ],
+    "fun_tip_zh": "把舌頭伸出來一點點，像要舔冰淇淋一樣！照鏡子說 think，看得到舌尖才對。"
+  },
+  {
+    "id": "v-w",
+    "title_en": "V and W sounds",
+    "title_zh": "V 和 W 音",
+    "ipa": "/v/ /w/",
+    "problem_zh": "中文沒有 /v/ 這個音，所以常把 v 發成 w，例如 very 說成 wery、vest 聽起來像 west。有時候太刻意，反而把 w 也說成 v。",
+    "how_zh": [
+      "/v/：上排門牙輕輕放在下嘴唇上（偏內側一點）。",
+      "讓氣流從牙齒和嘴唇的縫隙擠出來，同時聲帶震動，下嘴唇會有麻麻的感覺。",
+      "/w/：牙齒完全不碰嘴唇，先把雙唇嘟圓像要說「烏」，再很快張開。",
+      "對著鏡子練習：說 v 看得到上牙碰下唇，說 w 看不到牙齒。"
+    ],
+    "practice_words": [
+      "very",
+      "visit",
+      "video",
+      "seven",
+      "every",
+      "five",
+      "love",
+      "wave"
+    ],
+    "practice_sentences": [
+      "I love you very much.",
+      "We have a very nice view.",
+      "Victor will drive the van over on Wednesday evening."
+    ],
+    "fun_tip_zh": "v 像電動牙刷嗡嗡震：上牙輕碰下唇，發出 vvv 的震動聲；w 就像嘟嘴要親親，牙齒完全不碰嘴唇。"
+  },
+  {
+    "id": "l-r",
+    "title_en": "L and R sounds",
+    "title_zh": "L 和 R 音",
+    "ipa": "/l/ /r/",
+    "problem_zh": "中文的ㄌ、ㄖ和英文的 l、r 不完全一樣，所以 light 和 right 容易混淆。字尾的 L（feel、call）和 R（car、world）更難，常被省略或變成「歐」的聲音。",
+    "how_zh": [
+      "/l/：舌尖頂住上排門牙後面的牙齦，讓聲音從舌頭兩側出來。",
+      "字尾的 L（feel、school）：舌尖一樣要碰到上牙齦，同時舌根往後抬，不要只發成「歐」。",
+      "/r/：舌尖不碰任何地方，整個舌頭往後縮、舌尖微微捲起，嘴唇稍微嘟圓。",
+      "字尾的 R（car、world）：母音說完後舌頭往後捲，把 r 的聲音拉出來，不要直接停掉。"
+    ],
+    "practice_words": [
+      "light",
+      "right",
+      "feel",
+      "school",
+      "car",
+      "world",
+      "really",
+      "girl"
+    ],
+    "practice_sentences": [
+      "Turn right at the light.",
+      "I will call you after school.",
+      "Larry really likes to travel around the world by car."
+    ],
+    "fun_tip_zh": "L 是「頂」：舌尖頂住上牙後面；R 是「縮」：舌頭往後縮、舌尖懸空，像小狗低吼 grrr。"
+  },
+  {
+    "id": "final-consonants",
+    "title_en": "Final consonants",
+    "title_zh": "結尾子音",
+    "ipa": "/p/ /t/ /k/ /b/ /d/ /g/",
+    "problem_zh": "中文的字大多以母音或 n、ng 結尾，所以常把英文最後的子音吃掉，例如 good 變成 goo、cat 變成 ca。結尾不清楚，對方就聽不出你說的是 bed 還是 bet。",
+    "how_zh": [
+      "母音說完後，嘴巴和舌頭一定要移到最後那個子音的位置，例如 cat 的 t 要用舌尖碰上牙齦。",
+      "清音結尾（p、t、k）：前面的母音短一點，最後輕輕放出一點氣。",
+      "濁音結尾（b、d、g）：前面的母音拉長一點，結尾時聲帶繼續震動，所以 bed 聽起來比 bet 長。",
+      "先誇張地把最後的子音說清楚，熟練之後再說得自然一點。"
+    ],
+    "practice_words": [
+      "good",
+      "cat",
+      "bed",
+      "stop",
+      "book",
+      "big",
+      "night",
+      "head"
+    ],
+    "practice_sentences": [
+      "That's a good book.",
+      "I need to buy some bread and milk.",
+      "My cat slept on the bed all night, but the dog stayed outside."
+    ],
+    "fun_tip_zh": "把最後一個子音當成句點，一定要畫上去！手放在嘴巴前面說 cat，要感覺到最後那一點點氣。"
+  },
+  {
+    "id": "extra-vowel",
+    "title_en": "No extra vowel",
+    "title_zh": "不要多加母音",
+    "ipa": "/bæd/ ≠ /ˈbædə/",
+    "problem_zh": "中文的音節幾乎不用 p、t、k 這類子音結尾，所以常在最後的子音後面多加一個「ㄜ」，例如 bad 變成 bad-uh、work 變成 work-uh。多一個音節，字就可能變成別的字（pick 聽起來像 picky）。",
+    "how_zh": [
+      "說到最後一個子音時，嘴巴和舌頭停在那個位置，不要再把嘴巴張開。",
+      "最後只放出一點點氣流就好，聲帶不要再發出「ㄜ」的聲音。",
+      "用手指數音節：bad 只有一拍，不是 ba-de 兩拍。",
+      "放進片語裡練習，例如 big bag、work hard，字和字之間不要多加音。"
+    ],
+    "practice_words": [
+      "bad",
+      "work",
+      "big",
+      "like",
+      "milk",
+      "help",
+      "cook",
+      "desk"
+    ],
+    "practice_sentences": [
+      "I like milk.",
+      "I need help with my work.",
+      "Mark picked up a big bag of rice and walked back home."
+    ],
+    "fun_tip_zh": "最後一個子音就像「緊急煞車」——嘴巴停住就好，不要再多「ㄜ」一聲。用手機錄音，聽聽看有沒有多出小尾巴。"
+  },
+  {
+    "id": "short-long-vowels",
+    "title_en": "Short and long vowels",
+    "title_zh": "長短母音",
+    "ipa": "/ɪ/ /i/ /ʊ/ /u/ /ɛ/ /æ/ /ʌ/ /ɑ/",
+    "problem_zh": "中文沒有長短母音的分別，所以 ship 和 sheep、full 和 fool 常常說得一樣。英文的這些母音不只長短不同，嘴型和舌頭的鬆緊也不同，說錯就可能變成另一個意思。",
+    "how_zh": [
+      "長音 /i/（sheep）：嘴角往兩邊拉開像微笑，舌頭出力，聲音拉長；短音 /ɪ/（ship）：嘴巴和舌頭放鬆，聲音短。",
+      "長音 /u/（fool）：嘴唇用力嘟圓往前推；短音 /ʊ/（full）：嘴唇只微微圓起，放鬆、短促。",
+      "/æ/（bad）：嘴巴張大、下巴往下掉、嘴角往兩邊拉；/ɛ/（bed）：嘴巴只半開。",
+      "/ʌ/（cup）：嘴巴放鬆微開，像短短的「阿」；/ɑ/（hot）：嘴巴張大、下巴往下，聲音比較開。"
+    ],
+    "practice_words": [
+      "sheep",
+      "ship",
+      "feet",
+      "fit",
+      "food",
+      "good",
+      "bad",
+      "cup"
+    ],
+    "practice_sentences": [
+      "Please sit in this seat.",
+      "I feel full after a big lunch.",
+      "Jack had a bad day, so he left his bag on the bus."
+    ],
+    "fun_tip_zh": "長音 /i/ 要「笑」：像拍照說 cheese 一樣把嘴角拉開；短音 /ɪ/ 要「懶」：嘴巴放鬆，像累了隨口應一聲。"
+  },
+  {
+    "id": "clusters",
+    "title_en": "Consonant clusters",
+    "title_zh": "子音連綴",
+    "ipa": "/str/ /sks/ /nθs/ /spl/",
+    "problem_zh": "中文的音節不會有好幾個子音連在一起，所以常在子音中間加母音，例如 street 變成 se-tree-t、desks 變成 desk-uh-s。多出來的音節會讓字變形，例如 sport 聽起來像 support。",
+    "how_zh": [
+      "先慢慢把每個子音分開練：s…t…r…eet，確定中間沒有「ㄜ」。",
+      "再把子音黏在一起：舌頭提前準備好下一個音的位置，從一個子音直接滑到下一個。",
+      "開頭的 s 不要加母音，直接用氣流發出「嘶」的聲音，馬上接下一個音。",
+      "字尾子音很多時（desks、months），可以慢一點，但每個子音都要發出來，最後的 s 要清楚。"
+    ],
+    "practice_words": [
+      "street",
+      "desks",
+      "months",
+      "splash",
+      "spring",
+      "friends",
+      "school",
+      "texts"
+    ],
+    "practice_sentences": [
+      "My friends play sports.",
+      "She spent six months in Spain.",
+      "The students cleaned their desks and texted their friends after class."
+    ],
+    "fun_tip_zh": "子音要像黏在一起的麻糬，中間不能塞進「ㄜ」！先用氣音慢慢說 s-t-r-eet，再一次比一次快。"
+  },
+  {
+    "id": "stress",
+    "title_en": "Word stress & rhythm",
+    "title_zh": "重音與節奏",
+    "ipa": "/ˈ/ /ə/",
+    "problem_zh": "中文是聲調語言，每個字幾乎一樣長、一樣重，所以說英文時常每個音節都同樣用力，聽起來平平的、一個字一個字斷開。英文靠重音和輕音的對比來表達意思和節奏。",
+    "how_zh": [
+      "重音的音節要說得「大聲一點、長一點、音調高一點」，例如 ba-NA-na 的 NA。",
+      "沒有重音的音節要放鬆、變短、變輕，母音常變成輕輕的「ㄜ」（/ə/）。",
+      "句子裡的重要字（名詞、動詞、形容詞）要加重，小字（a、the、to、of）要說得又快又輕。",
+      "邊說邊用手打拍子，重音的地方用力拍一下，練出英文的節奏感。"
+    ],
+    "practice_words": [
+      "banana",
+      "computer",
+      "hotel",
+      "coffee",
+      "important",
+      "tomorrow",
+      "vegetable",
+      "understand"
+    ],
+    "stress_marks": {
+      "banana": "ba-NA-na",
+      "computer": "com-PU-ter",
+      "hotel": "ho-TEL",
+      "coffee": "COF-fee",
+      "important": "im-POR-tant",
+      "tomorrow": "to-MOR-row",
+      "vegetable": "VEG-ta-ble",
+      "understand": "un-der-STAND"
+    },
+    "practice_sentences": [
+      "I'd like a banana.",
+      "It's important to eat vegetables.",
+      "We're meeting at the hotel tomorrow, so don't forget your computer."
+    ],
+    "fun_tip_zh": "把英文想成打鼓：重音是大鼓「咚」，輕音是小鼓「噠」。banana 就是「噠-咚-噠」，邊說邊拍手。"
+  },
+  {
+    "id": "linking",
+    "title_en": "Linking",
+    "title_zh": "連音",
+    "ipa": "‿",
+    "problem_zh": "中文習慣一個字一個字清楚地說，所以說英文時常把每個字分開，聽起來很生硬。母語人士說話時，前一個字的結尾子音會直接連到下一個字開頭的母音，例如 pick it up 聽起來像 pi-ki-tup。",
+    "how_zh": [
+      "找出「子音結尾 + 母音開頭」的地方，例如 turn off 的 n 和 o。",
+      "把前一個字最後的子音「搬」到下一個字的開頭：turn off → tur-noff。",
+      "兩個字中間不要停頓，也不要加「ㄜ」，像在說一個長單字。",
+      "先慢慢連起來說，再逐漸加快到正常速度。"
+    ],
+    "practice_words": [
+      "pick it up",
+      "an apple",
+      "turn off",
+      "check it out",
+      "come on in",
+      "get up",
+      "hold on",
+      "not at all"
+    ],
+    "linking_marks": {
+      "pick it up": "pi-ki-tup",
+      "an apple": "a-napple",
+      "turn off": "tur-noff",
+      "check it out": "che-ki-tout",
+      "come on in": "co-mo-nin",
+      "get up": "ge-tup",
+      "hold on": "hol-don",
+      "not at all": "no-ta-tall"
+    },
+    "practice_sentences": [
+      "I have an apple.",
+      "Can you pick it up at eight?",
+      "Hold on, let me check it out and get back to you in an hour."
+    ],
+    "fun_tip_zh": "英文句子像一串珍珠項鍊，珠子之間沒有空隙。子音碰到下一個母音，就把它「借」過去：an apple → a-napple。"
+  }
+]

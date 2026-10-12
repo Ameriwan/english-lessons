@@ -1,0 +1,238 @@
+{
+  "unit_no": 17,
+  "phase": 3,
+  "title_en": "Home & Neighborhood",
+  "title_zh": "家與社區",
+  "goals": [
+    "Describe her home and neighborhood using there is / there are.",
+    "Say where places are with next to, across from, near, between, behind, and on the ___ floor.",
+    "Give simple opinions about where she lives (It's convenient / a little noisy / close to everything).",
+    "Practice clear L and R in home words (living room, rent, floor, really)."
+  ],
+  "warmup": {
+    "easy": [
+      "Do you live in a house or an apartment?",
+      "How many rooms are there in your home?",
+      "Is there a convenience store near your home?"
+    ],
+    "medium": [
+      "What's your favorite room at home? Why?",
+      "What's near your home?",
+      "Do you know your neighbors?"
+    ],
+    "hard": [
+      "What's the best and the worst thing about your neighborhood?",
+      "How has your neighborhood changed in the last ten years?",
+      "Describe your dream home."
+    ]
+  },
+  "key_phrases": [
+    {
+      "en": "There's a ... near my house.",
+      "zh": "我家附近有一個……"
+    },
+    {
+      "en": "There are lots of ...",
+      "zh": "有很多……"
+    },
+    {
+      "en": "It's next to ...",
+      "zh": "在……旁邊"
+    },
+    {
+      "en": "It's across from ...",
+      "zh": "在……對面"
+    },
+    {
+      "en": "I live on the fifth floor.",
+      "zh": "我住在五樓。"
+    },
+    {
+      "en": "How long have you lived here?",
+      "zh": "你住在這裡多久了？"
+    },
+    {
+      "en": "It's close to everything.",
+      "zh": "生活機能很好。"
+    },
+    {
+      "en": "It's a little noisy.",
+      "zh": "有點吵。"
+    },
+    {
+      "en": "The best thing about my neighborhood is ...",
+      "zh": "我住的地方最棒的是……"
+    },
+    {
+      "en": "Come on in! Make yourself at home.",
+      "zh": "請進！當自己家就好。"
+    }
+  ],
+  "grammar": {
+    "point_en": "There is / There are + prepositions of place",
+    "point_zh": "There is / There are 加上地方介系詞",
+    "explain_zh": "中文說「我家附近有一間便利商店」，用「有」就好。英文說「某個地方有東西」不用 have，要用 There is a convenience store near my house。一個東西用 there is（there's），兩個以上用 there are。地點前面要放介系詞：next to（旁邊）、across from（對面）、between（中間）、behind（後面）。",
+    "examples": [
+      {
+        "en": "There's a temple across from my house.",
+        "zh": "我家對面有一間廟。"
+      },
+      {
+        "en": "There are two bedrooms and one bathroom.",
+        "zh": "有兩間臥室和一間浴室。"
+      },
+      {
+        "en": "Is there a park near your home?",
+        "zh": "你家附近有公園嗎？"
+      },
+      {
+        "en": "The bank is between the school and the post office.",
+        "zh": "銀行在學校和郵局中間。"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Near my house have a night market.",
+      "right": "There's a night market near my house.",
+      "why_zh": "中文說「我家附近有……」，但英文要用 There is / There are，不能用 have。"
+    }
+  },
+  "sound_focus": {
+    "sound_id": "l-r",
+    "words": [
+      "living room",
+      "rent",
+      "floor",
+      "really",
+      "laundry",
+      "library"
+    ],
+    "sentence": "The living room is really bright, and the rent is low."
+  },
+  "mini_lesson": [
+    "Step 1 (5 min): Warm-up. Ask 2-3 warm-up questions about her home. Listen for 'have' used instead of 'there is'.",
+    "Step 2 (8 min): There is / There are. Draw a simple floor plan of your home and describe it ('There's a big living room. There are two bedrooms.'). Then she draws her own and describes it in at least 5 sentences.",
+    "Step 3 (6 min): Where is it? Draw a street map with 6 places (park, temple, convenience store, school, bank, night market). Ask 'Where's the bank?'; she answers with next to / across from / between / behind / near. Then she asks you.",
+    "Step 4 (6 min): L and R. Contrast light/right and long/wrong, then home words: living room, rent, floor, really, laundry. For L the tongue tip touches behind the top teeth; for R round the lips and pull the tongue back without touching anything. Finish with the sound-focus sentence.",
+    "Step 5 (5 min): My neighborhood in 4 sentences. She describes her area: one 'There's ...', one place with a preposition, one good point ('It's close to everything'), and one bad point ('It's a little noisy'). Ask one follow-up question."
+  ],
+  "roleplays": [
+    {
+      "level": "easy",
+      "title": "Welcome to My Home",
+      "setup_zh": "朋友第一次來你家玩，你帶他參觀並簡單介紹。",
+      "teacher_role": "Friend visiting for the first time",
+      "student_role": "Herself (the host)",
+      "lines": [
+        {
+          "who": "T",
+          "en": "Hi! Wow, so this is your place!"
+        },
+        {
+          "who": "S",
+          "en": "Hi! Come on in. Make yourself at home.",
+          "zh": "嗨！請進，當自己家就好。"
+        },
+        {
+          "who": "T",
+          "en": "Thanks. It's really nice. How many rooms are there?"
+        },
+        {
+          "who": "S",
+          "en": "There are ___ bedrooms, and this is the living room.",
+          "zh": "有___間臥室，這裡是客廳。"
+        },
+        {
+          "who": "T",
+          "en": "I love the balcony! Is it quiet here?"
+        },
+        {
+          "who": "S",
+          "en": "Usually, but it's a little noisy in the morning.",
+          "zh": "通常很安靜，但早上有點吵。"
+        },
+        {
+          "who": "T",
+          "en": "Is there a supermarket near here?"
+        },
+        {
+          "who": "S",
+          "en": "Yes, there's one across from the MRT station.",
+          "zh": "有，捷運站對面就有一間。"
+        }
+      ]
+    },
+    {
+      "level": "challenge",
+      "title": "Looking for a New Apartment",
+      "setup_zh": "你在找房子，房仲帶你參觀一間公寓。問清楚房租、樓層和附近的生活機能，並說出你的想法。",
+      "teacher_role": "Real estate agent",
+      "student_role": "Someone looking for an apartment",
+      "lines": [
+        {
+          "who": "T",
+          "en": "Hello! Welcome. This is the apartment. What do you think so far?"
+        },
+        {
+          "who": "S",
+          "en": "It's nice and bright. How much is the rent?",
+          "zh": "很明亮，很不錯。房租多少？"
+        },
+        {
+          "who": "T",
+          "en": "It's 18,000 dollars a month. That includes the management fee."
+        },
+        {
+          "who": "S",
+          "en": "Hmm, that's a little expensive. Which floor is it on?",
+          "zh": "嗯，有點貴。這是幾樓？"
+        },
+        {
+          "who": "T",
+          "en": "It's on the seventh floor, and there's an elevator."
+        },
+        {
+          "who": "S",
+          "en": "Good. Is there a convenience store near here?",
+          "zh": "很好。這附近有便利商店嗎？"
+        },
+        {
+          "who": "T",
+          "en": "Yes, there are two. One is right next to the building."
+        },
+        {
+          "who": "S",
+          "en": "That's convenient. What about the MRT station?",
+          "zh": "那很方便。捷運站呢？"
+        },
+        {
+          "who": "T",
+          "en": "It's about ten minutes on foot, across from the big park."
+        },
+        {
+          "who": "S",
+          "en": "OK. Is it noisy at night? I need a quiet place.",
+          "zh": "好。晚上會吵嗎？我需要安靜的地方。"
+        },
+        {
+          "who": "T",
+          "en": "Not really. The neighbors are mostly families. So, do you like it?"
+        },
+        {
+          "who": "S",
+          "en": "I like it, but I need to think about it. Can I call you tomorrow?",
+          "zh": "我喜歡，但我需要考慮一下。我明天可以打給你嗎？"
+        }
+      ],
+      "teacher_twists": [
+        "Mention a problem halfway through ('Oh, by the way, there's no washing machine.') and see how she reacts and asks for a solution.",
+        "Ask her to compare it with her home now: 'Is your neighborhood quieter than this one?'",
+        "Pressure her ('Someone else wants it today!') so she has to politely say she needs more time."
+      ]
+    }
+  ],
+  "homework_zh": [
+    "畫一張你家的平面圖，用 There is / There are 寫 5 句介紹你家。",
+    "用英文寫 4 句介紹你住的社區：附近有什麼、在哪裡，還有優點和缺點各一個。",
+    "練習 L 和 R：living room、rent、floor、really 每天各唸 5 次，對著鏡子看舌頭的位置。"
+  ]
+}

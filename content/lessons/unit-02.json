@@ -1,0 +1,243 @@
+{
+  "unit_no": 2,
+  "phase": 1,
+  "title_en": "Numbers, Time & Dates",
+  "title_zh": "數字、時間與日期",
+  "goals": [
+    "Say numbers 1–10,000 clearly, with correct stress on -teen vs -ty (thirTEEN vs THIRty), and read a phone number in groups.",
+    "Ask and tell the time the simple American way (seven thirty, nine fifteen, 6 p.m.).",
+    "Ask and give days and dates with ordinal numbers (May third, October tenth).",
+    "Use at / on / in correctly with times, days and months."
+  ],
+  "warmup": {
+    "easy": [
+      "What time is it now?",
+      "What day is it today?",
+      "How many people are in your family?"
+    ],
+    "medium": [
+      "What time do you usually get up?",
+      "When's your birthday?",
+      "What's the date today?"
+    ],
+    "hard": [
+      "What's an important date for you, and why?",
+      "Which numbers are lucky or unlucky in Taiwan? Why?",
+      "How do you say 35,000 in English? What about 120,000?"
+    ]
+  },
+  "key_phrases": [
+    {
+      "en": "What time is it? — It's ___.",
+      "zh": "現在幾點？——現在___。"
+    },
+    {
+      "en": "It's seven o'clock. / It's seven thirty.",
+      "zh": "現在七點。／現在七點半。"
+    },
+    {
+      "en": "What day is it today? — It's Thursday.",
+      "zh": "今天星期幾？——今天星期四。"
+    },
+    {
+      "en": "What's the date today? — It's May third.",
+      "zh": "今天幾月幾號？——五月三日。"
+    },
+    {
+      "en": "When's your birthday? — It's on ___.",
+      "zh": "你的生日是什麼時候？——在___。"
+    },
+    {
+      "en": "What's your phone number? — It's ___.",
+      "zh": "你的電話號碼是多少？——是___。"
+    },
+    {
+      "en": "See you on Thursday at 3 p.m.",
+      "zh": "星期四下午三點見。"
+    },
+    {
+      "en": "How many people? — Three.",
+      "zh": "幾個人？——三個。"
+    },
+    {
+      "en": "Sorry, I'm late.",
+      "zh": "抱歉，我遲到了。"
+    }
+  ],
+  "grammar": {
+    "point_en": "Time prepositions: at / on / in",
+    "point_zh": "時間介系詞 at / on / in",
+    "explain_zh": "中文常直接說「三點」「星期四」「五月」，前面不用加字。英文要分清楚：時間點用 at（at 3 p.m.），星期和日期用 on（on Thursday、on May third），月份、年份和一天中的時段用 in（in May、in the morning）。小例外：at night。",
+    "examples": [
+      {
+        "en": "My class is at 7 p.m.",
+        "zh": "我的課在晚上七點。"
+      },
+      {
+        "en": "See you on Thursday.",
+        "zh": "星期四見。"
+      },
+      {
+        "en": "My birthday is in May.",
+        "zh": "我的生日在五月。"
+      },
+      {
+        "en": "I study English at night.",
+        "zh": "我晚上學英文。"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "See you in Monday.",
+      "right": "See you on Monday.",
+      "why_zh": "星期幾和日期前面用 on；月份和年份才用 in。"
+    }
+  },
+  "sound_focus": {
+    "sound_id": "th",
+    "words": [
+      "three",
+      "thirteen",
+      "thirty",
+      "third",
+      "month",
+      "Thursday"
+    ],
+    "sentence": "My birthday is on Thursday, the thirteenth of this month."
+  },
+  "mini_lesson": [
+    "Step 1 (5 min): Numbers warm-up. Count by tens to 100 together. Write 13/30, 14/40, 15/50 on paper: you say one, she points; then she says one, you point. Stress: thir-TEEN (long, strong end) vs THIR-ty.",
+    "Step 2 (7 min): Telling time. Show times on your phone or a drawn clock (7:00, 7:30, 9:15, 6:45) and ask 'What time is it?'. Teach the easy American way: seven thirty, nine fifteen, six forty-five; o'clock only for full hours; a.m./p.m. after the number.",
+    "Step 3 (6 min): Dates. Write the tricky ordinals (first, second, third, fifth, twelfth, twentieth, thirtieth). Ask 'When's your birthday?' and the dates of Taiwanese holidays (Double Tenth = October tenth).",
+    "Step 4 (7 min): Grammar — at / on / in. Make three columns. Give her words to sort: 3 p.m., Thursday, May, night, the morning, my birthday, 2026, May third. Then she makes one sentence for each column.",
+    "Step 5 (5 min): Sound focus — TH. Use a phone mirror: the tongue tip must be visible. Contrast three/tree, thank/sank, Thursday/Tuesday. Then the practice sentence: slow, then normal speed."
+  ],
+  "roleplays": [
+    {
+      "level": "easy",
+      "title": "Signing up for a yoga class",
+      "setup_zh": "你在健身房櫃檯報名瑜伽課。問上課時間、選一天，並留下電話和生日。",
+      "teacher_role": "A receptionist at the gym front desk",
+      "student_role": "Herself, signing up for a class",
+      "lines": [
+        {
+          "who": "T",
+          "en": "Hi! Do you want to sign up for a class?"
+        },
+        {
+          "who": "S",
+          "en": "Yes, please. What time is the yoga class?",
+          "zh": "是的，麻煩你。瑜伽課是幾點？"
+        },
+        {
+          "who": "T",
+          "en": "It's at 7 p.m. on Monday and Thursday."
+        },
+        {
+          "who": "S",
+          "en": "Thursday is good for me.",
+          "zh": "星期四我可以。"
+        },
+        {
+          "who": "T",
+          "en": "Great. What's your phone number?"
+        },
+        {
+          "who": "S",
+          "en": "It's ___.",
+          "zh": "是___。"
+        },
+        {
+          "who": "T",
+          "en": "Thank you. And when's your birthday?"
+        },
+        {
+          "who": "S",
+          "en": "It's on ___.",
+          "zh": "在___。"
+        },
+        {
+          "who": "T",
+          "en": "Perfect. See you on Thursday at seven!"
+        },
+        {
+          "who": "S",
+          "en": "Thank you. See you on Thursday!",
+          "zh": "謝謝，星期四見！"
+        }
+      ]
+    },
+    {
+      "level": "challenge",
+      "title": "Booking a haircut at the salon",
+      "setup_zh": "你在美髮店櫃檯預約剪頭髮。店員說得有點快，日期和時間要確認清楚，13 號和 30 號別聽錯！",
+      "teacher_role": "A busy receptionist at a hair salon",
+      "student_role": "Herself, making an appointment",
+      "lines": [
+        {
+          "who": "T",
+          "en": "Hi, welcome to Style Studio. How can I help you?"
+        },
+        {
+          "who": "S",
+          "en": "Hi. Can I make an appointment for a haircut?",
+          "zh": "嗨，我可以預約剪頭髮嗎？"
+        },
+        {
+          "who": "T",
+          "en": "Sure. What day is good for you?"
+        },
+        {
+          "who": "S",
+          "en": "Is Thursday OK?",
+          "zh": "星期四可以嗎？"
+        },
+        {
+          "who": "T",
+          "en": "Let me see... Thursday the thirteenth? We have two fifteen or four thirty."
+        },
+        {
+          "who": "S",
+          "en": "Sorry, is that the thirteenth or the thirtieth?",
+          "zh": "不好意思，是十三號還是三十號？"
+        },
+        {
+          "who": "T",
+          "en": "The thirteenth. One-three."
+        },
+        {
+          "who": "S",
+          "en": "OK. Four thirty, please.",
+          "zh": "好的，麻煩四點半。"
+        },
+        {
+          "who": "T",
+          "en": "Four thirty p.m. on Thursday the thirteenth. Can I have your name and phone number?"
+        },
+        {
+          "who": "S",
+          "en": "My name is ___. My number is ___.",
+          "zh": "我叫___。我的電話是___。"
+        },
+        {
+          "who": "T",
+          "en": "Thanks. Please come ten minutes early. See you then!"
+        },
+        {
+          "who": "S",
+          "en": "Thank you. See you on Thursday!",
+          "zh": "謝謝，星期四見！"
+        }
+      ],
+      "teacher_twists": [
+        "Read her phone number back with two digits switched (0921 instead of 0912) so she has to correct you.",
+        "Say Thursday is now full and offer 'next Tuesday, the eighteenth, at a quarter to three' — she must check the time and pick again.",
+        "Ask 'How many people?' or 'Is it just you?' and see if she can answer quickly with a number."
+      ]
+    }
+  ],
+  "homework_zh": [
+    "每天看手機時間時，用英文說出來，例如 It's seven forty. 一天至少說 5 次。",
+    "寫下 5 個重要的日期（家人生日、節日），用英文完整唸出來，例如 My birthday is on June twelfth.",
+    "用 Anki 複習 Unit 2，特別練 13／30、14／40 的重音差別，並照鏡子練 th 音。"
+  ]
+}

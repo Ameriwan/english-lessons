@@ -1,0 +1,247 @@
+{
+  "unit_no": 9,
+  "phase": 2,
+  "title_en": "Weather & Seasons",
+  "title_zh": "天氣與季節",
+  "goals": [
+    "Describe today's weather and the four seasons in Taiwan.",
+    "Compare weather with comparatives (hotter, colder, more humid than...).",
+    "Make weather small talk and give simple advice (Don't forget your umbrella!).",
+    "Tell apart V and W (very, favorite vs. weather, windy, warm)."
+  ],
+  "warmup": {
+    "easy": [
+      "Is it hot or cold today?",
+      "Do you like rainy days?",
+      "Do you like summer or winter?"
+    ],
+    "medium": [
+      "What's the weather like today?",
+      "What's your favorite season, and why?",
+      "What do you do on a typhoon day?"
+    ],
+    "hard": [
+      "How is the weather in northern Taiwan different from the south?",
+      "Do you think summers in Taiwan are getting hotter? Why?",
+      "Describe the perfect weather for a day trip."
+    ]
+  },
+  "key_phrases": [
+    {
+      "en": "What's the weather like today?",
+      "zh": "今天天氣怎麼樣？"
+    },
+    {
+      "en": "It's sunny / cloudy / rainy / windy.",
+      "zh": "晴天／陰天／下雨／風很大。"
+    },
+    {
+      "en": "It's so hot today!",
+      "zh": "今天好熱！"
+    },
+    {
+      "en": "It's freezing!",
+      "zh": "冷死了！"
+    },
+    {
+      "en": "It looks like rain.",
+      "zh": "看起來要下雨了。"
+    },
+    {
+      "en": "It's getting warmer / colder.",
+      "zh": "天氣越來越暖／冷了。"
+    },
+    {
+      "en": "It's hotter than yesterday.",
+      "zh": "比昨天還熱。"
+    },
+    {
+      "en": "What's your favorite season?",
+      "zh": "你最喜歡哪個季節？"
+    },
+    {
+      "en": "Don't forget your umbrella!",
+      "zh": "別忘了帶傘！"
+    },
+    {
+      "en": "Bring a jacket just in case.",
+      "zh": "帶件外套以防萬一。"
+    }
+  ],
+  "grammar": {
+    "point_en": "Comparatives: hotter, colder, more humid than...",
+    "point_zh": "比較級：比……更熱／更冷／更潮濕",
+    "explain_zh": "中文說「今天比昨天熱」，「比」放在形容詞前面。英文順序是 Today is hotter than yesterday：先把形容詞變比較級，再加 than。短的形容詞加 -er（cold → colder），hot 要重複 t 變 hotter；長的形容詞前面加 more（more humid）。good 要變 better。",
+    "examples": [
+      {
+        "en": "Today is hotter than yesterday.",
+        "zh": "今天比昨天熱。"
+      },
+      {
+        "en": "Kaohsiung is warmer than Taipei in winter.",
+        "zh": "冬天高雄比台北暖。"
+      },
+      {
+        "en": "Summer is more humid than fall.",
+        "zh": "夏天比秋天潮濕。"
+      },
+      {
+        "en": "The weather is better this week.",
+        "zh": "這週天氣比較好。"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Taipei is more cold than Tainan.",
+      "right": "Taipei is colder than Tainan.",
+      "why_zh": "短的形容詞直接加 -er，不用 more：colder。"
+    }
+  },
+  "sound_focus": {
+    "sound_id": "v-w",
+    "words": [
+      "weather",
+      "windy",
+      "winter",
+      "warmer",
+      "favorite",
+      "very"
+    ],
+    "sentence": "Winter is very windy, but the weather gets warmer in spring."
+  },
+  "mini_lesson": [
+    "Step 1 (5 min): Warm-up. Open a weather app on your phone together and ask: 'What's the weather like today? What's the temperature?' Mention that Americans use Fahrenheit (30°C is about 86°F).",
+    "Step 2 (7 min): Vocabulary. Draw quick symbols (sun, cloud, rain, wind, typhoon) and she names them: 'It's sunny.' Then go through the four seasons and she describes each one in Taiwan: 'Summer is hot and humid.'",
+    "Step 3 (8 min): Grammar. Write 'cold → colder, hot → hotter, humid → more humid, good → better + than' on the board. Compare two Taiwan cities or two seasons; she makes 4 sentences. Show the common mistake 'more cold' and fix it.",
+    "Step 4 (5 min): Sound focus (V vs W). V: top teeth touch the bottom lip and buzz. W: round the lips, teeth don't touch. Practice very/weather and favorite/windy, then 'Winter is very windy, but the weather gets warmer in spring.' She touches her bottom lip to feel the V.",
+    "Step 5 (5 min): Speaking. Weather small talk: you are a neighbor in the elevator. She starts with 'It's so hot today!' and keeps the chat going for 4-5 exchanges."
+  ],
+  "roleplays": [
+    {
+      "level": "easy",
+      "title": "Elevator small talk",
+      "setup_zh": "在大樓電梯裡遇到鄰居，聊今天的天氣。",
+      "teacher_role": "A friendly neighbor",
+      "student_role": "Herself",
+      "lines": [
+        {
+          "who": "T",
+          "en": "Good morning! It's so hot today."
+        },
+        {
+          "who": "S",
+          "en": "Yes! And it's really humid, too.",
+          "zh": "對啊！而且好悶。"
+        },
+        {
+          "who": "T",
+          "en": "Do you think it's going to rain later?"
+        },
+        {
+          "who": "S",
+          "en": "Maybe. It looks like rain.",
+          "zh": "可能喔，看起來要下雨了。"
+        },
+        {
+          "who": "T",
+          "en": "Oh no. I don't have an umbrella."
+        },
+        {
+          "who": "S",
+          "en": "I have two. You can take one.",
+          "zh": "我有兩把，你可以拿一把。"
+        },
+        {
+          "who": "T",
+          "en": "Thank you! That's so nice. Do you like summer?"
+        },
+        {
+          "who": "S",
+          "en": "Not really. My favorite season is ___.",
+          "zh": "不太喜歡。我最喜歡 ___。"
+        },
+        {
+          "who": "T",
+          "en": "Me too! The weather is much better then."
+        },
+        {
+          "who": "S",
+          "en": "Yes. Have a nice day!",
+          "zh": "對啊。祝你有美好的一天！"
+        }
+      ]
+    },
+    {
+      "level": "challenge",
+      "title": "Weather advice for a visitor",
+      "setup_zh": "老師扮演下個月要來台灣玩的美國朋友，用視訊問她台灣的天氣和要帶什麼衣服。",
+      "teacher_role": "An American friend planning a trip to Taiwan",
+      "student_role": "Herself, giving weather advice",
+      "lines": [
+        {
+          "who": "T",
+          "en": "I'm visiting Taiwan in December. What's the weather like then?"
+        },
+        {
+          "who": "S",
+          "en": "In December, it's cool. It's about ___ degrees.",
+          "zh": "十二月很涼，大概 ___ 度。"
+        },
+        {
+          "who": "T",
+          "en": "Celsius, right? Is that cold?"
+        },
+        {
+          "who": "S",
+          "en": "Not very cold, but the north is colder than the south.",
+          "zh": "不會很冷，但北部比南部冷。"
+        },
+        {
+          "who": "T",
+          "en": "Does it rain a lot?"
+        },
+        {
+          "who": "S",
+          "en": "In Taipei, it's often rainy. Bring an umbrella.",
+          "zh": "台北常下雨，記得帶傘。"
+        },
+        {
+          "who": "T",
+          "en": "OK. What about the south? Is it warmer?"
+        },
+        {
+          "who": "S",
+          "en": "Yes. Kaohsiung is warmer and sunnier than Taipei.",
+          "zh": "對，高雄比台北暖，也比較常出太陽。"
+        },
+        {
+          "who": "T",
+          "en": "Great! Should I bring a winter coat?"
+        },
+        {
+          "who": "S",
+          "en": "No, a light jacket is fine. Bring a sweater just in case.",
+          "zh": "不用，薄外套就好。帶件毛衣以防萬一。"
+        },
+        {
+          "who": "T",
+          "en": "And what's the best season to visit Taiwan?"
+        },
+        {
+          "who": "S",
+          "en": "I think fall is the best. It's not too hot.",
+          "zh": "我覺得秋天最好，不會太熱。"
+        }
+      ],
+      "teacher_twists": [
+        "Change the month to August so she has to talk about typhoons, heat and humidity instead.",
+        "Ask 'What's that in Fahrenheit?' and let her estimate (rough rule: double it and add 30).",
+        "Disagree: 'Really? I think summer is the best!' so she has to give a reason with 'because'."
+      ]
+    }
+  ],
+  "homework_zh": [
+    "每天早上看手機的天氣 App，用英文說一句今天的天氣（例如 It's cloudy and 28 degrees.）。",
+    "寫 4 句比較句，比較台灣兩個城市或兩個季節（例如 Tainan is hotter than Taipei.）。",
+    "錄音唸三次：Winter is very windy, but the weather gets warmer in spring. 注意 v 和 w 的差別。"
+  ]
+}

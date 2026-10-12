@@ -1,0 +1,247 @@
+{
+  "unit_no": 1,
+  "phase": 1,
+  "title_en": "Greetings & Introductions",
+  "title_zh": "打招呼與自我介紹",
+  "goals": [
+    "Greet people and answer 'How are you?' naturally ('Good, thanks. And you?') instead of the textbook 'I'm fine, thank you, and you?'",
+    "Introduce herself in 4 short sentences: name, where she's from, where she lives, what she does.",
+    "Use the verb 'be' (I'm / you're / he's / she's) in introductions without dropping it.",
+    "Say clear final consonants in name, meet, work and live, and ask for repetition or spelling when she doesn't understand."
+  ],
+  "warmup": {
+    "easy": [
+      "What's your name?",
+      "How are you today?",
+      "Where are you from?"
+    ],
+    "medium": [
+      "Where do you live now?",
+      "What do you do?",
+      "Do you have an English name?"
+    ],
+    "hard": [
+      "How do people in Taiwan usually greet each other?",
+      "What do you say when you meet someone for the first time?",
+      "Tell me three things about yourself."
+    ]
+  },
+  "key_phrases": [
+    {
+      "en": "Hi, I'm ___.",
+      "zh": "嗨，我是___。"
+    },
+    {
+      "en": "My name is ___.",
+      "zh": "我的名字是___。"
+    },
+    {
+      "en": "Nice to meet you. / Nice to meet you, too.",
+      "zh": "很高興認識你。／我也很高興認識你。"
+    },
+    {
+      "en": "How are you? — Good, thanks. And you?",
+      "zh": "你好嗎？——很好，謝謝。你呢？"
+    },
+    {
+      "en": "I'm from Taiwan.",
+      "zh": "我來自台灣。"
+    },
+    {
+      "en": "I live in ___.",
+      "zh": "我住在___。"
+    },
+    {
+      "en": "I'm a ___. / I work at ___.",
+      "zh": "我是___。／我在___工作。"
+    },
+    {
+      "en": "What do you do?",
+      "zh": "你從事什麼工作？"
+    },
+    {
+      "en": "How do you spell that?",
+      "zh": "那個怎麼拼？"
+    },
+    {
+      "en": "Sorry, can you say that again?",
+      "zh": "不好意思，可以再說一次嗎？"
+    }
+  ],
+  "grammar": {
+    "point_en": "The verb BE: I am / you are / he is / she is",
+    "point_zh": "be 動詞：am / is / are",
+    "explain_zh": "中文常說「我很好」「我台灣人」，不一定需要「是」。但英文句子一定要有動詞，介紹名字、國家、職業、心情時都要用 be 動詞。I 用 am，you 用 are，he／she 用 is。口語常縮寫成 I'm、you're、he's、she's。",
+    "examples": [
+      {
+        "en": "I'm from Taiwan.",
+        "zh": "我來自台灣。"
+      },
+      {
+        "en": "She's a nurse.",
+        "zh": "她是護理師。"
+      },
+      {
+        "en": "Are you a teacher?",
+        "zh": "你是老師嗎？"
+      },
+      {
+        "en": "I'm good, thanks.",
+        "zh": "我很好，謝謝。"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I very happy to meet you.",
+      "right": "I'm very happy to meet you.",
+      "why_zh": "中文「我很高興」沒有「是」，但英文要加 am：I'm happy。"
+    }
+  },
+  "sound_focus": {
+    "sound_id": "final-consonants",
+    "words": [
+      "name",
+      "nice",
+      "meet",
+      "work",
+      "live",
+      "last"
+    ],
+    "sentence": "My last name is Lin, and I live and work in Tainan."
+  },
+  "mini_lesson": [
+    "Step 1 (5 min): Greet her three ways (Hi! / Good morning! / How are you?). Teach 'Good, thanks. And you?' as the natural answer and practice it until it comes out fast, without 'I'm fine, thank you, and you?'.",
+    "Step 2 (8 min): Go through the key phrases. Say each one twice, she repeats. Then run a quick question chain: What's your name? → Where are you from? → Where do you live? → What do you do? Repeat until she answers without notes.",
+    "Step 3 (7 min): Grammar — the be verb. Write 'I ___ from Taiwan. / She ___ a nurse. / You ___ late!' and have her fill in am / is / are. Point out that Chinese drops 是 in 我很好, but English needs I'm good.",
+    "Step 4 (5 min): Sound focus — final consonants. Say name, nice, meet, work, live, last; she repeats with a clear ending (lips closed on the m in name, no 'uh' after work). Then the practice sentence: slow, then normal speed.",
+    "Step 5 (5 min): Spelling game. Practice the alphabet sounds she mixes up (e.g. E/I, G/J). You say a Taiwanese city, she asks 'How do you spell that?' and writes what you spell; then switch roles with her own name."
+  ],
+  "roleplays": [
+    {
+      "level": "easy",
+      "title": "Meeting someone at a party",
+      "setup_zh": "你在朋友的聚會上認識一位新朋友。跟他打招呼，並用簡單的句子介紹自己。",
+      "teacher_role": "Mark, a friendly guest at the party",
+      "student_role": "Herself, meeting Mark for the first time",
+      "lines": [
+        {
+          "who": "T",
+          "en": "Hi! I'm Mark. What's your name?"
+        },
+        {
+          "who": "S",
+          "en": "Hi, Mark. I'm ___. Nice to meet you.",
+          "zh": "嗨，Mark。我是___。很高興認識你。"
+        },
+        {
+          "who": "T",
+          "en": "Nice to meet you, too. How are you?"
+        },
+        {
+          "who": "S",
+          "en": "Good, thanks. And you?",
+          "zh": "很好，謝謝。你呢？"
+        },
+        {
+          "who": "T",
+          "en": "I'm great, thanks. Where are you from?"
+        },
+        {
+          "who": "S",
+          "en": "I'm from Taiwan. I live in ___.",
+          "zh": "我來自台灣。我住在___。"
+        },
+        {
+          "who": "T",
+          "en": "Oh, nice! What do you do?"
+        },
+        {
+          "who": "S",
+          "en": "I'm a ___. I work at ___.",
+          "zh": "我是___。我在___工作。"
+        },
+        {
+          "who": "T",
+          "en": "That's interesting. Well, I need a drink. See you later!"
+        },
+        {
+          "who": "S",
+          "en": "See you later, Mark!",
+          "zh": "待會見，Mark！"
+        }
+      ]
+    },
+    {
+      "level": "challenge",
+      "title": "Chatting with a traveler in a café",
+      "setup_zh": "你在咖啡店遇到一位來台灣旅行的外國人，她主動跟你聊天。介紹自己、問她問題；聽不懂時，請她再說一次。",
+      "teacher_role": "Sarah, a tourist from Canada visiting Taiwan",
+      "student_role": "Herself, a local sitting at the next table",
+      "lines": [
+        {
+          "who": "T",
+          "en": "Hi there! Good morning. I'm Sarah."
+        },
+        {
+          "who": "S",
+          "en": "Good morning, Sarah. I'm ___. Nice to meet you.",
+          "zh": "早安，Sarah。我是___。很高興認識你。"
+        },
+        {
+          "who": "T",
+          "en": "Nice to meet you, too. Sorry, how do you spell your name?"
+        },
+        {
+          "who": "S",
+          "en": "It's ___. ___-___-___.",
+          "zh": "是___，拼法是___。"
+        },
+        {
+          "who": "T",
+          "en": "Thanks! So, are you from around here?"
+        },
+        {
+          "who": "S",
+          "en": "Yes, I'm from Taiwan. I live in ___. Where are you from?",
+          "zh": "對，我是台灣人，住在___。你是哪裡人？"
+        },
+        {
+          "who": "T",
+          "en": "I'm from Vancouver, in Canada. I'm here on vacation for two weeks."
+        },
+        {
+          "who": "S",
+          "en": "Sorry, can you say that again?",
+          "zh": "不好意思，可以再說一次嗎？"
+        },
+        {
+          "who": "T",
+          "en": "Sure. I'm on vacation. Two weeks. So, what do you do?"
+        },
+        {
+          "who": "S",
+          "en": "I'm a ___. I work at ___. And you?",
+          "zh": "我是___，在___工作。你呢？"
+        },
+        {
+          "who": "T",
+          "en": "I'm a nurse. Well, I have to go. It was nice talking to you!"
+        },
+        {
+          "who": "S",
+          "en": "You too, Sarah! Goodbye. Have a nice trip!",
+          "zh": "我也是，Sarah！再見，旅途愉快！"
+        }
+      ],
+      "teacher_twists": [
+        "Say line 7 fast and naturally, so she has to use 'Sorry, can you say that again?' for real.",
+        "Spell her name back wrong on purpose ('M-A-Y?') so she must correct you: 'No, it's M-E-I.'",
+        "Add a surprise question, like 'Do you have an English name?' or 'Is Pingtung far from here?', and see if she answers with a short full sentence."
+      ]
+    }
+  ],
+  "homework_zh": [
+    "用英文寫 4 句自我介紹（名字、來自哪裡、住在哪裡、做什麼工作），大聲唸 3 次並錄音傳給老師。",
+    "每天用 Anki 複習 Unit 1 卡片，注意 name、meet、work、live 的結尾音要清楚，後面不要加「ㄜ」。",
+    "練習用英文字母拼出自己的名字和住的城市，例如 P-I-N-G-T-U-N-G。"
+  ]
+}

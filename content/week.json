@@ -1,0 +1,17 @@
+{
+  "released_units": [1, 2],
+  "week_of": "2026-10-12",
+  "focus_unit": 1,
+  "sound_of_week": "th",
+  "next_session_en": "Level test + Unit 1: Greetings & Introductions",
+  "next_session_zh": "程度測驗＋第一課：打招呼與自我介紹",
+  "homework": [
+    {"zh": "每天打開 Anki，學 10 張新卡片＋複習", "en": "Anki every day: 10 new cards + reviews"},
+    {"zh": "做一次「測驗」練習（第 1 課）", "en": "One quiz round on Unit 1"},
+    {"zh": "練習本週的發音：TH", "en": "Practice this week's sound: TH"},
+    {"zh": "跟讀 3 個句子，每句 5 次", "en": "Shadow 3 sentences, 5 times each"},
+    {"zh": "週末傳一段 1 分鐘的英文語音給老師：介紹你自己", "en": "Weekend voice memo (1 min): introduce yourself"}
+  ],
+  "note_zh": "說錯沒關係！每天練一點點，比一次練很久更有用。加油！",
+  "voice_memo_zh": "用英文介紹你自己：名字、住哪裡、做什麼工作、喜歡什麼。"
+}

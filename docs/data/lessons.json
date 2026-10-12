@@ -1,0 +1,4168 @@
+[
+ {
+  "unit_no": 1,
+  "phase": 1,
+  "title_en": "Greetings & Introductions",
+  "title_zh": "打招呼與自我介紹",
+  "goals": [
+   "Greet people and answer 'How are you?' naturally ('Good, thanks. And you?') instead of the textbook 'I'm fine, thank you, and you?'",
+   "Introduce herself in 4 short sentences: name, where she's from, where she lives, what she does.",
+   "Use the verb 'be' (I'm / you're / he's / she's) in introductions without dropping it.",
+   "Say clear final consonants in name, meet, work and live, and ask for repetition or spelling when she doesn't understand."
+  ],
+  "warmup": {
+   "easy": [
+    "What's your name?",
+    "How are you today?",
+    "Where are you from?"
+   ],
+   "medium": [
+    "Where do you live now?",
+    "What do you do?",
+    "Do you have an English name?"
+   ],
+   "hard": [
+    "How do people in Taiwan usually greet each other?",
+    "What do you say when you meet someone for the first time?",
+    "Tell me three things about yourself."
+   ]
+  },
+  "key_phrases": [
+   {
+    "en": "Hi, I'm ___.",
+    "zh": "嗨，我是___。"
+   },
+   {
+    "en": "My name is ___.",
+    "zh": "我的名字是___。"
+   },
+   {
+    "en": "Nice to meet you. / Nice to meet you, too.",
+    "zh": "很高興認識你。／我也很高興認識你。"
+   },
+   {
+    "en": "How are you? — Good, thanks. And you?",
+    "zh": "你好嗎？——很好，謝謝。你呢？"
+   },
+   {
+    "en": "I'm from Taiwan.",
+    "zh": "我來自台灣。"
+   },
+   {
+    "en": "I live in ___.",
+    "zh": "我住在___。"
+   },
+   {
+    "en": "I'm a ___. / I work at ___.",
+    "zh": "我是___。／我在___工作。"
+   },
+   {
+    "en": "What do you do?",
+    "zh": "你從事什麼工作？"
+   },
+   {
+    "en": "How do you spell that?",
+    "zh": "那個怎麼拼？"
+   },
+   {
+    "en": "Sorry, can you say that again?",
+    "zh": "不好意思，可以再說一次嗎？"
+   }
+  ],
+  "grammar": {
+   "point_en": "The verb BE: I am / you are / he is / she is",
+   "point_zh": "be 動詞：am / is / are",
+   "explain_zh": "中文常說「我很好」「我台灣人」，不一定需要「是」。但英文句子一定要有動詞，介紹名字、國家、職業、心情時都要用 be 動詞。I 用 am，you 用 are，he／she 用 is。口語常縮寫成 I'm、you're、he's、she's。",
+   "examples": [
+    {
+     "en": "I'm from Taiwan.",
+     "zh": "我來自台灣。"
+    },
+    {
+     "en": "She's a nurse.",
+     "zh": "她是護理師。"
+    },
+    {
+     "en": "Are you a teacher?",
+     "zh": "你是老師嗎？"
+    },
+    {
+     "en": "I'm good, thanks.",
+     "zh": "我很好，謝謝。"
+    }
+   ],
+   "common_mistake": {
+    "wrong": "I very happy to meet you.",
+    "right": "I'm very happy to meet you.",
+    "why_zh": "中文「我很高興」沒有「是」，但英文要加 am：I'm happy。"
+   }
+  },
+  "sound_focus": {
+   "sound_id": "final-consonants",
+   "words": [
+    "name",
+    "nice",
+    "meet",
+    "work",
+    "live",
+    "last"
+   ],
+   "sentence": "My last name is Lin, and I live and work in Tainan."
+  },
+  "mini_lesson": [
+   "Step 1 (5 min): Greet her three ways (Hi! / Good morning! / How are you?). Teach 'Good, thanks. And you?' as the natural answer and practice it until it comes out fast, without 'I'm fine, thank you, and you?'.",
+   "Step 2 (8 min): Go through the key phrases. Say each one twice, she repeats. Then run a quick question chain: What's your name? → Where are you from? → Where do you live? → What do you do? Repeat until she answers without notes.",
+   "Step 3 (7 min): Grammar — the be verb. Write 'I ___ from Taiwan. / She ___ a nurse. / You ___ late!' and have her fill in am / is / are. Point out that Chinese drops 是 in 我很好, but English needs I'm good.",
+   "Step 4 (5 min): Sound focus — final consonants. Say name, nice, meet, work, live, last; she repeats with a clear ending (lips closed on the m in name, no 'uh' after work). Then the practice sentence: slow, then normal speed.",
+   "Step 5 (5 min): Spelling game. Practice the alphabet sounds she mixes up (e.g. E/I, G/J). You say a Taiwanese city, she asks 'How do you spell that?' and writes what you spell; then switch roles with her own name."
+  ],
+  "roleplays": [
+   {
+    "level": "easy",
+    "title": "Meeting someone at a party",
+    "setup_zh": "你在朋友的聚會上認識一位新朋友。跟他打招呼，並用簡單的句子介紹自己。",
+    "teacher_role": "Mark, a friendly guest at the party",
+    "student_role": "Herself, meeting Mark for the first time",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Hi! I'm Mark. What's your name?"
+     },
+     {
+      "who": "S",
+      "en": "Hi, Mark. I'm ___. Nice to meet you.",
+      "zh": "嗨，Mark。我是___。很高興認識你。"
+     },
+     {
+      "who": "T",
+      "en": "Nice to meet you, too. How are you?"
+     },
+     {
+      "who": "S",
+      "en": "Good, thanks. And you?",
+      "zh": "很好，謝謝。你呢？"
+     },
+     {
+      "who": "T",
+      "en": "I'm great, thanks. Where are you from?"
+     },
+     {
+      "who": "S",
+      "en": "I'm from Taiwan. I live in ___.",
+      "zh": "我來自台灣。我住在___。"
+     },
+     {
+      "who": "T",
+      "en": "Oh, nice! What do you do?"
+     },
+     {
+      "who": "S",
+      "en": "I'm a ___. I work at ___.",
+      "zh": "我是___。我在___工作。"
+     },
+     {
+      "who": "T",
+      "en": "That's interesting. Well, I need a drink. See you later!"
+     },
+     {
+      "who": "S",
+      "en": "See you later, Mark!",
+      "zh": "待會見，Mark！"
+     }
+    ]
+   },
+   {
+    "level": "challenge",
+    "title": "Chatting with a traveler in a café",
+    "setup_zh": "你在咖啡店遇到一位來台灣旅行的外國人，她主動跟你聊天。介紹自己、問她問題；聽不懂時，請她再說一次。",
+    "teacher_role": "Sarah, a tourist from Canada visiting Taiwan",
+    "student_role": "Herself, a local sitting at the next table",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Hi there! Good morning. I'm Sarah."
+     },
+     {
+      "who": "S",
+      "en": "Good morning, Sarah. I'm ___. Nice to meet you.",
+      "zh": "早安，Sarah。我是___。很高興認識你。"
+     },
+     {
+      "who": "T",
+      "en": "Nice to meet you, too. Sorry, how do you spell your name?"
+     },
+     {
+      "who": "S",
+      "en": "It's ___. ___-___-___.",
+      "zh": "是___，拼法是___。"
+     },
+     {
+      "who": "T",
+      "en": "Thanks! So, are you from around here?"
+     },
+     {
+      "who": "S",
+      "en": "Yes, I'm from Taiwan. I live in ___. Where are you from?",
+      "zh": "對，我是台灣人，住在___。你是哪裡人？"
+     },
+     {
+      "who": "T",
+      "en": "I'm from Vancouver, in Canada. I'm here on vacation for two weeks."
+     },
+     {
+      "who": "S",
+      "en": "Sorry, can you say that again?",
+      "zh": "不好意思，可以再說一次嗎？"
+     },
+     {
+      "who": "T",
+      "en": "Sure. I'm on vacation. Two weeks. So, what do you do?"
+     },
+     {
+      "who": "S",
+      "en": "I'm a ___. I work at ___. And you?",
+      "zh": "我是___，在___工作。你呢？"
+     },
+     {
+      "who": "T",
+      "en": "I'm a nurse. Well, I have to go. It was nice talking to you!"
+     },
+     {
+      "who": "S",
+      "en": "You too, Sarah! Goodbye. Have a nice trip!",
+      "zh": "我也是，Sarah！再見，旅途愉快！"
+     }
+    ],
+    "teacher_twists": [
+     "Say line 7 fast and naturally, so she has to use 'Sorry, can you say that again?' for real.",
+     "Spell her name back wrong on purpose ('M-A-Y?') so she must correct you: 'No, it's M-E-I.'",
+     "Add a surprise question, like 'Do you have an English name?' or 'Is Pingtung far from here?', and see if she answers with a short full sentence."
+    ]
+   }
+  ],
+  "homework_zh": [
+   "用英文寫 4 句自我介紹（名字、來自哪裡、住在哪裡、做什麼工作），大聲唸 3 次並錄音傳給老師。",
+   "每天用 Anki 複習 Unit 1 卡片，注意 name、meet、work、live 的結尾音要清楚，後面不要加「ㄜ」。",
+   "練習用英文字母拼出自己的名字和住的城市，例如 P-I-N-G-T-U-N-G。"
+  ],
+  "released": true
+ },
+ {
+  "unit_no": 2,
+  "phase": 1,
+  "title_en": "Numbers, Time & Dates",
+  "title_zh": "數字、時間與日期",
+  "goals": [
+   "Say numbers 1–10,000 clearly, with correct stress on -teen vs -ty (thirTEEN vs THIRty), and read a phone number in groups.",
+   "Ask and tell the time the simple American way (seven thirty, nine fifteen, 6 p.m.).",
+   "Ask and give days and dates with ordinal numbers (May third, October tenth).",
+   "Use at / on / in correctly with times, days and months."
+  ],
+  "warmup": {
+   "easy": [
+    "What time is it now?",
+    "What day is it today?",
+    "How many people are in your family?"
+   ],
+   "medium": [
+    "What time do you usually get up?",
+    "When's your birthday?",
+    "What's the date today?"
+   ],
+   "hard": [
+    "What's an important date for you, and why?",
+    "Which numbers are lucky or unlucky in Taiwan? Why?",
+    "How do you say 35,000 in English? What about 120,000?"
+   ]
+  },
+  "key_phrases": [
+   {
+    "en": "What time is it? — It's ___.",
+    "zh": "現在幾點？——現在___。"
+   },
+   {
+    "en": "It's seven o'clock. / It's seven thirty.",
+    "zh": "現在七點。／現在七點半。"
+   },
+   {
+    "en": "What day is it today? — It's Thursday.",
+    "zh": "今天星期幾？——今天星期四。"
+   },
+   {
+    "en": "What's the date today? — It's May third.",
+    "zh": "今天幾月幾號？——五月三日。"
+   },
+   {
+    "en": "When's your birthday? — It's on ___.",
+    "zh": "你的生日是什麼時候？——在___。"
+   },
+   {
+    "en": "What's your phone number? — It's ___.",
+    "zh": "你的電話號碼是多少？——是___。"
+   },
+   {
+    "en": "See you on Thursday at 3 p.m.",
+    "zh": "星期四下午三點見。"
+   },
+   {
+    "en": "How many people? — Three.",
+    "zh": "幾個人？——三個。"
+   },
+   {
+    "en": "Sorry, I'm late.",
+    "zh": "抱歉，我遲到了。"
+   }
+  ],
+  "grammar": {
+   "point_en": "Time prepositions: at / on / in",
+   "point_zh": "時間介系詞 at / on / in",
+   "explain_zh": "中文常直接說「三點」「星期四」「五月」，前面不用加字。英文要分清楚：時間點用 at（at 3 p.m.），星期和日期用 on（on Thursday、on May third），月份、年份和一天中的時段用 in（in May、in the morning）。小例外：at night。",
+   "examples": [
+    {
+     "en": "My class is at 7 p.m.",
+     "zh": "我的課在晚上七點。"
+    },
+    {
+     "en": "See you on Thursday.",
+     "zh": "星期四見。"
+    },
+    {
+     "en": "My birthday is in May.",
+     "zh": "我的生日在五月。"
+    },
+    {
+     "en": "I study English at night.",
+     "zh": "我晚上學英文。"
+    }
+   ],
+   "common_mistake": {
+    "wrong": "See you in Monday.",
+    "right": "See you on Monday.",
+    "why_zh": "星期幾和日期前面用 on；月份和年份才用 in。"
+   }
+  },
+  "sound_focus": {
+   "sound_id": "th",
+   "words": [
+    "three",
+    "thirteen",
+    "thirty",
+    "third",
+    "month",
+    "Thursday"
+   ],
+   "sentence": "My birthday is on Thursday, the thirteenth of this month."
+  },
+  "mini_lesson": [
+   "Step 1 (5 min): Numbers warm-up. Count by tens to 100 together. Write 13/30, 14/40, 15/50 on paper: you say one, she points; then she says one, you point. Stress: thir-TEEN (long, strong end) vs THIR-ty.",
+   "Step 2 (7 min): Telling time. Show times on your phone or a drawn clock (7:00, 7:30, 9:15, 6:45) and ask 'What time is it?'. Teach the easy American way: seven thirty, nine fifteen, six forty-five; o'clock only for full hours; a.m./p.m. after the number.",
+   "Step 3 (6 min): Dates. Write the tricky ordinals (first, second, third, fifth, twelfth, twentieth, thirtieth). Ask 'When's your birthday?' and the dates of Taiwanese holidays (Double Tenth = October tenth).",
+   "Step 4 (7 min): Grammar — at / on / in. Make three columns. Give her words to sort: 3 p.m., Thursday, May, night, the morning, my birthday, 2026, May third. Then she makes one sentence for each column.",
+   "Step 5 (5 min): Sound focus — TH. Use a phone mirror: the tongue tip must be visible. Contrast three/tree, thank/sank, Thursday/Tuesday. Then the practice sentence: slow, then normal speed."
+  ],
+  "roleplays": [
+   {
+    "level": "easy",
+    "title": "Signing up for a yoga class",
+    "setup_zh": "你在健身房櫃檯報名瑜伽課。問上課時間、選一天，並留下電話和生日。",
+    "teacher_role": "A receptionist at the gym front desk",
+    "student_role": "Herself, signing up for a class",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Hi! Do you want to sign up for a class?"
+     },
+     {
+      "who": "S",
+      "en": "Yes, please. What time is the yoga class?",
+      "zh": "是的，麻煩你。瑜伽課是幾點？"
+     },
+     {
+      "who": "T",
+      "en": "It's at 7 p.m. on Monday and Thursday."
+     },
+     {
+      "who": "S",
+      "en": "Thursday is good for me.",
+      "zh": "星期四我可以。"
+     },
+     {
+      "who": "T",
+      "en": "Great. What's your phone number?"
+     },
+     {
+      "who": "S",
+      "en": "It's ___.",
+      "zh": "是___。"
+     },
+     {
+      "who": "T",
+      "en": "Thank you. And when's your birthday?"
+     },
+     {
+      "who": "S",
+      "en": "It's on ___.",
+      "zh": "在___。"
+     },
+     {
+      "who": "T",
+      "en": "Perfect. See you on Thursday at seven!"
+     },
+     {
+      "who": "S",
+      "en": "Thank you. See you on Thursday!",
+      "zh": "謝謝，星期四見！"
+     }
+    ]
+   },
+   {
+    "level": "challenge",
+    "title": "Booking a haircut at the salon",
+    "setup_zh": "你在美髮店櫃檯預約剪頭髮。店員說得有點快，日期和時間要確認清楚，13 號和 30 號別聽錯！",
+    "teacher_role": "A busy receptionist at a hair salon",
+    "student_role": "Herself, making an appointment",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Hi, welcome to Style Studio. How can I help you?"
+     },
+     {
+      "who": "S",
+      "en": "Hi. Can I make an appointment for a haircut?",
+      "zh": "嗨，我可以預約剪頭髮嗎？"
+     },
+     {
+      "who": "T",
+      "en": "Sure. What day is good for you?"
+     },
+     {
+      "who": "S",
+      "en": "Is Thursday OK?",
+      "zh": "星期四可以嗎？"
+     },
+     {
+      "who": "T",
+      "en": "Let me see... Thursday the thirteenth? We have two fifteen or four thirty."
+     },
+     {
+      "who": "S",
+      "en": "Sorry, is that the thirteenth or the thirtieth?",
+      "zh": "不好意思，是十三號還是三十號？"
+     },
+     {
+      "who": "T",
+      "en": "The thirteenth. One-three."
+     },
+     {
+      "who": "S",
+      "en": "OK. Four thirty, please.",
+      "zh": "好的，麻煩四點半。"
+     },
+     {
+      "who": "T",
+      "en": "Four thirty p.m. on Thursday the thirteenth. Can I have your name and phone number?"
+     },
+     {
+      "who": "S",
+      "en": "My name is ___. My number is ___.",
+      "zh": "我叫___。我的電話是___。"
+     },
+     {
+      "who": "T",
+      "en": "Thanks. Please come ten minutes early. See you then!"
+     },
+     {
+      "who": "S",
+      "en": "Thank you. See you on Thursday!",
+      "zh": "謝謝，星期四見！"
+     }
+    ],
+    "teacher_twists": [
+     "Read her phone number back with two digits switched (0921 instead of 0912) so she has to correct you.",
+     "Say Thursday is now full and offer 'next Tuesday, the eighteenth, at a quarter to three' — she must check the time and pick again.",
+     "Ask 'How many people?' or 'Is it just you?' and see if she can answer quickly with a number."
+    ]
+   }
+  ],
+  "homework_zh": [
+   "每天看手機時間時，用英文說出來，例如 It's seven forty. 一天至少說 5 次。",
+   "寫下 5 個重要的日期（家人生日、節日），用英文完整唸出來，例如 My birthday is on June twelfth.",
+   "用 Anki 複習 Unit 2，特別練 13／30、14／40 的重音差別，並照鏡子練 th 音。"
+  ],
+  "released": true
+ },
+ {
+  "unit_no": 3,
+  "phase": 1,
+  "title_en": "Family & People",
+  "title_zh": "家人與朋友",
+  "goals": [
+   "Talk about her family: who is in it, their ages, jobs and where they live.",
+   "Use he/she and his/her correctly every time — in Chinese 他 and 她 sound the same (tā), so this needs lots of drilling.",
+   "Introduce another person ('This is my friend, Lisa.') and say what someone is like.",
+   "Pronounce V (very, have) and W (wife, we're) clearly and differently."
+  ],
+  "warmup": {
+   "easy": [
+    "Do you have any brothers or sisters?",
+    "Is your family big or small?",
+    "Who do you live with?"
+   ],
+   "medium": [
+    "Tell me about one person in your family.",
+    "Who in your family is the funniest?",
+    "Do you look like your mom or your dad?"
+   ],
+   "hard": [
+    "How are families in Taiwan different from families in America?",
+    "Who is the most important person in your life, and why?",
+    "What's your best friend like? How did you meet?"
+   ]
+  },
+  "key_phrases": [
+   {
+    "en": "This is my ___.",
+    "zh": "這是我的___。"
+   },
+   {
+    "en": "I have two kids: a son and a daughter.",
+    "zh": "我有兩個小孩：一個兒子、一個女兒。"
+   },
+   {
+    "en": "Do you have any brothers or sisters?",
+    "zh": "你有兄弟姊妹嗎？"
+   },
+   {
+    "en": "How old is he? / How old is she?",
+    "zh": "他幾歲？／她幾歲？"
+   },
+   {
+    "en": "He's ___ years old. / She's ___ years old.",
+    "zh": "他___歲。／她___歲。"
+   },
+   {
+    "en": "My husband's name is ___.",
+    "zh": "我老公的名字是___。"
+   },
+   {
+    "en": "What does she do? — She's a ___.",
+    "zh": "她做什麼工作？——她是___。"
+   },
+   {
+    "en": "What's he like? — He's very funny.",
+    "zh": "他人怎麼樣？——他很搞笑。"
+   },
+   {
+    "en": "We're very close.",
+    "zh": "我們感情很好。"
+   },
+   {
+    "en": "He looks like his dad.",
+    "zh": "他長得像他爸爸。"
+   }
+  ],
+  "grammar": {
+   "point_en": "he / she, his / her, and 's for possession",
+   "point_zh": "他／她、his／her，以及所有格 's",
+   "explain_zh": "中文的「他」和「她」唸起來一樣，所以說英文時很容易把 he 和 she 搞混。英文一定要分清楚：男生用 he／his，女生用 she／her。說「某人的」東西時，在名字或名詞後面加 's，例如 Lisa's son、my mom's car。",
+   "examples": [
+    {
+     "en": "She's my sister. Her name is Ann.",
+     "zh": "她是我妹妹，她的名字是 Ann。"
+    },
+    {
+     "en": "My brother lives in Taipei. His wife is a teacher.",
+     "zh": "我哥哥住在台北，他太太是老師。"
+    },
+    {
+     "en": "This is my mom's car.",
+     "zh": "這是我媽媽的車。"
+    },
+    {
+     "en": "Is Tom your son? How old is he?",
+     "zh": "Tom 是你兒子嗎？他幾歲？"
+    }
+   ],
+   "common_mistake": {
+    "wrong": "My mother is a teacher. He is very kind.",
+    "right": "My mother is a teacher. She is very kind.",
+    "why_zh": "中文「他」「她」同音，但英文說媽媽、姊妹、女兒一定要用 she／her。"
+   }
+  },
+  "sound_focus": {
+   "sound_id": "v-w",
+   "words": [
+    "very",
+    "have",
+    "wife",
+    "we're",
+    "what's"
+   ],
+   "sentence": "We have a very big family, and my brother's wife is very funny."
+  },
+  "mini_lesson": [
+   "Step 1 (5 min): Family tree. She draws her family tree (real or made up) on paper. You point and ask 'Who's this?'; she answers 'This is my ___.'",
+   "Step 2 (8 min): Vocabulary and key phrases. Point out that English doesn't split 哥哥／弟弟 or 奶奶／外婆 — use older/younger brother and grandma. Ask about people on the tree: How old is he/she? What does he/she do? Where does he/she live?",
+   "Step 3 (8 min): Grammar — he/she, his/her, 's. Fast drill: point to a person on the tree; she must start with 'He's…' or 'She's…' within 2 seconds. Then possessives: my mom's name, my son's school. Gently correct every he/she mix-up — this is the habit to fix.",
+   "Step 4 (5 min): Sound focus — V/W. V: top teeth touch the bottom lip (very, have). W: round lips, no teeth (wife, we're, what's). She touches her lip with a finger to feel it. Then the practice sentence, slow then normal.",
+   "Step 5 (4 min): Describe people. Show 2–3 photos on your phone (family or famous people). She says 'He looks like…' or 'She's very kind / funny / tall.'"
+  ],
+  "roleplays": [
+   {
+    "level": "easy",
+    "title": "Looking at family photos",
+    "setup_zh": "新朋友在看你手機裡的家人照片，問你照片裡是誰。介紹你的家人，也問問對方的家人。",
+    "teacher_role": "A new friend looking at the photos",
+    "student_role": "Herself, showing family photos on her phone",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Is that a photo of your family? Who's this?"
+     },
+     {
+      "who": "S",
+      "en": "This is my mom. Her name is ___.",
+      "zh": "這是我媽媽，她的名字是___。"
+     },
+     {
+      "who": "T",
+      "en": "She looks very kind. And who's this boy?"
+     },
+     {
+      "who": "S",
+      "en": "That's my ___. He's ___ years old.",
+      "zh": "那是我的___，他___歲。"
+     },
+     {
+      "who": "T",
+      "en": "He's so cute! He looks like you."
+     },
+     {
+      "who": "S",
+      "en": "Thank you! Do you have any kids?",
+      "zh": "謝謝！你有小孩嗎？"
+     },
+     {
+      "who": "T",
+      "en": "Yes, I have a daughter. She's eight."
+     },
+     {
+      "who": "S",
+      "en": "Oh, nice! What's she like?",
+      "zh": "喔，真好！她個性怎麼樣？"
+     },
+     {
+      "who": "T",
+      "en": "She's very funny, and she talks a lot!"
+     },
+     {
+      "who": "S",
+      "en": "Ha ha. My ___ is very funny, too.",
+      "zh": "哈哈，我的___也很搞笑。"
+     }
+    ]
+   },
+   {
+    "level": "challenge",
+    "title": "Family small talk with a new coworker",
+    "setup_zh": "公司聚餐時，一位美國同事問了你很多家人的問題。回答時注意 he／she、his／her 不要說錯。",
+    "teacher_role": "Jason, a friendly American coworker at a company dinner",
+    "student_role": "Herself",
+    "lines": [
+     {
+      "who": "T",
+      "en": "So, tell me about your family. Is it big or small?"
+     },
+     {
+      "who": "S",
+      "en": "It's pretty small. I live with my ___ and my ___.",
+      "zh": "我家人不多。我和我的___還有___住在一起。"
+     },
+     {
+      "who": "T",
+      "en": "Oh, nice. Do you have any brothers or sisters?"
+     },
+     {
+      "who": "S",
+      "en": "Yes, I have one ___. (He / She) lives in ___.",
+      "zh": "有，我有一個___。（他／她）住在___。"
+     },
+     {
+      "who": "T",
+      "en": "Are you two close?"
+     },
+     {
+      "who": "S",
+      "en": "Yes, we're very close. We talk every week.",
+      "zh": "是的，我們感情很好，每個禮拜都會聊天。"
+     },
+     {
+      "who": "T",
+      "en": "That's great. My brother and I aren't very close. He lives in Texas. What about your parents?"
+     },
+     {
+      "who": "S",
+      "en": "My parents live in ___. My dad is ___ years old.",
+      "zh": "我爸媽住在___。我爸爸___歲。"
+     },
+     {
+      "who": "T",
+      "en": "Do you look like your mom or your dad?"
+     },
+     {
+      "who": "S",
+      "en": "People say I look like my ___.",
+      "zh": "大家都說我長得像我___。"
+     },
+     {
+      "who": "T",
+      "en": "Ha! And what's your mom like?"
+     },
+     {
+      "who": "S",
+      "en": "She's very ___ and ___. Her cooking is great!",
+      "zh": "她很___，也很___。她煮的菜很好吃！"
+     }
+    ],
+    "teacher_twists": [
+     "Ask 'What does he/she do?' about every person she mentions, and quietly write down each he/she or his/her mix-up for feedback at the end.",
+     "Misunderstand on purpose — 'Oh, your brother is a teacher?' when she said sister — so she must correct you: 'No, my sister. She's a teacher.'",
+     "Show a photo of a stranger on your phone and ask 'What do you think he's like?'"
+    ]
+   }
+  ],
+  "homework_zh": [
+   "畫一張家庭樹，用英文寫出每個人，例如 This is my sister. She is 45 years old. 至少寫 5 個人。",
+   "選一張家人照片，錄一段 30 秒的英文介紹傳給老師，注意 he／she、his／her 不要說錯。",
+   "用 Anki 複習 Unit 3，練習 very、have、wife 的 v／w 音：v 要輕咬下唇，w 要嘟嘴。"
+  ],
+  "released": false
+ },
+ {
+  "unit_no": 4,
+  "phase": 1,
+  "title_en": "Food & Ordering",
+  "title_zh": "食物與點餐",
+  "goals": [
+   "Order food and drinks politely with 'I'd like…' and 'Can I have…?' instead of 'I want…'.",
+   "Understand and answer common server questions: For here or to go? Anything else? Hot or iced? What size?",
+   "Order a drink the Taiwanese way in English (less sugar, no ice) and ask about food (Is it spicy? What do you recommend?).",
+   "Link words smoothly in ordering phrases (Can I have a → kuh-nye-HAV-uh)."
+  ],
+  "warmup": {
+   "easy": [
+    "What did you have for breakfast today?",
+    "Do you like coffee or tea?",
+    "What's your favorite food?"
+   ],
+   "medium": [
+    "What Taiwanese dish should a foreigner try first?",
+    "How do you order your bubble tea?",
+    "Do you like spicy food?"
+   ],
+   "hard": [
+    "Describe your favorite restaurant. Why do you like it?",
+    "How is eating out in Taiwan different from eating out in America?",
+    "How do you make your favorite home-cooked dish?"
+   ]
+  },
+  "key_phrases": [
+   {
+    "en": "A table for two, please.",
+    "zh": "兩位，謝謝。"
+   },
+   {
+    "en": "Can I see the menu, please?",
+    "zh": "可以給我看菜單嗎？"
+   },
+   {
+    "en": "What do you recommend?",
+    "zh": "你推薦什麼？"
+   },
+   {
+    "en": "I'd like the ___, please.",
+    "zh": "我要___，謝謝。"
+   },
+   {
+    "en": "Can I have a ___, please?",
+    "zh": "可以給我一個___嗎？"
+   },
+   {
+    "en": "Is it spicy?",
+    "zh": "會辣嗎？"
+   },
+   {
+    "en": "Green tea, less sugar, less ice, please.",
+    "zh": "綠茶，少糖少冰，謝謝。"
+   },
+   {
+    "en": "For here or to go? — To go, please.",
+    "zh": "內用還是外帶？——外帶，謝謝。"
+   },
+   {
+    "en": "Anything else? — That's all, thanks.",
+    "zh": "還需要別的嗎？——這樣就好，謝謝。"
+   },
+   {
+    "en": "Check, please.",
+    "zh": "麻煩買單。"
+   }
+  ],
+  "grammar": {
+   "point_en": "Polite requests: I'd like… / Can I have…?",
+   "point_zh": "禮貌點餐：I'd like… / Can I have…?",
+   "explain_zh": "中文點餐常說「我要一杯咖啡」，但直接翻成 I want a coffee 聽起來有點不客氣，像小孩子在討東西。點餐時用 I'd like…（= I would like）或 Can I have…? 比較有禮貌，最後再加 please。I'd 的 d 很輕，但不要省略。",
+   "examples": [
+    {
+     "en": "I'd like a hot coffee, please.",
+     "zh": "我要一杯熱咖啡，謝謝。"
+    },
+    {
+     "en": "Can I have the chicken rice?",
+     "zh": "可以給我雞肉飯嗎？"
+    },
+    {
+     "en": "I'd like two milk teas to go.",
+     "zh": "我要兩杯奶茶外帶。"
+    },
+    {
+     "en": "Can I have some water, please?",
+     "zh": "可以給我一些水嗎？"
+    }
+   ],
+   "common_mistake": {
+    "wrong": "I want coffee.",
+    "right": "I'd like a coffee, please.",
+    "why_zh": "I want 聽起來太直接，像在命令；點餐用 I'd like 加 please 才有禮貌。"
+   }
+  },
+  "sound_focus": {
+   "sound_id": "linking",
+   "words": [
+    "can I",
+    "have a",
+    "is it",
+    "here or",
+    "anything else",
+    "cup of"
+   ],
+   "sentence": "Can I have a cup of coffee and an egg tart?"
+  },
+  "mini_lesson": [
+   "Step 1 (5 min): Warm-up. Ask about her favorite foods and drinks. Write down the English names she needs for real life (beef noodles, fried rice, bubble tea, egg pancake).",
+   "Step 2 (7 min): Grammar — I'd like / Can I have. Say 'I want coffee' in a bossy voice, then 'I'd like a coffee, please' politely, so she hears the difference. She turns 5 'I want…' sentences into polite requests.",
+   "Step 3 (6 min): Server questions. You play the server and ask the common questions fast (For here or to go? Anything else? Hot or iced? What size?). She answers each in 2–3 words. Then switch roles.",
+   "Step 4 (7 min): Sound focus — linking. Show how a final consonant jumps to the next vowel: Can I have a → kuh-nye-HAV-uh. Write 'Can‿I have‿a cup‿of coffee‿and‿an egg tart?' with link marks. She says it slowly, then faster, with no pauses between words.",
+   "Step 5 (5 min): Drink-shop drill. Make a mini menu (black tea, green tea, milk tea; medium/large; sugar and ice levels). She orders 3 different drinks, e.g. 'A large green tea, less sugar, no ice, please.'"
+  ],
+  "roleplays": [
+   {
+    "level": "easy",
+    "title": "Ordering at a bubble tea shop",
+    "setup_zh": "你在飲料店點一杯奶茶。店員會問你大小、甜度、冰塊和內用外帶。",
+    "teacher_role": "A clerk at a bubble tea shop",
+    "student_role": "Herself, a customer",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Hi! What can I get for you?"
+     },
+     {
+      "who": "S",
+      "en": "Hi. I'd like a milk tea, please.",
+      "zh": "嗨，我要一杯奶茶，謝謝。"
+     },
+     {
+      "who": "T",
+      "en": "Sure. What size? Medium or large?"
+     },
+     {
+      "who": "S",
+      "en": "Large, please.",
+      "zh": "大杯，謝謝。"
+     },
+     {
+      "who": "T",
+      "en": "How about sugar and ice?"
+     },
+     {
+      "who": "S",
+      "en": "Less sugar and less ice, please.",
+      "zh": "少糖少冰，謝謝。"
+     },
+     {
+      "who": "T",
+      "en": "OK. Anything else?"
+     },
+     {
+      "who": "S",
+      "en": "That's all, thanks.",
+      "zh": "這樣就好，謝謝。"
+     },
+     {
+      "who": "T",
+      "en": "For here or to go?"
+     },
+     {
+      "who": "S",
+      "en": "To go, please.",
+      "zh": "外帶，謝謝。"
+     }
+    ]
+   },
+   {
+    "level": "challenge",
+    "title": "Dinner at a restaurant",
+    "setup_zh": "你在一家西式餐廳吃晚餐。服務生說話比較快，你要點飲料、問推薦菜色、確認辣不辣，最後點主餐。",
+    "teacher_role": "A friendly but fast-talking waiter",
+    "student_role": "Herself, a customer",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Good evening! How many?"
+     },
+     {
+      "who": "S",
+      "en": "A table for two, please.",
+      "zh": "兩位，謝謝。"
+     },
+     {
+      "who": "T",
+      "en": "Right this way. Here's the menu. Can I get you something to drink?"
+     },
+     {
+      "who": "S",
+      "en": "Can I have a glass of water and a hot tea, please?",
+      "zh": "可以給我一杯水和一杯熱茶嗎？"
+     },
+     {
+      "who": "T",
+      "en": "Of course. Are you ready to order, or do you need a minute?"
+     },
+     {
+      "who": "S",
+      "en": "It's my first time here. What do you recommend?",
+      "zh": "我第一次來，你推薦什麼？"
+     },
+     {
+      "who": "T",
+      "en": "The chicken curry is really popular. It's a little spicy."
+     },
+     {
+      "who": "S",
+      "en": "Is it very spicy?",
+      "zh": "會很辣嗎？"
+     },
+     {
+      "who": "T",
+      "en": "Not too spicy. It comes with rice or bread."
+     },
+     {
+      "who": "S",
+      "en": "OK. I'd like the chicken curry with rice, please.",
+      "zh": "好，我要咖哩雞配飯，謝謝。"
+     },
+     {
+      "who": "T",
+      "en": "Great choice. Anything else?"
+     },
+     {
+      "who": "S",
+      "en": "That's all for now, thanks.",
+      "zh": "先這樣就好，謝謝。"
+     }
+    ],
+    "teacher_twists": [
+     "Read today's specials quickly ('grilled salmon, mushroom soup, and a beef burger') so she must ask 'Sorry, can you say that again?' or 'What's the first one?'",
+     "Bring the wrong order — 'Here's your chicken curry with bread!' — so she has to fix it politely: 'Excuse me, I ordered rice.'",
+     "At the end, she must call you over to ask for the check and a box for leftovers: 'Can I have a box, please?'"
+    ]
+   }
+  ],
+  "homework_zh": [
+   "下次去飲料店或早餐店時，在心裡用英文點一次餐，例如 I'd like a large black tea, less sugar, no ice, please.",
+   "寫下你最喜歡的 5 道台灣菜的英文名字，各用一句話介紹，例如 Beef noodles are delicious and a little spicy.",
+   "每天練習連音句子 Can I have a cup of coffee and an egg tart? 慢唸 3 次、正常速度 3 次，錄音傳給老師。"
+  ],
+  "released": false
+ },
+ {
+  "unit_no": 5,
+  "phase": 1,
+  "title_en": "Shopping & Money",
+  "title_zh": "購物與付錢",
+  "goals": [
+   "Ask prices and understand the answer: How much is this? / How much are these? — It's 350 dollars.",
+   "Use this / that / these / those correctly with is / are (including plural clothes: jeans, pants, shoes).",
+   "Get through a clothing store: just looking → size or color → try on → I'll take it → pay by card → receipt.",
+   "Hear and say the long/short vowel difference in cheap/chip, these/this, feet/fit."
+  ],
+  "warmup": {
+   "easy": [
+    "Do you like shopping?",
+    "Where do you usually buy clothes?",
+    "Do you pay with cash or card?"
+   ],
+   "medium": [
+    "What's something you want to buy this year?",
+    "Is shopping in Taiwan cheap or expensive?",
+    "Do you shop online? What do you buy?"
+   ],
+   "hard": [
+    "Do people bargain at night markets? How do you do it?",
+    "What's the best thing you ever bought? Why?",
+    "Online shopping or shopping in a store — which is better, and why?"
+   ]
+  },
+  "key_phrases": [
+   {
+    "en": "How much is this? / How much are these?",
+    "zh": "這個多少錢？／這些多少錢？"
+   },
+   {
+    "en": "It's ___ dollars.",
+    "zh": "是___元。"
+   },
+   {
+    "en": "I'm just looking, thanks.",
+    "zh": "我只是看看，謝謝。"
+   },
+   {
+    "en": "Do you have this in a smaller size?",
+    "zh": "這個有小一點的尺寸嗎？"
+   },
+   {
+    "en": "Do you have this in black?",
+    "zh": "這個有黑色的嗎？"
+   },
+   {
+    "en": "Can I try it on?",
+    "zh": "我可以試穿嗎？"
+   },
+   {
+    "en": "It's too big. / It's too expensive.",
+    "zh": "太大了。／太貴了。"
+   },
+   {
+    "en": "I'll take it.",
+    "zh": "我要買這個。"
+   },
+   {
+    "en": "Can I pay by card?",
+    "zh": "可以刷卡嗎？"
+   },
+   {
+    "en": "Can I have the receipt, please?",
+    "zh": "可以給我收據嗎？"
+   }
+  ],
+  "grammar": {
+   "point_en": "How much + this / that / these / those",
+   "point_zh": "How much 加 this／that／these／those",
+   "explain_zh": "英文和中文一樣，會分近和遠、一個和很多個：this（這個）、that（那個）、these（這些）、those（那些）。一個用 is，很多個用 are：How much is this? How much are these? 要注意：鞋子、褲子、牛仔褲、眼鏡在英文是複數，所以要說 these shoes、How much are these jeans?",
+   "examples": [
+    {
+     "en": "How much is this T-shirt?",
+     "zh": "這件 T 恤多少錢？"
+    },
+    {
+     "en": "How much are these shoes?",
+     "zh": "這雙鞋多少錢？"
+    },
+    {
+     "en": "That bag is too expensive.",
+     "zh": "那個包包太貴了。"
+    },
+    {
+     "en": "Those apples look really fresh.",
+     "zh": "那些蘋果看起來很新鮮。"
+    }
+   ],
+   "common_mistake": {
+    "wrong": "How much is these pants?",
+    "right": "How much are these pants?",
+    "why_zh": "pants 是複數，要用 these 和 are；中文的「這件褲子」英文要當複數。"
+   }
+  },
+  "sound_focus": {
+   "sound_id": "short-long-vowels",
+   "words": [
+    "cheap",
+    "these",
+    "receipt",
+    "this",
+    "big",
+    "fifteen"
+   ],
+   "sentence": "These jeans are cheap, but this shirt is too big."
+  },
+  "mini_lesson": [
+   "Step 1 (5 min): Price warm-up. Show prices on paper or your phone (NT$350, $1,280, $99, $15.50). She reads them aloud: 'three hundred fifty dollars'. Quickly review hundred/thousand from Unit 2.",
+   "Step 2 (7 min): Grammar — this / that / these / those. Put things near her and far away (one pen near, a cup far, two pens near, some coins far). She asks 'How much is this/that?' or 'How much are these/those?' and you answer with a price. Point out plural clothes: jeans, pants, shoes, glasses.",
+   "Step 3 (6 min): Store phrases. Draw the shopping 'path' on paper: just looking → size/color → try on → too big/small → I'll take it → pay by card → receipt. She says one phrase for each step, then the whole path without looking.",
+   "Step 4 (7 min): Sound focus — long vs short vowels. Long ee: smile wide, tense, longer (cheap, these, receipt). Short i: relaxed and quick (chip, this, big). Pairs: cheap/chip, these/this, feet/fit, leave/live. You say one, she holds up 1 finger (long) or 2 (short); then she says them for you.",
+   "Step 5 (5 min): Price listening game. Say prices fast — thirteen/thirty dollars, two fifteen/two fifty, one thousand two hundred — and she writes the numbers. Check together and replay the ones she missed."
+  ],
+  "roleplays": [
+   {
+    "level": "easy",
+    "title": "Buying fruit at the market",
+    "setup_zh": "你在市場的水果攤買水果。用 this／that／these／those 問價錢，決定要買什麼。",
+    "teacher_role": "A fruit seller at a market stall",
+    "student_role": "Herself, a customer",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Hi there! Can I help you?"
+     },
+     {
+      "who": "S",
+      "en": "Yes. How much are these apples?",
+      "zh": "是的，這些蘋果多少錢？"
+     },
+     {
+      "who": "T",
+      "en": "They're thirty dollars each, or one hundred for four."
+     },
+     {
+      "who": "S",
+      "en": "OK. I'd like four, please.",
+      "zh": "好，我要四顆，謝謝。"
+     },
+     {
+      "who": "T",
+      "en": "Sure. Anything else?"
+     },
+     {
+      "who": "S",
+      "en": "How much is that watermelon?",
+      "zh": "那顆西瓜多少錢？"
+     },
+     {
+      "who": "T",
+      "en": "That one is one hundred fifty dollars."
+     },
+     {
+      "who": "S",
+      "en": "Hmm, that's a little expensive. Just the apples, please.",
+      "zh": "嗯，有點貴。只要蘋果就好，謝謝。"
+     },
+     {
+      "who": "T",
+      "en": "No problem. That's one hundred dollars. Do you need a bag?"
+     },
+     {
+      "who": "S",
+      "en": "No, thanks. Here you go.",
+      "zh": "不用，謝謝。給你。"
+     }
+    ]
+   },
+   {
+    "level": "challenge",
+    "title": "Buying a jacket at a clothing store",
+    "setup_zh": "你在服飾店逛街，看到一件喜歡的外套。問價錢、試穿、換尺寸和顏色，最後刷卡結帳。",
+    "teacher_role": "A sales clerk at a clothing store",
+    "student_role": "Herself, a shopper",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Hi! Are you looking for anything special today?"
+     },
+     {
+      "who": "S",
+      "en": "I'm just looking, thanks.",
+      "zh": "我只是看看，謝謝。"
+     },
+     {
+      "who": "T",
+      "en": "OK, just let me know if you need any help."
+     },
+     {
+      "who": "S",
+      "en": "Excuse me. How much is this jacket?",
+      "zh": "不好意思，這件外套多少錢？"
+     },
+     {
+      "who": "T",
+      "en": "It's on sale today: two thousand four hundred dollars."
+     },
+     {
+      "who": "S",
+      "en": "Can I try it on?",
+      "zh": "我可以試穿嗎？"
+     },
+     {
+      "who": "T",
+      "en": "Sure! The fitting room is over there. ... So, how is it?"
+     },
+     {
+      "who": "S",
+      "en": "It's a little too big. Do you have a smaller size?",
+      "zh": "有點太大了，有小一點的尺寸嗎？"
+     },
+     {
+      "who": "T",
+      "en": "Let me check... Yes, here's a medium. We also have it in black."
+     },
+     {
+      "who": "S",
+      "en": "This is perfect. I'll take the black one.",
+      "zh": "這件剛好。我要黑色的。"
+     },
+     {
+      "who": "T",
+      "en": "Great. How would you like to pay?"
+     },
+     {
+      "who": "S",
+      "en": "Can I pay by card? And can I have the receipt, please?",
+      "zh": "可以刷卡嗎？然後可以給我收據嗎？"
+     }
+    ],
+    "teacher_twists": [
+     "Say a confusing price fast ('two thousand four hundred fifteen') so she has to check: 'Sorry, fifteen or fifty?'",
+     "Say the card machine is broken — 'Sorry, cash only today' — and she must react: ask where the ATM is, or pay cash and check her change.",
+     "Upsell: 'These pants go great with the jacket, and they're on sale too!' — she must ask the price with 'these' and accept or refuse politely."
+    ]
+   }
+  ],
+  "homework_zh": [
+   "在家找 5 樣東西，用英文問價錢並回答自己，例如 How much are these shoes? They're 1,200 dollars. 注意單數用 is、複數用 are。",
+   "逛街或網購時，用英文唸出 5 個看到的價錢，例如 three hundred ninety-nine dollars。",
+   "練習長短母音 cheap／chip、these／this、feet／fit，每組唸 5 次並錄音傳給老師。"
+  ],
+  "released": false
+ },
+ {
+  "unit_no": 7,
+  "phase": 2,
+  "title_en": "Daily Routines",
+  "title_zh": "日常作息",
+  "goals": [
+   "Describe her day from morning to night using the present simple.",
+   "Use adverbs of frequency (always, usually, sometimes, never) before the main verb.",
+   "Add third-person -s when talking about family members (He gets up / She takes the MRT).",
+   "Pronounce final consonants clearly (-s, -t, -k, -p) without adding an extra vowel."
+  ],
+  "warmup": {
+   "easy": [
+    "What time do you get up?",
+    "Do you drink coffee in the morning?",
+    "What time do you go to bed?"
+   ],
+   "medium": [
+    "What do you usually eat for breakfast?",
+    "What do you usually do in the evening?",
+    "Are you a morning person or a night owl?"
+   ],
+   "hard": [
+    "Tell me about a typical Monday, from morning to night.",
+    "How is your weekday routine different from your weekend routine?",
+    "Describe a family member's routine. What time does he or she get up?"
+   ]
+  },
+  "key_phrases": [
+   {
+    "en": "What time do you get up?",
+    "zh": "你幾點起床？"
+   },
+   {
+    "en": "I usually get up at ___.",
+    "zh": "我通常 ___ 點起床。"
+   },
+   {
+    "en": "I'm a morning person.",
+    "zh": "我是早起型的人。"
+   },
+   {
+    "en": "I'm a night owl.",
+    "zh": "我是夜貓子。"
+   },
+   {
+    "en": "First, I ___. Then, I ___.",
+    "zh": "首先我 ___，然後我 ___。"
+   },
+   {
+    "en": "After that, I ___.",
+    "zh": "之後我 ___。"
+   },
+   {
+    "en": "It takes about ___ minutes.",
+    "zh": "大概要 ___ 分鐘。"
+   },
+   {
+    "en": "I never ___ on weekends.",
+    "zh": "我週末從來不 ___。"
+   },
+   {
+    "en": "What do you do in the evening?",
+    "zh": "你晚上都做什麼？"
+   },
+   {
+    "en": "How about you?",
+    "zh": "那你呢？"
+   }
+  ],
+  "grammar": {
+   "point_en": "Present simple for routines + third-person -s (I get up / She gets up)",
+   "point_zh": "用現在簡單式說每天的習慣；第三人稱單數動詞加 -s",
+   "explain_zh": "中文動詞不會變化：「我起床」「她起床」都一樣。英文說每天的習慣用現在簡單式。主詞是 he、she、it 或一個人（my mom）時，動詞要加 -s 或 -es，例如 work → works、watch → watches。have 要變成 has。",
+   "examples": [
+    {
+     "en": "I get up at six. My husband gets up at seven.",
+     "zh": "我六點起床，我先生七點起床。"
+    },
+    {
+     "en": "She takes the MRT to work.",
+     "zh": "她搭捷運上班。"
+    },
+    {
+     "en": "My son watches videos before bed.",
+     "zh": "我兒子睡前看影片。"
+    },
+    {
+     "en": "My mom has tea every afternoon.",
+     "zh": "我媽媽每天下午喝茶。"
+    }
+   ],
+   "common_mistake": {
+    "wrong": "My daughter go to school at seven.",
+    "right": "My daughter goes to school at seven.",
+    "why_zh": "主詞是一個人（she），動詞要加 -es：goes。"
+   }
+  },
+  "sound_focus": {
+   "sound_id": "final-consonants",
+   "words": [
+    "wake up",
+    "get dressed",
+    "take a nap",
+    "breakfast",
+    "commute",
+    "sometimes"
+   ],
+   "sentence": "She wakes up, gets dressed, and takes the bus at eight."
+  },
+  "mini_lesson": [
+   "Step 1 (5 min): Warm-up. Ask 2-3 easy warm-up questions and note which routine verbs she already knows.",
+   "Step 2 (7 min): Vocabulary. Act out each routine (wake up, take a shower, brush my teeth, get dressed...) and have her say the phrase. Then point to a time on a clock and have her say 'I ___ at ___.'",
+   "Step 3 (8 min): Grammar. Write 'I get up / She gets up' on the board and circle the -s. Ask about her family ('What time does your son get up?') and drill the -s. Then draw a 0-100% line and place never, sometimes, usually, always; practice 'I usually...' sentences.",
+   "Step 4 (5 min): Sound focus (final consonants). Contrast wake/wakes, get/gets, nap/naps slowly; she must close each ending without adding 'uh'. Practice the sentence 'She wakes up, gets dressed, and takes the bus at eight.' three times, slow then natural speed.",
+   "Step 5 (5 min): Speaking. She describes her whole day in 6-8 sentences with 'First... Then... After that...'. Write down 2-3 mistakes and correct them together at the end."
+  ],
+  "roleplays": [
+   {
+    "level": "easy",
+    "title": "Morning routines",
+    "setup_zh": "兩個剛認識的朋友在聊天，互相問每天早上的作息。",
+    "teacher_role": "A new friend from a community class",
+    "student_role": "Herself",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Hi! Are you a morning person?"
+     },
+     {
+      "who": "S",
+      "en": "Yes, I am. I get up early.",
+      "zh": "是的，我很早起床。"
+     },
+     {
+      "who": "T",
+      "en": "What time do you usually get up?"
+     },
+     {
+      "who": "S",
+      "en": "I usually get up at ___.",
+      "zh": "我通常 ___ 點起床。"
+     },
+     {
+      "who": "T",
+      "en": "Wow, that's early! What do you do first?"
+     },
+     {
+      "who": "S",
+      "en": "First, I take a shower. Then, I have breakfast.",
+      "zh": "我先洗澡，然後吃早餐。"
+     },
+     {
+      "who": "T",
+      "en": "What do you usually eat for breakfast?"
+     },
+     {
+      "who": "S",
+      "en": "I usually eat ___ and drink ___.",
+      "zh": "我通常吃 ___，喝 ___。"
+     },
+     {
+      "who": "T",
+      "en": "Sounds nice. What time do you go to bed?"
+     },
+     {
+      "who": "S",
+      "en": "I go to bed around ___. How about you?",
+      "zh": "我大概 ___ 點睡。那你呢？"
+     }
+    ]
+   },
+   {
+    "level": "challenge",
+    "title": "A busy family morning",
+    "setup_zh": "老師扮演好奇的新鄰居，問她家裡每個人早上做什麼。談到家人時動詞要加 -s。",
+    "teacher_role": "A curious new neighbor",
+    "student_role": "Herself, describing her family's routine",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Your mornings must be busy. Who gets up first in your family?"
+     },
+     {
+      "who": "S",
+      "en": "I do. I get up at ___, and then I make breakfast.",
+      "zh": "我最早。我 ___ 點起床，然後做早餐。"
+     },
+     {
+      "who": "T",
+      "en": "What about the rest of your family?"
+     },
+     {
+      "who": "S",
+      "en": "My ___ gets up at ___. He usually takes a shower first.",
+      "zh": "我的 ___ ___ 點起床。他通常先洗澡。"
+     },
+     {
+      "who": "T",
+      "en": "How does everyone get to work or school?"
+     },
+     {
+      "who": "S",
+      "en": "My ___ takes the MRT, and I ride my scooter.",
+      "zh": "我的 ___ 搭捷運，我騎機車。"
+     },
+     {
+      "who": "T",
+      "en": "How long does that take?"
+     },
+     {
+      "who": "S",
+      "en": "It takes about ___ minutes.",
+      "zh": "大概要 ___ 分鐘。"
+     },
+     {
+      "who": "T",
+      "en": "Do you ever have time for a nap?"
+     },
+     {
+      "who": "S",
+      "en": "Sometimes. On weekends, I take a nap after lunch.",
+      "zh": "有時候。週末我午餐後會睡午覺。"
+     },
+     {
+      "who": "T",
+      "en": "And what do you usually do in the evening?"
+     },
+     {
+      "who": "S",
+      "en": "I cook dinner, and then my ___ does the dishes.",
+      "zh": "我煮晚餐，然後我的 ___ 洗碗。"
+     }
+    ],
+    "teacher_twists": [
+     "Ask 'Why?' follow-ups (Why do you get up so early?) so she has to answer with 'because'.",
+     "Pretend to repeat her wrongly: 'Oh, your son get up at seven?' and see if she corrects it to 'gets'.",
+     "Ask about weekends: 'Is it the same on Saturdays?' so she contrasts usually / sometimes / never."
+    ]
+   }
+  ],
+  "homework_zh": [
+   "寫 6 句英文描述你的一天，用 First / Then / After that，並至少用到 always、usually、sometimes 各一次。",
+   "用手機錄音說一位家人的早上作息（例如 My son gets up at...），注意每個動詞都要加 -s。",
+   "每天複習本單元卡片 10 分鐘，大聲唸出結尾子音（gets、takes、dressed）。"
+  ],
+  "released": false
+ },
+ {
+  "unit_no": 8,
+  "phase": 2,
+  "title_en": "Hobbies & Free Time",
+  "title_zh": "興趣與休閒",
+  "goals": [
+   "Talk about her hobbies and free-time activities with like / love / enjoy + -ing.",
+   "Ask and answer 'How often...?' with once a week, twice a month, every day.",
+   "React naturally to someone else's hobbies (That sounds fun! / Me too!).",
+   "Say clear L and R sounds in hobby words (relax, reading, really, play)."
+  ],
+  "warmup": {
+   "easy": [
+    "Do you like music?",
+    "Do you like cooking?",
+    "What do you do on Sundays?"
+   ],
+   "medium": [
+    "What do you do in your free time?",
+    "How often do you exercise?",
+    "Do you like staying home or going out on weekends?"
+   ],
+   "hard": [
+    "Tell me about a hobby you really love. How did you start it?",
+    "How do you relax after a stressful day?",
+    "What new hobby would you like to try, and why?"
+   ]
+  },
+  "key_phrases": [
+   {
+    "en": "What do you do in your free time?",
+    "zh": "你空閒時都做什麼？"
+   },
+   {
+    "en": "I like ___ing.",
+    "zh": "我喜歡 ___。"
+   },
+   {
+    "en": "I love ___ing.",
+    "zh": "我很愛 ___。"
+   },
+   {
+    "en": "I enjoy ___ing.",
+    "zh": "我很享受 ___。"
+   },
+   {
+    "en": "I'm really into ___.",
+    "zh": "我最近很迷 ___。"
+   },
+   {
+    "en": "How often do you ___?",
+    "zh": "你多久 ___ 一次？"
+   },
+   {
+    "en": "Once / Twice / Three times a week.",
+    "zh": "一週一次／兩次／三次。"
+   },
+   {
+    "en": "That sounds fun!",
+    "zh": "聽起來很好玩！"
+   },
+   {
+    "en": "Me too!",
+    "zh": "我也是！"
+   },
+   {
+    "en": "Do you want to join me?",
+    "zh": "你要不要一起來？"
+   }
+  ],
+  "grammar": {
+   "point_en": "like / love / enjoy + verb-ing",
+   "point_zh": "like、love、enjoy 後面接動詞 -ing",
+   "explain_zh": "中文說「我喜歡看書」，動詞直接放後面。英文 like、love 後面通常用 -ing：I like reading。enjoy 後面一定要用 -ing，不能說 enjoy to read。說活動時，球類用 play（play badminton），其他常用 go + -ing（go hiking、go swimming）。",
+   "examples": [
+    {
+     "en": "I like reading in bed.",
+     "zh": "我喜歡在床上看書。"
+    },
+    {
+     "en": "My husband loves playing badminton.",
+     "zh": "我先生很愛打羽毛球。"
+    },
+    {
+     "en": "We enjoy going hiking on weekends.",
+     "zh": "我們週末喜歡去爬山。"
+    },
+    {
+     "en": "She doesn't like cooking.",
+     "zh": "她不喜歡做菜。"
+    }
+   ],
+   "common_mistake": {
+    "wrong": "I enjoy to watch dramas.",
+    "right": "I enjoy watching dramas.",
+    "why_zh": "enjoy 後面只能接 -ing，不能接 to + 動詞。"
+   }
+  },
+  "sound_focus": {
+   "sound_id": "l-r",
+   "words": [
+    "relax",
+    "reading",
+    "really",
+    "play badminton",
+    "listen to music",
+    "karaoke"
+   ],
+   "sentence": "I really like reading and listening to relaxing music."
+  },
+  "mini_lesson": [
+   "Step 1 (5 min): Warm-up. Show 6-8 hobby pictures on your phone (hiking, yoga, karaoke, gardening...). She says which ones she likes and doesn't like.",
+   "Step 2 (7 min): Vocabulary. Teach the hobby words and sort them into 'play ___' (badminton), 'go ___' (hiking), 'do ___' (yoga) and others (watch dramas, take photos). She makes one sentence for each group.",
+   "Step 3 (7 min): Grammar. Write 'I like / love / enjoy + ___ing' on the board. Quick drill: you say a verb (read, cook, sing), she answers 'I love reading' or 'I don't like cooking'. Show the common mistake 'enjoy to watch' and fix it together.",
+   "Step 4 (6 min): Sound focus (L vs R). Model L (tongue tip touches behind the top teeth) and R (lips a little round, tongue touches nothing). Practice relax, reading, really, play, listen with a phone camera as a mirror, then the sentence 'I really like reading and listening to relaxing music.'",
+   "Step 5 (5 min): Speaking. 'How often' interview: she asks you 3 'How often do you...?' questions, then answers 3 herself with once / twice a week. She reacts with 'That sounds fun!' or 'Me too!'"
+  ],
+  "roleplays": [
+   {
+    "level": "easy",
+    "title": "Getting to know a classmate",
+    "setup_zh": "在社區課程的休息時間，跟同學聊彼此的興趣。",
+    "teacher_role": "A classmate at a community class",
+    "student_role": "Herself",
+    "lines": [
+     {
+      "who": "T",
+      "en": "So, what do you do in your free time?"
+     },
+     {
+      "who": "S",
+      "en": "I like ___ and ___.",
+      "zh": "我喜歡 ___ 和 ___。"
+     },
+     {
+      "who": "T",
+      "en": "Oh, nice! How often do you do that?"
+     },
+     {
+      "who": "S",
+      "en": "About once a week.",
+      "zh": "大概一週一次。"
+     },
+     {
+      "who": "T",
+      "en": "I love hiking. Do you like hiking?"
+     },
+     {
+      "who": "S",
+      "en": "Yes, I do! I go hiking on weekends.",
+      "zh": "喜歡！我週末會去爬山。"
+     },
+     {
+      "who": "T",
+      "en": "Really? Where do you usually go?"
+     },
+     {
+      "who": "S",
+      "en": "I usually go to ___. It's beautiful.",
+      "zh": "我通常去 ___，很漂亮。"
+     },
+     {
+      "who": "T",
+      "en": "That sounds fun! Maybe we can go together."
+     },
+     {
+      "who": "S",
+      "en": "Sure! Do you want to join me on Saturday?",
+      "zh": "好啊！你星期六要不要跟我一起去？"
+     }
+    ]
+   },
+   {
+    "level": "challenge",
+    "title": "Signing up for a class",
+    "setup_zh": "在社區活動中心，老師扮演櫃台人員介紹課程，她要說出自己的興趣、程度和方便的時間。",
+    "teacher_role": "Front-desk staff at a community center",
+    "student_role": "Herself, looking for a new class",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Hi! Are you interested in one of our classes?"
+     },
+     {
+      "who": "S",
+      "en": "Yes. I'm really into ___ these days.",
+      "zh": "對，我最近很迷 ___。"
+     },
+     {
+      "who": "T",
+      "en": "Great! Are you a beginner?"
+     },
+     {
+      "who": "S",
+      "en": "Yes, I'm a beginner. I'm not very good at it.",
+      "zh": "對，我是初學者，還不太擅長。"
+     },
+     {
+      "who": "T",
+      "en": "No problem. We also have yoga and cooking classes. Do you like cooking?"
+     },
+     {
+      "who": "S",
+      "en": "Not really. I enjoy eating, but I don't enjoy cooking!",
+      "zh": "不太喜歡。我喜歡吃，但不喜歡煮！"
+     },
+     {
+      "who": "T",
+      "en": "Ha! How about yoga?"
+     },
+     {
+      "who": "S",
+      "en": "I do yoga at home sometimes. It helps me relax.",
+      "zh": "我有時候在家做瑜伽，可以讓我放鬆。"
+     },
+     {
+      "who": "T",
+      "en": "The yoga class is on Tuesday and Thursday evenings. Is that OK?"
+     },
+     {
+      "who": "S",
+      "en": "Hmm, I'm busy on Tuesdays. Is there a weekend class?",
+      "zh": "嗯，我星期二很忙。有週末的課嗎？"
+     },
+     {
+      "who": "T",
+      "en": "Yes, there's one on Saturday morning at nine."
+     },
+     {
+      "who": "S",
+      "en": "Perfect! I can go once a week.",
+      "zh": "太好了！我可以一週去一次。"
+     }
+    ],
+    "teacher_twists": [
+     "Say the class is full and offer a strange alternative (a fishing class) so she has to refuse politely: 'Thanks, but I'm not really into fishing.'",
+     "Ask 'Why do you like it?' and push for two reasons with 'because'.",
+     "Ask 'How often do you practice at home?' and wait for a specific answer (twice a week, every day)."
+    ]
+   }
+  ],
+  "homework_zh": [
+   "寫 5 句介紹自己的興趣，用 I like / love / enjoy + -ing，並加上 once / twice a week。",
+   "用手機錄一段 30 秒的語音介紹最喜歡的嗜好，特別注意 relax、really、reading 的 r 和 l。",
+   "問一位家人空閒時做什麼，用英文寫成三句（例如 My sister loves...）。"
+  ],
+  "released": false
+ },
+ {
+  "unit_no": 9,
+  "phase": 2,
+  "title_en": "Weather & Seasons",
+  "title_zh": "天氣與季節",
+  "goals": [
+   "Describe today's weather and the four seasons in Taiwan.",
+   "Compare weather with comparatives (hotter, colder, more humid than...).",
+   "Make weather small talk and give simple advice (Don't forget your umbrella!).",
+   "Tell apart V and W (very, favorite vs. weather, windy, warm)."
+  ],
+  "warmup": {
+   "easy": [
+    "Is it hot or cold today?",
+    "Do you like rainy days?",
+    "Do you like summer or winter?"
+   ],
+   "medium": [
+    "What's the weather like today?",
+    "What's your favorite season, and why?",
+    "What do you do on a typhoon day?"
+   ],
+   "hard": [
+    "How is the weather in northern Taiwan different from the south?",
+    "Do you think summers in Taiwan are getting hotter? Why?",
+    "Describe the perfect weather for a day trip."
+   ]
+  },
+  "key_phrases": [
+   {
+    "en": "What's the weather like today?",
+    "zh": "今天天氣怎麼樣？"
+   },
+   {
+    "en": "It's sunny / cloudy / rainy / windy.",
+    "zh": "晴天／陰天／下雨／風很大。"
+   },
+   {
+    "en": "It's so hot today!",
+    "zh": "今天好熱！"
+   },
+   {
+    "en": "It's freezing!",
+    "zh": "冷死了！"
+   },
+   {
+    "en": "It looks like rain.",
+    "zh": "看起來要下雨了。"
+   },
+   {
+    "en": "It's getting warmer / colder.",
+    "zh": "天氣越來越暖／冷了。"
+   },
+   {
+    "en": "It's hotter than yesterday.",
+    "zh": "比昨天還熱。"
+   },
+   {
+    "en": "What's your favorite season?",
+    "zh": "你最喜歡哪個季節？"
+   },
+   {
+    "en": "Don't forget your umbrella!",
+    "zh": "別忘了帶傘！"
+   },
+   {
+    "en": "Bring a jacket just in case.",
+    "zh": "帶件外套以防萬一。"
+   }
+  ],
+  "grammar": {
+   "point_en": "Comparatives: hotter, colder, more humid than...",
+   "point_zh": "比較級：比……更熱／更冷／更潮濕",
+   "explain_zh": "中文說「今天比昨天熱」，「比」放在形容詞前面。英文順序是 Today is hotter than yesterday：先把形容詞變比較級，再加 than。短的形容詞加 -er（cold → colder），hot 要重複 t 變 hotter；長的形容詞前面加 more（more humid）。good 要變 better。",
+   "examples": [
+    {
+     "en": "Today is hotter than yesterday.",
+     "zh": "今天比昨天熱。"
+    },
+    {
+     "en": "Kaohsiung is warmer than Taipei in winter.",
+     "zh": "冬天高雄比台北暖。"
+    },
+    {
+     "en": "Summer is more humid than fall.",
+     "zh": "夏天比秋天潮濕。"
+    },
+    {
+     "en": "The weather is better this week.",
+     "zh": "這週天氣比較好。"
+    }
+   ],
+   "common_mistake": {
+    "wrong": "Taipei is more cold than Tainan.",
+    "right": "Taipei is colder than Tainan.",
+    "why_zh": "短的形容詞直接加 -er，不用 more：colder。"
+   }
+  },
+  "sound_focus": {
+   "sound_id": "v-w",
+   "words": [
+    "weather",
+    "windy",
+    "winter",
+    "warmer",
+    "favorite",
+    "very"
+   ],
+   "sentence": "Winter is very windy, but the weather gets warmer in spring."
+  },
+  "mini_lesson": [
+   "Step 1 (5 min): Warm-up. Open a weather app on your phone together and ask: 'What's the weather like today? What's the temperature?' Mention that Americans use Fahrenheit (30°C is about 86°F).",
+   "Step 2 (7 min): Vocabulary. Draw quick symbols (sun, cloud, rain, wind, typhoon) and she names them: 'It's sunny.' Then go through the four seasons and she describes each one in Taiwan: 'Summer is hot and humid.'",
+   "Step 3 (8 min): Grammar. Write 'cold → colder, hot → hotter, humid → more humid, good → better + than' on the board. Compare two Taiwan cities or two seasons; she makes 4 sentences. Show the common mistake 'more cold' and fix it.",
+   "Step 4 (5 min): Sound focus (V vs W). V: top teeth touch the bottom lip and buzz. W: round the lips, teeth don't touch. Practice very/weather and favorite/windy, then 'Winter is very windy, but the weather gets warmer in spring.' She touches her bottom lip to feel the V.",
+   "Step 5 (5 min): Speaking. Weather small talk: you are a neighbor in the elevator. She starts with 'It's so hot today!' and keeps the chat going for 4-5 exchanges."
+  ],
+  "roleplays": [
+   {
+    "level": "easy",
+    "title": "Elevator small talk",
+    "setup_zh": "在大樓電梯裡遇到鄰居，聊今天的天氣。",
+    "teacher_role": "A friendly neighbor",
+    "student_role": "Herself",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Good morning! It's so hot today."
+     },
+     {
+      "who": "S",
+      "en": "Yes! And it's really humid, too.",
+      "zh": "對啊！而且好悶。"
+     },
+     {
+      "who": "T",
+      "en": "Do you think it's going to rain later?"
+     },
+     {
+      "who": "S",
+      "en": "Maybe. It looks like rain.",
+      "zh": "可能喔，看起來要下雨了。"
+     },
+     {
+      "who": "T",
+      "en": "Oh no. I don't have an umbrella."
+     },
+     {
+      "who": "S",
+      "en": "I have two. You can take one.",
+      "zh": "我有兩把，你可以拿一把。"
+     },
+     {
+      "who": "T",
+      "en": "Thank you! That's so nice. Do you like summer?"
+     },
+     {
+      "who": "S",
+      "en": "Not really. My favorite season is ___.",
+      "zh": "不太喜歡。我最喜歡 ___。"
+     },
+     {
+      "who": "T",
+      "en": "Me too! The weather is much better then."
+     },
+     {
+      "who": "S",
+      "en": "Yes. Have a nice day!",
+      "zh": "對啊。祝你有美好的一天！"
+     }
+    ]
+   },
+   {
+    "level": "challenge",
+    "title": "Weather advice for a visitor",
+    "setup_zh": "老師扮演下個月要來台灣玩的美國朋友，用視訊問她台灣的天氣和要帶什麼衣服。",
+    "teacher_role": "An American friend planning a trip to Taiwan",
+    "student_role": "Herself, giving weather advice",
+    "lines": [
+     {
+      "who": "T",
+      "en": "I'm visiting Taiwan in December. What's the weather like then?"
+     },
+     {
+      "who": "S",
+      "en": "In December, it's cool. It's about ___ degrees.",
+      "zh": "十二月很涼，大概 ___ 度。"
+     },
+     {
+      "who": "T",
+      "en": "Celsius, right? Is that cold?"
+     },
+     {
+      "who": "S",
+      "en": "Not very cold, but the north is colder than the south.",
+      "zh": "不會很冷，但北部比南部冷。"
+     },
+     {
+      "who": "T",
+      "en": "Does it rain a lot?"
+     },
+     {
+      "who": "S",
+      "en": "In Taipei, it's often rainy. Bring an umbrella.",
+      "zh": "台北常下雨，記得帶傘。"
+     },
+     {
+      "who": "T",
+      "en": "OK. What about the south? Is it warmer?"
+     },
+     {
+      "who": "S",
+      "en": "Yes. Kaohsiung is warmer and sunnier than Taipei.",
+      "zh": "對，高雄比台北暖，也比較常出太陽。"
+     },
+     {
+      "who": "T",
+      "en": "Great! Should I bring a winter coat?"
+     },
+     {
+      "who": "S",
+      "en": "No, a light jacket is fine. Bring a sweater just in case.",
+      "zh": "不用，薄外套就好。帶件毛衣以防萬一。"
+     },
+     {
+      "who": "T",
+      "en": "And what's the best season to visit Taiwan?"
+     },
+     {
+      "who": "S",
+      "en": "I think fall is the best. It's not too hot.",
+      "zh": "我覺得秋天最好，不會太熱。"
+     }
+    ],
+    "teacher_twists": [
+     "Change the month to August so she has to talk about typhoons, heat and humidity instead.",
+     "Ask 'What's that in Fahrenheit?' and let her estimate (rough rule: double it and add 30).",
+     "Disagree: 'Really? I think summer is the best!' so she has to give a reason with 'because'."
+    ]
+   }
+  ],
+  "homework_zh": [
+   "每天早上看手機的天氣 App，用英文說一句今天的天氣（例如 It's cloudy and 28 degrees.）。",
+   "寫 4 句比較句，比較台灣兩個城市或兩個季節（例如 Tainan is hotter than Taipei.）。",
+   "錄音唸三次：Winter is very windy, but the weather gets warmer in spring. 注意 v 和 w 的差別。"
+  ],
+  "released": false
+ },
+ {
+  "unit_no": 10,
+  "phase": 2,
+  "title_en": "Health & the Doctor",
+  "title_zh": "健康與看醫生",
+  "goals": [
+   "Describe common symptoms (I have a headache / My back hurts / I don't feel well).",
+   "Understand and give advice with should, and rules with have to.",
+   "Get through a clinic visit in English: check-in, describing the problem, medicine instructions.",
+   "Pronounce TH clearly (throat, health, three, think) instead of S or F."
+  ],
+  "warmup": {
+   "easy": [
+    "Do you feel well today?",
+    "Do you often catch a cold?",
+    "Is there a clinic near your home?"
+   ],
+   "medium": [
+    "What do you do when you have a headache?",
+    "What do you do to stay healthy?",
+    "Are you allergic to anything?"
+   ],
+   "hard": [
+    "Tell me about the last time you were sick. What happened?",
+    "What advice would you give a friend who can't sleep?",
+    "Do you think people in Taiwan see the doctor too often? Why or why not?"
+   ]
+  },
+  "key_phrases": [
+   {
+    "en": "What's the matter?",
+    "zh": "怎麼了？哪裡不舒服？"
+   },
+   {
+    "en": "I don't feel well.",
+    "zh": "我不太舒服。"
+   },
+   {
+    "en": "I have a headache / a fever / a sore throat.",
+    "zh": "我頭痛／發燒／喉嚨痛。"
+   },
+   {
+    "en": "My ___ hurts.",
+    "zh": "我的 ___ 痛。"
+   },
+   {
+    "en": "It started ___ days ago.",
+    "zh": "___ 天前開始的。"
+   },
+   {
+    "en": "I'm allergic to ___.",
+    "zh": "我對 ___ 過敏。"
+   },
+   {
+    "en": "You should get some rest.",
+    "zh": "你應該多休息。"
+   },
+   {
+    "en": "You have to take it three times a day.",
+    "zh": "一天一定要吃三次。"
+   },
+   {
+    "en": "Is it serious?",
+    "zh": "嚴重嗎？"
+   },
+   {
+    "en": "I hope you feel better soon!",
+    "zh": "希望你早日康復！"
+   }
+  ],
+  "grammar": {
+   "point_en": "should (advice) vs. have to (necessary / a rule)",
+   "point_zh": "should 表示建議；have to 表示一定要",
+   "explain_zh": "should 是「應該、最好」，是給建議：You should drink more water。have to 是「一定要、必須」，通常是規定或沒有選擇：You have to take this after meals。兩個後面都接原形動詞。主詞是 he/she 時 have to 要變成 has to，但 should 不變。",
+   "examples": [
+    {
+     "en": "You should drink more water.",
+     "zh": "你應該多喝水。"
+    },
+    {
+     "en": "You shouldn't stay up late.",
+     "zh": "你不應該熬夜。"
+    },
+    {
+     "en": "You have to take this medicine after meals.",
+     "zh": "這個藥一定要飯後吃。"
+    },
+    {
+     "en": "She has to see a doctor today.",
+     "zh": "她今天一定得去看醫生。"
+    }
+   ],
+   "common_mistake": {
+    "wrong": "You should to rest.",
+    "right": "You should rest.",
+    "why_zh": "should 後面直接接原形動詞，不加 to。"
+   }
+  },
+  "sound_focus": {
+   "sound_id": "th",
+   "words": [
+    "sore throat",
+    "health insurance card",
+    "three",
+    "mouth",
+    "breathe",
+    "thirty-eight"
+   ],
+   "sentence": "I think I have a sore throat and a fever of thirty-eight."
+  },
+  "mini_lesson": [
+   "Step 1 (5 min): Warm-up. Mime symptoms (hold your head, cough, touch your throat) and she guesses: 'You have a headache!' Then swap: she mimes, you guess.",
+   "Step 2 (7 min): Vocabulary. Teach the two patterns 'I have a + headache / fever / sore throat / runny nose' and 'My ___ hurts.' Point to body parts (head, back, stomach, throat) and she makes a sentence for each.",
+   "Step 3 (7 min): Grammar. Write 'should = advice' and 'have to = must' on the board. You give a problem ('I can't sleep'), she gives advice with should. Then read a real Taiwan medicine bag (藥袋) together and turn it into 'You have to take it ___.'",
+   "Step 4 (6 min): Sound focus (TH). Tongue tip lightly between the teeth, then blow air. Contrast sink/think, mouse/mouth, free/three. Practice throat, health, three, mouth, then 'I think I have a sore throat and a fever of thirty-eight.'",
+   "Step 5 (5 min): Speaking. Quick clinic run-through: she checks in at the counter, describes her problem, and asks 'Is it serious?' This prepares her for the role-play block."
+  ],
+  "roleplays": [
+   {
+    "level": "easy",
+    "title": "At the clinic counter",
+    "setup_zh": "她感冒了，到診所掛號，跟櫃台人員說明狀況。",
+    "teacher_role": "Clinic receptionist",
+    "student_role": "Herself, a patient",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Good morning. How can I help you?"
+     },
+     {
+      "who": "S",
+      "en": "Hi. I don't feel well. I'd like to see a doctor.",
+      "zh": "你好，我不太舒服，想看醫生。"
+     },
+     {
+      "who": "T",
+      "en": "Sure. Do you have your health insurance card?"
+     },
+     {
+      "who": "S",
+      "en": "Yes, here you are.",
+      "zh": "有，給你。"
+     },
+     {
+      "who": "T",
+      "en": "Thank you. What's the matter today?"
+     },
+     {
+      "who": "S",
+      "en": "I have a sore throat and a runny nose.",
+      "zh": "我喉嚨痛，還一直流鼻水。"
+     },
+     {
+      "who": "T",
+      "en": "Do you have a fever?"
+     },
+     {
+      "who": "S",
+      "en": "I think so. Maybe thirty-eight degrees.",
+      "zh": "應該有，大概三十八度。"
+     },
+     {
+      "who": "T",
+      "en": "OK. Please have a seat. The doctor will call your name."
+     },
+     {
+      "who": "S",
+      "en": "Thank you. How long is the wait?",
+      "zh": "謝謝。大概要等多久？"
+     }
+    ]
+   },
+   {
+    "level": "challenge",
+    "title": "Seeing the doctor",
+    "setup_zh": "她在診間跟醫生說明症狀，醫生給建議和開藥。她要聽懂醫囑並主動提問。",
+    "teacher_role": "Doctor",
+    "student_role": "Herself, the patient",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Hello. What seems to be the problem?"
+     },
+     {
+      "who": "S",
+      "en": "I have a bad cough and a headache.",
+      "zh": "我咳得很厲害，還頭痛。"
+     },
+     {
+      "who": "T",
+      "en": "I see. When did it start?"
+     },
+     {
+      "who": "S",
+      "en": "It started ___ days ago.",
+      "zh": "___ 天前開始的。"
+     },
+     {
+      "who": "T",
+      "en": "OK. Open your mouth and say 'ah'. Now breathe in, please."
+     },
+     {
+      "who": "S",
+      "en": "Ahh... Is it serious, doctor?",
+      "zh": "啊……醫生，嚴重嗎？"
+     },
+     {
+      "who": "T",
+      "en": "No, it's just a bad cold. Are you allergic to any medicine?"
+     },
+     {
+      "who": "S",
+      "en": "Yes, I'm allergic to ___. / No, I'm not.",
+      "zh": "有，我對 ___ 過敏。／沒有。"
+     },
+     {
+      "who": "T",
+      "en": "OK. You have to take this medicine three times a day, after meals."
+     },
+     {
+      "who": "S",
+      "en": "Three times a day, after meals. Should I stay home from work?",
+      "zh": "一天三次，飯後吃。我需要請假在家嗎？"
+     },
+     {
+      "who": "T",
+      "en": "Yes. You should get some rest for two days and drink lots of water."
+     },
+     {
+      "who": "S",
+      "en": "OK. Thank you, doctor.",
+      "zh": "好，謝謝醫生。"
+     }
+    ],
+    "teacher_twists": [
+     "Give the medicine instructions quickly ('Take two before bed and one in the morning') so she has to ask 'Sorry, can you say that again?'",
+     "Ask lifestyle questions ('Do you exercise? Do you sleep well?') so she answers with frequency adverbs.",
+     "Tell her she has to come back in three days; she must agree on a day and time."
+    ]
+   }
+  ],
+  "homework_zh": [
+   "拿家裡的藥袋，用英文寫下怎麼吃（例如 I have to take it twice a day, after meals.）。",
+   "寫 4 句給生病朋友的建議，用 You should / You shouldn't。",
+   "練習 th：每天唸 5 次 I think I have a sore throat and a fever of thirty-eight. 舌尖放在上下牙齒中間。"
+  ],
+  "released": false
+ },
+ {
+  "unit_no": 11,
+  "phase": 2,
+  "title_en": "Phone Calls & Messages",
+  "title_zh": "電話與訊息",
+  "goals": [
+   "Make and answer simple phone calls: greeting, asking for someone, taking or leaving a message.",
+   "Make polite requests with Can I...? and Could you...?",
+   "Ask for help when she can't understand on the phone (Could you speak more slowly? / Sorry, I can't hear you.).",
+   "Link words smoothly in phone chunks (hold on, pick up, can I, take a message)."
+  ],
+  "warmup": {
+   "easy": [
+    "Do you use LINE every day?",
+    "Do you like talking on the phone?",
+    "Who do you call the most?"
+   ],
+   "medium": [
+    "Do you like calling or sending messages more? Why?",
+    "How often do you video call your family?",
+    "What do you do when an unknown number calls you?"
+   ],
+   "hard": [
+    "Why are phone calls in English harder than talking face to face?",
+    "Tell me about a funny or difficult phone call you had.",
+    "Do people send too many messages these days? What do you think?"
+   ]
+  },
+  "key_phrases": [
+   {
+    "en": "Hello, this is ___.",
+    "zh": "喂，我是 ___。"
+   },
+   {
+    "en": "Who's calling, please?",
+    "zh": "請問哪位？"
+   },
+   {
+    "en": "Can I speak to ___, please?",
+    "zh": "請問 ___ 在嗎？"
+   },
+   {
+    "en": "Hold on, please.",
+    "zh": "請稍等。"
+   },
+   {
+    "en": "Sorry, she's not here right now.",
+    "zh": "抱歉，她現在不在。"
+   },
+   {
+    "en": "Can I take a message?",
+    "zh": "需要我幫你留言嗎？"
+   },
+   {
+    "en": "Could you ask her to call me back?",
+    "zh": "可以請她回我電話嗎？"
+   },
+   {
+    "en": "Could you speak more slowly?",
+    "zh": "可以請你說慢一點嗎？"
+   },
+   {
+    "en": "Sorry, I can't hear you.",
+    "zh": "抱歉，我聽不到。"
+   },
+   {
+    "en": "I'll call you back later.",
+    "zh": "我晚點回你電話。"
+   }
+  ],
+  "grammar": {
+   "point_en": "Polite requests: Can I...? / Could you...?",
+   "point_zh": "禮貌請求：Can I…?（我可以…嗎？）／Could you…?（可以請你…嗎？）",
+   "explain_zh": "請對方幫忙時，英文常用 Could you + 原形動詞？，比 Can you 更客氣。問自己能不能做某事時用 Can I…? 或 Could I…?。中文常直接說「說慢一點」，但英文直接用命令句聽起來很兇，改成 Could you…, please? 就禮貌多了。",
+   "examples": [
+    {
+     "en": "Can I speak to Ms. Chen, please?",
+     "zh": "請問陳小姐在嗎？"
+    },
+    {
+     "en": "Could you call me back later?",
+     "zh": "可以請你晚點回我電話嗎？"
+    },
+    {
+     "en": "Could you spell that, please?",
+     "zh": "可以請你拼一下嗎？"
+    },
+    {
+     "en": "Can I leave a message?",
+     "zh": "我可以留言嗎？"
+    }
+   ],
+   "common_mistake": {
+    "wrong": "Hello, I am Mei. Can I speak to Mr. Lin?",
+    "right": "Hello, this is Mei. Can I speak to Mr. Lin?",
+    "why_zh": "講電話介紹自己用 This is ___，不說 I am ___。"
+   }
+  },
+  "sound_focus": {
+   "sound_id": "linking",
+   "words": [
+    "pick up",
+    "hang up",
+    "hold on",
+    "can I",
+    "take a message",
+    "call you back"
+   ],
+   "sentence": "She can't pick up right now. Can I take a message?"
+  },
+  "mini_lesson": [
+   "Step 1 (5 min): Warm-up. Ask 2-3 warm-up questions about LINE and phone habits. Show your own phone and point out: missed call, voice message, voicemail, battery.",
+   "Step 2 (7 min): Phone script. Write a basic call on the board: 'Hello, this is ___.' → 'Can I speak to ___?' → 'Hold on, please.' / 'Sorry, she's not here. Can I take a message?' Read it together, then erase words one at a time while she repeats from memory.",
+   "Step 3 (7 min): Grammar. Contrast 'Speak slowly.' (sounds rude) with 'Could you speak more slowly, please?' Give her 5 commands (say it again, spell it, call me back, wait, text me) and she turns each into a 'Could you...?' request.",
+   "Step 4 (6 min): Sound focus (linking). Show how a final consonant joins the next vowel: pick‿up = pih-KUP, hold‿on = hohl-DAHN, can‿I = kuh-nye, take‿a = TAY-kuh. Practice 'She can't pick up right now. Can I take a message?' slowly, then at natural speed.",
+   "Step 5 (5 min): Back-to-back listening. Sit back to back (no lip-reading, like a real call). Say a name and a phone number; she writes it down and reads it back: 'So that's 0912-345-678?'"
+  ],
+  "roleplays": [
+   {
+    "level": "easy",
+    "title": "Calling an office",
+    "setup_zh": "她打電話到朋友的公司找人，對方不在，請接電話的人幫忙留言。",
+    "teacher_role": "Receptionist at a travel agency",
+    "student_role": "Herself, the caller",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Hello, Sunshine Travel. How can I help you?"
+     },
+     {
+      "who": "S",
+      "en": "Hello, this is ___. Can I speak to Ms. Wang, please?",
+      "zh": "你好，我是 ___。請問王小姐在嗎？"
+     },
+     {
+      "who": "T",
+      "en": "Sorry, she's not here right now. Can I take a message?"
+     },
+     {
+      "who": "S",
+      "en": "Yes, please. Could you ask her to call me back?",
+      "zh": "好的，可以請她回我電話嗎？"
+     },
+     {
+      "who": "T",
+      "en": "Sure. What's your phone number?"
+     },
+     {
+      "who": "S",
+      "en": "It's ___.",
+      "zh": "我的電話是 ___。"
+     },
+     {
+      "who": "T",
+      "en": "Let me check. Zero nine one two... Is that right?"
+     },
+     {
+      "who": "S",
+      "en": "Yes, that's right. Thank you so much.",
+      "zh": "對，沒錯。非常謝謝你。"
+     },
+     {
+      "who": "T",
+      "en": "You're welcome. Have a nice day!"
+     },
+     {
+      "who": "S",
+      "en": "You too. Bye!",
+      "zh": "你也是，再見！"
+     }
+    ]
+   },
+   {
+    "level": "challenge",
+    "title": "Changing a reservation by phone",
+    "setup_zh": "她打電話到餐廳更改訂位。店員講很快，電話還有雜音，她要請對方說慢一點、重複，並確認細節。",
+    "teacher_role": "Restaurant staff who talks fast on a bad line",
+    "student_role": "Herself",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Good-afternoon-Golden-Garden-how-can-I-help-you?"
+     },
+     {
+      "who": "S",
+      "en": "Hi. Sorry, could you speak more slowly, please?",
+      "zh": "你好。不好意思，可以說慢一點嗎？"
+     },
+     {
+      "who": "T",
+      "en": "Of course. Golden Garden. How can I help you?"
+     },
+     {
+      "who": "S",
+      "en": "I have a reservation for Friday. Can I change it to Saturday?",
+      "zh": "我星期五有訂位，可以改到星期六嗎？"
+     },
+     {
+      "who": "T",
+      "en": "Sure. What's the name on the reservation?"
+     },
+     {
+      "who": "S",
+      "en": "It's under ___. That's ___ (spell your name).",
+      "zh": "名字是 ___，拼法是 ___。"
+     },
+     {
+      "who": "T",
+      "en": "Thank you. And for how... [noise] ...people?"
+     },
+     {
+      "who": "S",
+      "en": "Sorry, I can't hear you. Could you say that again?",
+      "zh": "抱歉，我聽不到，可以再說一次嗎？"
+     },
+     {
+      "who": "T",
+      "en": "How many people?"
+     },
+     {
+      "who": "S",
+      "en": "Four people, at seven o'clock, please.",
+      "zh": "四個人，七點，麻煩你。"
+     },
+     {
+      "who": "T",
+      "en": "OK, Saturday at seven for four. We'll send you a text message to confirm."
+     },
+     {
+      "who": "S",
+      "en": "Great. Thank you! Bye.",
+      "zh": "太好了，謝謝！再見。"
+     }
+    ],
+    "teacher_twists": [
+     "Say Saturday at seven is full, so she has to ask 'Could I come at eight instead?'",
+     "Read her phone number back with one wrong digit so she has to correct you ('No, it's zero nine one...').",
+     "Pretend the line drops ('Hello? Hello?') so she has to say 'Sorry, I can't hear you. I'll call you back.'"
+    ]
+   }
+  ],
+  "homework_zh": [
+   "用 LINE 傳 3 則英文訊息給老師（例如 Could you send me the homework?），練習 Can I / Could you。",
+   "錄一則 20 秒的英文語音留言：說你是誰、要找誰、請對方回電，並留下電話號碼。",
+   "每天用英文唸兩次自己的手機號碼，並練習 hold on、pick up、can I 的連音。"
+  ],
+  "released": false
+ },
+ {
+  "unit_no": 12,
+  "phase": 2,
+  "title_en": "Making Plans",
+  "title_zh": "約時間與計畫",
+  "goals": [
+   "Invite someone and suggest a time and place (Are you free on...? / How about...?).",
+   "Talk about future plans with be going to and the present continuous (I'm meeting...).",
+   "Accept, decline politely, and reschedule (That works for me. / Sorry, I already have plans.).",
+   "Put word stress on the right syllable in longer words (a-VAI-la-ble, in-VITE, CAN-cel)."
+  ],
+  "warmup": {
+   "easy": [
+    "Are you free this weekend?",
+    "Do you like going to the movies?",
+    "Who do you usually hang out with?"
+   ],
+   "medium": [
+    "What are you doing this weekend?",
+    "What are you going to do after class today?",
+    "Where do you like to meet your friends?"
+   ],
+   "hard": [
+    "Tell me about your plans for the next long holiday.",
+    "How do you say no politely when a friend invites you?",
+    "Do you like to plan everything, or decide at the last minute? Why?"
+   ]
+  },
+  "key_phrases": [
+   {
+    "en": "Are you free on ___?",
+    "zh": "你 ___ 有空嗎？"
+   },
+   {
+    "en": "What are you doing this weekend?",
+    "zh": "你這個週末要做什麼？"
+   },
+   {
+    "en": "Do you want to get together?",
+    "zh": "要不要聚一聚？"
+   },
+   {
+    "en": "How about ___?",
+    "zh": "___ 如何？"
+   },
+   {
+    "en": "That works for me.",
+    "zh": "我可以。"
+   },
+   {
+    "en": "Sorry, I already have plans.",
+    "zh": "抱歉，我已經有約了。"
+   },
+   {
+    "en": "Maybe next time!",
+    "zh": "下次吧！"
+   },
+   {
+    "en": "Can we reschedule?",
+    "zh": "我們可以改時間嗎？"
+   },
+   {
+    "en": "Let's meet at ___.",
+    "zh": "我們在 ___ 碰面吧。"
+   },
+   {
+    "en": "See you then!",
+    "zh": "到時候見！"
+   }
+  ],
+  "grammar": {
+   "point_en": "Future plans: be going to + verb / present continuous (I'm meeting...)",
+   "point_zh": "說未來的計畫：be going to + 原形動詞／現在進行式",
+   "explain_zh": "中文只要加「要、打算」和時間就能說未來。英文說已經決定的計畫，常用 be going to + 原形動詞：I'm going to visit my parents。已經約好時間地點的安排，也常用現在進行式：I'm meeting Amy on Friday。記得 am / is / are 不能省略。",
+   "examples": [
+    {
+     "en": "I'm going to visit my parents this weekend.",
+     "zh": "這個週末我要去看我爸媽。"
+    },
+    {
+     "en": "We're going to see a movie on Friday.",
+     "zh": "我們星期五要去看電影。"
+    },
+    {
+     "en": "I'm meeting my friend at six tonight.",
+     "zh": "我今晚六點要跟朋友見面。"
+    },
+    {
+     "en": "What are you doing on Sunday?",
+     "zh": "你星期天要做什麼？"
+    }
+   ],
+   "common_mistake": {
+    "wrong": "Tomorrow I going to the night market.",
+    "right": "Tomorrow I'm going to the night market.",
+    "why_zh": "be 動詞不能省略，要說 I'm going；中文沒有這個字，所以很容易漏掉。"
+   }
+  },
+  "sound_focus": {
+   "sound_id": "stress",
+   "words": [
+    "available",
+    "invite",
+    "cancel",
+    "reschedule",
+    "get together",
+    "Saturday"
+   ],
+   "sentence": "Are you available on Saturday afternoon to get together?"
+  },
+  "mini_lesson": [
+   "Step 1 (5 min): Warm-up. Ask 'What are you doing this weekend?' plus 2 more warm-up questions. Write her answers on the board exactly as she says them; you will fix them in Step 3.",
+   "Step 2 (6 min): Vocabulary. Write the invitation chain on the board: Invite (Are you free on...?) → Suggest (How about...?) → Accept (That works for me.) or Decline (Sorry, I already have plans. Maybe next time!). Practice each step with your phone calendars side by side.",
+   "Step 3 (8 min): Grammar. Show 'I'm going to + verb' and 'I'm meeting...' using a mini calendar of your week. She makes 4 sentences about her own week. Go back to her Step 1 answers and fix any missing am / is / are.",
+   "Step 4 (6 min): Sound focus (word stress). Clap the syllables and make the strong one loud and long: a-VAI-la-ble, in-VITE, CAN-cel, to-GE-ther, SAT-ur-day. Then she says 'Are you available on Saturday afternoon to get together?' with the right beats.",
+   "Step 5 (5 min): Speaking. Calendar game: each of you secretly marks 3 busy times on a week grid. Find one time you are both free by asking 'Are you free on ___?' until you agree."
+  ],
+  "roleplays": [
+   {
+    "level": "easy",
+    "title": "Weekend plans with a friend",
+    "setup_zh": "朋友打 LINE 來約她週末見面，她要說自己的計畫，並約好時間和地點。",
+    "teacher_role": "A friend",
+    "student_role": "Herself",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Hi! What are you doing this weekend?"
+     },
+     {
+      "who": "S",
+      "en": "On Saturday, I'm going to ___.",
+      "zh": "星期六我要 ___。"
+     },
+     {
+      "who": "T",
+      "en": "Oh, nice. Are you free on Sunday?"
+     },
+     {
+      "who": "S",
+      "en": "Yes, I'm free in the afternoon.",
+      "zh": "有，我下午有空。"
+     },
+     {
+      "who": "T",
+      "en": "Do you want to see a movie?"
+     },
+     {
+      "who": "S",
+      "en": "Sure! That sounds great. What time?",
+      "zh": "好啊！聽起來很棒。幾點？"
+     },
+     {
+      "who": "T",
+      "en": "How about two o'clock?"
+     },
+     {
+      "who": "S",
+      "en": "That works for me. Where should we meet?",
+      "zh": "我可以。我們要在哪裡碰面？"
+     },
+     {
+      "who": "T",
+      "en": "Let's meet at the MRT station."
+     },
+     {
+      "who": "S",
+      "en": "OK. See you then!",
+      "zh": "好，到時候見！"
+     }
+    ]
+   },
+   {
+    "level": "challenge",
+    "title": "Finding a time that works",
+    "setup_zh": "老師扮演很忙的朋友，想約她吃晚餐，但兩人的時間一直對不上。她要婉拒、提出其他時間，最後確定時間和地點。",
+    "teacher_role": "A busy friend",
+    "student_role": "Herself",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Hey! Let's get together for dinner. Are you free on Friday?"
+     },
+     {
+      "who": "S",
+      "en": "Sorry, I already have plans on Friday. I'm meeting ___.",
+      "zh": "抱歉，我星期五已經有約了，我要跟 ___ 見面。"
+     },
+     {
+      "who": "T",
+      "en": "Oh, OK. How about Saturday night?"
+     },
+     {
+      "who": "S",
+      "en": "Hmm, I'm going to ___ on Saturday. Are you available on Sunday?",
+      "zh": "嗯，我星期六要 ___。你星期天有空嗎？"
+     },
+     {
+      "who": "T",
+      "en": "Sunday is hard. I'm visiting my grandma. What about next Tuesday?"
+     },
+     {
+      "who": "S",
+      "en": "Let me check my schedule... Yes, Tuesday works for me.",
+      "zh": "我看一下行程……可以，星期二我可以。"
+     },
+     {
+      "who": "T",
+      "en": "Great! What time is good for you?"
+     },
+     {
+      "who": "S",
+      "en": "How about seven o'clock?",
+      "zh": "七點如何？"
+     },
+     {
+      "who": "T",
+      "en": "Perfect. Where do you want to eat?"
+     },
+     {
+      "who": "S",
+      "en": "Let's try the new ___ restaurant near ___.",
+      "zh": "我們去試試 ___ 附近新開的 ___ 餐廳吧。"
+     },
+     {
+      "who": "T",
+      "en": "Sounds good! I'll make a reservation."
+     },
+     {
+      "who": "S",
+      "en": "Thanks! See you on Tuesday at seven.",
+      "zh": "謝謝！星期二七點見。"
+     }
+    ],
+    "teacher_twists": [
+     "Send a 'message' the next day: 'Sorry, something came up. Can we reschedule?' and she has to find a new time.",
+     "Suggest a place she doesn't like, so she has to say 'Hmm, how about ___ instead?'",
+     "Ask 'Who else is coming?' or 'What are you going to order?' so she keeps using future forms."
+    ]
+   }
+  ],
+  "homework_zh": [
+   "寫下你下週的 5 個計畫，用 I'm going to… 或 I'm meeting…（例如 I'm meeting my sister on Thursday.）。",
+   "用 LINE 傳英文訊息約一位朋友或老師見面，要寫出日期、時間和地點。",
+   "錄音唸這些字並大聲唸出重音：a-VAI-la-ble、in-VITE、CAN-cel、to-GE-ther、SAT-ur-day。"
+  ],
+  "released": false
+ },
+ {
+  "unit_no": 13,
+  "phase": 3,
+  "title_en": "Telling Stories (Past)",
+  "title_zh": "說說過去的事",
+  "goals": [
+   "Talk about past events using the past simple (regular -ed and common irregular verbs).",
+   "Tell a short story in order with at first, after that, suddenly, finally.",
+   "Pronounce -ed endings correctly as /t/, /d/, or /ɪd/.",
+   "Keep a story going with listener reactions like 'And then what happened?'"
+  ],
+  "warmup": {
+   "easy": [
+    "What did you eat for breakfast today?",
+    "Did you go out yesterday?",
+    "What time did you go to bed last night?"
+   ],
+   "medium": [
+    "What did you do last weekend?",
+    "Where did you go on your last holiday?",
+    "What did you do for Chinese New Year this year?"
+   ],
+   "hard": [
+    "Tell me about a funny thing that happened to you recently.",
+    "What was your life like when you were a kid?",
+    "Tell me about a day when everything went wrong."
+   ]
+  },
+  "key_phrases": [
+   {
+    "en": "What did you do last weekend?",
+    "zh": "你上週末做了什麼？"
+   },
+   {
+    "en": "Guess what?",
+    "zh": "你猜怎麼了？"
+   },
+   {
+    "en": "You won't believe what happened.",
+    "zh": "你一定不敢相信發生了什麼事。"
+   },
+   {
+    "en": "At first, ...",
+    "zh": "一開始……"
+   },
+   {
+    "en": "After that, ...",
+    "zh": "在那之後……"
+   },
+   {
+    "en": "Suddenly, ...",
+    "zh": "突然……"
+   },
+   {
+    "en": "Finally, ...",
+    "zh": "最後……"
+   },
+   {
+    "en": "That's when I realized ...",
+    "zh": "就在那時我才發現……"
+   },
+   {
+    "en": "And then what happened?",
+    "zh": "然後呢？發生了什麼事？"
+   },
+   {
+    "en": "Long story short, ...",
+    "zh": "長話短說……"
+   }
+  ],
+  "grammar": {
+   "point_en": "Past simple: regular -ed verbs and common irregular verbs",
+   "point_zh": "過去式：規則動詞加 -ed 和常見不規則動詞",
+   "explain_zh": "中文的動詞不會變化，靠「昨天」、「了」來表示過去。英文的動詞本身要改成過去式，就算句子裡已經有 yesterday 也一樣。大部分動詞加 -ed（walk → walked），但很多常用動詞是不規則的（go → went、see → saw、eat → ate）。問句和否定句用 did，後面的動詞要回到原形。",
+   "examples": [
+    {
+     "en": "I watched a movie last night.",
+     "zh": "我昨晚看了一部電影。"
+    },
+    {
+     "en": "We went to the night market on Saturday.",
+     "zh": "我們星期六去了夜市。"
+    },
+    {
+     "en": "Did you see the news?",
+     "zh": "你有看到新聞嗎？"
+    },
+    {
+     "en": "I didn't go to work yesterday.",
+     "zh": "我昨天沒去上班。"
+    }
+   ],
+   "common_mistake": {
+    "wrong": "Yesterday I go to the market.",
+    "right": "Yesterday I went to the market.",
+    "why_zh": "就算有 yesterday，動詞還是要改成過去式。英文的時間要靠動詞本身表現。"
+   }
+  },
+  "sound_focus": {
+   "sound_id": "final-consonants",
+   "words": [
+    "watched",
+    "stayed",
+    "visited",
+    "happened",
+    "walked",
+    "realized"
+   ],
+   "sentence": "I stayed home, watched a movie, and waited for my friend."
+  },
+  "mini_lesson": [
+   "Step 1 (5 min): Warm-up. Ask 2-3 warm-up questions. Don't correct yet; just note which past-tense verbs she uses or misses.",
+   "Step 2 (8 min): -ed sounds. Draw three columns: /t/ (watched, walked), /d/ (stayed, happened), /ɪd/ (visited, waited). Say each word, she repeats. Then she sorts cooked, played, needed, cleaned, wanted, shopped into the columns and reads them aloud.",
+   "Step 3 (7 min): Irregular verbs. Quick drill: you say go, see, eat, have, take, meet, buy; she answers went, saw, ate, had, took, met, bought and makes one short sentence with each.",
+   "Step 4 (5 min): Story order. Model a 4-sentence story about your weekend using At first / After that / Suddenly / Finally. She builds her own 4-sentence story with the same words.",
+   "Step 5 (5 min): Listener reactions. Tell a short story in small pieces; after each piece she reacts with 'Really?' or 'And then what happened?' Then switch roles."
+  ],
+  "roleplays": [
+   {
+    "level": "easy",
+    "title": "Monday Morning Chat",
+    "setup_zh": "星期一早上在公司茶水間遇到同事，聊聊週末做了什麼。",
+    "teacher_role": "Coworker",
+    "student_role": "Herself",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Morning! How was your weekend?"
+     },
+     {
+      "who": "S",
+      "en": "It was good, thanks. I stayed home on Saturday.",
+      "zh": "很好，謝謝。我星期六待在家。"
+     },
+     {
+      "who": "T",
+      "en": "Nice and relaxing. What did you do on Sunday?"
+     },
+     {
+      "who": "S",
+      "en": "I went to ___ with my ___.",
+      "zh": "我和我的___去了___。"
+     },
+     {
+      "who": "T",
+      "en": "Oh, that sounds fun! Did you eat anything good?"
+     },
+     {
+      "who": "S",
+      "en": "Yes! We ate ___. It was delicious.",
+      "zh": "有！我們吃了___，很好吃。"
+     },
+     {
+      "who": "T",
+      "en": "I'm jealous. I just cleaned my apartment all weekend."
+     },
+     {
+      "who": "S",
+      "en": "Oh no! Maybe next weekend will be better.",
+      "zh": "喔不！也許下個週末會比較好。"
+     }
+    ]
+   },
+   {
+    "level": "challenge",
+    "title": "You Won't Believe What Happened",
+    "setup_zh": "跟朋友講一件最近發生的倒楣事：手機忘在計程車上。朋友會一直追問細節，用過去式把故事說完。",
+    "teacher_role": "Friend",
+    "student_role": "Herself, telling the story",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Hey, you look tired. Is everything OK?"
+     },
+     {
+      "who": "S",
+      "en": "You won't believe what happened yesterday.",
+      "zh": "你一定不敢相信我昨天發生了什麼事。"
+     },
+     {
+      "who": "T",
+      "en": "Oh no. What happened?"
+     },
+     {
+      "who": "S",
+      "en": "At first, everything was fine. I took a taxi to ___.",
+      "zh": "一開始一切都很好。我搭計程車去___。"
+     },
+     {
+      "who": "T",
+      "en": "OK. And then?"
+     },
+     {
+      "who": "S",
+      "en": "After that, I paid and got out. Suddenly, I realized my phone was gone!",
+      "zh": "之後我付錢下車。突然，我發現手機不見了！"
+     },
+     {
+      "who": "T",
+      "en": "No way! What did you do?"
+     },
+     {
+      "who": "S",
+      "en": "I borrowed a phone at a convenience store and called my number.",
+      "zh": "我在便利商店借電話，打我自己的號碼。"
+     },
+     {
+      "who": "T",
+      "en": "Smart. Did anyone answer?"
+     },
+     {
+      "who": "S",
+      "en": "Finally, the driver answered. Long story short, he brought it back!",
+      "zh": "最後司機接了。長話短說，他把手機送回來了！"
+     },
+     {
+      "who": "T",
+      "en": "Wow, you were lucky. So what did you learn?"
+     },
+     {
+      "who": "S",
+      "en": "Next time, I'll check my bag before I get out!",
+      "zh": "下次下車前，我一定會先檢查包包！"
+     }
+    ],
+    "teacher_twists": [
+     "Ask for extra detail at any point ('What time was it?', 'Where were you going?'); she must answer in the past tense.",
+     "Change the ending: say 'Wait, so the driver never answered?' so she has to invent a new ending with 'Finally, ...'.",
+     "Pretend you didn't hear ('Sorry, you lost your what?') so she repeats the key sentence clearly, with the -ed ending."
+    ]
+   }
+  ],
+  "homework_zh": [
+   "用 At first / After that / Suddenly / Finally 寫一個 5 句的小故事，主題是你上週末做的事，下次上課唸給老師聽。",
+   "練習 -ed 的三種發音：每天把 stayed、watched、visited 各唸 5 次，用手機錄音，聽聽看結尾有沒有發出來。",
+   "看一段 2 分鐘的英文影片或 vlog，記下 5 個過去式動詞。"
+  ],
+  "released": false
+ },
+ {
+  "unit_no": 14,
+  "phase": 3,
+  "title_en": "Opinions & Feelings",
+  "title_zh": "表達意見與感受",
+  "goals": [
+   "Give and ask for opinions with I think / In my opinion / What do you think?",
+   "Support an opinion with because, and connect ideas with so and but.",
+   "Describe feelings with -ed adjectives (worried, excited, disappointed) and stress them correctly.",
+   "Agree and disagree politely without sounding rude."
+  ],
+  "warmup": {
+   "easy": [
+    "How do you feel today?",
+    "Do you like rainy days?",
+    "What's your favorite food? Why?"
+   ],
+   "medium": [
+    "What do you think of online shopping?",
+    "Which is better, a scooter or a car? Why?",
+    "What makes you stressed out?"
+   ],
+   "hard": [
+    "Should children have smartphones? Why or why not?",
+    "Tell me about something that disappointed you recently.",
+    "Is it better to live in a big city or a small town? Why?"
+   ]
+  },
+  "key_phrases": [
+   {
+    "en": "I think ... because ...",
+    "zh": "我覺得……因為……"
+   },
+   {
+    "en": "In my opinion, ...",
+    "zh": "我認為……"
+   },
+   {
+    "en": "What do you think?",
+    "zh": "你覺得呢？"
+   },
+   {
+    "en": "How do you feel about ...?",
+    "zh": "你對……有什麼看法？"
+   },
+   {
+    "en": "I agree.",
+    "zh": "我同意。"
+   },
+   {
+    "en": "I see what you mean, but ...",
+    "zh": "我懂你的意思，但是……"
+   },
+   {
+    "en": "I'm not sure about that.",
+    "zh": "這我不太確定耶。"
+   },
+   {
+    "en": "It depends.",
+    "zh": "看情況。"
+   },
+   {
+    "en": "To be honest, ...",
+    "zh": "老實說……"
+   },
+   {
+    "en": "That makes sense.",
+    "zh": "有道理。"
+   }
+  ],
+  "grammar": {
+   "point_en": "Giving reasons and linking ideas with because, so, and but",
+   "point_zh": "用 because、so、but 說理由、連接想法",
+   "explain_zh": "中文常說「因為……所以……」，兩個一起用。英文只能選一個：用了 because 就不要再加 so。because 後面接理由，so 後面接結果，but 用來說相反的想法。學會這三個字，你的意見會聽起來更完整、更自然。",
+   "examples": [
+    {
+     "en": "I like Tainan because the food is amazing.",
+     "zh": "我喜歡台南，因為那裡的東西很好吃。"
+    },
+    {
+     "en": "It was raining, so I took a taxi.",
+     "zh": "那時在下雨，所以我搭了計程車。"
+    },
+    {
+     "en": "The phone is nice, but it's too expensive.",
+     "zh": "那支手機很好，但是太貴了。"
+    },
+    {
+     "en": "I think online shopping is convenient because it saves time.",
+     "zh": "我覺得網路購物很方便，因為很省時間。"
+    }
+   ],
+   "common_mistake": {
+    "wrong": "Because it was raining, so I stayed home.",
+    "right": "It was raining, so I stayed home.",
+    "why_zh": "中文「因為……所以……」可以一起用，但英文 because 和 so 只能選一個。"
+   }
+  },
+  "sound_focus": {
+   "sound_id": "stress",
+   "words": [
+    "opinion",
+    "comfortable",
+    "interesting",
+    "disappointed",
+    "embarrassed",
+    "excited"
+   ],
+   "sentence": "In my opinion, it was interesting, but I was a little disappointed."
+  },
+  "mini_lesson": [
+   "Step 1 (5 min): Warm-up. Ask 2-3 warm-up questions. After every answer, ask 'Why?' so she gets used to adding a reason.",
+   "Step 2 (7 min): Feeling words + stress. Show worried, excited, disappointed, embarrassed, stressed out, comfortable. Clap on the stressed syllable together (dis-a-POINT-ed, em-BAR-rassed, COM-for-ta-ble). She makes one sentence: 'I felt ___ when ___.'",
+   "Step 3 (8 min): because / so / but. Write a half-sentence ('I like summer ...') and she finishes it three ways: with because, with so, and with but. Point out the Chinese trap: never 'because ... so ...' together.",
+   "Step 4 (5 min): Agree/disagree ladder. Read 4 simple opinions ('Coffee is better than tea.', 'Scooters are dangerous.'). She answers with I agree / It depends / I see what you mean, but ... / I'm not sure about that, plus one reason.",
+   "Step 5 (5 min): Opinion ping-pong. Give a topic; she gives her opinion with a reason, then asks you 'What do you think?' or 'How do you feel about it?' Swap three times."
+  ],
+  "roleplays": [
+   {
+    "level": "easy",
+    "title": "What Should We Eat?",
+    "setup_zh": "和朋友決定晚餐要吃什麼，兩個人各自說出想法和理由。",
+    "teacher_role": "Friend",
+    "student_role": "Herself",
+    "lines": [
+     {
+      "who": "T",
+      "en": "I'm so hungry. What do you want for dinner?"
+     },
+     {
+      "who": "S",
+      "en": "I think hot pot is a good idea.",
+      "zh": "我覺得吃火鍋不錯。"
+     },
+     {
+      "who": "T",
+      "en": "Hot pot? Why?"
+     },
+     {
+      "who": "S",
+      "en": "Because it's cold today, and I love ___.",
+      "zh": "因為今天很冷，而且我很愛___。"
+     },
+     {
+      "who": "T",
+      "en": "Hmm, but hot pot is expensive. What about noodles?"
+     },
+     {
+      "who": "S",
+      "en": "I see what you mean, but I really want hot pot.",
+      "zh": "我懂你的意思，但我真的很想吃火鍋。"
+     },
+     {
+      "who": "T",
+      "en": "OK, OK. What do you think of the place near the MRT station?"
+     },
+     {
+      "who": "S",
+      "en": "It's great. The food is fresh, so it's worth it.",
+      "zh": "很棒。食材很新鮮，所以很值得。"
+     }
+    ]
+   },
+   {
+    "level": "challenge",
+    "title": "Should Kids Have Smartphones?",
+    "setup_zh": "和朋友聊到小孩該不該有自己的手機。你要說出意見、給理由，也要禮貌地表達不同意。",
+    "teacher_role": "Friend with strong opinions",
+    "student_role": "Herself",
+    "lines": [
+     {
+      "who": "T",
+      "en": "My niece is only eight, and she already has a smartphone!"
+     },
+     {
+      "who": "S",
+      "en": "Really? How do you feel about that?",
+      "zh": "真的嗎？你對這件事有什麼看法？"
+     },
+     {
+      "who": "T",
+      "en": "I think it's fine. Every kid has one now."
+     },
+     {
+      "who": "S",
+      "en": "I see what you mean, but I'm a little worried.",
+      "zh": "我懂你的意思，但我有點擔心。"
+     },
+     {
+      "who": "T",
+      "en": "Worried? Why?"
+     },
+     {
+      "who": "S",
+      "en": "Because kids watch videos all day, so they don't play outside.",
+      "zh": "因為小孩整天看影片，所以都不出去玩。"
+     },
+     {
+      "who": "T",
+      "en": "But a phone is useful. Parents can call them anytime."
+     },
+     {
+      "who": "S",
+      "en": "That makes sense. To be honest, it depends on the age.",
+      "zh": "有道理。老實說，要看年紀。"
+     },
+     {
+      "who": "T",
+      "en": "OK. So in your opinion, what age is good?"
+     },
+     {
+      "who": "S",
+      "en": "In my opinion, about twelve, but only with rules.",
+      "zh": "我認為大概十二歲，但一定要有規定。"
+     },
+     {
+      "who": "T",
+      "en": "Hmm, I'm not sure about that, but it's a fair point."
+     },
+     {
+      "who": "S",
+      "en": "What do you think? Should parents check their kids' phones?",
+      "zh": "你覺得呢？父母應該檢查小孩的手機嗎？"
+     }
+    ],
+    "teacher_twists": [
+     "Disagree strongly with everything ('No, I totally disagree!') so she has to stay calm and give a second reason.",
+     "Ask 'Why?' twice in a row to push her to add more detail with because and so.",
+     "Ask how she would feel if her own child wanted a phone; she must answer with a feeling word (worried, excited, stressed out)."
+    ]
+   }
+  ],
+  "homework_zh": [
+   "選三個話題（例如：網路購物、騎機車、早餐店），每個話題用「I think ... because ...」寫一句自己的意見。",
+   "練習重音：disappointed、embarrassed、comfortable、interesting 每天各唸 5 次，唸到重音的地方拍一下手。",
+   "這週遇到開心或生氣的事，用一句英文記下來：I felt ___ because ___."
+  ],
+  "released": false
+ },
+ {
+  "unit_no": 15,
+  "phase": 3,
+  "title_en": "Small Talk",
+  "title_zh": "閒聊",
+  "goals": [
+   "Start and end a friendly chat with a neighbor, coworker, or stranger at a party.",
+   "Keep small talk going with the 3-step answer: answer + one detail + a follow-up question.",
+   "Use natural fillers (Well, Actually, Let me see) and reactions (Really? That sounds fun!) instead of silence.",
+   "Link words smoothly in common chunks (How about you? Is it ...? kind of)."
+  ],
+  "warmup": {
+   "easy": [
+    "How are you today?",
+    "How was your weekend?",
+    "Do you live near here?"
+   ],
+   "medium": [
+    "What have you been up to lately?",
+    "What's new at work or at home?",
+    "Who do you usually chat with during the day?"
+   ],
+   "hard": [
+    "What topics are good for small talk in Taiwan? What topics are not?",
+    "How do you start a conversation with someone you don't know?",
+    "Tell me about an interesting stranger you talked to once."
+   ]
+  },
+  "key_phrases": [
+   {
+    "en": "What have you been up to?",
+    "zh": "你最近在忙什麼？"
+   },
+   {
+    "en": "How about you?",
+    "zh": "那你呢？"
+   },
+   {
+    "en": "That sounds fun!",
+    "zh": "聽起來很好玩！"
+   },
+   {
+    "en": "Really?",
+    "zh": "真的嗎？"
+   },
+   {
+    "en": "Actually, ...",
+    "zh": "其實……"
+   },
+   {
+    "en": "By the way, ...",
+    "zh": "對了……"
+   },
+   {
+    "en": "Same here.",
+    "zh": "我也是。"
+   },
+   {
+    "en": "Oh, I didn't know that.",
+    "zh": "喔，我都不知道耶。"
+   },
+   {
+    "en": "It was nice talking to you.",
+    "zh": "很高興跟你聊天。"
+   },
+   {
+    "en": "I'd better get going.",
+    "zh": "我差不多該走了。"
+   }
+  ],
+  "grammar": {
+   "point_en": "Keeping a conversation going: answer + one detail + a follow-up question",
+   "point_zh": "讓對話繼續：回答＋多說一點＋反問",
+   "explain_zh": "用中文聊天時，回答「還好」就可以了，但英文閒聊只說 Fine，對話很快就會停掉。英文的習慣是：先回答，再加一個小細節，最後反問對方，例如 How about you? 反問時要用 do / does / did 開頭，或用 what、where、how 開頭。中文問句沒有 do 這個字，所以特別容易漏掉。",
+   "examples": [
+    {
+     "en": "Pretty good! I went hiking. How about you?",
+     "zh": "還不錯！我去爬山。那你呢？"
+    },
+    {
+     "en": "Yes, I live on Minsheng Road. Do you live around here too?",
+     "zh": "對，我住民生路。你也住這附近嗎？"
+    },
+    {
+     "en": "Not bad, just busy at work. What have you been up to?",
+     "zh": "還好，只是工作很忙。你最近在忙什麼？"
+    },
+    {
+     "en": "You went to Japan? Where did you go?",
+     "zh": "你去日本？你去了哪裡？"
+    }
+   ],
+   "common_mistake": {
+    "wrong": "Where you live?",
+    "right": "Where do you live?",
+    "why_zh": "中文「你住哪？」沒有助動詞，但英文問句要加 do / does / did。"
+   }
+  },
+  "sound_focus": {
+   "sound_id": "linking",
+   "words": [
+    "How about you",
+    "Is it",
+    "kind of",
+    "What have you",
+    "get going",
+    "Let me see"
+   ],
+   "sentence": "Well, it was kind of busy. How about you?"
+  },
+  "mini_lesson": [
+   "Step 1 (5 min): Warm-up. Ask 2-3 easy warm-up questions. Notice if she answers with only one word; don't correct yet.",
+   "Step 2 (8 min): The 3-step answer. Write 'Answer + 1 detail + question back' on paper and model it ('Pretty good! I went hiking. How about you?'). Ask 4 small-talk questions; she must use all three steps every time.",
+   "Step 3 (6 min): Linking. Drill How about you → how-uh-BOW-choo, Is it → i-zit, kind of → kinda, What have you → wuh-duh-vyuh. Say each slowly, then at natural speed; she shadows each one 3 times.",
+   "Step 4 (5 min): Fillers and reactions. Teach Well / Actually / Let me see for thinking time, and Really? / That sounds fun! / Same here. for reacting. Tell short news ('I got a puppy!'); she reacts and asks one follow-up question.",
+   "Step 5 (6 min): Open and close. Practice an opener ('Is it always this busy here?') and a closer ('I'd better get going. It was nice talking to you!'). Then run a 2-minute mini chat from start to finish."
+  ],
+  "roleplays": [
+   {
+    "level": "easy",
+    "title": "Waiting for the Elevator",
+    "setup_zh": "在大樓電梯口遇到鄰居，簡單聊幾句天。",
+    "teacher_role": "Neighbor",
+    "student_role": "Herself",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Hi! Hot today, isn't it?"
+     },
+     {
+      "who": "S",
+      "en": "Yes, it's so hot! How are you?",
+      "zh": "對啊，好熱！你好嗎？"
+     },
+     {
+      "who": "T",
+      "en": "Pretty good, thanks. Busy with work. How about you?"
+     },
+     {
+      "who": "S",
+      "en": "Same here. I'm kind of tired today.",
+      "zh": "我也是。我今天有點累。"
+     },
+     {
+      "who": "T",
+      "en": "Oh no. Did you do anything fun last weekend?"
+     },
+     {
+      "who": "S",
+      "en": "Actually, yes. I went to ___ with my family. How about you?",
+      "zh": "其實有。我跟家人去了___。那你呢？"
+     },
+     {
+      "who": "T",
+      "en": "I just stayed home. Oh, here's the elevator!"
+     },
+     {
+      "who": "S",
+      "en": "It was nice talking to you. Have a good day!",
+      "zh": "很高興跟你聊天，祝你有美好的一天！"
+     }
+    ]
+   },
+   {
+    "level": "challenge",
+    "title": "Meeting Someone at a Party",
+    "setup_zh": "在朋友的生日派對上遇到一個不認識的人。你要主動開啟話題、用問題讓對話繼續，最後禮貌地結束。",
+    "teacher_role": "Mark, a guest she doesn't know",
+    "student_role": "Herself",
+    "lines": [
+     {
+      "who": "S",
+      "en": "Hi! I don't think we've met. I'm ___.",
+      "zh": "嗨！我們好像沒見過。我是___。"
+     },
+     {
+      "who": "T",
+      "en": "Hi, I'm Mark. Nice to meet you. How do you know Amy?"
+     },
+     {
+      "who": "S",
+      "en": "Well, we work together. How about you?",
+      "zh": "嗯，我們是同事。那你呢？"
+     },
+     {
+      "who": "T",
+      "en": "We went to college together. Actually, I just moved back from Canada."
+     },
+     {
+      "who": "S",
+      "en": "Really? That sounds exciting! Where in Canada?",
+      "zh": "真的嗎？聽起來好棒！在加拿大哪裡？"
+     },
+     {
+      "who": "T",
+      "en": "Vancouver. I lived there for five years."
+     },
+     {
+      "who": "S",
+      "en": "Oh, I didn't know that. Do you miss it?",
+      "zh": "喔，我都不知道耶。你會想念那裡嗎？"
+     },
+     {
+      "who": "T",
+      "en": "Sometimes. But I really missed Taiwanese food! What have you been up to lately?"
+     },
+     {
+      "who": "S",
+      "en": "Let me see... I'm learning English, so I'm kind of busy.",
+      "zh": "我想想……我在學英文，所以有點忙。"
+     },
+     {
+      "who": "T",
+      "en": "Your English is good! By the way, have you tried the cake?"
+     },
+     {
+      "who": "S",
+      "en": "Not yet. Actually, I'd better get going soon. It was nice talking to you!",
+      "zh": "還沒。其實我差不多該走了。很高興跟你聊天！"
+     },
+     {
+      "who": "T",
+      "en": "You too! Enjoy the rest of the party."
+     }
+    ],
+    "teacher_twists": [
+     "Give only short answers ('Yeah.' 'Fine.') for a while, so she has to work harder with follow-up questions.",
+     "Bring up a surprise topic (your new puppy, a trip, a TV show); she must react with Really? / That sounds fun! and ask one more question.",
+     "Keep talking when she tries to leave, so she has to close the conversation politely a second time."
+    ]
+   }
+  ],
+  "homework_zh": [
+   "每天對著鏡子回答 How was your day?，用「回答＋一個細節＋How about you?」三個步驟說出來。",
+   "練習連音：How about you、Is it、kind of、What have you been up to 每天各唸 5 次，先慢後快。",
+   "看一段英文訪談或 vlog 影片，聽聽看對方用了哪些 Well、Actually、You know，記下 3 個句子。"
+  ],
+  "released": false
+ },
+ {
+  "unit_no": 16,
+  "phase": 3,
+  "title_en": "Travel",
+  "title_zh": "旅行",
+  "goals": [
+   "Talk about travel experiences with the present perfect (Have you ever been to ...? I've been there twice.).",
+   "Switch to the past simple to give details about one trip (When did you go? What did you do?).",
+   "Handle simple travel situations: hotel check-in, asking for a photo, asking about things to do.",
+   "Pronounce consonant clusters (trip, flight, breakfast, included) without adding extra vowels."
+  ],
+  "warmup": {
+   "easy": [
+    "Do you like to travel?",
+    "Where did you go on your last trip?",
+    "Do you like flying?"
+   ],
+   "medium": [
+    "Have you ever been to Japan or Korea?",
+    "What do you always pack in your luggage?",
+    "What's the best place to visit in Taiwan?"
+   ],
+   "hard": [
+    "Tell me about the best trip you've ever taken.",
+    "Have you ever had a problem while traveling? What happened?",
+    "If you could go anywhere in the world, where would you go? Why?"
+   ]
+  },
+  "key_phrases": [
+   {
+    "en": "Have you ever been to ...?",
+    "zh": "你有去過……嗎？"
+   },
+   {
+    "en": "I've never been there.",
+    "zh": "我從來沒去過那裡。"
+   },
+   {
+    "en": "I've been there twice.",
+    "zh": "我去過兩次。"
+   },
+   {
+    "en": "How long are you staying?",
+    "zh": "你要待多久？"
+   },
+   {
+    "en": "I'm here on vacation.",
+    "zh": "我是來度假的。"
+   },
+   {
+    "en": "Could you take a picture of us?",
+    "zh": "可以幫我們拍張照嗎？"
+   },
+   {
+    "en": "Is breakfast included?",
+    "zh": "有含早餐嗎？"
+   },
+   {
+    "en": "What's there to do around here?",
+    "zh": "這附近有什麼好玩的？"
+   },
+   {
+    "en": "The view was amazing.",
+    "zh": "風景超美的。"
+   },
+   {
+    "en": "I'd love to go there someday.",
+    "zh": "我希望有一天能去那裡。"
+   }
+  ],
+  "grammar": {
+   "point_en": "Present perfect for life experiences: Have you ever ...? / I've been ...",
+   "point_zh": "現在完成式談經驗：Have you ever ...? / I've been ...",
+   "explain_zh": "中文用「過」表示經驗，例如「我去過日本」。英文用 have / has + 過去分詞，例如 I've been to Japan，這種說法不講是什麼時候。如果要說明確的時間（last year、in 2019），就要改用過去式：I went to Japan last year。說「去過某地」，英文用 been to，不用 gone to。",
+   "examples": [
+    {
+     "en": "Have you ever been to Hong Kong?",
+     "zh": "你有去過香港嗎？"
+    },
+    {
+     "en": "I've been to Japan three times.",
+     "zh": "我去過日本三次。"
+    },
+    {
+     "en": "She has never flown on a plane.",
+     "zh": "她從來沒搭過飛機。"
+    },
+    {
+     "en": "I went to Tokyo last year.",
+     "zh": "我去年去了東京。"
+    }
+   ],
+   "common_mistake": {
+    "wrong": "I have been to Japan last year.",
+    "right": "I went to Japan last year.",
+    "why_zh": "句子裡有明確時間（last year）就要用過去式，不能用現在完成式。"
+   }
+  },
+  "sound_focus": {
+   "sound_id": "clusters",
+   "words": [
+    "trip",
+    "flight",
+    "breakfast",
+    "included",
+    "travel",
+    "abroad"
+   ],
+   "sentence": "The trip was great, but the flight was long."
+  },
+  "mini_lesson": [
+   "Step 1 (5 min): Warm-up. Ask 2-3 warm-up questions about travel. Write down the place names and verbs she uses.",
+   "Step 2 (8 min): Have you ever ...? Show the pattern 'Have you ever been to ___?' → 'Yes, I have. I've been there ___ times.' / 'No, I've never been there.' Ask about 5 places (Japan, Kenting, Hong Kong, Europe, Green Island); she answers, then asks you.",
+   "Step 3 (5 min): Experience → details. Show the tense switch: 'I've been to Japan.' → 'When did you go?' → 'I went last year.' She does this with one real trip, answering When? / Who with? / What did you do?",
+   "Step 4 (6 min): Clusters. Practice trip, travel, flight, breakfast, included, abroad. Listen for extra vowels (fu-light, bu-reakfast). Say them slowly, then fast; finish with the sound-focus sentence 3 times.",
+   "Step 5 (6 min): Travel survival lines. Drill Is breakfast included? / Could you take a picture of us? / What's there to do around here? / How long are you staying? You describe a situation in Chinese; she says the right line in English."
+  ],
+  "roleplays": [
+   {
+    "level": "easy",
+    "title": "Hotel Check-In",
+    "setup_zh": "到國外的飯店櫃檯辦理入住，順便問早餐和附近有什麼好玩的。",
+    "teacher_role": "Hotel front desk clerk",
+    "student_role": "Hotel guest",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Good evening! Welcome to the Sunrise Hotel. How can I help you?"
+     },
+     {
+      "who": "S",
+      "en": "Hi, I'd like to check in, please. My name is ___.",
+      "zh": "你好，我要辦理入住。我叫___。"
+     },
+     {
+      "who": "T",
+      "en": "Let me see... Yes, two nights. Can I see your passport, please?"
+     },
+     {
+      "who": "S",
+      "en": "Sure, here you are.",
+      "zh": "好的，在這裡。"
+     },
+     {
+      "who": "T",
+      "en": "Thank you. Here's your key card. You're in room 512."
+     },
+     {
+      "who": "S",
+      "en": "Thanks. Is breakfast included?",
+      "zh": "謝謝。有含早餐嗎？"
+     },
+     {
+      "who": "T",
+      "en": "Yes, it's from 7 to 10 on the second floor."
+     },
+     {
+      "who": "S",
+      "en": "Great. What's there to do around here?",
+      "zh": "太好了。這附近有什麼好玩的？"
+     },
+     {
+      "who": "T",
+      "en": "There's a night market and a beautiful old temple nearby."
+     },
+     {
+      "who": "S",
+      "en": "That sounds fun. Thank you so much!",
+      "zh": "聽起來很好玩，非常謝謝你！"
+     }
+    ]
+   },
+   {
+    "level": "challenge",
+    "title": "On the Train to Hualien",
+    "setup_zh": "在往花蓮的火車上遇到一位第一次來台灣的外國旅客。用 Have you ever ...? 聊彼此的旅遊經驗，再用過去式說細節。",
+    "teacher_role": "A traveler from the US",
+    "student_role": "Herself",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Excuse me, is this the train to Hualien?"
+     },
+     {
+      "who": "S",
+      "en": "Yes, it is. Are you traveling alone?",
+      "zh": "對，是的。你一個人旅行嗎？"
+     },
+     {
+      "who": "T",
+      "en": "Yes, I'm here on vacation for two weeks. It's my first time in Taiwan."
+     },
+     {
+      "who": "S",
+      "en": "Welcome! How long are you staying in Hualien?",
+      "zh": "歡迎！你要在花蓮待多久？"
+     },
+     {
+      "who": "T",
+      "en": "Three days. Have you ever been to Taroko Gorge?"
+     },
+     {
+      "who": "S",
+      "en": "Yes, I've been there twice. The view was amazing!",
+      "zh": "有，我去過兩次。風景超美的！"
+     },
+     {
+      "who": "T",
+      "en": "Great! When did you last go?"
+     },
+     {
+      "who": "S",
+      "en": "I went there ___ with my ___. We took a lot of pictures.",
+      "zh": "我___跟我的___一起去的。我們拍了很多照片。"
+     },
+     {
+      "who": "T",
+      "en": "Nice. Have you ever been to the US?"
+     },
+     {
+      "who": "S",
+      "en": "No, I've never been there. But I'd love to go there someday.",
+      "zh": "沒有，我從來沒去過。不過我希望有一天能去。"
+     },
+     {
+      "who": "T",
+      "en": "You should visit California! Where else should I go in Taiwan?"
+     },
+     {
+      "who": "S",
+      "en": "You should try Tainan. The food is amazing.",
+      "zh": "你應該去台南看看，那裡的東西超好吃。"
+     }
+    ],
+    "teacher_twists": [
+     "Ask 'Have you ever ...?' about something unusual (been on a cruise, seen snow, gone skiing) so she has to answer with I've never ... and add a feeling or reason.",
+     "After she says she's been somewhere, fire three quick detail questions (When did you go? Who did you go with? What did you eat?) to force the switch to past simple.",
+     "Mention a travel problem ('My luggage didn't arrive!') and see if she can react and give simple advice."
+    ]
+   }
+  ],
+  "homework_zh": [
+   "寫 5 句你的旅遊經驗：3 句用 I've been to ...，2 句用 I've never been to ...。",
+   "選一次你最喜歡的旅行，用過去式寫 4 句（什麼時候、跟誰、做了什麼、感覺怎麼樣），下次上課說給老師聽。",
+   "練習子音連在一起：trip、flight、breakfast、included 每天各唸 5 次，注意中間不要多加「ㄜ」的音。"
+  ],
+  "released": false
+ },
+ {
+  "unit_no": 17,
+  "phase": 3,
+  "title_en": "Home & Neighborhood",
+  "title_zh": "家與社區",
+  "goals": [
+   "Describe her home and neighborhood using there is / there are.",
+   "Say where places are with next to, across from, near, between, behind, and on the ___ floor.",
+   "Give simple opinions about where she lives (It's convenient / a little noisy / close to everything).",
+   "Practice clear L and R in home words (living room, rent, floor, really)."
+  ],
+  "warmup": {
+   "easy": [
+    "Do you live in a house or an apartment?",
+    "How many rooms are there in your home?",
+    "Is there a convenience store near your home?"
+   ],
+   "medium": [
+    "What's your favorite room at home? Why?",
+    "What's near your home?",
+    "Do you know your neighbors?"
+   ],
+   "hard": [
+    "What's the best and the worst thing about your neighborhood?",
+    "How has your neighborhood changed in the last ten years?",
+    "Describe your dream home."
+   ]
+  },
+  "key_phrases": [
+   {
+    "en": "There's a ... near my house.",
+    "zh": "我家附近有一個……"
+   },
+   {
+    "en": "There are lots of ...",
+    "zh": "有很多……"
+   },
+   {
+    "en": "It's next to ...",
+    "zh": "在……旁邊"
+   },
+   {
+    "en": "It's across from ...",
+    "zh": "在……對面"
+   },
+   {
+    "en": "I live on the fifth floor.",
+    "zh": "我住在五樓。"
+   },
+   {
+    "en": "How long have you lived here?",
+    "zh": "你住在這裡多久了？"
+   },
+   {
+    "en": "It's close to everything.",
+    "zh": "生活機能很好。"
+   },
+   {
+    "en": "It's a little noisy.",
+    "zh": "有點吵。"
+   },
+   {
+    "en": "The best thing about my neighborhood is ...",
+    "zh": "我住的地方最棒的是……"
+   },
+   {
+    "en": "Come on in! Make yourself at home.",
+    "zh": "請進！當自己家就好。"
+   }
+  ],
+  "grammar": {
+   "point_en": "There is / There are + prepositions of place",
+   "point_zh": "There is / There are 加上地方介系詞",
+   "explain_zh": "中文說「我家附近有一間便利商店」，用「有」就好。英文說「某個地方有東西」不用 have，要用 There is a convenience store near my house。一個東西用 there is（there's），兩個以上用 there are。地點前面要放介系詞：next to（旁邊）、across from（對面）、between（中間）、behind（後面）。",
+   "examples": [
+    {
+     "en": "There's a temple across from my house.",
+     "zh": "我家對面有一間廟。"
+    },
+    {
+     "en": "There are two bedrooms and one bathroom.",
+     "zh": "有兩間臥室和一間浴室。"
+    },
+    {
+     "en": "Is there a park near your home?",
+     "zh": "你家附近有公園嗎？"
+    },
+    {
+     "en": "The bank is between the school and the post office.",
+     "zh": "銀行在學校和郵局中間。"
+    }
+   ],
+   "common_mistake": {
+    "wrong": "Near my house have a night market.",
+    "right": "There's a night market near my house.",
+    "why_zh": "中文說「我家附近有……」，但英文要用 There is / There are，不能用 have。"
+   }
+  },
+  "sound_focus": {
+   "sound_id": "l-r",
+   "words": [
+    "living room",
+    "rent",
+    "floor",
+    "really",
+    "laundry",
+    "library"
+   ],
+   "sentence": "The living room is really bright, and the rent is low."
+  },
+  "mini_lesson": [
+   "Step 1 (5 min): Warm-up. Ask 2-3 warm-up questions about her home. Listen for 'have' used instead of 'there is'.",
+   "Step 2 (8 min): There is / There are. Draw a simple floor plan of your home and describe it ('There's a big living room. There are two bedrooms.'). Then she draws her own and describes it in at least 5 sentences.",
+   "Step 3 (6 min): Where is it? Draw a street map with 6 places (park, temple, convenience store, school, bank, night market). Ask 'Where's the bank?'; she answers with next to / across from / between / behind / near. Then she asks you.",
+   "Step 4 (6 min): L and R. Contrast light/right and long/wrong, then home words: living room, rent, floor, really, laundry. For L the tongue tip touches behind the top teeth; for R round the lips and pull the tongue back without touching anything. Finish with the sound-focus sentence.",
+   "Step 5 (5 min): My neighborhood in 4 sentences. She describes her area: one 'There's ...', one place with a preposition, one good point ('It's close to everything'), and one bad point ('It's a little noisy'). Ask one follow-up question."
+  ],
+  "roleplays": [
+   {
+    "level": "easy",
+    "title": "Welcome to My Home",
+    "setup_zh": "朋友第一次來你家玩，你帶他參觀並簡單介紹。",
+    "teacher_role": "Friend visiting for the first time",
+    "student_role": "Herself (the host)",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Hi! Wow, so this is your place!"
+     },
+     {
+      "who": "S",
+      "en": "Hi! Come on in. Make yourself at home.",
+      "zh": "嗨！請進，當自己家就好。"
+     },
+     {
+      "who": "T",
+      "en": "Thanks. It's really nice. How many rooms are there?"
+     },
+     {
+      "who": "S",
+      "en": "There are ___ bedrooms, and this is the living room.",
+      "zh": "有___間臥室，這裡是客廳。"
+     },
+     {
+      "who": "T",
+      "en": "I love the balcony! Is it quiet here?"
+     },
+     {
+      "who": "S",
+      "en": "Usually, but it's a little noisy in the morning.",
+      "zh": "通常很安靜，但早上有點吵。"
+     },
+     {
+      "who": "T",
+      "en": "Is there a supermarket near here?"
+     },
+     {
+      "who": "S",
+      "en": "Yes, there's one across from the MRT station.",
+      "zh": "有，捷運站對面就有一間。"
+     }
+    ]
+   },
+   {
+    "level": "challenge",
+    "title": "Looking for a New Apartment",
+    "setup_zh": "你在找房子，房仲帶你參觀一間公寓。問清楚房租、樓層和附近的生活機能，並說出你的想法。",
+    "teacher_role": "Real estate agent",
+    "student_role": "Someone looking for an apartment",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Hello! Welcome. This is the apartment. What do you think so far?"
+     },
+     {
+      "who": "S",
+      "en": "It's nice and bright. How much is the rent?",
+      "zh": "很明亮，很不錯。房租多少？"
+     },
+     {
+      "who": "T",
+      "en": "It's 18,000 dollars a month. That includes the management fee."
+     },
+     {
+      "who": "S",
+      "en": "Hmm, that's a little expensive. Which floor is it on?",
+      "zh": "嗯，有點貴。這是幾樓？"
+     },
+     {
+      "who": "T",
+      "en": "It's on the seventh floor, and there's an elevator."
+     },
+     {
+      "who": "S",
+      "en": "Good. Is there a convenience store near here?",
+      "zh": "很好。這附近有便利商店嗎？"
+     },
+     {
+      "who": "T",
+      "en": "Yes, there are two. One is right next to the building."
+     },
+     {
+      "who": "S",
+      "en": "That's convenient. What about the MRT station?",
+      "zh": "那很方便。捷運站呢？"
+     },
+     {
+      "who": "T",
+      "en": "It's about ten minutes on foot, across from the big park."
+     },
+     {
+      "who": "S",
+      "en": "OK. Is it noisy at night? I need a quiet place.",
+      "zh": "好。晚上會吵嗎？我需要安靜的地方。"
+     },
+     {
+      "who": "T",
+      "en": "Not really. The neighbors are mostly families. So, do you like it?"
+     },
+     {
+      "who": "S",
+      "en": "I like it, but I need to think about it. Can I call you tomorrow?",
+      "zh": "我喜歡，但我需要考慮一下。我明天可以打給你嗎？"
+     }
+    ],
+    "teacher_twists": [
+     "Mention a problem halfway through ('Oh, by the way, there's no washing machine.') and see how she reacts and asks for a solution.",
+     "Ask her to compare it with her home now: 'Is your neighborhood quieter than this one?'",
+     "Pressure her ('Someone else wants it today!') so she has to politely say she needs more time."
+    ]
+   }
+  ],
+  "homework_zh": [
+   "畫一張你家的平面圖，用 There is / There are 寫 5 句介紹你家。",
+   "用英文寫 4 句介紹你住的社區：附近有什麼、在哪裡，還有優點和缺點各一個。",
+   "練習 L 和 R：living room、rent、floor、really 每天各唸 5 次，對著鏡子看舌頭的位置。"
+  ],
+  "released": false
+ },
+ {
+  "unit_no": 18,
+  "phase": 3,
+  "title_en": "Work & Life Goals",
+  "title_zh": "工作與人生目標",
+  "goals": [
+   "Talk about her job (or a past job / daily responsibilities) with I work in ... and I'm in charge of ...",
+   "Describe future goals with want to, hope to, would like to, and be planning to, and know how sure each one sounds.",
+   "Ask other people about their work and goals, and encourage them.",
+   "Stop adding extra vowels at the ends of words (goal, job, skill, hope)."
+  ],
+  "warmup": {
+   "easy": [
+    "What do you do on a normal weekday?",
+    "What job did you want when you were a child?",
+    "Do you like learning new things?"
+   ],
+   "medium": [
+    "What do you do for a living?",
+    "What's one thing you want to learn this year?",
+    "What's the best job you've ever had?"
+   ],
+   "hard": [
+    "Where do you see yourself in five years?",
+    "If money were not a problem, what would you do every day?",
+    "What advice would you give your 20-year-old self?"
+   ]
+  },
+  "key_phrases": [
+   {
+    "en": "What do you do for a living?",
+    "zh": "你從事什麼工作？"
+   },
+   {
+    "en": "I work in ...",
+    "zh": "我在……工作；我做……"
+   },
+   {
+    "en": "I'm in charge of ...",
+    "zh": "我負責……"
+   },
+   {
+    "en": "I want to ...",
+    "zh": "我想要……"
+   },
+   {
+    "en": "I hope to ...",
+    "zh": "我希望能……"
+   },
+   {
+    "en": "I'm planning to ...",
+    "zh": "我打算……"
+   },
+   {
+    "en": "I'd like to ...",
+    "zh": "我想要……（比較客氣）"
+   },
+   {
+    "en": "I'm thinking about changing jobs.",
+    "zh": "我在考慮換工作。"
+   },
+   {
+    "en": "It's never too late to learn.",
+    "zh": "學習永遠不嫌晚。"
+   },
+   {
+    "en": "I'm sure you'll do great.",
+    "zh": "你一定會做得很好的。"
+   }
+  ],
+  "grammar": {
+   "point_en": "Talking about goals: want to / hope to / would like to / be planning to + base verb",
+   "point_zh": "談目標：want to / hope to / would like to / be planning to + 動詞原形",
+   "explain_zh": "中文的「想」、「希望」、「打算」後面直接加動作就好。英文這些字後面要先加 to，再接動詞原形：I want to travel。確定的程度不一樣：hope to 是希望（不一定做得到），want to 是想要，I'm planning to 表示已經有計畫了。I'd like to 意思跟 want to 差不多，但聽起來比較客氣。",
+   "examples": [
+    {
+     "en": "I want to learn how to drive.",
+     "zh": "我想學開車。"
+    },
+    {
+     "en": "I hope to travel to Europe someday.",
+     "zh": "我希望有一天能去歐洲旅行。"
+    },
+    {
+     "en": "I'm planning to take an English test in June.",
+     "zh": "我打算六月去考英文檢定。"
+    },
+    {
+     "en": "I'd like to work from home.",
+     "zh": "我想在家工作。"
+    }
+   ],
+   "common_mistake": {
+    "wrong": "I want learn English.",
+    "right": "I want to learn English.",
+    "why_zh": "中文「我想學」中間沒有別的字，但英文 want 後面要先加 to，再接動詞。"
+   }
+  },
+  "sound_focus": {
+   "sound_id": "extra-vowel",
+   "words": [
+    "goal",
+    "job",
+    "skill",
+    "hope",
+    "work",
+    "plan"
+   ],
+   "sentence": "My goal is to find a good job and learn a new skill."
+  },
+  "mini_lesson": [
+   "Step 1 (5 min): Warm-up. Ask 2-3 warm-up questions. If she doesn't work now, let her talk about a past job or her daily responsibilities at home.",
+   "Step 2 (7 min): Talking about work. Teach What do you do for a living? / I work in ... / I'm in charge of ... Interview each other: job, workplace, one responsibility, and one thing you like or dislike about it.",
+   "Step 3 (8 min): How sure are you? Draw a line from 'just an idea' to 'already decided': hope to → want to / would like to → am planning to. She writes one goal for each time frame (this year, in five years, someday) and reads them aloud. Check that 'to' is always there.",
+   "Step 4 (5 min): Extra vowels. Say goal, job, skill, hope, work, plan; she repeats. Listen for jobu / skillu / hopu. Tip: close the mouth on the last sound and stop. Then practice the sound-focus sentence.",
+   "Step 5 (5 min): Encourage someone. Share a goal ('I want to run a marathon.'); she reacts ('That's great! When are you planning to do it?') and finishes with 'I'm sure you'll do great.' Then swap roles."
+  ],
+  "roleplays": [
+   {
+    "level": "easy",
+    "title": "Lunch with a New Coworker",
+    "setup_zh": "公司來了一位新同事，午休時兩個人聊聊彼此的工作。",
+    "teacher_role": "Jenny, a new coworker",
+    "student_role": "Herself",
+    "lines": [
+     {
+      "who": "T",
+      "en": "Hi, I'm Jenny. I just started here. What do you do?"
+     },
+     {
+      "who": "S",
+      "en": "Nice to meet you. I work in ___.",
+      "zh": "很高興認識你。我在___部門工作。"
+     },
+     {
+      "who": "T",
+      "en": "Oh, cool. What are you in charge of?"
+     },
+     {
+      "who": "S",
+      "en": "I'm in charge of ___. It's busy, but I like it.",
+      "zh": "我負責___。很忙，但我很喜歡。"
+     },
+     {
+      "who": "T",
+      "en": "That's great. How long have you worked here?"
+     },
+     {
+      "who": "S",
+      "en": "About ___ years. How about you? What did you do before?",
+      "zh": "大約___年。那你呢？你之前做什麼？"
+     },
+     {
+      "who": "T",
+      "en": "I was a teacher. I wanted to try something new."
+     },
+     {
+      "who": "S",
+      "en": "That's brave! I'm sure you'll do great here.",
+      "zh": "好勇敢！你在這裡一定會做得很好。"
+     }
+    ]
+   },
+   {
+    "level": "challenge",
+    "title": "Five Years from Now",
+    "setup_zh": "和老朋友在咖啡店聊天，聊到彼此未來的目標和計畫。說出你的夢想和打算，也要鼓勵對方。",
+    "teacher_role": "Old friend",
+    "student_role": "Herself",
+    "lines": [
+     {
+      "who": "T",
+      "en": "So, are you still learning English?"
+     },
+     {
+      "who": "S",
+      "en": "Yes! It's never too late to learn, right?",
+      "zh": "對啊！學習永遠不嫌晚，對吧？"
+     },
+     {
+      "who": "T",
+      "en": "Totally. Why are you learning it?"
+     },
+     {
+      "who": "S",
+      "en": "Because I want to travel by myself and talk to people.",
+      "zh": "因為我想自己去旅行，跟別人聊天。"
+     },
+     {
+      "who": "T",
+      "en": "That's great. Do you have any other goals?"
+     },
+     {
+      "who": "S",
+      "en": "Well, I'd like to ___ someday. It's my dream.",
+      "zh": "嗯，我有一天想___，那是我的夢想。"
+     },
+     {
+      "who": "T",
+      "en": "Wow! Are you planning to do it soon?"
+     },
+     {
+      "who": "S",
+      "en": "I hope to start next year. First, I need to save money.",
+      "zh": "我希望明年開始。首先我得先存錢。"
+     },
+     {
+      "who": "T",
+      "en": "Smart. Actually, I'm thinking about changing jobs."
+     },
+     {
+      "who": "S",
+      "en": "Really? What do you want to do?",
+      "zh": "真的嗎？你想做什麼？"
+     },
+     {
+      "who": "T",
+      "en": "I want to work part-time and spend more time with my kids. But I'm a little worried."
+     },
+     {
+      "who": "S",
+      "en": "Don't worry. I'm sure you'll do great. Good luck!",
+      "zh": "別擔心，你一定會做得很好。祝你順利！"
+     }
+    ],
+    "teacher_twists": [
+     "Ask 'Why?' and 'How?' about her goal ('How are you going to save money?') so she has to explain her plan in more detail.",
+     "Be negative about your own plan ('Maybe I'm too old to change jobs.') so she must encourage you with It's never too late ... / I'm sure you'll do great.",
+     "Ask about a time frame ('Where do you want to be in five years?') to push her to use I hope to / I'm planning to with a time phrase."
+    ]
+   }
+  ],
+  "homework_zh": [
+   "寫下你的 3 個目標：今年（I'm planning to ...）、五年內（I want to ...）、有一天（I hope to ...）。",
+   "練習不加多餘的母音：goal、job、skill、hope 每天各唸 5 次，用手機錄音，聽聽看結尾有沒有多出「ㄜ」或「喔」。",
+   "用英文寫一段 4～5 句的自我介紹，包含你的工作（或每天做的事）和一個夢想，下次上課說給老師聽。"
+  ],
+  "released": false
+ }
+]

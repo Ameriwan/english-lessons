@@ -1,0 +1,247 @@
+{
+  "unit_no": 11,
+  "phase": 2,
+  "title_en": "Phone Calls & Messages",
+  "title_zh": "電話與訊息",
+  "goals": [
+    "Make and answer simple phone calls: greeting, asking for someone, taking or leaving a message.",
+    "Make polite requests with Can I...? and Could you...?",
+    "Ask for help when she can't understand on the phone (Could you speak more slowly? / Sorry, I can't hear you.).",
+    "Link words smoothly in phone chunks (hold on, pick up, can I, take a message)."
+  ],
+  "warmup": {
+    "easy": [
+      "Do you use LINE every day?",
+      "Do you like talking on the phone?",
+      "Who do you call the most?"
+    ],
+    "medium": [
+      "Do you like calling or sending messages more? Why?",
+      "How often do you video call your family?",
+      "What do you do when an unknown number calls you?"
+    ],
+    "hard": [
+      "Why are phone calls in English harder than talking face to face?",
+      "Tell me about a funny or difficult phone call you had.",
+      "Do people send too many messages these days? What do you think?"
+    ]
+  },
+  "key_phrases": [
+    {
+      "en": "Hello, this is ___.",
+      "zh": "喂，我是 ___。"
+    },
+    {
+      "en": "Who's calling, please?",
+      "zh": "請問哪位？"
+    },
+    {
+      "en": "Can I speak to ___, please?",
+      "zh": "請問 ___ 在嗎？"
+    },
+    {
+      "en": "Hold on, please.",
+      "zh": "請稍等。"
+    },
+    {
+      "en": "Sorry, she's not here right now.",
+      "zh": "抱歉，她現在不在。"
+    },
+    {
+      "en": "Can I take a message?",
+      "zh": "需要我幫你留言嗎？"
+    },
+    {
+      "en": "Could you ask her to call me back?",
+      "zh": "可以請她回我電話嗎？"
+    },
+    {
+      "en": "Could you speak more slowly?",
+      "zh": "可以請你說慢一點嗎？"
+    },
+    {
+      "en": "Sorry, I can't hear you.",
+      "zh": "抱歉，我聽不到。"
+    },
+    {
+      "en": "I'll call you back later.",
+      "zh": "我晚點回你電話。"
+    }
+  ],
+  "grammar": {
+    "point_en": "Polite requests: Can I...? / Could you...?",
+    "point_zh": "禮貌請求：Can I…?（我可以…嗎？）／Could you…?（可以請你…嗎？）",
+    "explain_zh": "請對方幫忙時，英文常用 Could you + 原形動詞？，比 Can you 更客氣。問自己能不能做某事時用 Can I…? 或 Could I…?。中文常直接說「說慢一點」，但英文直接用命令句聽起來很兇，改成 Could you…, please? 就禮貌多了。",
+    "examples": [
+      {
+        "en": "Can I speak to Ms. Chen, please?",
+        "zh": "請問陳小姐在嗎？"
+      },
+      {
+        "en": "Could you call me back later?",
+        "zh": "可以請你晚點回我電話嗎？"
+      },
+      {
+        "en": "Could you spell that, please?",
+        "zh": "可以請你拼一下嗎？"
+      },
+      {
+        "en": "Can I leave a message?",
+        "zh": "我可以留言嗎？"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Hello, I am Mei. Can I speak to Mr. Lin?",
+      "right": "Hello, this is Mei. Can I speak to Mr. Lin?",
+      "why_zh": "講電話介紹自己用 This is ___，不說 I am ___。"
+    }
+  },
+  "sound_focus": {
+    "sound_id": "linking",
+    "words": [
+      "pick up",
+      "hang up",
+      "hold on",
+      "can I",
+      "take a message",
+      "call you back"
+    ],
+    "sentence": "She can't pick up right now. Can I take a message?"
+  },
+  "mini_lesson": [
+    "Step 1 (5 min): Warm-up. Ask 2-3 warm-up questions about LINE and phone habits. Show your own phone and point out: missed call, voice message, voicemail, battery.",
+    "Step 2 (7 min): Phone script. Write a basic call on the board: 'Hello, this is ___.' → 'Can I speak to ___?' → 'Hold on, please.' / 'Sorry, she's not here. Can I take a message?' Read it together, then erase words one at a time while she repeats from memory.",
+    "Step 3 (7 min): Grammar. Contrast 'Speak slowly.' (sounds rude) with 'Could you speak more slowly, please?' Give her 5 commands (say it again, spell it, call me back, wait, text me) and she turns each into a 'Could you...?' request.",
+    "Step 4 (6 min): Sound focus (linking). Show how a final consonant joins the next vowel: pick‿up = pih-KUP, hold‿on = hohl-DAHN, can‿I = kuh-nye, take‿a = TAY-kuh. Practice 'She can't pick up right now. Can I take a message?' slowly, then at natural speed.",
+    "Step 5 (5 min): Back-to-back listening. Sit back to back (no lip-reading, like a real call). Say a name and a phone number; she writes it down and reads it back: 'So that's 0912-345-678?'"
+  ],
+  "roleplays": [
+    {
+      "level": "easy",
+      "title": "Calling an office",
+      "setup_zh": "她打電話到朋友的公司找人，對方不在，請接電話的人幫忙留言。",
+      "teacher_role": "Receptionist at a travel agency",
+      "student_role": "Herself, the caller",
+      "lines": [
+        {
+          "who": "T",
+          "en": "Hello, Sunshine Travel. How can I help you?"
+        },
+        {
+          "who": "S",
+          "en": "Hello, this is ___. Can I speak to Ms. Wang, please?",
+          "zh": "你好，我是 ___。請問王小姐在嗎？"
+        },
+        {
+          "who": "T",
+          "en": "Sorry, she's not here right now. Can I take a message?"
+        },
+        {
+          "who": "S",
+          "en": "Yes, please. Could you ask her to call me back?",
+          "zh": "好的，可以請她回我電話嗎？"
+        },
+        {
+          "who": "T",
+          "en": "Sure. What's your phone number?"
+        },
+        {
+          "who": "S",
+          "en": "It's ___.",
+          "zh": "我的電話是 ___。"
+        },
+        {
+          "who": "T",
+          "en": "Let me check. Zero nine one two... Is that right?"
+        },
+        {
+          "who": "S",
+          "en": "Yes, that's right. Thank you so much.",
+          "zh": "對，沒錯。非常謝謝你。"
+        },
+        {
+          "who": "T",
+          "en": "You're welcome. Have a nice day!"
+        },
+        {
+          "who": "S",
+          "en": "You too. Bye!",
+          "zh": "你也是，再見！"
+        }
+      ]
+    },
+    {
+      "level": "challenge",
+      "title": "Changing a reservation by phone",
+      "setup_zh": "她打電話到餐廳更改訂位。店員講很快，電話還有雜音，她要請對方說慢一點、重複，並確認細節。",
+      "teacher_role": "Restaurant staff who talks fast on a bad line",
+      "student_role": "Herself",
+      "lines": [
+        {
+          "who": "T",
+          "en": "Good-afternoon-Golden-Garden-how-can-I-help-you?"
+        },
+        {
+          "who": "S",
+          "en": "Hi. Sorry, could you speak more slowly, please?",
+          "zh": "你好。不好意思，可以說慢一點嗎？"
+        },
+        {
+          "who": "T",
+          "en": "Of course. Golden Garden. How can I help you?"
+        },
+        {
+          "who": "S",
+          "en": "I have a reservation for Friday. Can I change it to Saturday?",
+          "zh": "我星期五有訂位，可以改到星期六嗎？"
+        },
+        {
+          "who": "T",
+          "en": "Sure. What's the name on the reservation?"
+        },
+        {
+          "who": "S",
+          "en": "It's under ___. That's ___ (spell your name).",
+          "zh": "名字是 ___，拼法是 ___。"
+        },
+        {
+          "who": "T",
+          "en": "Thank you. And for how... [noise] ...people?"
+        },
+        {
+          "who": "S",
+          "en": "Sorry, I can't hear you. Could you say that again?",
+          "zh": "抱歉，我聽不到，可以再說一次嗎？"
+        },
+        {
+          "who": "T",
+          "en": "How many people?"
+        },
+        {
+          "who": "S",
+          "en": "Four people, at seven o'clock, please.",
+          "zh": "四個人，七點，麻煩你。"
+        },
+        {
+          "who": "T",
+          "en": "OK, Saturday at seven for four. We'll send you a text message to confirm."
+        },
+        {
+          "who": "S",
+          "en": "Great. Thank you! Bye.",
+          "zh": "太好了，謝謝！再見。"
+        }
+      ],
+      "teacher_twists": [
+        "Say Saturday at seven is full, so she has to ask 'Could I come at eight instead?'",
+        "Read her phone number back with one wrong digit so she has to correct you ('No, it's zero nine one...').",
+        "Pretend the line drops ('Hello? Hello?') so she has to say 'Sorry, I can't hear you. I'll call you back.'"
+      ]
+    }
+  ],
+  "homework_zh": [
+    "用 LINE 傳 3 則英文訊息給老師（例如 Could you send me the homework?），練習 Can I / Could you。",
+    "錄一則 20 秒的英文語音留言：說你是誰、要找誰、請對方回電，並留下電話號碼。",
+    "每天用英文唸兩次自己的手機號碼，並練習 hold on、pick up、can I 的連音。"
+  ]
+}

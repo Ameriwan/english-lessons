@@ -1,0 +1,1227 @@
+{
+ "version": 1,
+ "intro_zh": "歡迎！這不是考試，沒有分數，也不會不及格，放輕鬆就好。題目會從很簡單開始，慢慢變難；不會的直接按「我不知道」跳過，完全沒關係。這個小測驗是幫老師了解你現在的程度，好安排最適合你的課。累了隨時可以休息喔！",
+ "intro_teacher": "This placement test has 8 parts that alternate between her working on the device (auto-scored) and you running a task out loud (you tap the ratings). Every part climbs from Level 1 (Starter) to Level 4 (Intermediate), and the site stops a part once she fails a level, so a near-beginner will move through quickly and a stronger learner will take longer. Plan on roughly 45-60 minutes. Keep it relaxed: this is for planning lessons, not grading her. Encourage her to tap \"I don't know\" instead of guessing, and take a break or stop early if she gets tired; partial results are still useful. In your parts, speak at a natural-slow pace, rephrase before you mark something wrong, and rate what she can actually do, not what she almost did.",
+ "levels": [
+  {
+   "level": 1,
+   "name_en": "Starter",
+   "name_zh": "入門",
+   "cefr": "Pre-A1"
+  },
+  {
+   "level": 2,
+   "name_en": "Beginner",
+   "name_zh": "初級",
+   "cefr": "A1"
+  },
+  {
+   "level": 3,
+   "name_en": "Elementary",
+   "name_zh": "初中級",
+   "cefr": "A2"
+  },
+  {
+   "level": 4,
+   "name_en": "Intermediate",
+   "name_zh": "中級",
+   "cefr": "B1"
+  }
+ ],
+ "parts": [
+  {
+   "id": "vocab",
+   "mode": "computer",
+   "kind": "choice",
+   "skill": "vocabulary",
+   "title_en": "Vocabulary",
+   "title_zh": "單字",
+   "student_zh": "看英文單字或句子，選出正確的中文意思。不會的話，按「我不知道」就好。",
+   "items": [
+    {
+     "level": 1,
+     "prompt": "apple",
+     "options": [
+      "蘋果",
+      "香蕉",
+      "西瓜",
+      "葡萄"
+     ]
+    },
+    {
+     "level": 1,
+     "prompt": "dog",
+     "options": [
+      "狗",
+      "貓",
+      "鳥",
+      "魚"
+     ]
+    },
+    {
+     "level": 1,
+     "prompt": "red",
+     "options": [
+      "紅色",
+      "藍色",
+      "黃色",
+      "綠色"
+     ]
+    },
+    {
+     "level": 1,
+     "prompt": "seven",
+     "options": [
+      "七",
+      "六",
+      "九",
+      "十七"
+     ]
+    },
+    {
+     "level": 1,
+     "prompt": "mother",
+     "options": [
+      "媽媽",
+      "爸爸",
+      "姊姊",
+      "奶奶"
+     ]
+    },
+    {
+     "level": 1,
+     "prompt": "Good morning!",
+     "options": [
+      "早安！",
+      "晚安！",
+      "午安！",
+      "再見！"
+     ]
+    },
+    {
+     "level": 2,
+     "prompt": "breakfast",
+     "options": [
+      "早餐",
+      "午餐",
+      "晚餐",
+      "點心"
+     ]
+    },
+    {
+     "level": 2,
+     "prompt": "kitchen",
+     "options": [
+      "廚房",
+      "客廳",
+      "臥室",
+      "浴室"
+     ]
+    },
+    {
+     "level": 2,
+     "prompt": "Wednesday",
+     "options": [
+      "星期三",
+      "星期二",
+      "星期四",
+      "星期五"
+     ]
+    },
+    {
+     "level": 2,
+     "prompt": "hungry",
+     "options": [
+      "肚子餓",
+      "口渴",
+      "很累",
+      "吃飽了"
+     ]
+    },
+    {
+     "level": 2,
+     "prompt": "expensive",
+     "options": [
+      "貴",
+      "便宜",
+      "漂亮",
+      "乾淨"
+     ]
+    },
+    {
+     "level": 2,
+     "prompt": "take a shower",
+     "options": [
+      "洗澡",
+      "刷牙",
+      "洗臉",
+      "洗衣服"
+     ]
+    },
+    {
+     "level": 3,
+     "prompt": "luggage",
+     "options": [
+      "行李",
+      "護照",
+      "機票",
+      "背包"
+     ]
+    },
+    {
+     "level": 3,
+     "prompt": "neighbor",
+     "options": [
+      "鄰居",
+      "同事",
+      "親戚",
+      "室友"
+     ]
+    },
+    {
+     "level": 3,
+     "prompt": "headache",
+     "options": [
+      "頭痛",
+      "牙痛",
+      "肚子痛",
+      "發燒"
+     ]
+    },
+    {
+     "level": 3,
+     "prompt": "crowded",
+     "options": [
+      "擁擠",
+      "安靜",
+      "乾淨",
+      "危險"
+     ]
+    },
+    {
+     "level": 3,
+     "prompt": "forgot",
+     "options": [
+      "忘記了",
+      "記得",
+      "弄丟了",
+      "找到了"
+     ]
+    },
+    {
+     "level": 3,
+     "prompt": "on sale",
+     "options": [
+      "特價",
+      "賣完了",
+      "新上市",
+      "免費"
+     ]
+    },
+    {
+     "level": 4,
+     "prompt": "look forward to",
+     "options": [
+      "期待",
+      "往前看",
+      "尋找",
+      "擔心"
+     ]
+    },
+    {
+     "level": 4,
+     "prompt": "I'm running late.",
+     "options": [
+      "我快遲到了。",
+      "我正在跑步。",
+      "我很早就到了。",
+      "我跑得很慢。"
+     ]
+    },
+    {
+     "level": 4,
+     "prompt": "It's up to you.",
+     "options": [
+      "由你決定。",
+      "輪到你了。",
+      "你站起來。",
+      "這是給你的。"
+     ]
+    },
+    {
+     "level": 4,
+     "prompt": "I'm used to it.",
+     "options": [
+      "我已經習慣了。",
+      "我以前常用它。",
+      "我很喜歡它。",
+      "我用完了。"
+     ]
+    },
+    {
+     "level": 4,
+     "prompt": "It's not a big deal.",
+     "options": [
+      "沒什麼大不了的。",
+      "這不是一筆大生意。",
+      "這個不太大。",
+      "這件事很重要。"
+     ]
+    },
+    {
+     "level": 4,
+     "prompt": "get along with someone",
+     "options": [
+      "和某人相處得很好",
+      "跟著某人走",
+      "和某人一起出門",
+      "和某人吵架"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "interview",
+   "mode": "teacher",
+   "kind": "interview",
+   "skill": "speaking",
+   "title_en": "Getting to Know You",
+   "title_zh": "聊聊你自己",
+   "student_zh": "老師會用英文問你一些問題，用英文回答就好，說錯也沒關係。聽不懂可以說「Sorry, can you say that again?」",
+   "teacher_notes": "Ask the questions in order at a relaxed, natural-slow pace. If she doesn't understand, repeat once, then use the 'simpler' version; avoid switching to Chinese. The 'good answer' is only an example of a solid response at that level, so any reasonable answer counts. Rate how well she communicates the meaning, not perfect grammar.",
+   "levels": [
+    {
+     "level": 1,
+     "questions": [
+      {
+       "say": "Hello! What's your name?",
+       "simpler": "Your name?",
+       "good_answer": "My name is Lin."
+      },
+      {
+       "say": "How are you today?",
+       "simpler": "Are you OK? Good?",
+       "good_answer": "I'm fine, thank you."
+      },
+      {
+       "say": "Where do you live?",
+       "simpler": "Your city? Taipei? Tainan?",
+       "good_answer": "I live in Tainan."
+      },
+      {
+       "say": "Do you have any brothers or sisters?",
+       "simpler": "Brother? Sister?",
+       "good_answer": "Yes, I have one brother and two sisters."
+      }
+     ]
+    },
+    {
+     "level": 2,
+     "questions": [
+      {
+       "say": "What do you do? What's your job?",
+       "simpler": "Your job?",
+       "good_answer": "I work in an office."
+      },
+      {
+       "say": "What time do you usually get up?",
+       "simpler": "You get up... what time? Six? Seven?",
+       "good_answer": "I usually get up at six thirty."
+      },
+      {
+       "say": "What do you usually eat for breakfast?",
+       "simpler": "Breakfast. What do you eat?",
+       "good_answer": "I eat an egg pancake and drink soy milk."
+      },
+      {
+       "say": "What do you like to do on weekends?",
+       "simpler": "Saturday and Sunday. What do you do?",
+       "good_answer": "I like to go shopping and watch TV with my family."
+      }
+     ]
+    },
+    {
+     "level": 3,
+     "questions": [
+      {
+       "say": "What did you do last weekend?",
+       "simpler": "Last Saturday. What did you do?",
+       "good_answer": "I went to the night market with my friends. We ate a lot!"
+      },
+      {
+       "say": "Tell me about a trip you took. Where did you go?",
+       "simpler": "A trip. Where did you go? When?",
+       "good_answer": "Last year I went to Japan with my family. We visited Osaka and ate sushi."
+      },
+      {
+       "say": "Why do you want to learn English?",
+       "simpler": "English. Why do you study it?",
+       "good_answer": "Because I want to travel and talk to people from other countries."
+      },
+      {
+       "say": "How do you get from your home to the nearest convenience store?",
+       "simpler": "Your home to the convenience store. How do you go? Left? Right?",
+       "good_answer": "I go out of my building, turn left, and walk for two minutes. It's on the right."
+      }
+     ]
+    },
+    {
+     "level": 4,
+     "questions": [
+      {
+       "say": "What do you like and dislike about living in Taiwan? Why?",
+       "simpler": "Taiwan. What's good? What's not so good?",
+       "good_answer": "I love the food and the people are really friendly, but the summer is too hot and the traffic can be stressful."
+      },
+      {
+       "say": "If you could live in another country for one year, where would you go, and why?",
+       "simpler": "One year, another country. Where? Why?",
+       "good_answer": "I'd go to Canada, because the nature is beautiful and I could practice my English every day."
+      },
+      {
+       "say": "Tell me about a time when something went wrong, for example on a trip. What happened?",
+       "simpler": "A problem, a bad day. What happened?",
+       "good_answer": "Once I left my phone in a taxi. I called the taxi company, and luckily the driver brought it back the next day."
+      },
+      {
+       "say": "Do you think children should start learning English when they're very young? Why or why not?",
+       "simpler": "Small kids learn English. Good idea or not? Why?",
+       "good_answer": "I think it's a good idea, because young kids learn sounds easily. But they shouldn't feel too much pressure."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "mode": "computer",
+   "kind": "listen",
+   "skill": "listening",
+   "title_en": "Listening",
+   "title_zh": "聽力",
+   "student_zh": "聽一段英文（可以多聽幾次），選出正確的意思或答案。有些題目是兩個人的簡短對話。",
+   "items": [
+    {
+     "level": 1,
+     "say": "I have two cats.",
+     "question_zh": "你聽到什麼？",
+     "options": [
+      "我有兩隻貓。",
+      "我有兩隻狗。",
+      "我有三隻貓。",
+      "我沒有貓。"
+     ]
+    },
+    {
+     "level": 1,
+     "say": "My bag is red.",
+     "question_zh": "你聽到什麼？",
+     "options": [
+      "我的包包是紅色的。",
+      "我的包包是藍色的。",
+      "我的帽子是紅色的。",
+      "我的包包很大。"
+     ]
+    },
+    {
+     "level": 1,
+     "say": "This is my mother.",
+     "question_zh": "你聽到什麼？",
+     "options": [
+      "這是我媽媽。",
+      "這是我爸爸。",
+      "這是我姊姊。",
+      "這是我奶奶。"
+     ]
+    },
+    {
+     "level": 1,
+     "say": "It's ten o'clock.",
+     "question_zh": "你聽到什麼？",
+     "options": [
+      "現在十點。",
+      "現在兩點。",
+      "現在十點半。",
+      "現在七點。"
+     ]
+    },
+    {
+     "level": 2,
+     "say": "I get up at seven and go to work by bus.",
+     "question_zh": "你聽到什麼？",
+     "options": [
+      "我七點起床，搭公車上班。",
+      "我七點起床，騎機車上班。",
+      "我十一點起床，搭公車上班。",
+      "我七點下班，搭公車回家。"
+     ]
+    },
+    {
+     "level": 2,
+     "say": "Do you want tea or coffee?",
+     "question_zh": "對方在問什麼？",
+     "options": [
+      "你要喝茶還是咖啡？",
+      "你要喝茶嗎？",
+      "你喜歡咖啡嗎？",
+      "你要喝水還是果汁？"
+     ]
+    },
+    {
+     "level": 2,
+     "say": "My friend lives in Tainan. She is a nurse.",
+     "question_zh": "你聽到什麼？",
+     "options": [
+      "我朋友住在台南，她是護理師。",
+      "我朋友住在台南，她是老師。",
+      "我朋友住在台中，她是護理師。",
+      "我住在台南，我是護理師。"
+     ]
+    },
+    {
+     "level": 2,
+     "say": "How much is this shirt?",
+     "question_zh": "對方在問什麼？",
+     "options": [
+      "這件襯衫多少錢？",
+      "這件襯衫是什麼顏色？",
+      "這件襯衫有大號的嗎？",
+      "這件外套多少錢？"
+     ]
+    },
+    {
+     "level": 3,
+     "say": "Did you go to work yesterday? No, I didn't. I stayed home because I had a bad cold.",
+     "question_zh": "回答的人昨天為什麼沒去上班？",
+     "options": [
+      "因為感冒了。",
+      "因為要照顧小孩。",
+      "因為那天放假。",
+      "因為睡過頭了。"
+     ]
+    },
+    {
+     "level": 3,
+     "say": "Excuse me, is there a bank near here? Yes. Go straight and turn left. It's next to the post office.",
+     "question_zh": "銀行在哪裡？",
+     "options": [
+      "在郵局旁邊。",
+      "在郵局對面。",
+      "在便利商店旁邊。",
+      "在車站後面。"
+     ]
+    },
+    {
+     "level": 3,
+     "say": "Attention, please. The train to Taipei will leave from platform three at four fifteen.",
+     "question_zh": "火車幾點開？",
+     "options": [
+      "四點十五分",
+      "四點五十分",
+      "三點十五分",
+      "五點十五分"
+     ]
+    },
+    {
+     "level": 3,
+     "say": "Sorry I'm late. I missed the bus, so I took a taxi.",
+     "question_zh": "說話的人是怎麼來的？",
+     "options": [
+      "搭計程車",
+      "搭公車",
+      "走路",
+      "騎機車"
+     ]
+    },
+    {
+     "level": 4,
+     "say": "Hi, this is Karen from Doctor Lee's office. I'm calling to let you know that your appointment on Tuesday has been moved to Thursday, at the same time. Please call us back if that doesn't work for you.",
+     "question_zh": "預約改到什麼時候？",
+     "options": [
+      "星期四，同一個時間",
+      "星期二，同一個時間",
+      "星期四，時間還沒決定",
+      "下個星期二早上"
+     ]
+    },
+    {
+     "level": 4,
+     "say": "I was going to take the MRT, but it was so crowded that I decided to walk. It only took twenty minutes, and honestly, it was nicer.",
+     "question_zh": "說話的人最後怎麼去的？為什麼？",
+     "options": [
+      "走路，因為捷運太擠了",
+      "搭捷運，因為走路太遠了",
+      "走路，因為捷運停駛了",
+      "搭計程車，因為快遲到了"
+     ]
+    },
+    {
+     "level": 4,
+     "say": "The restaurant was nice, but honestly, the food wasn't worth the price. I'd rather go back to that little noodle shop near my house.",
+     "question_zh": "說話的人覺得那家餐廳怎麼樣？",
+     "options": [
+      "環境不錯，但東西不值那個價錢",
+      "很好吃，而且很便宜",
+      "很貴，而且服務很差",
+      "很好吃，還想再去一次"
+     ]
+    },
+    {
+     "level": 4,
+     "say": "Good afternoon, passengers. Because of heavy rain, flight 108 to Tokyo has been delayed by about two hours. We apologize for the inconvenience.",
+     "question_zh": "班機為什麼延誤？",
+     "options": [
+      "因為下大雨",
+      "因為飛機故障",
+      "因為起大霧",
+      "因為機場人太多"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "readaloud",
+   "mode": "teacher",
+   "kind": "readaloud",
+   "skill": "pronunciation",
+   "title_en": "Read Aloud",
+   "title_zh": "朗讀",
+   "student_zh": "請把螢幕上的短文大聲唸出來。慢慢唸就好，不會唸的字跳過也沒關係。",
+   "teacher_notes": "Let her read each passage once without interrupting or correcting her. Listen for the sounds in the checklist (every 'watch' word appears in the passages) and mark the ones she has trouble with. If a passage is clearly too hard (long pauses on most words), stop there; the earlier passages already give you plenty to work with.",
+   "passages": [
+    {
+     "level": 1,
+     "title": "My Family",
+     "text": "Hi! I'm Lin. This is my family. My mother is a good cook. My father has a big black dog. We have three cats."
+    },
+    {
+     "level": 2,
+     "title": "My Day",
+     "text": "Every morning, I get up at six. I eat rice and eggs, and I drink hot milk. Then I walk to work. I live on a long street near the river. In the evening, I like to read and watch videos."
+    },
+    {
+     "level": 3,
+     "title": "A Rainy Weekend",
+     "text": "Last weekend, my friends and I planned a trip to the mountains. On Saturday morning, it started to rain, so we stayed in a little hotel and played cards. On Sunday, the weather was clear and beautiful. We walked around the lake, took lots of photos, and ate delicious local food. It was wonderful, and we all want to go back next month."
+    },
+    {
+     "level": 4,
+     "title": "Learning English",
+     "text": "I think learning a new language is like learning to ride a bike. At first, it's very difficult, and you feel a little silly. But if you practice every day, it slowly gets easier. Last year, I visited my cousin in Vancouver. I was nervous, so I didn't say much. One afternoon, I ordered a coffee by myself, and the barista understood me right away. That small moment really helped my confidence. Now I believe I can improve, one step at a time."
+    }
+   ],
+   "checks": [
+    {
+     "sound_id": "th",
+     "label_en": "TH (think, this)",
+     "label_zh": "TH 音",
+     "watch": [
+      "this",
+      "mother",
+      "father",
+      "three",
+      "the",
+      "think"
+     ]
+    },
+    {
+     "sound_id": "v-w",
+     "label_en": "V vs W (very, we)",
+     "label_zh": "V 和 W",
+     "watch": [
+      "have",
+      "videos",
+      "walk",
+      "work",
+      "very",
+      "wonderful"
+     ]
+    },
+    {
+     "sound_id": "l-r",
+     "label_en": "L vs R (light, right)",
+     "label_zh": "L 和 R",
+     "watch": [
+      "rice",
+      "long",
+      "river",
+      "read",
+      "little",
+      "really"
+     ]
+    },
+    {
+     "sound_id": "final-consonants",
+     "label_en": "Final consonants (good, dog, hot)",
+     "label_zh": "字尾子音",
+     "watch": [
+      "good",
+      "black",
+      "dog",
+      "hot",
+      "food",
+      "took"
+     ]
+    },
+    {
+     "sound_id": "extra-vowel",
+     "label_en": "No extra vowel (milk, not milk-uh)",
+     "label_zh": "不加多餘的母音",
+     "watch": [
+      "milk",
+      "bike",
+      "drink",
+      "walked",
+      "played",
+      "helped"
+     ]
+    },
+    {
+     "sound_id": "short-long-vowels",
+     "label_en": "Short vs long vowels (live / leave)",
+     "label_zh": "長短母音",
+     "watch": [
+      "eat",
+      "live",
+      "six",
+      "street",
+      "feel",
+      "silly"
+     ]
+    },
+    {
+     "sound_id": "clusters",
+     "label_en": "Consonant clusters (street, friends)",
+     "label_zh": "子音群（連續子音）",
+     "watch": [
+      "street",
+      "drink",
+      "friends",
+      "started",
+      "first",
+      "small"
+     ]
+    },
+    {
+     "sound_id": "stress",
+     "label_en": "Word stress (deLIcious, hoTEL)",
+     "label_zh": "單字重音",
+     "watch": [
+      "family",
+      "beautiful",
+      "delicious",
+      "hotel",
+      "difficult",
+      "afternoon"
+     ]
+    },
+    {
+     "sound_id": "linking",
+     "label_en": "Linking (get up at, lots of)",
+     "label_zh": "連音",
+     "watch": [
+      "get up at",
+      "rice and eggs",
+      "lots of",
+      "walked around",
+      "right away",
+      "step at a time"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "grammar",
+   "mode": "computer",
+   "kind": "choice",
+   "skill": "grammar",
+   "title_en": "Grammar",
+   "title_zh": "文法",
+   "student_zh": "選出最適合填入空格的答案。",
+   "items": [
+    {
+     "level": 1,
+     "prompt": "I ___ a teacher.",
+     "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+     ],
+     "hint_zh": "我是一位老師。"
+    },
+    {
+     "level": 1,
+     "prompt": "This is my brother. ___ is a doctor.",
+     "options": [
+      "He",
+      "She",
+      "It",
+      "His"
+     ],
+     "hint_zh": "這是我哥哥。他是醫生。"
+    },
+    {
+     "level": 1,
+     "prompt": "I have two ___.",
+     "options": [
+      "dogs",
+      "dog",
+      "a dog",
+      "the dog"
+     ],
+     "hint_zh": "我有兩隻狗。"
+    },
+    {
+     "level": 1,
+     "prompt": "I eat ___ apple every day.",
+     "options": [
+      "an",
+      "a",
+      "two",
+      "many"
+     ],
+     "hint_zh": "我每天吃一顆蘋果。"
+    },
+    {
+     "level": 1,
+     "prompt": "This is ___ bag.",
+     "options": [
+      "my",
+      "I",
+      "me",
+      "mine"
+     ],
+     "hint_zh": "這是我的包包。"
+    },
+    {
+     "level": 2,
+     "prompt": "My father ___ TV every night.",
+     "options": [
+      "watches",
+      "watch",
+      "watching",
+      "is watch"
+     ],
+     "hint_zh": "我爸爸每天晚上看電視。"
+    },
+    {
+     "level": 2,
+     "prompt": "She ___ like spicy food.",
+     "options": [
+      "doesn't",
+      "don't",
+      "isn't",
+      "not"
+     ],
+     "hint_zh": "她不喜歡吃辣。"
+    },
+    {
+     "level": 2,
+     "prompt": "___ you like cats?",
+     "options": [
+      "Do",
+      "Are",
+      "Does",
+      "Is"
+     ],
+     "hint_zh": "你喜歡貓嗎？"
+    },
+    {
+     "level": 2,
+     "prompt": "I get up ___ seven o'clock.",
+     "options": [
+      "at",
+      "in",
+      "on",
+      "for"
+     ],
+     "hint_zh": "我七點起床。"
+    },
+    {
+     "level": 2,
+     "prompt": "There ___ two banks on my street.",
+     "options": [
+      "are",
+      "is",
+      "have",
+      "has"
+     ],
+     "hint_zh": "我家那條街上有兩家銀行。"
+    },
+    {
+     "level": 3,
+     "prompt": "Yesterday I ___ to the night market.",
+     "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+     ]
+    },
+    {
+     "level": 3,
+     "prompt": "Did you ___ the movie last night?",
+     "options": [
+      "see",
+      "saw",
+      "seen",
+      "seeing"
+     ]
+    },
+    {
+     "level": 3,
+     "prompt": "Taipei is ___ than Tainan.",
+     "options": [
+      "bigger",
+      "more big",
+      "big",
+      "biggest"
+     ]
+    },
+    {
+     "level": 3,
+     "prompt": "I ___ dinner when my phone rang.",
+     "options": [
+      "was eating",
+      "eat",
+      "am eating",
+      "was eat"
+     ]
+    },
+    {
+     "level": 3,
+     "prompt": "There isn't ___ milk in the fridge.",
+     "options": [
+      "any",
+      "some",
+      "many",
+      "a"
+     ]
+    },
+    {
+     "level": 4,
+     "prompt": "I ___ in Kaohsiung since 2015.",
+     "options": [
+      "have lived",
+      "lived",
+      "am living",
+      "live"
+     ]
+    },
+    {
+     "level": 4,
+     "prompt": "I ___ Tokyo last year.",
+     "options": [
+      "visited",
+      "have visited",
+      "visit",
+      "have visit"
+     ]
+    },
+    {
+     "level": 4,
+     "prompt": "I enjoy ___ to music.",
+     "options": [
+      "listening",
+      "listen",
+      "to listen",
+      "listened"
+     ]
+    },
+    {
+     "level": 4,
+     "prompt": "If it rains tomorrow, we ___ at home.",
+     "options": [
+      "will stay",
+      "stayed",
+      "staying",
+      "would stayed"
+     ]
+    },
+    {
+     "level": 4,
+     "prompt": "That was the most ___ movie I've ever seen.",
+     "options": [
+      "interesting",
+      "interested",
+      "interest",
+      "more interesting"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "story",
+   "mode": "teacher",
+   "kind": "story",
+   "skill": "listening",
+   "title_en": "Story Time",
+   "title_zh": "聽故事",
+   "student_zh": "老師會唸一個小故事，然後問你幾個問題。用英文或中文回答都可以。",
+   "teacher_notes": "Read each story at a natural-slow speed; you may read it twice. Then ask the three questions in English, rephrasing if needed. She may answer in English or Chinese, since this checks understanding, not speaking. Mark each answer correct, partly, or wrong.",
+   "stories": [
+    {
+     "level": 1,
+     "title": "Amy's Family",
+     "text": "This is Amy. She is thirty-five. She lives in a small house with her husband and two children. Her son is eight, and her daughter is five. They have a white cat. The cat's name is Snow. Amy loves her family.",
+     "questions": [
+      {
+       "q": "What is the woman's name?",
+       "answer": "Amy"
+      },
+      {
+       "q": "How many children does she have?",
+       "answer": "Two (a son and a daughter)"
+      },
+      {
+       "q": "What color is the cat?",
+       "answer": "White"
+      }
+     ]
+    },
+    {
+     "level": 2,
+     "title": "Ben the Bus Driver",
+     "text": "Ben is a bus driver. He gets up at five thirty every morning. He drinks a cup of coffee and eats bread for breakfast. He starts work at six thirty. He drives the same bus every day, and he knows a lot of the passengers. He finishes work at three. After work, he plays basketball with his friends in the park.",
+     "questions": [
+      {
+       "q": "What is Ben's job?",
+       "answer": "Bus driver (公車司機)"
+      },
+      {
+       "q": "What time does he get up?",
+       "answer": "5:30"
+      },
+      {
+       "q": "What does he do after work?",
+       "answer": "Plays basketball with his friends (in the park)"
+      }
+     ]
+    },
+    {
+     "level": 3,
+     "title": "A Bad Morning",
+     "text": "Last Monday, Mei had a terrible morning. Her alarm didn't ring, so she woke up at eight fifteen. She had a job interview at nine! She didn't have time for breakfast. She ran out of the house and waited for the bus, but it was very late. Finally, she took a taxi. In the taxi, she realized her phone was still at home. She arrived at the office at five to nine, and the interview went well. The next day, the company called her. She got the job!",
+     "questions": [
+      {
+       "q": "Why did Mei wake up late?",
+       "answer": "Her alarm didn't ring (鬧鐘沒響)"
+      },
+      {
+       "q": "How did she get to the office?",
+       "answer": "By taxi"
+      },
+      {
+       "q": "What happened the next day?",
+       "answer": "The company called her. She got the job."
+      }
+     ]
+    },
+    {
+     "level": 4,
+     "title": "Life Without a Car",
+     "text": "When my friend Jenny moved to Taichung last year, she decided to sell her car and use public transportation instead. At first, her family thought she was crazy. \"How will you carry your groceries?\" her mom asked. But Jenny says it's been one of the best decisions she's ever made. She saves about eight thousand dollars a month on gas, parking, and insurance. She also walks a lot more, so she feels healthier, and she reads on the bus instead of sitting in traffic. The only problem is the summer. Waiting at the bus stop in the heat isn't fun, and sometimes the bus is late. Still, she says she'd never go back to driving. She doesn't miss her car at all.",
+     "questions": [
+      {
+       "q": "What did Jenny decide to do when she moved?",
+       "answer": "Sell her car and take public transportation (the bus)"
+      },
+      {
+       "q": "Name two good things about her decision.",
+       "answer": "Any two: saves money (about 8,000 a month), walks more / healthier, reads on the bus"
+      },
+      {
+       "q": "What is the only problem?",
+       "answer": "Summer: waiting in the heat (and sometimes the bus is late)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pairs",
+   "mode": "computer",
+   "kind": "pairs",
+   "skill": "pronunciation",
+   "title_en": "Which Word?",
+   "title_zh": "聽音辨字",
+   "student_zh": "聽一個字，選出你聽到的是哪一個（可以多聽幾次）。",
+   "items": [
+    {
+     "sound_id": "th",
+     "a": "think",
+     "b": "sink",
+     "play": "a"
+    },
+    {
+     "sound_id": "v-w",
+     "a": "vest",
+     "b": "west",
+     "play": "b"
+    },
+    {
+     "sound_id": "l-r",
+     "a": "light",
+     "b": "right",
+     "play": "a"
+    },
+    {
+     "sound_id": "final-consonants",
+     "a": "card",
+     "b": "car",
+     "play": "a"
+    },
+    {
+     "sound_id": "extra-vowel",
+     "a": "pick",
+     "b": "picky",
+     "play": "a"
+    },
+    {
+     "sound_id": "short-long-vowels",
+     "a": "ship",
+     "b": "sheep",
+     "play": "b"
+    },
+    {
+     "sound_id": "clusters",
+     "a": "sport",
+     "b": "support",
+     "play": "a"
+    },
+    {
+     "sound_id": "stress",
+     "a": "desert",
+     "b": "dessert",
+     "play": "b"
+    },
+    {
+     "sound_id": "th",
+     "a": "three",
+     "b": "tree",
+     "play": "b"
+    },
+    {
+     "sound_id": "v-w",
+     "a": "vine",
+     "b": "wine",
+     "play": "a"
+    },
+    {
+     "sound_id": "l-r",
+     "a": "long",
+     "b": "wrong",
+     "play": "b"
+    },
+    {
+     "sound_id": "final-consonants",
+     "a": "bag",
+     "b": "back",
+     "play": "b"
+    },
+    {
+     "sound_id": "extra-vowel",
+     "a": "sit",
+     "b": "city",
+     "play": "b"
+    },
+    {
+     "sound_id": "short-long-vowels",
+     "a": "full",
+     "b": "fool",
+     "play": "a"
+    },
+    {
+     "sound_id": "clusters",
+     "a": "please",
+     "b": "police",
+     "play": "b"
+    },
+    {
+     "sound_id": "stress",
+     "a": "thirteen",
+     "b": "thirty",
+     "play": "a"
+    }
+   ]
+  },
+  {
+   "id": "roleplay",
+   "mode": "teacher",
+   "kind": "roleplay",
+   "skill": "speaking",
+   "title_en": "Role-Play",
+   "title_zh": "情境對話",
+   "student_zh": "我們來演一個小情境！先看中文說明，老師會扮演另一個角色，請你用英文跟老師對話。",
+   "teacher_notes": "Make sure she understands the Chinese setup, then play your role. Use the lines as a guide and improvise around whatever she says; slow down or rephrase if she's stuck, but don't feed her the English. Rate each scene 0-3: 0 = couldn't do the task, 1 = got through only with lots of help or single words, 2 = completed it with some errors or pauses, 3 = completed it smoothly and naturally.",
+   "scenes": [
+    {
+     "level": 1,
+     "title_en": "At a coffee shop",
+     "title_zh": "在咖啡店",
+     "setup_zh": "你在咖啡店，想點一杯咖啡。老師是店員。",
+     "teacher_role": "Barista",
+     "lines": [
+      "Hi! What would you like?",
+      "Hot or iced?",
+      "What size? Small, medium, or large?",
+      "For here or to go?",
+      "Anything else?",
+      "That's 120 dollars."
+     ],
+     "success_en": "She can order a drink and answer simple yes/no and choice questions."
+    },
+    {
+     "level": 2,
+     "title_en": "Buying clothes",
+     "title_zh": "買衣服",
+     "setup_zh": "你在服飾店，想買一件T恤。老師是店員。",
+     "teacher_role": "Shop assistant",
+     "lines": [
+      "Hi! Can I help you?",
+      "What color do you like?",
+      "What size do you wear? Small, medium, or large?",
+      "Do you want to try it on?",
+      "How does it fit?",
+      "It's 590 dollars. Cash or card?"
+     ],
+     "success_en": "She can say what she wants, give a color and size, answer simple questions, and understand the price."
+    },
+    {
+     "level": 3,
+     "title_en": "The wrong order",
+     "title_zh": "餐點送錯了",
+     "setup_zh": "你在餐廳點了雞肉炒飯，可是服務生送來的是牛肉麵。請用英文告訴服務生，把問題解決。老師是服務生。",
+     "teacher_role": "Server",
+     "lines": [
+      "Here you go, one beef noodle soup!",
+      "Oh, really? What did you order?",
+      "I'm so sorry about that. Do you want to wait for the fried rice, or keep the noodles?",
+      "It'll take about ten minutes. Is that okay?",
+      "Can I get you something to drink while you wait?",
+      "Here's your chicken fried rice. Sorry again for the mix-up!"
+     ],
+     "success_en": "She can politely say there's a mistake, explain what she ordered (past tense), choose between options, and respond to an apology."
+    },
+    {
+     "level": 4,
+     "title_en": "Lost luggage at the airport",
+     "title_zh": "機場行李不見了",
+     "setup_zh": "你剛搭飛機到美國，可是你的行李箱一直沒有出來。請到行李服務櫃檯說明狀況。老師是航空公司的職員。",
+     "teacher_role": "Airline baggage agent",
+     "lines": [
+      "Hi there. How can I help you?",
+      "I'm sorry to hear that. What flight were you on?",
+      "Can you describe your suitcase? What does it look like?",
+      "Is there anything special about it, like a name tag or a sticker?",
+      "What's inside? Is there anything you need tonight, like medicine?",
+      "Where are you staying? We'll deliver it when we find it.",
+      "It usually takes a day or two. Do you have any questions for me?"
+     ],
+     "success_en": "She can explain a problem clearly, describe an object in detail (color, size, features), give her hotel or contact information, and ask her own follow-up questions."
+    }
+   ]
+  }
+ ]
+}

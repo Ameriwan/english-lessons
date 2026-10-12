@@ -1,0 +1,21 @@
+﻿id,unit_no,unit_en,unit_zh,english,chinese,ipa,sounds_like,example,example_zh,tip_zh
+u01-01,1,Greetings & Introductions,打招呼與自我介紹,hello,你好；哈囉,/həˈloʊ/,heh-LOH,"Hello, my name is Amy.",哈囉，我的名字是 Amy。,重音在後面：heh-LOH，不是 HEL-lo
+u01-02,1,Greetings & Introductions,打招呼與自我介紹,good morning,早安,/ɡʊd ˈmɔrnɪŋ/,good-MOR-ning,Good morning! Did you sleep well?,早安！你睡得好嗎？,
+u01-03,1,Greetings & Introductions,打招呼與自我介紹,name,名字,/neɪm/,NAYM,What's your name?,你叫什麼名字？,結尾 m 要閉上嘴唇，不要唸成 nay
+u01-04,1,Greetings & Introductions,打招呼與自我介紹,first name,名字（不含姓）,/ˈfɝst ˌneɪm/,FURST-naym,My first name is Mei-ling.,我的名字是美玲。,
+u01-05,1,Greetings & Introductions,打招呼與自我介紹,last name,姓,/ˈlæst ˌneɪm/,LAST-naym,My last name is Chen.,我姓陳。,英文名字在前、姓在後，跟中文相反
+u01-06,1,Greetings & Introductions,打招呼與自我介紹,Mr.,先生（加姓氏）,/ˈmɪstɚ/,MIS-ter,"Good morning, Mr. Wang.",王先生，早安。,後面接姓：Mr. Wang，不說 Mr. David
+u01-07,1,Greetings & Introductions,打招呼與自我介紹,Ms.,女士（加姓氏）,/mɪz/,MIZ,Ms. Lin is my boss.,林女士是我的老闆。,唸 MIZ，結尾是 z 音，不是 M-S
+u01-08,1,Greetings & Introductions,打招呼與自我介紹,live,住,/lɪv/,LIV,I live in Pingtung.,我住在屏東。,短音 i，結尾咬下唇發 v；不是 leave
+u01-09,1,Greetings & Introductions,打招呼與自我介紹,work,工作；上班,/wɝk/,WURK,I work at a hospital.,我在醫院工作。,work 要捲舌發 er，不要唸成 walk
+u01-10,1,Greetings & Introductions,打招呼與自我介紹,thank you,謝謝你,/ˈθæŋk ju/,THANK-yoo,Thank you for your help.,謝謝你的幫忙。,舌尖輕放上下牙齒間，不是 sank you
+u01-11,1,Greetings & Introductions,打招呼與自我介紹,goodbye,再見,/ɡʊdˈbaɪ/,good-BYE,Goodbye! See you next week.,再見！下週見。,
+u01-12,1,Greetings & Introductions,打招呼與自我介紹,See you later.,待會見；再見,/ˌsi ju ˈleɪɾɚ/,see-yoo-LAY-der,I have to go. See you later!,我得走了，待會見！,later 的 t 唸得像輕輕的 d
+u01-13,1,Greetings & Introductions,打招呼與自我介紹,How are you?,你好嗎？,/ˌhaʊ ər ˈju/,how-er-YOO,"Hi, Tom! How are you today?",嗨，Tom！你今天好嗎？,這是打招呼，簡單回答就好
+u01-14,1,Greetings & Introductions,打招呼與自我介紹,"Good, thanks. And you?",很好，謝謝。你呢？,/ˈɡʊd ˈθæŋks ən ˈju/,GOOD-thanks-un-YOO,"Good, thanks. And you? How's work?",很好，謝謝。你呢？工作還好嗎？,
+u01-15,1,Greetings & Introductions,打招呼與自我介紹,Nice to meet you.,很高興認識你。,/ˈnaɪs tə ˈmit ju/,nice-tuh-MEET-yoo,"Hi, I'm Jenny. Nice to meet you.",嗨，我是 Jenny。很高興認識你。,第一次見面用；再見面說 Nice to see you
+u01-16,1,Greetings & Introductions,打招呼與自我介紹,Where are you from?,你是哪裡人？,/ˌwɛr ər ju ˈfrʌm/,wair-er-yoo-FRUM,"Where are you from, Mark?",Mark，你是哪裡人？,
+u01-17,1,Greetings & Introductions,打招呼與自我介紹,I'm from Taiwan.,我來自台灣。,/aɪm frəm ˌtaɪˈwɑn/,im-frum-tie-WAHN,"I'm from Taiwan, near Kaohsiung.",我來自台灣，在高雄附近。,Taiwan 重音在後面：tie-WAHN
+u01-18,1,Greetings & Introductions,打招呼與自我介紹,What do you do?,你從事什麼工作？,/ˌwʌt də jə ˈdu/,wut-duh-yuh-DOO,"So, what do you do, Mike?",那 Mike，你從事什麼工作？,這是問職業，不是問「你在做什麼」
+u01-19,1,Greetings & Introductions,打招呼與自我介紹,How do you spell that?,那個怎麼拼？,/ˌhaʊ də jə ˈspɛl ðæt/,how-duh-yuh-SPEL-that,Kaohsiung? How do you spell that?,高雄？那個怎麼拼？,
+u01-20,1,Greetings & Introductions,打招呼與自我介紹,Can you say that again?,可以再說一次嗎？,/kən jə ˌseɪ ðæt əˈɡɛn/,kun-yuh-say-that-uh-GEN,"Sorry, can you say that again?",不好意思，可以再說一次嗎？,聽不懂就大方問；again 唸 uh-GEN

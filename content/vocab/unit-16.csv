@@ -1,0 +1,21 @@
+﻿id,unit_no,unit_en,unit_zh,english,chinese,ipa,sounds_like,example,example_zh,tip_zh
+u16-01,16,Travel,旅行,trip,旅行；出遊,/trɪp/,TRIP,We took a short trip to Hualien.,我們去花蓮玩了一趟。,tr 要連在一起，中間不要加「ㄜ」
+u16-02,16,Travel,旅行,passport,護照,/ˈpæsˌpɔrt/,PASS-port,Don't forget your passport!,別忘了帶護照！,
+u16-03,16,Travel,旅行,flight,班機；航班,/flaɪt/,FLYT,My flight leaves at 7 a.m.,我的班機早上七點起飛。,fl 之間不要加母音，不是 fu-light
+u16-04,16,Travel,旅行,check in,辦理入住；報到,/ˌtʃɛk ˈɪn/,chek-IN,We can check in after 3 p.m.,我們下午三點後可以入住。,check 的 k 跟 in 連起來：che-kin
+u16-05,16,Travel,旅行,sightseeing,觀光,/ˈsaɪtˌsiɪŋ/,SYT-see-ing,We went sightseeing in Kyoto.,我們在京都觀光。,
+u16-06,16,Travel,旅行,souvenir,紀念品,/ˌsuvəˈnɪr/,soo-vuh-NEER,I bought some souvenirs for my coworkers.,我買了一些紀念品給同事。,重音在最後一個音節 NEER
+u16-07,16,Travel,旅行,luggage,行李,/ˈlʌɡɪdʒ/,LUG-ij,My luggage is too heavy.,我的行李太重了。,luggage 不可數，不能加 s
+u16-08,16,Travel,旅行,abroad,出國；在國外,/əˈbrɔd/,uh-BRAWD,Have you ever traveled abroad?,你有出過國嗎？,直接說 go abroad，不說 go to abroad
+u16-09,16,Travel,旅行,jet lag,時差,/ˈdʒɛt ˌlæɡ/,JET-lag,I still have jet lag.,我還在調時差。,
+u16-10,16,Travel,旅行,a window seat,靠窗的座位,/ə ˈwɪndoʊ ˌsit/,uh-WIN-doh-seet,"Could I have a window seat, please?",可以給我靠窗的座位嗎？,seat 是長音 /i/，不要唸成 sit
+u16-11,16,Travel,旅行,Have you ever been to ...?,你有去過……嗎？,/həv jə ˈɛvɚ ˌbɪn tə/,huv-yuh-EV-er-bin-tuh,Have you ever been to Japan?,你有去過日本嗎？,been 美式唸 /bɪn/，像 bin
+u16-12,16,Travel,旅行,I've never been there.,我從來沒去過那裡。,/aɪv ˈnɛvɚ bɪn ˌðɛr/,ive-NEV-er-bin-thair,Bali? I've never been there.,峇里島？我從來沒去過。,I've 的 v 要輕輕咬下唇
+u16-13,16,Travel,旅行,I've been there twice.,我去過兩次。,/aɪv ˈbɪn ðɛr ˈtwaɪs/,ive-BIN-thair-TWYSE,Okinawa? I've been there twice!,沖繩？我去過兩次！,
+u16-14,16,Travel,旅行,How long are you staying?,你要待多久？,/ˌhaʊ ˈlɔŋ ɚ jə ˈsteɪɪŋ/,how-LONG-er-yuh-STAY-ing,How long are you staying in Taipei?,你要在台北待多久？,are 輕輕帶過，聽起來像 er
+u16-15,16,Travel,旅行,I'm here on vacation.,我是來度假的。,/aɪm ˈhɪr ɑn veɪˈkeɪʃən/,ime-heer-on-vay-KAY-shun,I'm here on vacation with my sister.,我跟我姐姐來這裡度假。,
+u16-16,16,Travel,旅行,Could you take a picture of us?,可以幫我們拍張照嗎？,/kʊdʒə ˈteɪk ə ˈpɪktʃɚ əv ˌʌs/,kuh-juh-TAY-kuh-PIK-cher-uh-vus,"Excuse me, could you take a picture of us?",不好意思，可以幫我們拍張照嗎？,could you 連成 could-ja
+u16-17,16,Travel,旅行,Is breakfast included?,有含早餐嗎？,/ɪz ˈbrɛkfəst ɪnˈkludɪd/,iz-BREK-fust-in-KLOO-did,Is breakfast included in the price?,這個價錢有含早餐嗎？,br、cl 都要連在一起唸，不加母音
+u16-18,16,Travel,旅行,What's there to do around here?,這附近有什麼好玩的？,/ˌwʌts ðɛr tə ˈdu əˌraʊnd ˌhɪr/,wuts-thair-tuh-DOO-uh-rownd-heer,We're new in town. What's there to do around here?,我們剛到這裡。這附近有什麼好玩的？,
+u16-19,16,Travel,旅行,I'd love to go there someday.,我希望有一天能去那裡。,/aɪd ˈlʌv tə ˈɡoʊ ðɛr ˈsʌmˌdeɪ/,eyed-LUV-tuh-GO-thair-SUM-day,Iceland looks beautiful. I'd love to go there someday.,冰島看起來好美，我希望有一天能去。,I'd love to 比 I want to 更有期待感
+u16-20,16,Travel,旅行,The view was amazing.,風景超美的。,/ðə ˈvju wəz əˈmeɪzɪŋ/,thuh-VYOO-wuz-uh-MAY-zing,We climbed Jade Mountain. The view was amazing!,我們去爬玉山，風景超美的！,view 的 v 要咬下唇，不是 w

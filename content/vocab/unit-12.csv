@@ -1,0 +1,21 @@
+﻿id,unit_no,unit_en,unit_zh,english,chinese,ipa,sounds_like,example,example_zh,tip_zh
+u12-01,12,Making Plans,約時間與計畫,get together,聚一聚,/ˌɡɛt təˈɡɛðɚ/,get-tuh-GEH-ther,Let's get together for dinner soon.,我們找時間一起吃個晚餐吧。,together 的 th 要咬舌：tuh-GEH-ther
+u12-02,12,Making Plans,約時間與計畫,hang out,出去玩、一起混,/ˌhæŋ ˈaʊt/,hang-OUT,I like to hang out with friends on Fridays.,我星期五喜歡和朋友出去。,hang out 連起來唸，重音在 OUT
+u12-03,12,Making Plans,約時間與計畫,free,有空的,/fri/,FREE,I'm free after three.,我三點以後有空。,free 在這裡是「有空」，不是「免費」
+u12-04,12,Making Plans,約時間與計畫,available,有空的（較正式）,/əˈveɪləbəl/,uh-VAY-luh-bul,Are you available next Tuesday?,你下週二有空嗎？,重音在第二音節：uh-VAY-luh-bul
+u12-05,12,Making Plans,約時間與計畫,schedule,行程、時間表,/ˈskɛdʒul/,SKEH-jool,Let me check my schedule.,我看一下我的行程。,美式唸 SKEH-jool，開頭是 sk
+u12-06,12,Making Plans,約時間與計畫,cancel,取消,/ˈkænsəl/,KAN-sul,"Sorry, I have to cancel our lunch.",抱歉，我得取消我們的午餐。,
+u12-07,12,Making Plans,約時間與計畫,reschedule,改時間,/riˈskɛdʒul/,ree-SKEH-jool,Can we reschedule for next week?,我們可以改到下週嗎？,
+u12-08,12,Making Plans,約時間與計畫,invite,邀請,/ɪnˈvaɪt/,in-VITE,I want to invite you to my birthday party.,我想邀請你來我的生日派對。,重音在後面，v 上齒要碰下唇
+u12-09,12,Making Plans,約時間與計畫,make plans,約好、安排計畫,/ˌmeɪk ˈplænz/,mayk-PLANZ,Let's make plans for Christmas.,我們來安排聖誕節要做什麼吧。,
+u12-10,12,Making Plans,約時間與計畫,movie,電影,/ˈmuvi/,MOO-vee,Let's see a movie on Friday night.,我們星期五晚上去看電影吧。,
+u12-11,12,Making Plans,約時間與計畫,meet up,碰面,/ˌmit ˈʌp/,mee-DUP,Where should we meet up?,我們要在哪裡碰面？,t 夾在母音中間變輕 d：mee-DUP
+u12-12,12,Making Plans,約時間與計畫,maybe next time,下次吧,/ˈmeɪbi ˈnɛkst ˌtaɪm/,may-bee-NEKST-time,I'm busy tonight. Maybe next time!,我今晚有事，下次吧！,婉拒邀約最常用、最有禮貌的說法
+u12-13,12,Making Plans,約時間與計畫,Are you free on Saturday?,你星期六有空嗎？,/ɑr ju ˈfri ɑn ˈsætɚˌdeɪ/,ar-yoo-FREE-ahn-SAD-er-day,Are you free on Saturday afternoon?,你星期六下午有空嗎？,Saturday 重音在 SAT，t 唸輕 d
+u12-14,12,Making Plans,約時間與計畫,What are you doing this weekend?,你這個週末要做什麼？,/ˈwʌt ɚ jə ˈduɪŋ ðɪs ˈwikˌɛnd/,wut-er-yuh-DOO-ing-this-WEEK-end,"Hey, what are you doing this weekend?",嘿，你這個週末要做什麼？,現在進行式也可以說未來的計畫
+u12-15,12,Making Plans,約時間與計畫,How about Sunday?,星期天如何？,/haʊ əˈbaʊt ˈsʌndeɪ/,how-uh-bout-SUN-day,I can't on Saturday. How about Sunday?,星期六不行，星期天如何？,
+u12-16,12,Making Plans,約時間與計畫,That works for me.,我可以（那個時間沒問題）。,/ˈðæt ˈwɝks fɚ ˌmi/,that-WURKS-fer-mee,Seven o'clock? That works for me.,七點？我可以。,works 是 /ɝ/，不要唸成 walks
+u12-17,12,Making Plans,約時間與計畫,I'm going to visit my parents.,我要去看我爸媽。,/aɪm ˈɡoʊɪŋ tə ˈvɪzɪt maɪ ˈpɛrənts/,aim-GO-ing-tuh-VIZ-it-my-PAIR-unts,"This Sunday, I'm going to visit my parents.",這個星期天我要去看我爸媽。,going to 口語常唸成 gonna
+u12-18,12,Making Plans,約時間與計畫,Let's meet at the MRT station.,我們在捷運站碰面吧。,/lɛts ˈmit ət ðə ˌɛm ɑr ˈti ˌsteɪʃən/,lets-MEET-at-thuh-em-ar-TEE-stay-shun,Let's meet at the MRT station at six.,我們六點在捷運站碰面吧。,
+u12-19,12,Making Plans,約時間與計畫,"Sorry, I already have plans.",抱歉，我已經有約了。,/ˈsɑri aɪ ɔlˈrɛdi hæv ˈplænz/,SAH-ree-eye-awl-RED-ee-hav-PLANZ,"Sorry, I already have plans on Friday.",抱歉，我星期五已經有約了。,already 重音在 RED
+u12-20,12,Making Plans,約時間與計畫,See you then!,到時候見！,/ˈsi ju ˈðɛn/,see-yoo-THEN,"OK, Sunday at two. See you then!",好，星期天兩點，到時候見！,then 要咬舌，不要唸成 den

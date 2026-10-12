@@ -1,0 +1,246 @@
+{
+  "unit_no": 3,
+  "phase": 1,
+  "title_en": "Family & People",
+  "title_zh": "家人與朋友",
+  "goals": [
+    "Talk about her family: who is in it, their ages, jobs and where they live.",
+    "Use he/she and his/her correctly every time — in Chinese 他 and 她 sound the same (tā), so this needs lots of drilling.",
+    "Introduce another person ('This is my friend, Lisa.') and say what someone is like.",
+    "Pronounce V (very, have) and W (wife, we're) clearly and differently."
+  ],
+  "warmup": {
+    "easy": [
+      "Do you have any brothers or sisters?",
+      "Is your family big or small?",
+      "Who do you live with?"
+    ],
+    "medium": [
+      "Tell me about one person in your family.",
+      "Who in your family is the funniest?",
+      "Do you look like your mom or your dad?"
+    ],
+    "hard": [
+      "How are families in Taiwan different from families in America?",
+      "Who is the most important person in your life, and why?",
+      "What's your best friend like? How did you meet?"
+    ]
+  },
+  "key_phrases": [
+    {
+      "en": "This is my ___.",
+      "zh": "這是我的___。"
+    },
+    {
+      "en": "I have two kids: a son and a daughter.",
+      "zh": "我有兩個小孩：一個兒子、一個女兒。"
+    },
+    {
+      "en": "Do you have any brothers or sisters?",
+      "zh": "你有兄弟姊妹嗎？"
+    },
+    {
+      "en": "How old is he? / How old is she?",
+      "zh": "他幾歲？／她幾歲？"
+    },
+    {
+      "en": "He's ___ years old. / She's ___ years old.",
+      "zh": "他___歲。／她___歲。"
+    },
+    {
+      "en": "My husband's name is ___.",
+      "zh": "我老公的名字是___。"
+    },
+    {
+      "en": "What does she do? — She's a ___.",
+      "zh": "她做什麼工作？——她是___。"
+    },
+    {
+      "en": "What's he like? — He's very funny.",
+      "zh": "他人怎麼樣？——他很搞笑。"
+    },
+    {
+      "en": "We're very close.",
+      "zh": "我們感情很好。"
+    },
+    {
+      "en": "He looks like his dad.",
+      "zh": "他長得像他爸爸。"
+    }
+  ],
+  "grammar": {
+    "point_en": "he / she, his / her, and 's for possession",
+    "point_zh": "他／她、his／her，以及所有格 's",
+    "explain_zh": "中文的「他」和「她」唸起來一樣，所以說英文時很容易把 he 和 she 搞混。英文一定要分清楚：男生用 he／his，女生用 she／her。說「某人的」東西時，在名字或名詞後面加 's，例如 Lisa's son、my mom's car。",
+    "examples": [
+      {
+        "en": "She's my sister. Her name is Ann.",
+        "zh": "她是我妹妹，她的名字是 Ann。"
+      },
+      {
+        "en": "My brother lives in Taipei. His wife is a teacher.",
+        "zh": "我哥哥住在台北，他太太是老師。"
+      },
+      {
+        "en": "This is my mom's car.",
+        "zh": "這是我媽媽的車。"
+      },
+      {
+        "en": "Is Tom your son? How old is he?",
+        "zh": "Tom 是你兒子嗎？他幾歲？"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "My mother is a teacher. He is very kind.",
+      "right": "My mother is a teacher. She is very kind.",
+      "why_zh": "中文「他」「她」同音，但英文說媽媽、姊妹、女兒一定要用 she／her。"
+    }
+  },
+  "sound_focus": {
+    "sound_id": "v-w",
+    "words": [
+      "very",
+      "have",
+      "wife",
+      "we're",
+      "what's"
+    ],
+    "sentence": "We have a very big family, and my brother's wife is very funny."
+  },
+  "mini_lesson": [
+    "Step 1 (5 min): Family tree. She draws her family tree (real or made up) on paper. You point and ask 'Who's this?'; she answers 'This is my ___.'",
+    "Step 2 (8 min): Vocabulary and key phrases. Point out that English doesn't split 哥哥／弟弟 or 奶奶／外婆 — use older/younger brother and grandma. Ask about people on the tree: How old is he/she? What does he/she do? Where does he/she live?",
+    "Step 3 (8 min): Grammar — he/she, his/her, 's. Fast drill: point to a person on the tree; she must start with 'He's…' or 'She's…' within 2 seconds. Then possessives: my mom's name, my son's school. Gently correct every he/she mix-up — this is the habit to fix.",
+    "Step 4 (5 min): Sound focus — V/W. V: top teeth touch the bottom lip (very, have). W: round lips, no teeth (wife, we're, what's). She touches her lip with a finger to feel it. Then the practice sentence, slow then normal.",
+    "Step 5 (4 min): Describe people. Show 2–3 photos on your phone (family or famous people). She says 'He looks like…' or 'She's very kind / funny / tall.'"
+  ],
+  "roleplays": [
+    {
+      "level": "easy",
+      "title": "Looking at family photos",
+      "setup_zh": "新朋友在看你手機裡的家人照片，問你照片裡是誰。介紹你的家人，也問問對方的家人。",
+      "teacher_role": "A new friend looking at the photos",
+      "student_role": "Herself, showing family photos on her phone",
+      "lines": [
+        {
+          "who": "T",
+          "en": "Is that a photo of your family? Who's this?"
+        },
+        {
+          "who": "S",
+          "en": "This is my mom. Her name is ___.",
+          "zh": "這是我媽媽，她的名字是___。"
+        },
+        {
+          "who": "T",
+          "en": "She looks very kind. And who's this boy?"
+        },
+        {
+          "who": "S",
+          "en": "That's my ___. He's ___ years old.",
+          "zh": "那是我的___，他___歲。"
+        },
+        {
+          "who": "T",
+          "en": "He's so cute! He looks like you."
+        },
+        {
+          "who": "S",
+          "en": "Thank you! Do you have any kids?",
+          "zh": "謝謝！你有小孩嗎？"
+        },
+        {
+          "who": "T",
+          "en": "Yes, I have a daughter. She's eight."
+        },
+        {
+          "who": "S",
+          "en": "Oh, nice! What's she like?",
+          "zh": "喔，真好！她個性怎麼樣？"
+        },
+        {
+          "who": "T",
+          "en": "She's very funny, and she talks a lot!"
+        },
+        {
+          "who": "S",
+          "en": "Ha ha. My ___ is very funny, too.",
+          "zh": "哈哈，我的___也很搞笑。"
+        }
+      ]
+    },
+    {
+      "level": "challenge",
+      "title": "Family small talk with a new coworker",
+      "setup_zh": "公司聚餐時，一位美國同事問了你很多家人的問題。回答時注意 he／she、his／her 不要說錯。",
+      "teacher_role": "Jason, a friendly American coworker at a company dinner",
+      "student_role": "Herself",
+      "lines": [
+        {
+          "who": "T",
+          "en": "So, tell me about your family. Is it big or small?"
+        },
+        {
+          "who": "S",
+          "en": "It's pretty small. I live with my ___ and my ___.",
+          "zh": "我家人不多。我和我的___還有___住在一起。"
+        },
+        {
+          "who": "T",
+          "en": "Oh, nice. Do you have any brothers or sisters?"
+        },
+        {
+          "who": "S",
+          "en": "Yes, I have one ___. (He / She) lives in ___.",
+          "zh": "有，我有一個___。（他／她）住在___。"
+        },
+        {
+          "who": "T",
+          "en": "Are you two close?"
+        },
+        {
+          "who": "S",
+          "en": "Yes, we're very close. We talk every week.",
+          "zh": "是的，我們感情很好，每個禮拜都會聊天。"
+        },
+        {
+          "who": "T",
+          "en": "That's great. My brother and I aren't very close. He lives in Texas. What about your parents?"
+        },
+        {
+          "who": "S",
+          "en": "My parents live in ___. My dad is ___ years old.",
+          "zh": "我爸媽住在___。我爸爸___歲。"
+        },
+        {
+          "who": "T",
+          "en": "Do you look like your mom or your dad?"
+        },
+        {
+          "who": "S",
+          "en": "People say I look like my ___.",
+          "zh": "大家都說我長得像我___。"
+        },
+        {
+          "who": "T",
+          "en": "Ha! And what's your mom like?"
+        },
+        {
+          "who": "S",
+          "en": "She's very ___ and ___. Her cooking is great!",
+          "zh": "她很___，也很___。她煮的菜很好吃！"
+        }
+      ],
+      "teacher_twists": [
+        "Ask 'What does he/she do?' about every person she mentions, and quietly write down each he/she or his/her mix-up for feedback at the end.",
+        "Misunderstand on purpose — 'Oh, your brother is a teacher?' when she said sister — so she must correct you: 'No, my sister. She's a teacher.'",
+        "Show a photo of a stranger on your phone and ask 'What do you think he's like?'"
+      ]
+    }
+  ],
+  "homework_zh": [
+    "畫一張家庭樹，用英文寫出每個人，例如 This is my sister. She is 45 years old. 至少寫 5 個人。",
+    "選一張家人照片，錄一段 30 秒的英文介紹傳給老師，注意 he／she、his／her 不要說錯。",
+    "用 Anki 複習 Unit 3，練習 very、have、wife 的 v／w 音：v 要輕咬下唇，w 要嘟嘴。"
+  ]
+}

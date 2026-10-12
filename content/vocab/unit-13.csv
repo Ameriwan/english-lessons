@@ -1,0 +1,21 @@
+﻿id,unit_no,unit_en,unit_zh,english,chinese,ipa,sounds_like,example,example_zh,tip_zh
+u13-01,13,Telling Stories (Past),說說過去的事,yesterday,昨天,/ˈjɛstɚˌdeɪ/,YES-ter-day,Yesterday I cooked dinner for my family.,昨天我煮晚餐給家人吃。,
+u13-02,13,Telling Stories (Past),說說過去的事,a few days ago,幾天前,/ə ˌfju ˈdeɪz əˈɡoʊ/,uh-few-DAYZ-uh-GO,I saw her at the market a few days ago.,我幾天前在市場看到她。,中文「幾天前」，英文 ago 要放在最後
+u13-03,13,Telling Stories (Past),說說過去的事,at first,一開始,/ət ˈfɝst/,ut-FURST,"At first, I didn't like coffee.",一開始我不喜歡咖啡。,first 結尾的 st 要發出來，不要只說 firs
+u13-04,13,Telling Stories (Past),說說過去的事,after that,在那之後；然後,/ˌæftɚ ˈðæt/,af-ter-THAT,"After that, we went home.",之後我們就回家了。,
+u13-05,13,Telling Stories (Past),說說過去的事,suddenly,突然,/ˈsʌdənli/,SUD-un-lee,"Suddenly, it started to rain.",突然開始下雨了。,重音在第一音節 SUD，後面輕輕帶過
+u13-06,13,Telling Stories (Past),說說過去的事,finally,最後；終於,/ˈfaɪnəli/,FY-nuh-lee,"Finally, the bus came.",公車終於來了。,
+u13-07,13,Telling Stories (Past),說說過去的事,happened,發生了,/ˈhæpənd/,HAP-und,What happened to your phone?,你的手機怎麼了？,-ed 唸 /d/，不要唸成 happen-ED
+u13-08,13,Telling Stories (Past),說說過去的事,stayed home,待在家,/ˌsteɪd ˈhoʊm/,stayd-HOME,"It rained, so I stayed home.",下雨了，所以我待在家。,stayed 的 d 要輕輕發出，別省略
+u13-09,13,Telling Stories (Past),說說過去的事,watched,看了（影片、電視）,/wɑtʃt/,WAHCHT,We watched a movie last night.,我們昨晚看了一部電影。,-ed 這裡唸 /t/，不要唸成 watch-ED
+u13-10,13,Telling Stories (Past),說說過去的事,visited,去拜訪；去看（人或地方）,/ˈvɪzɪtɪd/,VIZ-ih-tid,I visited my aunt in Tainan.,我去台南看我阿姨。,t 結尾加 -ed 要多一個音節 /ɪd/
+u13-11,13,Telling Stories (Past),說說過去的事,went,去了（go 的過去式）,/wɛnt/,WENT,We went to the night market.,我們去了夜市。,go 是不規則動詞，不能說 goed
+u13-12,13,Telling Stories (Past),說說過去的事,What did you do last weekend?,你上週末做了什麼？,/ˌwʌt dɪdʒə ˈdu ˌlæst ˈwikɛnd/,wut-did-juh-DOO-last-WEEK-end,What did you do last weekend? Anything fun?,你上週末做了什麼？有好玩的嗎？,did you 常連成 didja，聽起來像 di-ja
+u13-13,13,Telling Stories (Past),說說過去的事,Guess what?,你猜怎麼了？,/ˈɡɛs ˌwʌt/,GESS-wut,Guess what? I got a new job!,你猜怎麼了？我找到新工作了！,
+u13-14,13,Telling Stories (Past),說說過去的事,You won't believe what happened.,你一定不敢相信發生了什麼事。,/ju ˌwoʊnt bɪˈliv wʌt ˈhæpənd/,yoo-wohnt-bih-LEEV-wut-HAP-und,You won't believe what happened at work today!,你一定不敢相信今天公司發生了什麼事！,won't 嘴巴要圓，跟 want 不一樣
+u13-15,13,Telling Stories (Past),說說過去的事,And then what happened?,然後呢？發生了什麼事？,/ən ˈðɛn wʌt ˈhæpənd/,un-THEN-wut-HAP-und,And then what happened? Did you find it?,然後呢？你有找到嗎？,
+u13-16,13,Telling Stories (Past),說說過去的事,That's when I realized ...,就在那時我才發現……,/ˈðæts wɛn aɪ ˈriəˌlaɪzd/,THATS-wen-eye-REE-uh-lyzd,That's when I realized my wallet was gone.,就在那時我才發現錢包不見了。,realized 結尾唸 /zd/，喉嚨要震動
+u13-17,13,Telling Stories (Past),說說過去的事,"When I was a kid, ...",我小時候……,/wɛn aɪ wəz ə ˈkɪd/,wen-eye-wuz-uh-KID,"When I was a kid, I lived in Pingtung.",我小時候住在屏東。,說小時候要用過去式 was，不是 am
+u13-18,13,Telling Stories (Past),說說過去的事,It was so much fun.,真的超好玩的。,/ɪt wəz ˈsoʊ mʌtʃ ˈfʌn/,it-wuz-SO-much-FUN,We went to Kenting. It was so much fun!,我們去了墾丁，真的超好玩！,was 要輕輕唸成 /wəz/
+u13-19,13,Telling Stories (Past),說說過去的事,I had a great time.,我玩得很開心。,/aɪ ˈhæd ə ˈɡreɪt ˈtaɪm/,eye-HAD-uh-grayt-TIME,Thanks for inviting me. I had a great time!,謝謝你邀請我，我玩得很開心！,had a 連起來唸成 ha-da
+u13-20,13,Telling Stories (Past),說說過去的事,"Long story short, ...",長話短說……,/ˌlɔŋ ˈstɔri ˈʃɔrt/,long-STOR-ee-SHORT,"Long story short, we missed the last train.",長話短說，我們錯過了末班車。,

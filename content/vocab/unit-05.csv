@@ -1,0 +1,21 @@
+﻿id,unit_no,unit_en,unit_zh,english,chinese,ipa,sounds_like,example,example_zh,tip_zh
+u05-01,5,Shopping & Money,購物與付錢,cheap,便宜的,/tʃip/,CHEEP,This shirt is really cheap!,這件襯衫好便宜！,長音 ee 嘴角拉開；短音 chip 是洋芋片
+u05-02,5,Shopping & Money,購物與付錢,expensive,貴的,/ɪkˈspɛnsɪv/,ik-SPEN-siv,"Wow, that's too expensive.",哇，那太貴了。,重音在中間；結尾 v 要輕咬下唇
+u05-03,5,Shopping & Money,購物與付錢,price,價格；價錢,/praɪs/,PRICE,The price is on the tag.,價錢寫在標籤上。,
+u05-04,5,Shopping & Money,購物與付錢,size,尺寸,/saɪz/,SIZE,Do you have a bigger size?,有大一點的尺寸嗎？,
+u05-05,5,Shopping & Money,購物與付錢,these,這些,/ðiz/,THEEZ,These shoes are really nice.,這雙鞋真好看。,長音 ee 是 these；短音 i 是 this
+u05-06,5,Shopping & Money,購物與付錢,those,那些,/ðoʊz/,THOHZ,How much are those apples?,那些蘋果多少錢？,
+u05-07,5,Shopping & Money,購物與付錢,cash,現金,/kæʃ/,KASH,"Sorry, I only have cash.",抱歉，我只有現金。,
+u05-08,5,Shopping & Money,購物與付錢,change,找的錢；零錢,/tʃeɪndʒ/,CHAYNJ,Here's your change.,這是找您的錢。,結尾唸 nj，不要唸成 chain
+u05-09,5,Shopping & Money,購物與付錢,receipt,收據；發票,/rɪˈsit/,rih-SEET,"Can I have the receipt, please?",可以給我收據嗎？,p 不發音：rih-SEET
+u05-10,5,Shopping & Money,購物與付錢,on sale,特價中,/ɑn ˈseɪl/,ahn-SAYL,These jeans are on sale.,這件牛仔褲在特價。,sale 結尾的 l 舌尖要頂住上牙齦
+u05-11,5,Shopping & Money,購物與付錢,bag,袋子；包包,/bæɡ/,BAG,Do you need a bag?,你需要袋子嗎？,
+u05-12,5,Shopping & Money,購物與付錢,dollars,元,/ˈdɑlɚz/,DAH-lerz,It's three hundred dollars.,三百元。,台幣可以說 NT dollars
+u05-13,5,Shopping & Money,購物與付錢,How much is this?,這個多少錢？,/ˌhaʊ ˈmʌtʃ ɪz ðɪs/,how-MUCH-iz-this,"Excuse me, how much is this?",不好意思，這個多少錢？,複數要說 How much are these?
+u05-14,5,Shopping & Money,購物與付錢,"I'm just looking, thanks.",我只是看看，謝謝。,/aɪm ˌdʒʌst ˈlʊkɪŋ ˌθæŋks/,im-just-LOOK-ing-thanks,"No, I'm just looking, thanks.",不用，我只是看看，謝謝。,店員問 Can I help you? 時可以這樣回
+u05-15,5,Shopping & Money,購物與付錢,Can I try it on?,我可以試穿嗎？,/kən aɪ ˌtraɪ ɪt ˈɑn/,kuh-nye-TRY-it-AHN,I like this dress. Can I try it on?,我喜歡這件洋裝，可以試穿嗎？,try it on 連起來唸：try-it-ahn
+u05-16,5,Shopping & Money,購物與付錢,Do you have this in black?,這個有黑色的嗎？,/də jə ˌhæv ðɪs ɪn ˈblæk/,duh-yuh-hav-this-in-BLAK,Nice bag! Do you have this in black?,包包好好看！這個有黑色的嗎？,
+u05-17,5,Shopping & Money,購物與付錢,It's too big.,太大了。,/ɪts ˌtu ˈbɪɡ/,its-too-BIG,It's too big. Do you have a small?,太大了，有小號的嗎？,big 是短音 i，嘴巴放鬆、短短的
+u05-18,5,Shopping & Money,購物與付錢,I'll take it.,我要買這個。,/aɪl ˈteɪk ɪt/,ile-TAYK-it,"Great, I'll take it.",很好，我買了。,決定要買就說這句；take it 連著唸
+u05-19,5,Shopping & Money,購物與付錢,Can I pay by card?,可以刷卡嗎？,/kən aɪ ˌpeɪ baɪ ˈkɑrd/,kuh-nye-pay-by-KARD,"Can I pay by card, or is it cash only?",可以刷卡嗎？還是只收現金？,刷卡說 pay by card 就好
+u05-20,5,Shopping & Money,購物與付錢,Is there a discount?,有折扣嗎？,/ɪz ðɛr ə ˈdɪskaʊnt/,iz-thair-uh-DIS-kownt,I'm buying three. Is there a discount?,我買三個，有折扣嗎？,美國商店通常不殺價，問問看就好

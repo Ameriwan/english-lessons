@@ -1,0 +1,247 @@
+{
+  "unit_no": 16,
+  "phase": 3,
+  "title_en": "Travel",
+  "title_zh": "旅行",
+  "goals": [
+    "Talk about travel experiences with the present perfect (Have you ever been to ...? I've been there twice.).",
+    "Switch to the past simple to give details about one trip (When did you go? What did you do?).",
+    "Handle simple travel situations: hotel check-in, asking for a photo, asking about things to do.",
+    "Pronounce consonant clusters (trip, flight, breakfast, included) without adding extra vowels."
+  ],
+  "warmup": {
+    "easy": [
+      "Do you like to travel?",
+      "Where did you go on your last trip?",
+      "Do you like flying?"
+    ],
+    "medium": [
+      "Have you ever been to Japan or Korea?",
+      "What do you always pack in your luggage?",
+      "What's the best place to visit in Taiwan?"
+    ],
+    "hard": [
+      "Tell me about the best trip you've ever taken.",
+      "Have you ever had a problem while traveling? What happened?",
+      "If you could go anywhere in the world, where would you go? Why?"
+    ]
+  },
+  "key_phrases": [
+    {
+      "en": "Have you ever been to ...?",
+      "zh": "你有去過……嗎？"
+    },
+    {
+      "en": "I've never been there.",
+      "zh": "我從來沒去過那裡。"
+    },
+    {
+      "en": "I've been there twice.",
+      "zh": "我去過兩次。"
+    },
+    {
+      "en": "How long are you staying?",
+      "zh": "你要待多久？"
+    },
+    {
+      "en": "I'm here on vacation.",
+      "zh": "我是來度假的。"
+    },
+    {
+      "en": "Could you take a picture of us?",
+      "zh": "可以幫我們拍張照嗎？"
+    },
+    {
+      "en": "Is breakfast included?",
+      "zh": "有含早餐嗎？"
+    },
+    {
+      "en": "What's there to do around here?",
+      "zh": "這附近有什麼好玩的？"
+    },
+    {
+      "en": "The view was amazing.",
+      "zh": "風景超美的。"
+    },
+    {
+      "en": "I'd love to go there someday.",
+      "zh": "我希望有一天能去那裡。"
+    }
+  ],
+  "grammar": {
+    "point_en": "Present perfect for life experiences: Have you ever ...? / I've been ...",
+    "point_zh": "現在完成式談經驗：Have you ever ...? / I've been ...",
+    "explain_zh": "中文用「過」表示經驗，例如「我去過日本」。英文用 have / has + 過去分詞，例如 I've been to Japan，這種說法不講是什麼時候。如果要說明確的時間（last year、in 2019），就要改用過去式：I went to Japan last year。說「去過某地」，英文用 been to，不用 gone to。",
+    "examples": [
+      {
+        "en": "Have you ever been to Hong Kong?",
+        "zh": "你有去過香港嗎？"
+      },
+      {
+        "en": "I've been to Japan three times.",
+        "zh": "我去過日本三次。"
+      },
+      {
+        "en": "She has never flown on a plane.",
+        "zh": "她從來沒搭過飛機。"
+      },
+      {
+        "en": "I went to Tokyo last year.",
+        "zh": "我去年去了東京。"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I have been to Japan last year.",
+      "right": "I went to Japan last year.",
+      "why_zh": "句子裡有明確時間（last year）就要用過去式，不能用現在完成式。"
+    }
+  },
+  "sound_focus": {
+    "sound_id": "clusters",
+    "words": [
+      "trip",
+      "flight",
+      "breakfast",
+      "included",
+      "travel",
+      "abroad"
+    ],
+    "sentence": "The trip was great, but the flight was long."
+  },
+  "mini_lesson": [
+    "Step 1 (5 min): Warm-up. Ask 2-3 warm-up questions about travel. Write down the place names and verbs she uses.",
+    "Step 2 (8 min): Have you ever ...? Show the pattern 'Have you ever been to ___?' → 'Yes, I have. I've been there ___ times.' / 'No, I've never been there.' Ask about 5 places (Japan, Kenting, Hong Kong, Europe, Green Island); she answers, then asks you.",
+    "Step 3 (5 min): Experience → details. Show the tense switch: 'I've been to Japan.' → 'When did you go?' → 'I went last year.' She does this with one real trip, answering When? / Who with? / What did you do?",
+    "Step 4 (6 min): Clusters. Practice trip, travel, flight, breakfast, included, abroad. Listen for extra vowels (fu-light, bu-reakfast). Say them slowly, then fast; finish with the sound-focus sentence 3 times.",
+    "Step 5 (6 min): Travel survival lines. Drill Is breakfast included? / Could you take a picture of us? / What's there to do around here? / How long are you staying? You describe a situation in Chinese; she says the right line in English."
+  ],
+  "roleplays": [
+    {
+      "level": "easy",
+      "title": "Hotel Check-In",
+      "setup_zh": "到國外的飯店櫃檯辦理入住，順便問早餐和附近有什麼好玩的。",
+      "teacher_role": "Hotel front desk clerk",
+      "student_role": "Hotel guest",
+      "lines": [
+        {
+          "who": "T",
+          "en": "Good evening! Welcome to the Sunrise Hotel. How can I help you?"
+        },
+        {
+          "who": "S",
+          "en": "Hi, I'd like to check in, please. My name is ___.",
+          "zh": "你好，我要辦理入住。我叫___。"
+        },
+        {
+          "who": "T",
+          "en": "Let me see... Yes, two nights. Can I see your passport, please?"
+        },
+        {
+          "who": "S",
+          "en": "Sure, here you are.",
+          "zh": "好的，在這裡。"
+        },
+        {
+          "who": "T",
+          "en": "Thank you. Here's your key card. You're in room 512."
+        },
+        {
+          "who": "S",
+          "en": "Thanks. Is breakfast included?",
+          "zh": "謝謝。有含早餐嗎？"
+        },
+        {
+          "who": "T",
+          "en": "Yes, it's from 7 to 10 on the second floor."
+        },
+        {
+          "who": "S",
+          "en": "Great. What's there to do around here?",
+          "zh": "太好了。這附近有什麼好玩的？"
+        },
+        {
+          "who": "T",
+          "en": "There's a night market and a beautiful old temple nearby."
+        },
+        {
+          "who": "S",
+          "en": "That sounds fun. Thank you so much!",
+          "zh": "聽起來很好玩，非常謝謝你！"
+        }
+      ]
+    },
+    {
+      "level": "challenge",
+      "title": "On the Train to Hualien",
+      "setup_zh": "在往花蓮的火車上遇到一位第一次來台灣的外國旅客。用 Have you ever ...? 聊彼此的旅遊經驗，再用過去式說細節。",
+      "teacher_role": "A traveler from the US",
+      "student_role": "Herself",
+      "lines": [
+        {
+          "who": "T",
+          "en": "Excuse me, is this the train to Hualien?"
+        },
+        {
+          "who": "S",
+          "en": "Yes, it is. Are you traveling alone?",
+          "zh": "對，是的。你一個人旅行嗎？"
+        },
+        {
+          "who": "T",
+          "en": "Yes, I'm here on vacation for two weeks. It's my first time in Taiwan."
+        },
+        {
+          "who": "S",
+          "en": "Welcome! How long are you staying in Hualien?",
+          "zh": "歡迎！你要在花蓮待多久？"
+        },
+        {
+          "who": "T",
+          "en": "Three days. Have you ever been to Taroko Gorge?"
+        },
+        {
+          "who": "S",
+          "en": "Yes, I've been there twice. The view was amazing!",
+          "zh": "有，我去過兩次。風景超美的！"
+        },
+        {
+          "who": "T",
+          "en": "Great! When did you last go?"
+        },
+        {
+          "who": "S",
+          "en": "I went there ___ with my ___. We took a lot of pictures.",
+          "zh": "我___跟我的___一起去的。我們拍了很多照片。"
+        },
+        {
+          "who": "T",
+          "en": "Nice. Have you ever been to the US?"
+        },
+        {
+          "who": "S",
+          "en": "No, I've never been there. But I'd love to go there someday.",
+          "zh": "沒有，我從來沒去過。不過我希望有一天能去。"
+        },
+        {
+          "who": "T",
+          "en": "You should visit California! Where else should I go in Taiwan?"
+        },
+        {
+          "who": "S",
+          "en": "You should try Tainan. The food is amazing.",
+          "zh": "你應該去台南看看，那裡的東西超好吃。"
+        }
+      ],
+      "teacher_twists": [
+        "Ask 'Have you ever ...?' about something unusual (been on a cruise, seen snow, gone skiing) so she has to answer with I've never ... and add a feeling or reason.",
+        "After she says she's been somewhere, fire three quick detail questions (When did you go? Who did you go with? What did you eat?) to force the switch to past simple.",
+        "Mention a travel problem ('My luggage didn't arrive!') and see if she can react and give simple advice."
+      ]
+    }
+  ],
+  "homework_zh": [
+    "寫 5 句你的旅遊經驗：3 句用 I've been to ...，2 句用 I've never been to ...。",
+    "選一次你最喜歡的旅行，用過去式寫 4 句（什麼時候、跟誰、做了什麼、感覺怎麼樣），下次上課說給老師聽。",
+    "練習子音連在一起：trip、flight、breakfast、included 每天各唸 5 次，注意中間不要多加「ㄜ」的音。"
+  ]
+}

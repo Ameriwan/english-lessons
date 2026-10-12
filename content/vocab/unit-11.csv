@@ -1,0 +1,21 @@
+﻿id,unit_no,unit_en,unit_zh,english,chinese,ipa,sounds_like,example,example_zh,tip_zh
+u11-01,11,Phone Calls & Messages,電話與訊息,pick up,接電話,/ˌpɪk ˈʌp/,pih-KUP,She didn't pick up the phone.,她沒接電話。,pick up 連音：pih-KUP
+u11-02,11,Phone Calls & Messages,電話與訊息,hang up,掛電話,/ˌhæŋ ˈʌp/,hang-UP,Please don't hang up yet.,先別掛電話。,ng 直接接 up，中間不停
+u11-03,11,Phone Calls & Messages,電話與訊息,text message,簡訊、文字訊息,/ˈtɛkst ˌmɛsɪdʒ/,TEKST-mes-ij,I'll send you a text message.,我傳訊息給你。,text 結尾 kst 要唸完整
+u11-04,11,Phone Calls & Messages,電話與訊息,voice message,語音訊息,/ˈvɔɪs ˌmɛsɪdʒ/,VOYS-mes-ij,She sent me a long voice message on LINE.,她在 LINE 傳了一則很長的語音給我。,voice 的 v 上齒要碰下唇
+u11-05,11,Phone Calls & Messages,電話與訊息,missed call,未接來電,/ˌmɪst ˈkɔl/,mist-KAWL,I have three missed calls from my mom.,我有三通媽媽的未接來電。,
+u11-06,11,Phone Calls & Messages,電話與訊息,busy,忙線、在忙,/ˈbɪzi/,BIZ-ee,"Sorry, the line is busy.",抱歉，電話忙線中。,busy 唸 BIZ-ee，不是 bus-ee
+u11-07,11,Phone Calls & Messages,電話與訊息,phone number,電話號碼,/ˈfoʊn ˌnʌmbɚ/,FOHN-num-ber,What's your phone number?,你的電話號碼是多少？,
+u11-08,11,Phone Calls & Messages,電話與訊息,wrong number,打錯電話,/ˌrɔŋ ˈnʌmbɚ/,rawng-NUM-ber,"Sorry, you have the wrong number.",抱歉，你打錯了。,wrong 的 w 不發音，直接唸 r
+u11-09,11,Phone Calls & Messages,電話與訊息,voicemail,語音信箱,/ˈvɔɪsˌmeɪl/,VOYS-mayl,It went to voicemail again.,又轉到語音信箱了。,
+u11-10,11,Phone Calls & Messages,電話與訊息,battery,電池、電量,/ˈbætəri/,BAD-uh-ree,My phone battery is almost dead.,我的手機快沒電了。,美式 tt 唸成輕輕的 d：BAD-uh-ree
+u11-11,11,Phone Calls & Messages,電話與訊息,reply,回覆,/rɪˈplaɪ/,rih-PLY,"Sorry, I forgot to reply.",抱歉，我忘了回。,重音在後面：rih-PLY
+u11-12,11,Phone Calls & Messages,電話與訊息,video call,視訊通話,/ˈvɪdioʊ ˌkɔl/,VID-ee-oh-kawl,I video call my sister every Sunday.,我每個星期天和姊姊視訊。,
+u11-13,11,Phone Calls & Messages,電話與訊息,"Who's calling, please?",請問哪位？,/huz ˈkɔlɪŋ ˈpliz/,hooz-KAW-ling-pleez,"Hello, who's calling, please?",喂，請問哪位？,who's 唸 hooz，不是 whose 的意思
+u11-14,11,Phone Calls & Messages,電話與訊息,Can I speak to Mr. Lin?,請問林先生在嗎？,/kən aɪ ˈspik tə ˌmɪstɚ ˈlɪn/,kuh-nye-SPEEK-tuh-mis-ter-LIN,"Hi, can I speak to Mr. Lin, please?",你好，請問林先生在嗎？,can I 連音：kuh-nye
+u11-15,11,Phone Calls & Messages,電話與訊息,"Hold on, please.",請稍等。,/ˌhoʊld ˈɑn ˈpliz/,hohl-DAHN-pleez,"Hold on, please. I'll get her.",請稍等，我去叫她。,hold on 連音：hohl-DAHN
+u11-16,11,Phone Calls & Messages,電話與訊息,Can I take a message?,需要我幫你留言嗎？,/kən aɪ ˈteɪk ə ˈmɛsɪdʒ/,kuh-nye-TAY-kuh-MES-ij,She's not here. Can I take a message?,她不在，需要幫你留言嗎？,take a 連成 TAY-kuh
+u11-17,11,Phone Calls & Messages,電話與訊息,Could you speak more slowly?,可以請你說慢一點嗎？,/kʊd ju ˈspik ˌmɔr ˈsloʊli/,kud-joo-SPEEK-mor-SLOH-lee,"Sorry, could you speak more slowly, please?",不好意思，可以說慢一點嗎？,could you 連音唸成 kud-joo
+u11-18,11,Phone Calls & Messages,電話與訊息,"Sorry, I can't hear you.",抱歉，我聽不到。,/ˈsɑri aɪ ˈkænt ˈhɪr ju/,SAH-ree-eye-KANT-heer-yoo,"Sorry, I can't hear you. It's really noisy.",抱歉，我聽不到，這裡好吵。,
+u11-19,11,Phone Calls & Messages,電話與訊息,I'll call you back later.,我晚點回你電話。,/aɪl ˈkɔl ju ˈbæk ˈleɪtɚ/,ile-KAWL-yoo-back-LAY-der,I'm driving now. I'll call you back later.,我在開車，晚點回你電話。,I'll 要唸出 l，不要只唸 I
+u11-20,11,Phone Calls & Messages,電話與訊息,Did you get my message?,你有收到我的訊息嗎？,/dɪd ju ˈɡɛt maɪ ˈmɛsɪdʒ/,did-joo-GET-my-MES-ij,Did you get my message on LINE?,你有收到我的 LINE 訊息嗎？,did you 連音唸成 did-joo
