@@ -349,3 +349,10 @@ pre.copybox { white-space: pre-wrap; word-break: break-word; background: var(--s
   body { background: #fff; color: #000; }
   .card { box-shadow: none; }
 }
+
+/* ---------- speech check: "close enough" + live mic */
+.result-pill.close { background: var(--warm-soft); color: var(--warm); }
+.shadow-text .close { color: var(--warm); text-decoration: underline dotted; text-underline-offset: 5px; }
+.btn.live { background: var(--bad-soft); border-color: var(--bad); color: var(--bad); animation: live-pulse 1.2s ease-in-out infinite; }
+@keyframes live-pulse { 50% { box-shadow: 0 0 0 6px color-mix(in srgb, var(--bad) 18%, transparent); } }
+@media (prefers-reduced-motion: reduce) { .btn.live { animation: none; } }

@@ -174,49 +174,179 @@ export function playButton(text, { slow = false, label, cls = "btn icon" } = {})
 const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
 export const canListen = !!SR;
 
-export function listen({ timeout = 7000 } = {}) {
+// Resolves with every transcript the recogniser considered (interim guesses included --
+// they often contain the right word when the final guess doesn't). onReady fires once the
+// mic is really open, so pages can say "speak now" and the first sound isn't cut off.
+export function listen({ timeout = 8000, onReady } = {}) {
   return new Promise((resolve, reject) => {
     if (!SR) return reject(new Error("unsupported"));
     stopAudio();
     const rec = new SR();
     rec.lang = "en-US";
-    rec.interimResults = false;
+    rec.interimResults = true;
     rec.maxAlternatives = 5;
+    const heard = new Set();
     let done = false;
-    const finish = (val, err) => {
+    const finish = err => {
       if (done) return;
       done = true;
       clearTimeout(timer);
       try { rec.stop(); } catch { /* ignore */ }
-      err ? reject(err) : resolve(val);
+      err ? reject(err) : resolve([...heard]);
     };
-    const timer = setTimeout(() => finish([]), timeout);
+    const timer = setTimeout(() => finish(), timeout + 3000);
+    rec.onaudiostart = () => onReady && onReady();
     rec.onresult = e => {
-      const alts = [];
-      for (const res of e.results) for (const alt of res) alts.push(alt.transcript);
-      finish(alts);
+      let final = false;
+      for (const res of e.results) {
+        for (const alt of res) if (alt.transcript.trim()) heard.add(alt.transcript.trim());
+        if (res.isFinal) final = true;
+      }
+      if (final) finish();
     };
-    rec.onerror = e => finish(null, new Error(e.error || "error"));
-    rec.onend = () => finish([]);
-    rec.start();
+    rec.onerror = e => (e.error === "no-speech" || e.error === "aborted") ? finish() : finish(new Error(e.error || "error"));
+    rec.onend = () => finish();
+    try { rec.start(); } catch (e) { finish(e); }
   });
 }
 
-const words = t => norm(t).replace(/[^a-z0-9' ]+/g, " ").replace(/'/g, "").split(" ").filter(Boolean);
-const NUM = { zero: "0", one: "1", two: "2", three: "3", four: "4", five: "5", six: "6", seven: "7", eight: "8", nine: "9", ten: "10" };
-const canon = w => NUM[w] || w;
+// ---------- comparing what was heard with what she meant to say
+// Deliberately forgiving: recognisers often mishear accented speech, especially single
+// words said with no context. Numbers, contractions, plurals/-ed endings and words that
+// sound alike are all treated as matches.
+const ONES = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve",
+  "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"];
+const TENS = ["", "", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"];
+const NUM_WORDS = new Set([...ONES, ...TENS.filter(Boolean), "hundred", "thousand"]);
+function numWords(n) {
+  if (n < 20) return ONES[n];
+  if (n < 100) return TENS[Math.floor(n / 10)] + (n % 10 ? " " + ONES[n % 10] : "");
+  if (n < 1000) return ONES[Math.floor(n / 100)] + " hundred" + (n % 100 ? " " + numWords(n % 100) : "");
+  if (n < 10000) return numWords(Math.floor(n / 1000)) + " thousand" + (n % 1000 ? " " + numWords(n % 1000) : "");
+  return String(n);
+}
+const ORD = { one: "first", two: "second", three: "third", five: "fifth", eight: "eighth", nine: "ninth", twelve: "twelfth" };
+function ordinal(words) { // "twenty one" -> "twenty first"
+  const parts = words.split(" ");
+  const last = parts.pop();
+  return [...parts, ORD[last] || (last.endsWith("y") ? last.slice(0, -1) + "ieth" : last + "th")].join(" ");
+}
+const SAME = { okay: "ok", mister: "mr", missus: "mrs", alright: "all right", gonna: "going to", wanna: "want to",
+  gotta: "got to", cannot: "can not", til: "until", till: "until" };
+// words that sound the same -- the recogniser picks whichever spelling it likes
+const HOMO = { two: "to", too: "to", four: "for", eight: "ate", one: "won", their: "there", write: "right", hear: "here",
+  know: "no", knew: "new", sea: "see", buy: "by", bye: "by", our: "hour", wait: "weight", weak: "week", meat: "meet",
+  its: "it", whos: "who", whose: "who", red: "read", flour: "flower", sun: "son", ate: "eight" };
+// small words count half -- they are the ones recognisers drop most
+const LIGHT = new Set(("a an the is am are was were be been to of in on at it and or but for do does did i you he she we " +
+  "they me my your his her our their this that these those with so can will would have has had there here").split(" "));
 
-// Compare what was heard with the target. Returns per-word hits so pages can colour words.
-export function checkSpeech(target, heardAlternatives) {
-  const tw = words(target);
-  let best = { score: 0, heard: (heardAlternatives || [])[0] || "", hits: tw.map(() => false) };
-  for (const alt of heardAlternatives || []) {
-    const hw = new Set(words(alt).map(canon));
-    const hits = tw.map(w => hw.has(canon(w)));
-    const score = tw.length ? hits.filter(Boolean).length / tw.length : 0;
-    if (score > best.score) best = { score, heard: alt, hits };
+// "It's $20." -> ["it", "is", "twenty", "dollars"]
+export function speechTokens(text) {
+  let s = " " + String(text).toLowerCase().replace(/[’‘`]/g, "'") + " ";
+  s = s.replace(/\$(\d+)(?:\.(\d\d))?/g, (_, d, c) => `${d} dollars${c && c !== "00" ? " " + c : ""}`)
+    .replace(/(\d+)%/g, "$1 percent")
+    .replace(/(\d),(\d{3})/g, "$1$2")
+    .replace(/\b(\d{1,2}):00\b/g, "$1 o'clock")
+    .replace(/\b(\d{1,2}):(\d\d)\b/g, (_, hr, m) => `${hr} ${m[0] === "0" ? "oh " + m[1] : m}`)
+    .replace(/\b([ap])\.?\s?m\.?(?=\W)/g, "$1m")
+    .replace(/\b(\d+)(st|nd|rd|th)\b/g, (_, d) => ordinal(numWords(+d)))
+    .replace(/\d+/g, d => " " + numWords(+d) + " ")
+    .replace(/\bcan't\b/g, "can not").replace(/\bwon't\b/g, "will not")
+    .replace(/n't\b/g, " not").replace(/'re\b/g, " are").replace(/'m\b/g, " am").replace(/'ll\b/g, " will")
+    .replace(/'ve\b/g, " have").replace(/'d\b/g, " would")
+    .replace(/\b(it|that|what|there|here|he|she|who|where|how|when|this)'s\b/g, "$1 is")
+    .replace(/'/g, "")
+    .replace(/[^a-z ]+/g, " ");
+  return s.split(" ").filter(Boolean).flatMap(w => (SAME[w] || w).split(" "));
+}
+
+// Rough "sounds like" key: keeps th / sh / ch / v / w / l / r distinct, ignores most vowels.
+function soundKey(w) {
+  let s = w.replace(/^kn/, "n").replace(/^wr/, "r").replace(/^wh/, "w")
+    .replace(/ph/g, "f").replace(/gh/g, "").replace(/ck/g, "k").replace(/t?ch/g, "C").replace(/sh/g, "S").replace(/th/g, "T")
+    .replace(/dge/g, "j").replace(/c(?=[eiy])/g, "s").replace(/c/g, "k").replace(/q/g, "k").replace(/x/g, "ks").replace(/z/g, "s");
+  const first = /[aeiouy]/.test(s[0]) ? "A" : s[0];
+  return (first + s.slice(1).replace(/[aeiouy]/g, "")).replace(/(.)\1+/g, "$1");
+}
+const stem = w => w.length <= 3 ? w : w.replace(/ies$/, "y").replace(/(ing|ed|es|s)$/, "");
+
+export function lev(a, b) {
+  const dp = Array.from({ length: a.length + 1 }, (_, i) => [i, ...Array(b.length).fill(0)]);
+  for (let j = 1; j <= b.length; j++) dp[0][j] = j;
+  for (let i = 1; i <= a.length; i++) for (let j = 1; j <= b.length; j++) {
+    dp[i][j] = Math.min(dp[i - 1][j] + 1, dp[i][j - 1] + 1, dp[i - 1][j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
   }
-  return { ...best, ok: best.score >= (tw.length <= 2 ? 1 : 0.8), words: tw };
+  return dp[a.length][b.length];
+}
+
+// 1 = same word, ~0.85-0.95 = close enough, 0 = different word.
+function wordSim(a, b) {
+  if (a === b) return 1;
+  if ((HOMO[a] || a) === (HOMO[b] || b)) return 0.95;
+  if (NUM_WORDS.has(a) && NUM_WORDS.has(b)) return 0; // thirteen vs thirty really matters
+  if (stem(a) === stem(b)) return 0.9;
+  if (soundKey(a) === soundKey(b)) return 0.85;
+  const m = Math.max(a.length, b.length);
+  if (m < 4) return 0;
+  const sim = 1 - lev(a, b) / m;
+  return sim >= 0.75 ? sim : 0;
+}
+
+// Compare what was heard with the target.
+//   ok      -> counts as right (perfect or close)
+//   perfect -> every word matched cleanly
+//   marks   -> "ok" | "close" | "miss" for each space-separated word of the target, for colouring
+export function checkSpeech(target, heardAlternatives) {
+  const display = String(target).trim().split(/\s+/);
+  const tw = [];
+  display.forEach((dw, i) => speechTokens(dw).forEach(t => tw.push({ t, i, w: LIGHT.has(t) ? 0.5 : 1 })));
+  let best = { score: 0, heard: (heardAlternatives || [])[0] || "", sims: tw.map(() => 0) };
+  for (const alt of heardAlternatives || []) {
+    const hw = speechTokens(alt);
+    const pool = new Set(hw);
+    for (let k = 0; k < hw.length - 1; k++) pool.add(hw[k] + hw[k + 1]); // "every day" ~ "everyday"
+    const sims = tw.map(({ t }) => {
+      let s = 0;
+      for (const h of pool) { s = Math.max(s, wordSim(t, h)); if (s === 1) break; }
+      return s;
+    });
+    for (let k = 0; k < tw.length - 1; k++) if (pool.has(tw[k].t + tw[k + 1].t)) sims[k] = sims[k + 1] = 1;
+    const total = tw.reduce((a, x) => a + x.w, 0) || 1;
+    const score = tw.reduce((a, x, k) => a + x.w * sims[k], 0) / total;
+    if (score > best.score) best = { score, heard: alt, sims };
+  }
+  const content = tw.filter(x => x.w === 1).length;
+  const ok = tw.length > 0 && best.score >= (content <= 2 ? 0.75 : 0.65);
+  const perfect = ok && best.sims.every(s => s >= 0.95);
+  const marks = display.map((_, i) => {
+    const s = tw.map((x, k) => x.i === i ? best.sims[k] : null).filter(v => v != null);
+    const m = s.length ? Math.min(...s) : 1;
+    return m >= 0.95 ? "ok" : m >= 0.75 ? "close" : "miss";
+  });
+  return { ok, perfect, close: ok && !perfect, score: best.score, heard: best.heard, marks, display };
+}
+
+// Friendly result pill for a checkSpeech() result.
+export function speechPill(r, heardAny) {
+  if (!heardAny) return h("span", { class: "result-pill bad" }, "沒聽到聲音 — 等「🔴 說吧」再開始說");
+  if (r.perfect) return h("span", { class: "result-pill good" }, "✅ 很棒！Perfect!");
+  if (r.ok) return h("span", { class: "result-pill close" }, `👍 很接近！Close · 電腦聽到 “${r.heard}”`);
+  return h("span", { class: "result-pill bad" }, `🔁 再試一次 · 電腦聽到 “${r.heard}”`);
+}
+
+// Turn a mic button into "getting ready… → 🔴 speak now" while listening.
+export async function listenWithButton(btn, opts = {}) {
+  const label = btn.textContent;
+  btn.disabled = true;
+  btn.textContent = "⏳ 準備…";
+  try {
+    return await listen({ ...opts, onReady: () => { btn.textContent = "🔴 說吧！Speak"; btn.classList.add("live"); } });
+  } finally {
+    btn.disabled = false;
+    btn.classList.remove("live");
+    btn.textContent = label;
+  }
 }
 
 // ---------- record yourself and listen back
@@ -276,24 +406,14 @@ export function recordWidget() {
 export function sayItButton(target, out, { onResult, label = "🎤 說說看" } = {}) {
   if (!canListen) return null;
   const btn = h("button", { class: "btn", type: "button", onclick: async () => {
-    btn.disabled = true;
-    btn.textContent = "👂 在聽…";
     try {
-      const alts = await listen();
+      const alts = await listenWithButton(btn);
       const r = checkSpeech(target, alts);
-      if (out) {
-        clear(out).append(!alts.length
-          ? h("span", { class: "result-pill bad" }, "沒聽到聲音，再試一次")
-          : h("span", { class: "result-pill " + (r.ok ? "good" : "bad") },
-              r.ok ? `✅ 很好！ “${r.heard}”` : `🔁 聽起來像 “${r.heard}”`));
-      }
+      if (out) clear(out).append(speechPill(r, alts.length > 0));
       onResult && onResult(r, alts);
     } catch (e) {
       if (out) clear(out).append(h("span", { class: "result-pill bad" },
         e.message === "not-allowed" ? "請允許使用麥克風" : "無法辨識，再試一次"));
-    } finally {
-      btn.disabled = false;
-      btn.textContent = label;
     }
   } }, label);
   return btn;

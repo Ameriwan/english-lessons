@@ -58,7 +58,7 @@ function detail(s) {
       sayItButton(w, out, { label: "🎤", onResult: practiced })));
   }
   app.append(h("section", { class: "card" }, h("h2", {}, "練習單字 Words"),
-    h("p", { class: "muted small" }, canListen ? "🔊 聽 → 🎤 說，電腦會告訴你它聽到什麼。" : "🔊 聽，然後大聲跟著說。"), wl));
+    h("p", { class: "muted small" }, canListen ? "🔊 聽 → 🎤 按下後等「🔴 說吧」再說。電腦有時會聽錯，👍「很接近」也算對！" : "🔊 聽，然後大聲跟著說。"), wl));
 
   // sentences
   const sl = h("div", { class: "word-list" });

@@ -1,4 +1,4 @@
-import { h, $, clear, mountShell, loadJSON, store, shuffle, sample, speak, playButton, canListen, listen,
+import { h, $, clear, mountShell, loadJSON, store, shuffle, sample, speak, playButton, canListen, listenWithButton, speechPill,
   checkSpeech, logActivity } from "./app.js";
 
 mountShell("quiz");
@@ -255,20 +255,23 @@ function start(pool, mode) {
       const out = h("div", { style: "text-align:center;min-height:36px;margin-top:10px" });
       let tries = 0;
       const mic = h("button", { class: "btn primary big block", type: "button", onclick: async () => {
-        mic.disabled = true; mic.textContent = "👂 在聽… Listening";
         try {
-          const alts = await listen();
+          const alts = await listenWithButton(mic);
           const r = checkSpeech(q.item.en, alts);
-          tries++;
-          if (r.ok) { done(true); return; }
-          clear(out).append(h("span", { class: "result-pill bad" }, alts.length ? `聽起來像 “${r.heard}”` : "沒聽到聲音"));
+          if (alts.length) tries++;
+          if (r.ok) { done(true, r.perfect ? "" : `（電腦聽到 “${r.heard}”，很接近！）`); return; }
+          clear(out).append(speechPill(r, alts.length > 0));
+          if (tries >= 1) countIt.hidden = false;
           if (tries >= 3) { done(false); return; }
         } catch { clear(out).append(h("span", { class: "result-pill bad" }, "無法使用麥克風 Mic unavailable")); }
-        mic.disabled = false; mic.textContent = "🎤 再試一次 Try again";
+        mic.textContent = "🎤 再試一次 Try again";
       } }, "🎤 按我說 Tap & speak");
-      const done = ok => { mic.remove(); giveUp.remove(); next(ok); reveal(ok); };
+      const done = (ok, note) => { mic.remove(); giveUp.remove(); countIt.remove(); next(ok); reveal(ok, note); };
+      // the recogniser is sometimes wrong -- let her (or the teacher) overrule it
+      const countIt = h("button", { class: "btn block", type: "button", hidden: true, style: "margin-top:8px",
+        onclick: () => done(true) }, "👂 我說對了，電腦聽錯 It was right");
       const giveUp = h("button", { class: "btn ghost block idk", type: "button", onclick: () => done(false) }, "看答案 Show answer");
-      area.append(mic, out, giveUp);
+      area.append(mic, out, countIt, giveUp);
     }
   };
   show();

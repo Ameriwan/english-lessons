@@ -1,4 +1,4 @@
-import { h, $, clear, mountShell, loadJSON, store, speak, stopAudio, recordWidget, canListen, listen, checkSpeech,
+import { h, $, clear, mountShell, loadJSON, store, speak, stopAudio, recordWidget, canListen, listenWithButton, checkSpeech, speechPill,
   logActivity, toast } from "./app.js";
 
 mountShell("shadow");
@@ -32,7 +32,6 @@ function player(s) {
   clear(app);
   window.scrollTo(0, 0);
   let reps = 0, auto = false;
-  const words = s.en.split(/\s+/);
   const text = h("div", { class: "shadow-text" }, s.en);
   const dots = h("div", { class: "reps", "aria-label": "Repetitions" });
   const drawDots = () => {
@@ -71,24 +70,17 @@ function player(s) {
 
   const out = h("div", { style: "text-align:center;min-height:30px" });
   const check = canListen ? h("button", { class: "btn", type: "button", onclick: async () => {
-    check.disabled = true; check.textContent = "👂 在聽…";
     try {
-      const alts = await listen({ timeout: 12000 });
+      const alts = await listenWithButton(check, { timeout: 12000 });
       const r = checkSpeech(s.en, alts);
-      // colour each word: green = heard, red = missed
-      let k = 0;
-      clear(text).append(...words.map((w, i) => {
-        // same tokenising as checkSpeech, so "twenty-five" maps to two tokens
-        const n = w.toLowerCase().replace(/[^a-z0-9' ]+/g, " ").replace(/'/g, "").split(" ").filter(Boolean).length;
-        const hit = r.hits.slice(k, k + n).every(Boolean);
-        k += n;
-        return [h("span", { class: hit ? "ok" : "miss" }, w), i < words.length - 1 ? " " : ""];
-      }));
-      clear(out).append(h("span", { class: "result-pill " + (r.ok ? "good" : "bad") },
-        !alts.length ? "沒聽到聲音，再試一次" : r.ok ? `✅ 很好！${Math.round(r.score * 100)}%` : `🔁 ${Math.round(r.score * 100)}% · 紅色的字再練練`));
+      // colour each word: green = heard, orange = close, red = missed
+      clear(text).append(...r.display.map((w, i) => [h("span", { class: alts.length ? r.marks[i] : "" }, w), i < r.display.length - 1 ? " " : ""]));
+      const pct = Math.round(r.score * 100);
+      clear(out).append(!alts.length ? speechPill(r, false)
+        : h("span", { class: "result-pill " + (r.perfect ? "good" : r.ok ? "close" : "bad") },
+            r.perfect ? `✅ 很棒！${pct}%` : r.ok ? `👍 很好！${pct}% · 橘色的字可以再清楚一點` : `🔁 ${pct}% · 紅色的字再練練`));
       if (r.ok) addRep();
     } catch { clear(out).append(h("span", { class: "result-pill bad" }, "無法使用麥克風 Mic unavailable")); }
-    check.disabled = false; check.textContent = "🎤 檢查我 Check me";
   } }, "🎤 檢查我 Check me") : null;
 
   app.append(h("button", { class: "btn small ghost", type: "button", style: "margin-bottom:10px", onclick: () => { auto = false; stopAudio(); list(); } }, "← 全部句子 All sentences"));
