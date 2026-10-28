@@ -356,3 +356,4 @@ pre.copybox { white-space: pre-wrap; word-break: break-word; background: var(--s
 .btn.live { background: var(--bad-soft); border-color: var(--bad); color: var(--bad); animation: live-pulse 1.2s ease-in-out infinite; }
 @keyframes live-pulse { 50% { box-shadow: 0 0 0 6px color-mix(in srgb, var(--bad) 18%, transparent); } }
 @media (prefers-reduced-motion: reduce) { .btn.live { animation: none; } }
+.inapp-banner { background: var(--warm); color: #fff; font-weight: 700; font-size: .92rem; padding: 10px 16px; text-align: center; }

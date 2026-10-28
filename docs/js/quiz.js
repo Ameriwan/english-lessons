@@ -1,4 +1,4 @@
-import { h, $, clear, mountShell, loadJSON, store, shuffle, sample, speak, playButton, canListen, listenWithButton, speechPill,
+import { h, $, clear, mountShell, loadJSON, store, shuffle, sample, speak, playButton, canListen, listenWithButton, speechPill, speechErrorPill,
   checkSpeech, logActivity } from "./app.js";
 
 mountShell("quiz");
@@ -263,7 +263,7 @@ function start(pool, mode) {
           clear(out).append(speechPill(r, alts.length > 0));
           if (tries >= 1) countIt.hidden = false;
           if (tries >= 3) { done(false); return; }
-        } catch { clear(out).append(h("span", { class: "result-pill bad" }, "無法使用麥克風 Mic unavailable")); }
+        } catch (e) { clear(out).append(speechErrorPill(e)); }
         mic.textContent = "🎤 再試一次 Try again";
       } }, "🎤 按我說 Tap & speak");
       const done = (ok, note) => { mic.remove(); giveUp.remove(); countIt.remove(); next(ok); reveal(ok, note); };

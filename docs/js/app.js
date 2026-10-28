@@ -28,8 +28,23 @@ export function h(tag, attrs = {}, ...kids) {
 export const $ = (sel, root = document) => root.querySelector(sel);
 export function clear(el) { el.replaceChildren(); return el; }
 
+// ---------- in-app browsers (LINE, Facebook, Instagram, WeChat) block the microphone
+const UA = navigator.userAgent || "";
+const IN_LINE = /\bLine\//i.test(UA);
+const IN_APP = IN_LINE || /FBAN|FBAV|Instagram|MicroMessenger/i.test(UA);
+if (IN_LINE && !/[?&]openExternalBrowser=1/.test(location.search)) {
+  // LINE opens links that carry this flag in Safari / Chrome instead of its own browser
+  const u = new URL(location.href);
+  u.searchParams.set("openExternalBrowser", "1");
+  location.replace(u.href);
+}
+
 // ---------- layout
 export function mountShell(active) {
+  if (IN_APP) {
+    document.body.prepend(h("div", { class: "inapp-banner" },
+      "⚠️ 請用 Safari 或 Chrome 打開這個網站，麥克風才能用。點右上角「⋯」→「用瀏覽器開啟」。"));
+  }
   const top = h("header", { class: "topbar" },
     h("div", { class: "topbar-inner" },
       h("a", { class: "brand", href: "index.html" }, h("span", { class: "brand-mark" }, "Ee"), "Everyday English"),
@@ -171,13 +186,61 @@ export function playButton(text, { slow = false, label, cls = "btn icon" } = {})
 }
 
 // ---------- speech recognition ("did the computer understand me?")
+// Two engines:
+//   native  -- the browser's SpeechRecognition (good on Android / desktop Chrome)
+//   whisper -- on-device Whisper model (iPhone, or wherever native keeps hearing nothing)
 const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
-export const canListen = !!SR;
+const IS_IOS = /iPad|iPhone|iPod/.test(UA) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+const CAN_WHISPER = !!(navigator.mediaDevices && navigator.mediaDevices.getUserMedia &&
+  (window.AudioContext || window.webkitAudioContext) && window.WebAssembly);
+export const canListen = !!(SR || CAN_WHISPER);
 
-// Resolves with every transcript the recogniser considered (interim guesses included --
-// they often contain the right word when the final guess doesn't). onReady fires once the
+function engine() {
+  if (CAN_WHISPER && (IS_IOS || !SR || store.get("speechEngine") === "whisper")) return "whisper";
+  return SR ? "native" : null;
+}
+let nativeMisses = 0;
+
+// Resolves with the transcripts heard (possibly several guesses). onReady fires once the
 // mic is really open, so pages can say "speak now" and the first sound isn't cut off.
-export function listen({ timeout = 8000, onReady } = {}) {
+export async function listen(opts = {}) {
+  if (engine() === "whisper") return listenWhisper(opts);
+  const heard = await listenNative(opts);
+  // native recogniser that never hears anything is broken here -- switch to Whisper
+  if (!heard.length && CAN_WHISPER && ++nativeMisses >= 2) {
+    store.set("speechEngine", "whisper");
+    throw new Error("switched");
+  }
+  if (heard.length) nativeMisses = 0;
+  return heard;
+}
+
+let whisperMod = null;
+async function listenWhisper({ timeout = 8000, onReady, onProgress, onAnalyzing } = {}) {
+  stopAudio();
+  whisperMod = whisperMod || await import("./whisper.js");
+  if (!store.get("whisperReady")) {
+    if (!confirm("第一次使用要下載語音辨識（約 40MB，只需要一次，建議用 Wi-Fi）。\n現在下載嗎？\n\nDownload the speech checker now? (~40 MB, one time)")) {
+      throw new Error("cancelled");
+    }
+  }
+  await whisperMod.loadWhisper(onProgress);
+  store.set("whisperReady", true);
+  const audio = await whisperMod.recordSpeech({ maxMs: Math.min(timeout, 12000), onReady });
+  if (!audio) return [];
+  onAnalyzing && onAnalyzing();
+  const text = await whisperMod.transcribe(audio);
+  return text ? [text] : [];
+}
+
+// Start loading the Whisper model in the background if it was downloaded before.
+export function warmUpSpeech() {
+  if (engine() === "whisper" && store.get("whisperReady")) {
+    import("./whisper.js").then(m => { whisperMod = m; m.loadWhisper(); }).catch(() => {});
+  }
+}
+
+function listenNative({ timeout = 8000, onReady } = {}) {
   return new Promise((resolve, reject) => {
     if (!SR) return reject(new Error("unsupported"));
     stopAudio();
@@ -232,11 +295,11 @@ function ordinal(words) { // "twenty one" -> "twenty first"
   return [...parts, ORD[last] || (last.endsWith("y") ? last.slice(0, -1) + "ieth" : last + "th")].join(" ");
 }
 const SAME = { okay: "ok", mister: "mr", missus: "mrs", alright: "all right", gonna: "going to", wanna: "want to",
-  gotta: "got to", cannot: "can not", til: "until", till: "until" };
+  gotta: "got to", cannot: "can not", til: "until", till: "until", its: "it is" };
 // words that sound the same -- the recogniser picks whichever spelling it likes
 const HOMO = { two: "to", too: "to", four: "for", eight: "ate", one: "won", their: "there", write: "right", hear: "here",
   know: "no", knew: "new", sea: "see", buy: "by", bye: "by", our: "hour", wait: "weight", weak: "week", meat: "meet",
-  its: "it", whos: "who", whose: "who", red: "read", flour: "flower", sun: "son", ate: "eight" };
+  whos: "who", whose: "who", red: "read", flour: "flower", sun: "son", ate: "eight" };
 // small words count half -- they are the ones recognisers drop most
 const LIGHT = new Set(("a an the is am are was were be been to of in on at it and or but for do does did i you he she we " +
   "they me my your his her our their this that these those with so can will would have has had there here").split(" "));
@@ -335,13 +398,29 @@ export function speechPill(r, heardAny) {
   return h("span", { class: "result-pill bad" }, `🔁 再試一次 · 電腦聽到 “${r.heard}”`);
 }
 
-// Turn a mic button into "getting ready… → 🔴 speak now" while listening.
+// Message for a failed listen().
+export function speechErrorPill(e) {
+  const m = (e && (e.name === "NotAllowedError" ? "not-allowed" : e.message)) || "";
+  const text = m === "switched" ? "🔄 已改用另一種語音辨識，請再按一次 🎤"
+    : m === "cancelled" ? "已取消。可以先用「🎙️ 錄音」聽自己的聲音"
+    : /not-allowed|service-not-allowed|Permission/i.test(m) ? "請允許使用麥克風（設定 → Safari → 麥克風）"
+    : IN_APP ? "請用 Safari 或 Chrome 打開這個網站"
+    : "無法辨識，再試一次";
+  return h("span", { class: "result-pill " + (m === "switched" ? "close" : "bad") }, text);
+}
+
+// Turn a mic button into "getting ready… → 🔴 speak now → analysing" while listening.
 export async function listenWithButton(btn, opts = {}) {
   const label = btn.textContent;
   btn.disabled = true;
   btn.textContent = "⏳ 準備…";
   try {
-    return await listen({ ...opts, onReady: () => { btn.textContent = "🔴 說吧！Speak"; btn.classList.add("live"); } });
+    return await listen({
+      ...opts,
+      onProgress: p => { btn.textContent = `⬇️ 下載中 ${Math.round(p * 100)}%`; },
+      onReady: () => { btn.textContent = "🔴 說吧！Speak"; btn.classList.add("live"); },
+      onAnalyzing: () => { btn.classList.remove("live"); btn.textContent = "🤔 聽聽看…"; },
+    });
   } finally {
     btn.disabled = false;
     btn.classList.remove("live");
@@ -412,10 +491,10 @@ export function sayItButton(target, out, { onResult, label = "🎤 說說看" } 
       if (out) clear(out).append(speechPill(r, alts.length > 0));
       onResult && onResult(r, alts);
     } catch (e) {
-      if (out) clear(out).append(h("span", { class: "result-pill bad" },
-        e.message === "not-allowed" ? "請允許使用麥克風" : "無法辨識，再試一次"));
+      if (out) clear(out).append(speechErrorPill(e));
     }
   } }, label);
+  warmUpSpeech();
   return btn;
 }
 

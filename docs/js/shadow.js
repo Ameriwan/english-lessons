@@ -1,4 +1,4 @@
-import { h, $, clear, mountShell, loadJSON, store, speak, stopAudio, recordWidget, canListen, listenWithButton, checkSpeech, speechPill,
+import { h, $, clear, mountShell, loadJSON, store, speak, stopAudio, recordWidget, canListen, listenWithButton, checkSpeech, speechPill, speechErrorPill,
   logActivity, toast } from "./app.js";
 
 mountShell("shadow");
@@ -80,7 +80,7 @@ function player(s) {
         : h("span", { class: "result-pill " + (r.perfect ? "good" : r.ok ? "close" : "bad") },
             r.perfect ? `✅ 很棒！${pct}%` : r.ok ? `👍 很好！${pct}% · 橘色的字可以再清楚一點` : `🔁 ${pct}% · 紅色的字再練練`));
       if (r.ok) addRep();
-    } catch { clear(out).append(h("span", { class: "result-pill bad" }, "無法使用麥克風 Mic unavailable")); }
+    } catch (e) { clear(out).append(speechErrorPill(e)); }
   } }, "🎤 檢查我 Check me") : null;
 
   app.append(h("button", { class: "btn small ghost", type: "button", style: "margin-bottom:10px", onclick: () => { auto = false; stopAudio(); list(); } }, "← 全部句子 All sentences"));
